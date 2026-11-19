@@ -6,5 +6,5 @@ export const SITE_NAME = 'Hojapedia';
 export const CONTACT_EMAIL = 'hola@hojapedia.com';
 // Owner data for the legal pages: filled only after the user confirms them (personal data).
 export const OWNER_NAME = 'Aleksandr Klimin';
-export const OWNER_COUNTRY = '';
+export const OWNER_COUNTRY = 'Chile';
 export const LEGAL_UPDATED = '19 de noviembre de 2026';
