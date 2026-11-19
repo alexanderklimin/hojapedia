@@ -124,5 +124,149 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Lidcactus,_Schlumbergera_%C3%97buckleyi._14-12-2025._(actm.)_02.jpg",
     "alt": "Flor roja de cactus de Navidad"
+  },
+  "calathea": {
+    "file": "calathea.jpg",
+    "title": "File:20260317 Goeppertia warszewiczii 02.jpg",
+    "author": "Flocci Nivis",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20260317_Goeppertia_warszewiczii_02.jpg",
+    "alt": "Hojas de Goeppertia (calathea) con flor"
+  },
+  "cheflera": {
+    "file": "cheflera.jpg",
+    "title": "File:Dwarf umbrella tree (Schefflera arboricola).jpg",
+    "author": "Dandy1022",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dwarf_umbrella_tree_(Schefflera_arboricola).jpg",
+    "alt": "Cheflera en maceta blanca"
+  },
+  "ciclamen": {
+    "file": "ciclamen.jpg",
+    "title": "File:Cyclamen persicum - Rakefet 2009.jpg",
+    "author": "MathKnight and Zachi Evenor",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cyclamen_persicum_-_Rakefet_2009.jpg",
+    "alt": "Flores rosas de ciclamen"
+  },
+  "albahaca": {
+    "file": "albahaca.jpg",
+    "title": "File:Ocimum basilicum CG NBG LR.jpg",
+    "author": "PumpkinSky",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ocimum_basilicum_CG_NBG_LR.jpg",
+    "alt": "Planta de albahaca con hojas verdes"
+  },
+  "romero": {
+    "file": "romero.jpg",
+    "title": "File:Vitoria - Olarizu - Cantera - Romero 01.jpg",
+    "author": "Basotxerri",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vitoria_-_Olarizu_-_Cantera_-_Romero_01.jpg",
+    "alt": "Arbusto de romero en una ladera"
+  },
+  "gerbera": {
+    "file": "gerbera.jpg",
+    "title": "File:Barberton Daisies at Cameron Lavender Garden.jpg",
+    "author": "Pro QueeNia",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barberton_Daisies_at_Cameron_Lavender_Garden.jpg",
+    "alt": "Flores rojas de gerbera"
+  },
+  "aglaonema": {
+    "file": "aglaonema.jpg",
+    "title": "File:Konya Kelebekler Vadisi Aglaonema.jpg",
+    "author": "Satirdan kahraman",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Konya_Kelebekler_Vadisi_Aglaonema.jpg",
+    "alt": "Aglaonemas de hojas rojas y verdes"
+  },
+  "cinta": {
+    "file": "cinta.jpg",
+    "title": "File:Malamadre (Chlorophytum comosum).jpg",
+    "author": "Juan Carlos Fonseca Mata",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Malamadre_(Chlorophytum_comosum).jpg",
+    "alt": "Cinta (malamadre) con hojas rayadas y flores blancas"
+  },
+  "filodendro": {
+    "file": "filodendro.jpg",
+    "title": "File:Philodendron hederaceum kz01.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Philodendron_hederaceum_kz01.jpg",
+    "alt": "Hojas acorazonadas de filodendro trepador"
+  },
+  "maranta": {
+    "file": "maranta.jpg",
+    "title": "File:Maranta leuconeura 10zz.jpg",
+    "author": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maranta_leuconeura_10zz.jpg",
+    "alt": "Hojas manchadas de maranta"
+  },
+  "peperomia": {
+    "file": "peperomia.jpg",
+    "title": "File:Peperomia Obtusifolia Jade.jpg",
+    "author": "Kittykittymaomao",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peperomia_Obtusifolia_Jade.jpg",
+    "alt": "Peperomia obtusifolia de hojas redondas y brillantes"
+  },
+  "pulgones": {
+    "file": "pulgones.jpg",
+    "title": "File:Aphidoidea fight.jpg",
+    "author": "Richard Bartz, Munich aka Makro Freak",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Aphidoidea_fight.jpg",
+    "alt": "Pulgones verdes vistos de cerca"
+  },
+  "cochinilla": {
+    "file": "cochinilla.jpg",
+    "title": "File:Mealybugs on flower stem, Yogyakarta, 2014-10-31.jpg",
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mealybugs_on_flower_stem,_Yogyakarta,_2014-10-31.jpg",
+    "alt": "Cochinillas algodonosas en un tallo"
+  },
+  "perlita": {
+    "file": "perlita.jpg",
+    "title": "File:Schultz Horticultural Perlite.jpg",
+    "author": "Ragesoss",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Schultz_Horticultural_Perlite.jpg",
+    "alt": "Granos blancos de perlita"
+  },
+  "tierra-para-plantas": {
+    "file": "tierra-para-plantas.jpg",
+    "title": "File:Seedlings of Aegle marmelos.jpg",
+    "author": "Dr. Chinchu C.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seedlings_of_Aegle_marmelos.jpg",
+    "alt": "Plántulas creciendo en sustrato"
+  },
+  "humus-de-lombriz": {
+    "file": "humus-de-lombriz.jpg",
+    "title": "File:Vermicompostagem.JPG",
+    "author": "Noslenlou",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vermicompostagem.JPG",
+    "alt": "Lombrices en vermicompost"
   }
 }

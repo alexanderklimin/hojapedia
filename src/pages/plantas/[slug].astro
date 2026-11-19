@@ -230,6 +230,15 @@ const crumbs = [
   .plant-head + .lead { margin-top: 1.25rem; max-width: 46rem; }
   .intro.with-photo { display: grid; gap: 1.5rem; align-items: center; }
   @media (min-width: 52rem) { .intro.with-photo { grid-template-columns: minmax(0, 1fr) minmax(0, 26rem); gap: 2.5rem; } }
+  /* Phone: photo right under the title, before the long summary. */
+  @media (max-width: 51.99rem) {
+    .intro.with-photo { display: flex; flex-direction: column; gap: 0; }
+    .intro.with-photo > div { display: contents; }
+    .intro.with-photo .plant-head { order: 1; }
+    .intro.with-photo .photo { order: 2; margin-top: 1rem; }
+    .intro.with-photo .lead { order: 3; }
+    .intro.with-photo .tags { order: 4; }
+  }
   .tags { display: flex; flex-wrap: wrap; gap: 0.4rem; }
   .tags a.pill { text-decoration: none; }
   .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }

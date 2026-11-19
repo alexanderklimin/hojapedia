@@ -3,6 +3,7 @@ import { getCollection, type CollectionEntry } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import Icon from './Icon.astro';
 import PlantTile from './PlantTile.astro';
+import PlantPhoto from './PlantPhoto.astro';
 import { GUIDE_SECTIONS, plantsForGuide } from '../lib/related.js';
 import { formatDate } from '../lib/format.js';
 import { SITE_NAME } from '../data/site.js';
@@ -52,6 +53,7 @@ const crumbs = [
   <article class="guide">
     <h1>{g.name}</h1>
     {g.synonyms.length > 0 && <p class="muted">Otros nombres: {g.synonyms.join(', ')}</p>}
+    <PlantPhoto slug={guide.id} alt={g.name} eager />
     <p class="lead">{g.summary}</p>
 
     <nav class="card toc" aria-label="En esta página">
@@ -99,6 +101,7 @@ const crumbs = [
 
 <style>
   .guide { max-width: 46rem; }
+  .guide .photo { margin-block: 1rem 1.5rem; }
   .toc ol { margin: 0.4rem 0 0; padding-left: 1.3rem; }
   .guide-list { display: grid; gap: 0.45rem; padding-left: 1.3rem; }
   .notice { background: var(--sun-soft); border-radius: 14px; padding: 0.8rem 1rem; }
