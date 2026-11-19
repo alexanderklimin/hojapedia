@@ -88,5 +88,23 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Vanessa_cardui_on_Lavandula_angustifolia-2459.jpg",
     "alt": "Mariposa sobre flores de lavanda"
+  },
+  "geranio": {
+    "file": "geranio.jpg",
+    "title": "File:Pelargonienausstellung im Geranienhaus Nymphenburg 08.jpg",
+    "author": "Kritzolina",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pelargonienausstellung_im_Geranienhaus_Nymphenburg_08.jpg",
+    "alt": "Geranio zonal de hojas variegadas con flores"
+  },
+  "azalea": {
+    "file": "azalea.jpg",
+    "title": "File:Rhododendron'Osterschnee' im botanischen Garten München-Nymphenburg 02.jpg",
+    "author": "Kritzolina",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhododendron%27Osterschnee%27_im_botanischen_Garten_M%C3%BCnchen-Nymphenburg_02.jpg",
+    "alt": "Flores rosadas de rododendro"
   }
 }
