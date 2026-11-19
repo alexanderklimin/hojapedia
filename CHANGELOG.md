@@ -37,3 +37,4 @@
   Исходное состояние: / и /plantas/orquidea/ — «URL is unknown to Google» (норма для нового домена).
 - 2026-11-19: пользователь отправил sitemap-index.xml в Search Console и импортировал сайт в Bing Webmaster Tools.
 - Фото: все 30 (25 растений + 5 гидов) из Wikimedia Commons, выбраны вручную по контактным листам; кредиты под каждым фото и на /creditos-de-fotos/. Astro делает AVIF/WebP (480/800/1200 для карточек, 96/192 для плиток); главное фото карточки eager + fetchpriority=high. Сборка ~1,5 мин из-за AVIF. На телефоне фото идёт первым, над заголовком. Позже заменить фото лаванды (на нём доминирует бабочка). Нет фото: tulipan, crisantemo, jazmin, suculentas (показывается значок группы).
+- Фото на hojapedia.com проверены: 30 кредитов на /creditos-de-fotos/, 25 миниатюр на главной, фото в гидах; AVIF отдаётся с Cache-Control immutable на год.
