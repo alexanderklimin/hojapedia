@@ -5,12 +5,16 @@ import Icon from '../components/Icon.astro';
 import PlantTile from '../components/PlantTile.astro';
 import { SITE_NAME } from '../data/site.js';
 import { GROUPS } from '../data/groups.js';
+import { publisher } from '../lib/seo.js';
 
 const plants = (await getCollection('plants')).sort((a, b) => a.data.name.localeCompare(b.data.name, 'es'));
 const byGroup = Object.entries(GROUPS)
   .map(([key, group]) => ({ key, ...group, plants: plants.filter((p) => p.data.traits.group === key) }))
   .filter((g) => g.plants.length > 0);
-const jsonLd = [{ '@context': 'https://schema.org', '@type': 'WebSite', name: SITE_NAME, url: Astro.site?.href, inLanguage: 'es' }];
+const jsonLd = [
+  { '@context': 'https://schema.org', '@type': 'WebSite', name: SITE_NAME, url: Astro.site?.href, inLanguage: 'es', publisher: publisher() },
+  { '@context': 'https://schema.org', ...publisher(), description: 'Fichas de cuidado de plantas con fuentes citadas y toxicidad para mascotas según la ASPCA.' },
+];
 const starts = [
   { href: '/listas/plantas-de-interior-poca-luz/', icon: 'sun-dim', text: 'Tengo poca luz' },
   { href: '/listas/plantas-toxicas-para-gatos-y-perros/', icon: 'paw-print', text: 'Tengo gato o perro' },

@@ -9,6 +9,8 @@ import { guidesForPlant, guidePath } from '../../lib/related.js';
 import { GROUPS } from '../../data/groups.js';
 import PlantPhoto from '../../components/PlantPhoto.astro';
 import photos from '../../data/photos.json';
+import { pageImage } from '../../lib/ogimage';
+import { article } from '../../lib/seo.js';
 
 export async function getStaticPaths() {
   const plants = await getCollection('plants');
@@ -42,19 +44,17 @@ const toc = [
   ...(p.faq.length ? [['preguntas', 'Preguntas']] : []), ['fuentes', 'Fuentes'],
 ];
 
+const img = await pageImage(plant.id);
 const jsonLd: Record<string, unknown>[] = [
-  {
-    '@context': 'https://schema.org',
-    '@type': 'Article',
+  article({
     headline: p.title,
     description: p.description,
-    inLanguage: 'es',
-    dateModified: p.reviewed,
-    mainEntityOfPage: url,
+    url,
+    reviewed: p.reviewed,
+    image: img.schema,
     about: { '@type': 'Thing', name: p.name, alternateName: [p.scientific, ...p.synonyms] },
-    publisher: { '@type': 'Organization', name: SITE_NAME },
     citation: p.sources.map((s) => s.url).concat(p.toxicity.aspcaUrl),
-  },
+  }),
   ...p.propagation.map((method) => ({
     '@context': 'https://schema.org',
     '@type': 'HowTo',
@@ -80,7 +80,7 @@ const crumbs = [
   { name: p.name, path: `/plantas/${plant.id}/` },
 ];
 ---
-<Base title={p.title} description={p.description} crumbs={crumbs} jsonLd={jsonLd} ogType="article">
+<Base title={p.title} description={p.description} crumbs={crumbs} jsonLd={jsonLd} ogType="article" image={img.og}>
   <article>
     <div class:list={['intro', hasPhoto && 'with-photo']}>
       <div>

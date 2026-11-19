@@ -6,7 +6,8 @@ import PlantTile from './PlantTile.astro';
 import PlantPhoto from './PlantPhoto.astro';
 import { GUIDE_SECTIONS, plantsForGuide } from '../lib/related.js';
 import { formatDate } from '../lib/format.js';
-import { SITE_NAME } from '../data/site.js';
+import { pageImage } from '../lib/ogimage';
+import { article } from '../lib/seo.js';
 
 interface Props { guide: CollectionEntry<'guides'> }
 const { guide } = Astro.props;
@@ -16,18 +17,16 @@ const url = new URL(Astro.url.pathname, Astro.site).href;
 const plants = plantsForGuide(g, await getCollection('plants')).sort((a, b) => a.data.name.localeCompare(b.data.name, 'es'));
 const relatedHeading = g.kind === 'plaga' ? `Plantas que suelen tener ${g.name.toLowerCase()}` : `Plantas que lo usan`;
 
-const jsonLd: Record<string, unknown>[] = [{
-  '@context': 'https://schema.org',
-  '@type': 'Article',
+const img = await pageImage(guide.id);
+const jsonLd: Record<string, unknown>[] = [article({
   headline: g.title,
   description: g.description,
-  inLanguage: 'es',
-  dateModified: g.reviewed,
-  mainEntityOfPage: url,
+  url,
+  reviewed: g.reviewed,
+  image: img.schema,
   about: { '@type': 'Thing', name: g.name, alternateName: g.synonyms },
-  publisher: { '@type': 'Organization', name: SITE_NAME },
   citation: g.sources.map((s) => s.url),
-}];
+})];
 for (const s of g.sections.filter((s) => s.ordered && s.list)) {
   jsonLd.push({
     '@context': 'https://schema.org',
@@ -49,7 +48,7 @@ const crumbs = [
   { name: g.name, path: Astro.url.pathname },
 ];
 ---
-<Base title={g.title} description={g.description} crumbs={crumbs} jsonLd={jsonLd} ogType="article">
+<Base title={g.title} description={g.description} crumbs={crumbs} jsonLd={jsonLd} ogType="article" image={img.og}>
   <article class="guide">
     <h1>{g.name}</h1>
     {g.synonyms.length > 0 && <p class="muted">Otros nombres: {g.synonyms.join(', ')}</p>}
