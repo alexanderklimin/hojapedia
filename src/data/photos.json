@@ -70,5 +70,23 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Nochebuenas201711.jpg",
     "alt": "Brácteas rojas de flor de Pascua"
+  },
+  "arbol-de-jade": {
+    "file": "arbol-de-jade.jpg",
+    "title": "File:Crassula portulacea, jardín botánico de Tallinn, Estonia, 2012-08-13, DD 01.JPG",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Crassula_portulacea,_jard%C3%ADn_bot%C3%A1nico_de_Tallinn,_Estonia,_2012-08-13,_DD_01.JPG",
+    "alt": "Hojas carnosas del árbol de jade"
+  },
+  "lavanda": {
+    "file": "lavanda.jpg",
+    "title": "File:Vanessa cardui on Lavandula angustifolia-2459.jpg",
+    "author": "Isiwal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vanessa_cardui_on_Lavandula_angustifolia-2459.jpg",
+    "alt": "Mariposa sobre flores de lavanda"
   }
 }

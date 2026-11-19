@@ -32,3 +32,4 @@
 - Владелец в правовых страницах: Aleksandr Klimin (подтвердил пользователь); страна не указана — текст её не требует.
 - ЗАПУСК 2026-11-19 (явное «да» пользователя): routes hojapedia.com (custom_domain), workers_dev=false, X-Robots-Tag noindex снят. www не настроен.
 - Страна владельца в правовых страницах: Chile (подтвердил пользователь).
+- ЗАПУСК ПРОВЕРЕН на https://hojapedia.com: 48 URL из sitemap отдают 200, noindex нет ни в заголовках, ни в meta; 404 работает; canonical на hojapedia.com; GA4 на месте; workers.dev отдаёт 404; www → 301 на основной домен (настроено в Cloudflare); правовые страницы с Aleksandr Klimin, Chile. Осталось: http отдаёт 200 без редиректа (включить Always Use HTTPS в Cloudflare), подтвердить домен в Search Console и отправить sitemap.
