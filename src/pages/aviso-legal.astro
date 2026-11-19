@@ -7,7 +7,7 @@ import { CONTACT_EMAIL, LEGAL_UPDATED, OWNER_COUNTRY, OWNER_NAME } from '../data
     <h1>Aviso legal</h1>
 
     <h2>Titular</h2>
-    <p>Hojapedia (hojapedia.com) es un sitio web de {OWNER_NAME || '[pendiente]'}, con residencia en {OWNER_COUNTRY || '[pendiente]'}. Contacto: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <p>Hojapedia (hojapedia.com) es un sitio web de {OWNER_NAME}{OWNER_COUNTRY && `, con residencia en ${OWNER_COUNTRY}`}. Contacto: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
 
     <h2>Información general, no profesional</h2>
     <p>Las fichas ofrecen información general sobre el cuidado de plantas, basada en las fuentes botánicas y universitarias que se citan en cada página. Las condiciones de cada casa, clima y planta varían, así que úsala como orientación.</p>

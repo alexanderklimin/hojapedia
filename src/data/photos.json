@@ -34,5 +34,41 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Dracaena_fragrans_a1.jpg",
     "alt": "Dracena de hojas largas con bordes amarillos en maceta"
+  },
+  "anturio": {
+    "file": "anturio.jpg",
+    "title": "File:Anthurium (Flamingoplant) 12-08-2019 (actm) 01.jpg",
+    "author": "Agnes Monkelbaan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anthurium_(Flamingoplant)_12-08-2019_(actm)_01.jpg",
+    "alt": "Flor roja de anturio con su espádice amarillo"
+  },
+  "kalanchoe": {
+    "file": "kalanchoe.jpg",
+    "title": "File:2025 Kalanchoe blossfeldiana Poelin. Santiago de Compostela. Galiza-2.jpg",
+    "author": "Luis Miguel Bugallo Sánchez",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025_Kalanchoe_blossfeldiana_Poelin._Santiago_de_Compostela._Galiza-2.jpg",
+    "alt": "Flores rosas dobles de kalanchoe"
+  },
+  "espatifilo": {
+    "file": "espatifilo.jpg",
+    "title": "File:Peace lily - 2.jpg",
+    "author": "W.carter",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peace_lily_-_2.jpg",
+    "alt": "Flor blanca de espatifilo"
+  },
+  "nochebuena": {
+    "file": "nochebuena.jpg",
+    "title": "File:Nochebuenas201711.jpg",
+    "author": "Carlos Valenzuela",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nochebuenas201711.jpg",
+    "alt": "Brácteas rojas de flor de Pascua"
   }
 }

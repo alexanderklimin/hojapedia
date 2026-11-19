@@ -1,6 +1,6 @@
 {
   // Статический сайт на Cloudflare Workers (static assets). Сборка: npm run build → dist/
-  // Превью на *.workers.dev (Workers Builds из GitHub). При запуске: routes с доменом, workers_dev=false, убрать noindex из public/_headers.
+  // Продакшен на hojapedia.com (запуск 2026-11-19 по «да» пользователя). Сборка из GitHub через Workers Builds.
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "hojapedia",
   "compatibility_date": "2026-11-01",
@@ -9,6 +9,7 @@
     "html_handling": "auto-trailing-slash",
     "not_found_handling": "404-page"
   },
-  "workers_dev": true,
+  "routes": [{ "pattern": "hojapedia.com", "custom_domain": true }],
+  "workers_dev": false,
   "preview_urls": false
 }

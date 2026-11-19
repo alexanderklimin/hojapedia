@@ -1,6 +1,7 @@
 ---
 import '@fontsource-variable/fraunces';
 import Icon from '../components/Icon.astro';
+import Analytics from '../components/Analytics.astro';
 import { SITE_NAME } from '../data/site.js';
 
 interface Crumb { name: string; path: string }
@@ -113,10 +114,12 @@ if (crumbs.length > 1) {
           <a href="/contacto/">Contacto</a>
           <a href="/privacidad/">Privacidad</a>
           <a href="/aviso-legal/">Aviso legal</a>
+          <button type="button" class="footer-button" data-open-consent hidden>Cookies</button>
         </nav>
       </div>
       <p class="wrap credits">Fotos de Wikimedia Commons con licencias libres (<a href="/creditos-de-fotos/">autores y licencias</a>). Iconos: <a href="https://lucide.dev" rel="noopener">Lucide</a>. Tipografía: Fraunces (SIL OFL).</p>
     </footer>
+    <Analytics />
   </body>
 </html>
 
