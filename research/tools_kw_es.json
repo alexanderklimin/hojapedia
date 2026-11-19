@@ -1,0 +1,410 @@
+{
+ "identificar": [
+  {
+   "k": "picture this",
+   "v": 22200,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "plantnet",
+   "v": 6600,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "que planta es esta",
+   "v": 5400,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "identificador de plantas",
+   "v": 2900,
+   "comp": "MEDIUM",
+   "close": ""
+  },
+  {
+   "k": "identificar plantas",
+   "v": 1300,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "identificar planta por foto",
+   "v": 1300,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "app para identificar plantas",
+   "v": 720,
+   "comp": "MEDIUM",
+   "close": ""
+  },
+  {
+   "k": "reconocer plantas por foto",
+   "v": 590,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "aplicacion para identificar plantas",
+   "v": 140,
+   "comp": "MEDIUM",
+   "close": ""
+  }
+ ],
+ "riego": [
+  {
+   "k": "cuando regar las plantas",
+   "v": 170,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "cada cuanto regar las plantas",
+   "v": 140,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "como saber si una planta necesita agua",
+   "v": 70,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "calculadora de riego",
+   "v": 40,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "app para regar plantas",
+   "v": 20,
+   "comp": "MEDIUM",
+   "close": ""
+  },
+  {
+   "k": "cuanto regar una planta",
+   "v": 10,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "recordatorio de riego plantas",
+   "v": 0,
+   "comp": "",
+   "close": ""
+  }
+ ],
+ "calendario": [
+  {
+   "k": "calendario de siembra",
+   "v": 1600,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "calendario de siembra argentina",
+   "v": 590,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "calendario de siembra chile",
+   "v": 590,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "que sembrar en noviembre",
+   "v": 480,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "calendario de siembra 2026",
+   "v": 320,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "que plantar en otoño",
+   "v": 320,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "calendario de siembra españa",
+   "v": 260,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "calendario lunar siembra",
+   "v": 170,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "que sembrar en primavera",
+   "v": 110,
+   "comp": "MEDIUM",
+   "close": ""
+  },
+  {
+   "k": "calendario de siembra mexico",
+   "v": 40,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "que sembrar este mes",
+   "v": 20,
+   "comp": "LOW",
+   "close": ""
+  }
+ ],
+ "sustrato": [
+  {
+   "k": "tamaño de maceta",
+   "v": 390,
+   "comp": "HIGH",
+   "close": ""
+  },
+  {
+   "k": "calcular tierra para maceta",
+   "v": 10,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "calculadora de sustrato",
+   "v": 10,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "cuanta tierra necesito",
+   "v": 0,
+   "comp": "",
+   "close": ""
+  },
+  {
+   "k": "litros de tierra por maceta",
+   "v": 0,
+   "comp": "",
+   "close": ""
+  },
+  {
+   "k": "cuantos litros de tierra necesita una maceta",
+   "v": 0,
+   "comp": "",
+   "close": ""
+  }
+ ],
+ "abono": [
+  {
+   "k": "como abonar las plantas",
+   "v": 140,
+   "comp": "MEDIUM",
+   "close": ""
+  },
+  {
+   "k": "calculadora de abono",
+   "v": 10,
+   "comp": "",
+   "close": ""
+  },
+  {
+   "k": "cada cuanto abonar las plantas",
+   "v": 10,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "cuanto abono echar",
+   "v": 0,
+   "comp": "",
+   "close": ""
+  },
+  {
+   "k": "dosis de abono",
+   "v": 0,
+   "comp": "",
+   "close": ""
+  }
+ ],
+ "luz": [
+  {
+   "k": "plantas de sombra",
+   "v": 27100,
+   "comp": "MEDIUM",
+   "close": ""
+  },
+  {
+   "k": "plantas de sol",
+   "v": 12100,
+   "comp": "MEDIUM",
+   "close": ""
+  },
+  {
+   "k": "plantas de interior poca luz",
+   "v": 8100,
+   "comp": "HIGH",
+   "close": ""
+  },
+  {
+   "k": "plantas faciles de cuidar",
+   "v": 880,
+   "comp": "MEDIUM",
+   "close": ""
+  },
+  {
+   "k": "plantas para poca luz",
+   "v": 210,
+   "comp": "MEDIUM",
+   "close": ""
+  },
+  {
+   "k": "plantas de interior faciles",
+   "v": 50,
+   "comp": "HIGH",
+   "close": ""
+  },
+  {
+   "k": "que planta me conviene",
+   "v": 0,
+   "comp": "",
+   "close": ""
+  },
+  {
+   "k": "plantas segun la luz",
+   "v": 0,
+   "comp": "",
+   "close": ""
+  }
+ ],
+ "mascotas": [
+  {
+   "k": "plantas toxicas para gatos",
+   "v": 4400,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "plantas toxicas para perros",
+   "v": 1900,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "plantas no toxicas para gatos",
+   "v": 1900,
+   "comp": "MEDIUM",
+   "close": ""
+  },
+  {
+   "k": "plantas seguras para gatos",
+   "v": 880,
+   "comp": "MEDIUM",
+   "close": ""
+  },
+  {
+   "k": "plantas venenosas para perros",
+   "v": 880,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "plantas seguras para perros",
+   "v": 90,
+   "comp": "LOW",
+   "close": ""
+  }
+ ],
+ "huerto": [
+  {
+   "k": "asociacion de cultivos",
+   "v": 880,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "marco de plantacion",
+   "v": 590,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "distancia entre plantas de tomate",
+   "v": 260,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "calendario de huerto",
+   "v": 140,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "cuantas plantas por metro cuadrado",
+   "v": 10,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "calculadora de huerto",
+   "v": 0,
+   "comp": "",
+   "close": ""
+  }
+ ],
+ "diagnostico": [
+  {
+   "k": "hojas amarillas plantas",
+   "v": 720,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "mi planta se esta muriendo",
+   "v": 390,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "hojas marrones plantas",
+   "v": 90,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "plantas con hojas caidas",
+   "v": 90,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "manchas blancas en las hojas",
+   "v": 50,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "por que mi planta tiene hojas amarillas",
+   "v": 30,
+   "comp": "LOW",
+   "close": ""
+  },
+  {
+   "k": "puntas secas hojas",
+   "v": 0,
+   "comp": "",
+   "close": ""
+  }
+ ]
+}
