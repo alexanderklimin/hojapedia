@@ -21,3 +21,5 @@
 - Инструмент /herramientas/buscador-de-plantas/ (JS только здесь, без JS показываются все растения). Опубликована подборка /listas/plantas-de-interior-poca-luz/ (8). Ждут порога: plantas-de-sol (7), plantas-de-interior-seguras-para-gatos (7), plantas-de-sombra (0 уличных).
 - +5 карточек для тени: aglaonema, cinta, filodendro, maranta, peperomia (NC State, RHS для филодендрона; ASPCA). Маранта: записи ASPCA «Prayer Plant»/«Maranta» указывают Calathea insignis — это сказано в карточке. Отложены: zamioculca (нет в ASPCA), aspidistra (нет данных о проблемах и размножении), kentia и helecho de Boston (нет шагов размножения).
 - Итого 39 страниц, 25 карточек, тесты 16/16, битых ссылок нет.
+- Код в GitHub: alexanderklimin/hojapedia, ветка main (0558cc5). Workers Builds: команда сборки `npm run build`, деплой `npx wrangler deploy`.
+- Превью работает: https://hojapedia.alexander-klimin.workers.dev (noindex через X-Robots-Tag). Проверено: 38 URL из sitemap отдают 200, 404 работает, без слеша — 307 на версию со слешем, canonical указывает на hojapedia.com. Домен не куплен.
