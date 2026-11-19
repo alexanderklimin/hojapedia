@@ -1,0 +1,69 @@
+{
+  "kind": "plaga",
+  "name": "Cochinilla algodonosa",
+  "synonyms": ["cochinilla", "piojo harinoso", "mealybug"],
+  "title": "Cochinilla algodonosa: cómo identificarla y eliminarla",
+  "description": "Cómo reconocer la cochinilla algodonosa en plantas de interior y jardín, qué daños causa y cómo eliminarla con métodos de bajo riesgo, paso a paso.",
+  "summary": "La cochinilla algodonosa es un insecto pequeño cubierto de cera blanca que se esconde en las axilas de las hojas, en los tallos y hasta en las raíces. Es una de las plagas más difíciles de eliminar con insecticidas, por eso lo más eficaz es detectarla pronto, retirarla a mano y aislar la planta.",
+  "keywords": ["cochinilla"],
+  "reviewed": "2026-11-19",
+  "sections": [
+    {
+      "id": "como-reconocerla",
+      "heading": "Cómo reconocerla",
+      "paragraphs": [
+        "Las hembras adultas miden hasta 4 mm, tienen el cuerpo ovalado y segmentado y están cubiertas de una cera blanca que las hace parecer bolitas de algodón. Los huevos, de color rosado o anaranjado, quedan bajo esa pelusa. Las crías recién nacidas son amarillas, naranjas o rosas y al principio no tienen cera.",
+        "Se esconden en lugares protegidos: axilas de las hojas, vainas, uniones de ramas, la base de los tallos junto al sustrato y entre hojas que se tocan. Hay especies que viven en el sustrato y se alimentan de las raíces: al sacar la planta de la maceta se ven manchas blancas algodonosas en el cepellón."
+      ],
+      "list": [
+        "Pelusa blanca, primero en las axilas de las hojas.",
+        "Hojas pegajosas por la melaza.",
+        "Negrilla: polvo negro sobre las hojas.",
+        "Hormigas atraídas por la melaza."
+      ]
+    },
+    {
+      "id": "danos",
+      "heading": "Qué daños causa y a qué plantas",
+      "paragraphs": [
+        "Chupa la savia, debilita la planta y, con poblaciones altas, frena el crecimiento y provoca caída de hojas. En interior está activa todo el año.",
+        "Es muy frecuente en cactus y suculentas, orquídeas (sobre todo Phalaenopsis), cítricos, helechos, ficus, palmeras, hoyas, árbol de jade, dracenas, flor de Pascua y hierbas aromáticas."
+      ]
+    },
+    {
+      "id": "que-hacer",
+      "heading": "Qué hacer, paso a paso",
+      "ordered": true,
+      "list": [
+        "Aísla la planta afectada y revisa las de alrededor, incluidas macetas y tutores.",
+        "Retira las cochinillas a mano. En plantas de interior puedes tocarlas con un bastoncillo de algodón humedecido en alcohol isopropílico (alcohol de farmacia); prueba antes en una hoja y espera uno o dos días para ver si se mancha.",
+        "Poda y tira las hojas o tallos muy infestados, y retira las hojas secas, que pueden esconder huevos.",
+        "En plantas resistentes, un chorro de agua a presión arrastra las cochinillas expuestas. Repítelo cada pocos días.",
+        "Mantén alejadas a las hormigas y no abones en exceso con nitrógeno, que estimula a la plaga.",
+        "El jabón insecticida, el aceite hortícola o el aceite de neem reducen las poblaciones si tocan directamente a las cochinillas, sobre todo a las jóvenes. Úsalos solo según la etiqueta y prueba antes en unas hojas.",
+        "Si la infestación es grave y persistente, a menudo lo más sensato es desechar la planta antes de que pase a las demás."
+      ]
+    },
+    {
+      "id": "prevencion",
+      "heading": "Cómo evitarla",
+      "paragraphs": [
+        "Revisa bien cada planta nueva antes de comprarla y, si puedes, mantenla en cuarentena al menos un mes, lejos de las demás. En invernaderos y galerías cálidas se usan enemigos naturales como la mariquita Cryptolaemus montrouzieri y avispas parasitoides; funcionan mejor con calor. Los insecticidas de amplio espectro matan a esos aliados y no suelen resolver el problema."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Por qué vuelve la cochinilla después de limpiarla?",
+      "a": "Porque los huevos quedan escondidos bajo la cera, en axilas, en el sustrato o en la maceta. Repite la revisión y la limpieza cada pocos días durante varias semanas y revisa también las raíces."
+    },
+    {
+      "q": "¿Hay cochinillas en las raíces?",
+      "a": "Sí. Algunas especies viven en el sustrato y se alimentan de las raíces. Si la planta decae sin causa aparente, sácala de la maceta y busca manchas blancas algodonosas en el cepellón."
+    }
+  ],
+  "sources": [
+    { "name": "UC IPM: Mealybugs (Pest Notes)", "url": "https://ipm.ucanr.edu/PMG/PESTNOTES/pn74174.html" },
+    { "name": "RHS: Mealybug (glasshouse)", "url": "https://www.rhs.org.uk/biodiversity/mealybug" }
+  ]
+}

@@ -13,3 +13,6 @@
 - У 10 карточек пока один источник ухода (dracaena, anturio, kalanchoe, nochebuena, geranio, azalea, aloe-vera, cheflera, ciclamen, + частично): до публикации желательно добавить второй.
 - Отложены (мало данных или нет ASPCA): rosal, dipladenia (нет ASPCA), buganvilla (нет ASPCA), hortensia, limonero, monstera, gardenia; групповые темы (bonsai, suculentas, cactus, helecho, ficus, planta carnívora, begonia, bromelia) — нужен шаблон «группа растений».
 - Заметки ASPCA: anturio — запись «Flamingo Flower» указывает A. scherzeranum; kalanchoe, schefflera, cyclamen — записи на уровне рода; hydrangea — запись по H. arborescens.
+- Гиды (коллекция `guides`, src/data/guides/): /plagas/pulgones/, /plagas/cochinilla/ (UC IPM + RHS; только методы низкого риска, без доз), /sustratos-y-macetas/perlita/, /sustratos-y-macetas/tierra-para-plantas/ (Iowa State, Illinois Extension), /abonos/humus-de-lombriz/ (Oregon State, LSU). Индексы разделов, меню из 4 пунктов.
+- Перелинковка растение ↔ гид автоматически по ключевым словам (src/lib/related.js, тесты): вредители — по тексту проблем, грунты — по тексту субстрата, удобрения — по тексту абоно. Humus пока ни с одной карточкой не связан.
+- Подборка /listas/plantas-toxicas-para-gatos-y-perros/ — строится только из данных ASPCA в карточках (6 безопасных, 14 токсичных). 32 страницы, тесты 11/11, битых ссылок нет.

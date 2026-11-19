@@ -1,0 +1,88 @@
+{
+  "kind": "plaga",
+  "name": "Pulgones",
+  "synonyms": [
+    "pulgón",
+    "áfidos",
+    "pulgón verde",
+    "pulgón negro"
+  ],
+  "title": "Pulgones en las plantas: cómo identificarlos y eliminarlos",
+  "description": "Cómo reconocer los pulgones, qué daños causan y cómo eliminarlos con métodos de bajo riesgo: agua, a mano, poda, enemigos naturales y jabón insecticida.",
+  "summary": "Los pulgones son pequeños insectos de cuerpo blando que chupan la savia de brotes y hojas jóvenes. Casi todas las plantas pueden tenerlos, y en interior están activos todo el año. En pocas cantidades no suelen causar daños: muchas veces basta con agua, los dedos y dejar trabajar a mariquitas y otros enemigos naturales.",
+  "keywords": [
+    "pulgón",
+    "pulgones",
+    "áfido"
+  ],
+  "reviewed": "2026-11-19",
+  "sections": [
+    {
+      "id": "como-reconocerlos",
+      "heading": "Cómo reconocerlos",
+      "paragraphs": [
+        "Miden de 1 a 7 mm y tienen el cuerpo blando, en forma de pera, de color verde, amarillo, negro, rosa, blanco o moteado según la especie. La mayoría tienen dos tubitos en la parte trasera, los sifones, que los distinguen de otros insectos. Algunos están cubiertos de cera blanca, como algodón.",
+        "Viven en colonias apretadas en las puntas de los brotes, los botones florales y el envés de las hojas jóvenes, y apenas se mueven si los tocas. Cuando hay muchos aparecen formas con alas."
+      ],
+      "list": [
+        "Hojas pegajosas: es la melaza, el líquido azucarado que excretan.",
+        "Polvo negro sobre las hojas: la negrilla, un hongo que crece sobre la melaza.",
+        "Mudas blancas acumuladas sobre las hojas.",
+        "Hormigas subiendo y bajando por la planta: protegen a los pulgones para comerse su melaza."
+      ]
+    },
+    {
+      "id": "danos",
+      "heading": "Qué daños causan",
+      "paragraphs": [
+        "En cantidades bajas o moderadas no suelen dañar las plantas de jardín. Con poblaciones grandes, las hojas amarillean, se enrollan o se deforman y los brotes crecen menos. Algunas especies transmiten virus a hortalizas y plantas ornamentales, como dalias, lirios y tulipanes.",
+        "Son frecuentes en rosales, frutales, muchas hortalizas y plantas de interior con brotes tiernos."
+      ]
+    },
+    {
+      "id": "que-hacer",
+      "heading": "Qué hacer, de menos a más",
+      "ordered": true,
+      "paragraphs": [
+        "Empieza siempre por lo más suave. Muchas veces la plaga se controla sin ningún producto."
+      ],
+      "list": [
+        "Revisa la planta: cuando crece rápido, mira el envés de las hojas al menos dos veces por semana. Busca también mariquitas, larvas de crisopa y pulgones momificados (hinchados y de color marrón dorado): son señal de que los enemigos naturales ya están trabajando.",
+        "Aplasta las colonias con los dedos o límpialas con un paño.",
+        "Lánzales un chorro fuerte de agua por la mañana en plantas resistentes; se caen y la mayoría no vuelve a subir.",
+        "Poda y tira los brotes o las hojas muy infestados.",
+        "Revisa las plantas nuevas antes de plantarlas o de juntarlas con las demás.",
+        "Mantén las hormigas lejos de la planta, porque espantan a los depredadores de los pulgones.",
+        "No abones en exceso con nitrógeno: el crecimiento muy tierno los atrae. Mejor abonos de liberación lenta.",
+        "Si de verdad hace falta un producto, el jabón insecticida o el aceite hortícola son la opción de menor riesgo. Actúan por contacto: hay que mojar bien los pulgones, repetir según la etiqueta y no aplicarlos con mucho calor ni en plantas con sed. Prueba antes en unas pocas hojas, porque algunas plantas son sensibles."
+      ]
+    },
+    {
+      "id": "aliados",
+      "heading": "Sus enemigos naturales",
+      "paragraphs": [
+        "Mariquitas, larvas de crisopa, larvas de sírfidos, escarabajos, tijeretas y pequeñas avispas parasitoides se comen o parasitan a los pulgones. Los insecticidas de amplio espectro, incluidos muchos ecológicos, también los matan, y la plaga suele volver con más fuerza. Por eso conviene tolerar unos pocos pulgones y no tratar los árboles: normalmente sus enemigos naturales los controlan."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Los pulgones se van solos?",
+      "a": "A menudo sí: en exterior, mariquitas, crisopas y avispas parasitoides suelen reducir las colonias si no se usan insecticidas de amplio espectro. En interior, sin enemigos naturales, conviene retirarlos a mano o con agua."
+    },
+    {
+      "q": "¿Por qué hay hormigas en mi planta?",
+      "a": "Porque se alimentan de la melaza de pulgones, cochinillas y otros insectos chupadores, y los protegen de sus depredadores. Si ves hormigas subiendo por una planta, revisa el envés de las hojas."
+    }
+  ],
+  "sources": [
+    {
+      "name": "UC IPM: Aphids (Pest Notes)",
+      "url": "https://ipm.ucanr.edu/PMG/PESTNOTES/pn7404.html"
+    },
+    {
+      "name": "RHS: Aphids",
+      "url": "https://www.rhs.org.uk/biodiversity/aphids"
+    }
+  ]
+}

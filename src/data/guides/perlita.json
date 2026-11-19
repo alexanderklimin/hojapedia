@@ -1,0 +1,71 @@
+{
+  "kind": "sustrato",
+  "name": "Perlita",
+  "synonyms": [
+    "perlita expandida",
+    "perlita para plantas"
+  ],
+  "title": "Perlita para plantas: qué es, para qué sirve y cómo usarla",
+  "description": "Qué es la perlita, para qué sirve en macetas, cómo mezclarla con sustrato, en qué se diferencia de la vermiculita y precauciones al manipularla.",
+  "summary": "La perlita es un mineral volcánico expandido con calor, como si fuera palomitas. Se añade al sustrato para crear poros con aire que duran mucho tiempo, lo que mejora el drenaje y evita que la mezcla se compacte. No aporta nutrientes: es un componente estructural del sustrato.",
+  "keywords": [
+    "perlita"
+  ],
+  "reviewed": "2026-11-19",
+  "sections": [
+    {
+      "id": "que-es",
+      "heading": "Qué es la perlita",
+      "paragraphs": [
+        "Es un material de origen volcánico que se calienta hasta que se «infla», de forma parecida a las palomitas de maíz. El resultado son granos blancos, ligeros y porosos. En los sustratos se clasifica como componente inorgánico: no se descompone con el tiempo, a diferencia de la corteza, la turba o la fibra de coco."
+      ]
+    },
+    {
+      "id": "para-que-sirve",
+      "heading": "Para qué sirve",
+      "paragraphs": [
+        "Su función principal es la aireación: proporciona poros llenos de aire que duran mucho. Un buen sustrato para macetas es, en volumen, mayoritariamente poros, y la perlita ayuda a mantenerlos para que las raíces respiren y el agua sobrante escurra."
+      ],
+      "list": [
+        "Mezclas caseras para macetas: una receta clásica de extensión universitaria lleva partes iguales de tierra de jardín, turba y perlita.",
+        "Cactus y suculentas: prefieren mezclas más gruesas, con más corteza, perlita o arena.",
+        "Esquejes y plantas que se pudren con facilidad: aligera el sustrato y reduce el encharcamiento."
+      ]
+    },
+    {
+      "id": "perlita-o-vermiculita",
+      "heading": "¿Perlita o vermiculita?",
+      "paragraphs": [
+        "No hacen lo mismo. La perlita aporta aire y drenaje. La vermiculita retiene bien el agua y, en parte, los nutrientes, y suele ser más cara. Usa perlita para plantas que piden drenaje y vermiculita cuando quieras que la mezcla guarde más humedad."
+      ]
+    },
+    {
+      "id": "precauciones",
+      "heading": "Precauciones y alternativas",
+      "paragraphs": [
+        "La perlita seca puede levantar mucho polvo: manipúlala con cuidado.",
+        "Algunos productores usan cascarilla de arroz en su lugar porque la perlita ha subido de precio, pero la cascarilla se descompone rápido y no sirve para plantas que pasan años en la misma maceta, como las de interior. La arena gruesa de construcción aparece en algunas recetas, aunque otras fuentes advierten que airea peor que la perlita en macetas. Nunca uses arena fina de playa ni de parque infantil."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿La perlita aporta nutrientes?",
+      "a": "No. Es un componente estructural: mejora la aireación y el drenaje. Los nutrientes vienen del resto del sustrato y del abono."
+    },
+    {
+      "q": "¿Se puede reutilizar la perlita?",
+      "a": "No se descompone, así que dura más que los componentes orgánicos del sustrato. Lo que se degrada con el tiempo es la parte orgánica, y entonces conviene renovar la mezcla."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iowa State University Extension: Potting media components and handling",
+      "url": "https://yardandgarden.extension.iastate.edu/article/2025/03/potting-media-components-and-handling"
+    },
+    {
+      "name": "University of Illinois Extension: Container gardens, soil",
+      "url": "https://extension.illinois.edu/container-gardens/soil"
+    }
+  ]
+}

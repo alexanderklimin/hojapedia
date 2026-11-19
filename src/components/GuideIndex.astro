@@ -1,0 +1,19 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { GUIDE_SECTIONS, guidePath } from '../lib/related.js';
+
+interface Props { kind: 'plaga' | 'sustrato' | 'abono'; title: string; description: string; heading: string; lead: string }
+const { kind, title, description, heading, lead } = Astro.props;
+const guides = (await getCollection('guides', (g) => g.data.kind === kind)).sort((a, b) => a.data.name.localeCompare(b.data.name, 'es'));
+const crumbs = [{ name: 'Inicio', path: '/' }, { name: GUIDE_SECTIONS[kind].label, path: GUIDE_SECTIONS[kind].path }];
+---
+<Base title={title} description={description} crumbs={crumbs}>
+  <h1>{heading}</h1>
+  <p class="lead">{lead}</p>
+  <ul class="plant-grid">
+    {guides.map((g) => (
+      <li><a class="plant-link" href={guidePath(kind, g.id)}><strong>{g.data.name}</strong><span class="muted">{g.data.description}</span></a></li>
+    ))}
+  </ul>
+</Base>

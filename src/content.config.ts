@@ -62,4 +62,29 @@ const plants = defineCollection({
   }),
 });
 
-export const collections = { plants };
+// Guides: pests, growing media and fertilizers. Same evidence rules as plants.
+// `keywords` link guides and plant cards both ways (see src/lib/related.js).
+const guides = defineCollection({
+  loader: glob({ pattern: '*.json', base: './src/data/guides' }),
+  schema: z.object({
+    kind: z.enum(['plaga', 'sustrato', 'abono']),
+    name: z.string(),
+    synonyms: z.array(z.string()).default([]),
+    title: z.string().max(65),
+    description: z.string().min(70).max(160),
+    summary: z.string().min(80),
+    keywords: z.array(z.string().min(3)).min(1),
+    reviewed: isoDate,
+    sections: z.array(z.object({
+      id: z.string().regex(/^[a-z0-9-]+$/),
+      heading: z.string(),
+      paragraphs: z.array(z.string()).default([]),
+      list: z.array(z.string()).optional(),
+      ordered: z.boolean().default(false),
+    })).min(3),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+    sources: z.array(source).min(2),
+  }),
+});
+
+export const collections = { plants, guides };

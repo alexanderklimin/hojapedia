@@ -1,0 +1,68 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import { petLabel, formatDate } from '../../lib/format.js';
+
+// Built only from the ASPCA data stored in each plant card, so it never says more than the cards.
+const plants = (await getCollection('plants')).sort((a, b) => a.data.name.localeCompare(b.data.name, 'es'));
+const safe = plants.filter((p) => p.data.toxicity.cats === 'no-toxica' && p.data.toxicity.dogs === 'no-toxica');
+const toxic = plants.filter((p) => !safe.includes(p));
+const lastCheck = plants.map((p) => p.data.toxicity.checked).sort().at(-1)!;
+const title = 'Plantas tóxicas y seguras para gatos y perros';
+const description = `Qué plantas de interior y jardín son tóxicas para gatos y perros y cuáles no, según la ASPCA: ${toxic.length} tóxicas y ${safe.length} seguras, con síntomas y fuentes.`;
+const crumbs = [{ name: 'Inicio', path: '/' }, { name: 'Plantas tóxicas para mascotas', path: Astro.url.pathname }];
+const jsonLd = [{
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: title,
+  itemListElement: plants.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(`/plantas/${p.id}/`, Astro.site).href, name: p.data.name })),
+}];
+---
+<Base title={title} description={description} crumbs={crumbs} jsonLd={jsonLd}>
+  <h1>{title}</h1>
+  <p class="lead">Clasificación de todas nuestras fichas según la base de datos de plantas tóxicas y no tóxicas de la ASPCA (American Society for the Prevention of Cruelty to Animals). Última comprobación: {formatDate(lastCheck)}.</p>
+  <p class="notice"><Icon name="triangle-alert" size={18} /> Si tu gato o tu perro ha comido una planta tóxica, llama a tu veterinario. «No tóxica» no significa que pueda comérsela sin límite: puede causar molestias leves, y el abono o los productos contra plagas sí pueden ser peligrosos.</p>
+
+  <h2 id="seguras"><Icon name="circle-check" /> Plantas no tóxicas para gatos y perros ({safe.length})</h2>
+  <ul class="plant-grid">
+    {safe.map((p) => (
+      <li><a class="plant-link" href={`/plantas/${p.id}/#mascotas`}><strong>{p.data.name}</strong><em>{p.data.scientific}</em><span class="pill ok">No tóxica</span></a></li>
+    ))}
+  </ul>
+
+  <h2 id="toxicas"><Icon name="triangle-alert" /> Plantas tóxicas para gatos y perros ({toxic.length})</h2>
+  <div class="table-scroll stack">
+    <table>
+      <thead><tr><th scope="col">Planta</th><th scope="col">Gatos</th><th scope="col">Perros</th><th scope="col">Síntomas según la ASPCA</th></tr></thead>
+      <tbody>
+        {toxic.map((p) => (
+          <tr>
+            <th scope="row"><a href={`/plantas/${p.id}/#mascotas`}>{p.data.name}</a><br /><em class="muted">{p.data.scientific}</em></th>
+            <td data-label="Gatos">{petLabel(p.data.toxicity.cats)}</td>
+            <td data-label="Perros">{petLabel(p.data.toxicity.dogs)}</td>
+            <td data-label="Síntomas">{p.data.toxicity.signs ?? '—'}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <section class="sources">
+    <h2 id="fuentes"><Icon name="book-open" /> Fuente</h2>
+    <p><a href="https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants" rel="noopener">ASPCA: Toxic and Non-Toxic Plants</a>. Cada ficha enlaza a la entrada concreta de la ASPCA y a la fecha en que la comprobamos.</p>
+  </section>
+</Base>
+
+<style>
+  .notice { display: flex; gap: 0.6rem; align-items: flex-start; background: var(--sun-soft); border-radius: 14px; padding: 0.8rem 1rem; }
+  .notice .icon { margin-top: 0.2rem; color: var(--sun); }
+  h2 .icon { color: var(--leaf); }
+  @media (max-width: 40rem) {
+    .stack thead { position: absolute; left: -999px; }
+    .stack tr, .stack th, .stack td { display: block; }
+    .stack tr { border-bottom: 1px solid var(--line); padding-block: 0.4rem; }
+    .stack th, .stack td { border: 0; padding-block: 0.2rem; }
+    .stack td::before { content: attr(data-label) ': '; font-weight: 700; color: var(--leaf-dark); }
+  }
+</style>

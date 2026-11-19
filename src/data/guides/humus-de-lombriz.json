@@ -1,0 +1,59 @@
+{
+  "kind": "abono",
+  "name": "Humus de lombriz",
+  "synonyms": ["vermicompost", "lombricomposta", "vermicompuesto"],
+  "title": "Humus de lombriz: qué es, cómo usarlo y en qué proporción",
+  "description": "Qué es el humus de lombriz (vermicompost), qué aporta a las plantas, cómo usarlo en macetas y en el huerto, en qué proporción mezclarlo y cómo conservarlo.",
+  "summary": "El humus de lombriz es el material que producen las lombrices al digerir restos orgánicos. Aporta materia orgánica y nutrientes de liberación lenta y no quema las plantas, pero su contenido de nutrientes varía mucho de un lote a otro. Funciona mejor como mejorador del sustrato que como abono único.",
+  "keywords": ["humus de lombriz", "vermicompost", "lombricomposta"],
+  "reviewed": "2026-11-19",
+  "sections": [
+    {
+      "id": "que-es",
+      "heading": "Qué es",
+      "paragraphs": [
+        "Es el producto de la digestión de residuos orgánicos por las lombrices: sus deyecciones, llamadas también vermicompost o lombricomposta. Sus partículas están recubiertas de una capa que hace que los nutrientes se liberen poco a poco."
+      ]
+    },
+    {
+      "id": "que-aporta",
+      "heading": "Qué aporta",
+      "paragraphs": [
+        "Contiene nitrógeno, fósforo y potasio en cantidades bajas y muy variables, según cómo se alimentaron las lombrices y cómo se guardó el producto, además de micronutrientes como hierro, azufre, magnesio, zinc, cobre y calcio. Sus nutrientes son solubles y se pierden si se moja mucho antes de usarlo.",
+        "Como su riqueza en nutrientes es baja y variable, no lo trates como un abono completo: es sobre todo un mejorador del suelo y del sustrato. Para plantas exigentes en flor o en fruto, combínalo con un abono adecuado según la etiqueta."
+      ]
+    },
+    {
+      "id": "como-usarlo",
+      "heading": "Cómo usarlo y en qué proporción",
+      "list": [
+        "En macetas: mézclalo con el sustrato en torno a un 20 % del volumen al plantar o trasplantar.",
+        "En bancales y huerto: mézclalo con compost en torno a un 25 % para preparar el suelo.",
+        "En plantas ya establecidas: espárcelo sobre la superficie o incorpóralo ligeramente con una herramienta pequeña.",
+        "Se puede usar fresco: no quema las plantas."
+      ],
+      "ordered": false
+    },
+    {
+      "id": "conservacion",
+      "heading": "Cómo conservarlo",
+      "paragraphs": [
+        "Bien guardado dura seis meses o más. Guárdalo en un lugar fresco, sin que le dé la lluvia, porque el agua arrastra sus nutrientes solubles."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Se puede plantar directamente en humus de lombriz puro?",
+      "a": "No es lo recomendable. Las fuentes lo usan mezclado: alrededor de un 20 % en sustrato para macetas y un 25 % mezclado con compost para bancales."
+    },
+    {
+      "q": "¿El humus de lombriz sustituye al abono?",
+      "a": "No del todo. Aporta materia orgánica y algunos nutrientes de liberación lenta, pero su riqueza es baja y variable. Para plantas con mucha demanda, completa con un abono adecuado según la etiqueta."
+    }
+  ],
+  "sources": [
+    { "name": "Oregon State University Extension: worm composting (vermicompost)", "url": "https://extension.oregonstate.edu/es/node/80616/printable/print" },
+    { "name": "LSU AgCenter: Composting series, worm castings", "url": "https://www.lsuagcenter.com/articles/page1651169706312" }
+  ]
+}

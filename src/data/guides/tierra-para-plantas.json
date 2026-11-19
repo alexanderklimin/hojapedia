@@ -1,0 +1,85 @@
+{
+  "kind": "sustrato",
+  "name": "Tierra para plantas",
+  "synonyms": [
+    "sustrato universal",
+    "tierra para macetas",
+    "sustrato para macetas"
+  ],
+  "title": "Tierra para plantas en maceta: cuál usar y cómo hacerla",
+  "description": "Qué tierra usar en maceta, por qué no sirve la del jardín sola, qué lleva un buen sustrato, mezclas para suculentas y orquídeas, y cuándo cambiarlo.",
+  "summary": "Lo que en las tiendas se vende como tierra para plantas suele ser un sustrato: una mezcla ligera de materiales orgánicos (turba, fibra de coco, corteza o compost) y minerales (perlita, vermiculita o arena). En maceta, la tierra del jardín sola se compacta y ahoga las raíces; un buen sustrato drena, retiene humedad y no se apelmaza.",
+  "keywords": [
+    "sustrato universal",
+    "sustrato para plantas de interior",
+    "sustrato comercial"
+  ],
+  "reviewed": "2026-11-19",
+  "sections": [
+    {
+      "id": "tierra-de-jardin",
+      "heading": "¿Por qué no usar tierra del jardín en macetas?",
+      "paragraphs": [
+        "La tierra del jardín sola no es un buen medio de cultivo en maceta: se compacta, se separa de las paredes de la maceta cuando se seca y deja poco aire para las raíces. Además puede traer insectos, semillas de malas hierbas y organismos que causan enfermedades."
+      ]
+    },
+    {
+      "id": "que-lleva",
+      "heading": "Qué lleva un buen sustrato",
+      "paragraphs": [
+        "Un buen sustrato es ligero, drena bien, retiene humedad y nutrientes, no se compacta y está libre de enfermedades y semillas de malas hierbas. Un sustrato de calidad es, en volumen, mayoritariamente poros. Los sustratos negros, pesados y que no drenan son de mala calidad."
+      ],
+      "list": [
+        "Componentes orgánicos: turba, fibra de coco, corteza, compost.",
+        "Componentes minerales: perlita (aire y drenaje), vermiculita (retiene agua), arena gruesa.",
+        "La turba y la fibra de coco se vuelven repelentes al agua si se secan del todo y pueden tardar varios días en volver a mojarse: no dejes que el sustrato se seque por completo."
+      ]
+    },
+    {
+      "id": "mezcla-casera",
+      "heading": "Mezcla casera básica",
+      "paragraphs": [
+        "Una receta de extensión universitaria: partes iguales, en volumen, de tierra de jardín de buena calidad, turba y perlita (o arena gruesa de construcción, nunca arena fina de playa). Aun así, para la mayoría de las macetas un sustrato comercial de calidad es la opción más sencilla."
+      ]
+    },
+    {
+      "id": "mezclas-especiales",
+      "heading": "Mezclas para plantas especiales",
+      "list": [
+        "Cactus y suculentas: necesitan un sustrato muy drenante y más grueso, con más corteza, perlita o arena.",
+        "Orquídeas epífitas: se cultivan en corteza gruesa, que deja muchos poros con aire; nunca en tierra."
+      ]
+    },
+    {
+      "id": "cuando-cambiarlo",
+      "heading": "¿Cuándo hay que cambiar el sustrato?",
+      "paragraphs": [
+        "Puedes reutilizarlo hasta cierto punto si las plantas estaban sanas. Cámbialo cuando la parte orgánica se haya descompuesto y la maceta ya no drene bien. Ojo con los sacos de «tierra vegetal» baratos: a menudo son turba muy fina que drena mal en maceta."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Tierra para plantas y sustrato son lo mismo?",
+      "a": "En el uso diario, casi. Lo que se vende para macetas suele ser un sustrato sin suelo mineral, o con poco, pensado para drenar y no compactarse. La tierra del jardín es otra cosa y no conviene usarla sola en macetas."
+    },
+    {
+      "q": "¿Puedo mezclar tierra del jardín con sustrato?",
+      "a": "Sí, en mezclas como partes iguales de tierra de buena calidad, turba y perlita. Sola, la tierra del jardín se compacta en la maceta."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iowa State University Extension: ¿Garden soil or potting mix for containers?",
+      "url": "https://yardandgarden.extension.iastate.edu/faq/i-would-grow-few-vegetables-containers-can-i-use-garden-soil-or-should-i-purchase-commercial"
+    },
+    {
+      "name": "Iowa State University Extension: Potting media components and handling",
+      "url": "https://yardandgarden.extension.iastate.edu/article/2025/03/potting-media-components-and-handling"
+    },
+    {
+      "name": "University of Illinois Extension: Container gardens, soil",
+      "url": "https://extension.illinois.edu/container-gardens/soil"
+    }
+  ]
+}
