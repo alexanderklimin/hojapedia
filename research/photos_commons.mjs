@@ -4,6 +4,7 @@ import fs from 'node:fs';
 import sharp from 'sharp';
 
 const OUT = process.argv[2];
+const ONLY = process.argv.slice(3); // optional: limit to these slugs
 const UA = 'HojapediaBot/0.1 (https://hojapedia.com; attributed reuse of freely licensed images)';
 const API = 'https://commons.wikimedia.org/w/api.php';
 const ALLOWED = /^(CC0|Public domain|PD|CC BY(-SA)? \d\.\d|CC BY(-SA)? \d\.\d [a-z]{2,}|CC BY(-SA)?)/i;
@@ -11,11 +12,13 @@ const ALLOWED = /^(CC0|Public domain|PD|CC BY(-SA)? \d\.\d|CC BY(-SA)? \d\.\d [a
 const TARGETS = {
   orquidea: ['Phalaenopsis'], sansevieria: ['Sansevieria trifasciata', 'Dracaena trifasciata'], potus: ['Epipremnum aureum'],
   dracaena: ['Dracaena fragrans'], anturio: ['Anthurium andraeanum'], kalanchoe: ['Kalanchoe blossfeldiana'], espatifilo: ['Spathiphyllum'],
-  nochebuena: ['Euphorbia pulcherrima'], 'arbol-de-jade': ['Crassula ovata'], lavanda: ['Lavandula angustifolia'], geranio: ['Pelargonium zonale', 'Pelargonium hortorum'],
+  nochebuena: ['Euphorbia pulcherrima'], 'arbol-de-jade': ['Crassula ovata'], lavanda: ['Lavandula angustifolia Hidcote', 'Lavandula angustifolia Munstead', 'Lavandula angustifolia'], geranio: ['Pelargonium zonale', 'Pelargonium hortorum'],
   azalea: ['Rhododendron azalea', 'Azalea'], 'aloe-vera': ['Aloe vera'], 'cactus-de-navidad': ['Schlumbergera'], calathea: ['Goeppertia', 'Calathea'],
   cheflera: ['Schefflera arboricola', 'Heptapleurum arboricola'], ciclamen: ['Cyclamen persicum'], albahaca: ['Ocimum basilicum'], romero: ['Rosmarinus officinalis', 'Salvia rosmarinus'],
   gerbera: ['Gerbera jamesonii', 'Gerbera'], aglaonema: ['Aglaonema'], cinta: ['Chlorophytum comosum'], filodendro: ['Philodendron hederaceum'],
   maranta: ['Maranta leuconeura'], peperomia: ['Peperomia obtusifolia'],
+  tulipan: ['Tulipa gesneriana', 'Tulipa'], crisantemo: ['Chrysanthemum morifolium', 'Chrysanthemum × morifolium'], jazmin: ['Jasminum officinale', 'Jasminum polyanthum'],
+  suculentas: ['Echeveria', 'Succulent plants'],
   pulgones: ['Aphid'], cochinilla: ['Mealybug', 'Pseudococcidae'], perlita: ['Perlite'], 'tierra-para-plantas': ['Potting soil'], 'humus-de-lombriz': ['Vermicompost'],
 };
 
@@ -59,6 +62,7 @@ const usable = (c) => c.mime === 'image/jpeg' && c.width >= 1200 && c.width >= c
 fs.mkdirSync(`${OUT}/cand`, { recursive: true });
 const all = fs.existsSync(`${OUT}/candidates.json`) ? JSON.parse(fs.readFileSync(`${OUT}/candidates.json`, 'utf8')) : {};
 for (const [slug, names] of Object.entries(TARGETS)) {
+  if (ONLY.length && !ONLY.includes(slug)) continue;
   const picked = all[slug]?.length ? all[slug] : [];
   for (const name of names) {
     for (const q of [`"${name}" incategory:Quality_images`, `"${name}" incategory:Featured_pictures_on_Wikimedia_Commons`, `"${name}"`]) {
@@ -85,7 +89,7 @@ for (const [slug, names] of Object.entries(TARGETS)) {
 fs.writeFileSync(`${OUT}/candidates.json`, JSON.stringify(all, null, 1));
 
 // Contact sheets: one row per slug, up to 3 candidates, labelled.
-const slugs = Object.keys(all);
+const slugs = ONLY.length ? ONLY : Object.keys(all);
 for (let s = 0; s < slugs.length; s += 6) {
   const rows = slugs.slice(s, s + 6);
   const W = 300, H = 210, LABEL = 22;

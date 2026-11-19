@@ -1,0 +1,52 @@
+---
+import Base from '../layouts/Base.astro';
+import { CONTACT_EMAIL, SITE_NAME } from '../data/site.js';
+
+const jsonLd = [{
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: SITE_NAME,
+  url: Astro.site?.href,
+  email: CONTACT_EMAIL,
+  description: 'Fichas de cuidado de plantas basadas en fuentes botánicas y universitarias citadas, con la toxicidad para mascotas comprobada en la ASPCA.',
+}];
+const crumbs = [{ name: 'Inicio', path: '/' }, { name: 'Sobre Hojapedia', path: '/sobre-hojapedia/' }];
+---
+<Base title="Sobre Hojapedia y cómo trabajamos" description="Quién hace Hojapedia, de dónde salen los datos de cada ficha, cómo comprobamos la toxicidad para mascotas y cómo corregimos errores." crumbs={crumbs} jsonLd={jsonLd}>
+  <article class="about">
+    <h1>Sobre Hojapedia y cómo trabajamos</h1>
+    <p class="lead">Hojapedia es un sitio independiente sobre el cuidado de plantas de interior y jardín, escrito en español para lectores de España y de América Latina. Lo hace el equipo de Hojapedia.</p>
+
+    <h2>Por qué existe</h2>
+    <p>Buscar «cómo cuidar una orquídea» suele llevar a artículos breves y genéricos, sin fuentes y pensados para un solo clima. Queremos fichas que se puedan comprobar: con datos concretos, la fuente de cada uno y las épocas tanto para el hemisferio norte como para el sur.</p>
+
+    <h2>De dónde salen los datos</h2>
+    <ul>
+      <li><strong>Cuidados:</strong> guías de servicios de extensión universitaria (NC State, Iowa State, Clemson, Universidad de Florida, Illinois, Dakota del Sur y otras), la Royal Horticultural Society británica y, para las orquídeas, la American Orchid Society. Cada ficha enlaza a sus fuentes al final.</li>
+      <li><strong>Toxicidad para gatos y perros:</strong> solo la base de datos de plantas tóxicas y no tóxicas de la ASPCA. En cada ficha indicamos la entrada exacta y la fecha en que la comprobamos. Cuando una entrada de la ASPCA se refiere a otra especie del mismo grupo, lo decimos.</li>
+      <li><strong>Plagas:</strong> guías de manejo integrado de plagas, como las de la Universidad de California (UC IPM). Solo recomendamos métodos de bajo riesgo y cualquier producto, según su etiqueta.</li>
+    </ul>
+
+    <h2>Reglas que seguimos</h2>
+    <ul>
+      <li><strong>No inventamos cifras.</strong> Si una fuente no da una temperatura mínima o una frecuencia de abono, la ficha lo dice en lugar de rellenar el hueco.</li>
+      <li><strong>Si las fuentes no coinciden,</strong> lo indicamos y damos el rango o la opción más prudente.</li>
+      <li><strong>Hemisferio norte y sur.</strong> Las épocas de riego, siembra y floración se dan para los dos: en Argentina o Chile las estaciones van al revés que en España o México.</li>
+      <li><strong>Sin consejos de salud.</strong> No tratamos usos medicinales de las plantas.</li>
+      <li><strong>Fecha de revisión visible</strong> en cada ficha.</li>
+    </ul>
+
+    <h2>Fotografías</h2>
+    <p>Las fotos proceden de Wikimedia Commons y se usan según sus licencias libres. El nombre del autor y la licencia aparecen en cada foto (icono «i») y en la página de <a href="/creditos-de-fotos/">créditos de fotos</a>.</p>
+
+    <h2>Errores y correcciones</h2>
+    <p>Si ves un dato que no cuadra, escríbenos a <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a> indicando la página y, si puedes, la fuente. Revisamos cada aviso y actualizamos la fecha de revisión de la ficha cuando la corregimos.</p>
+
+    <h2>Independencia</h2>
+    <p>Hojapedia no vende plantas. En el futuro podrá incluir publicidad o enlaces de afiliados a productos de cuidado; si lo hace, estarán señalados claramente y no cambiarán lo que dicen las fichas.</p>
+  </article>
+</Base>
+<style>
+  .about { max-width: 46rem; }
+  .about ul { display: grid; gap: 0.5rem; padding-left: 1.2rem; }
+</style>

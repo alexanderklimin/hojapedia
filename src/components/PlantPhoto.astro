@@ -16,7 +16,10 @@ const sizes = variant === 'hero' ? '(min-width: 64rem) 30rem, 100vw' : '4rem';
   <figure class="photo">
     <Picture src={image} alt={photo!.alt ?? alt} widths={widths} sizes={sizes} formats={['avif', 'webp']} quality={70} loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} />
     <figcaption>
-      Foto: {photo!.author} · {photo!.licenseUrl ? <a href={photo!.licenseUrl} rel="noopener license">{photo!.license}</a> : photo!.license} · <a href={photo!.source} rel="noopener">Wikimedia Commons</a>
+      <details class="credit">
+        <summary aria-label="Créditos de la foto" title="Créditos de la foto">i</summary>
+        <span>Foto: {photo!.author} · {photo!.licenseUrl ? <a href={photo!.licenseUrl} rel="noopener license">{photo!.license}</a> : photo!.license} · <a href={photo!.source} rel="noopener">Wikimedia Commons</a></span>
+      </details>
     </figcaption>
   </figure>
 ) : (

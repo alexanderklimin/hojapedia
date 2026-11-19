@@ -110,14 +110,14 @@ if (crumbs.length > 1) {
           <a href="/plagas/">Plagas</a>
           <a href="/sustratos-y-macetas/">Sustratos</a>
           <a href="/abonos/">Abonos</a>
-          <a href="/creditos-de-fotos/">Créditos de fotos</a>
+          <a href="/sobre-hojapedia/">Sobre Hojapedia</a>
           <a href="/contacto/">Contacto</a>
           <a href="/privacidad/">Privacidad</a>
           <a href="/aviso-legal/">Aviso legal</a>
           <button type="button" class="footer-button" data-open-consent hidden>Cookies</button>
         </nav>
       </div>
-      <p class="wrap credits">Fotos de Wikimedia Commons con licencias libres (<a href="/creditos-de-fotos/">autores y licencias</a>). Iconos: <a href="https://lucide.dev" rel="noopener">Lucide</a>. Tipografía: Fraunces (SIL OFL).</p>
+      <p class="wrap credits">Iconos: <a href="https://lucide.dev" rel="noopener">Lucide</a>. Tipografía: Fraunces (SIL OFL).</p>
     </footer>
     <Analytics />
   </body>
@@ -259,9 +259,14 @@ if (crumbs.length > 1) {
   .footer-links a { color: #fff; min-height: 2.25rem; display: inline-flex; align-items: center; }
   .credits { font-size: 0.8rem; color: #b6cdb9; margin-top: 1.25rem; }
   .credits a { color: inherit; }
-  .photo { margin: 0; }
+  .photo { position: relative; margin: 0; }
   .photo img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius); background: var(--leaf-soft); }
-  .photo figcaption { margin-top: 0.35rem; font-size: 0.75rem; color: var(--muted); line-height: 1.4; }
-  .photo figcaption a { color: inherit; }
+  .photo figcaption { position: absolute; right: 0.6rem; bottom: 0.6rem; left: 0.6rem; display: flex; justify-content: flex-end; pointer-events: none; }
+  .credit { pointer-events: auto; max-width: 100%; font-size: 0.75rem; line-height: 1.4; color: #fff; }
+  .credit summary { list-style: none; display: grid; place-items: center; width: 1.6rem; height: 1.6rem; margin-left: auto; border-radius: 50%; background: rgb(0 0 0 / 45%); font: italic 700 0.85rem/1 Georgia, serif; cursor: pointer; }
+  .credit summary::-webkit-details-marker { display: none; }
+  .credit[open] summary { margin-bottom: 0.3rem; }
+  .credit span { display: block; padding: 0.4rem 0.6rem; border-radius: 10px; background: rgb(0 0 0 / 65%); }
+  .credit a { color: #fff; }
   @media (prefers-reduced-motion: reduce) { .tile { transition: none; } .tile:hover { transform: none; } }
 </style>
