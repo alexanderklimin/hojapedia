@@ -106,5 +106,23 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Rhododendron%27Osterschnee%27_im_botanischen_Garten_M%C3%BCnchen-Nymphenburg_02.jpg",
     "alt": "Flores rosadas de rododendro"
+  },
+  "aloe-vera": {
+    "file": "aloe-vera.jpg",
+    "title": "File:Aloe vera en cerro Santa Lucía.jpg",
+    "author": "Rjcastillo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aloe_vera_en_cerro_Santa_Luc%C3%ADa.jpg",
+    "alt": "Mata de aloe vera"
+  },
+  "cactus-de-navidad": {
+    "file": "cactus-de-navidad.jpg",
+    "title": "File:Lidcactus, Schlumbergera ×buckleyi. 14-12-2025. (actm.) 02.jpg",
+    "author": "Agnes Monkelbaan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lidcactus,_Schlumbergera_%C3%97buckleyi._14-12-2025._(actm.)_02.jpg",
+    "alt": "Flor roja de cactus de Navidad"
   }
 }

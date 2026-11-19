@@ -35,3 +35,4 @@
 - ЗАПУСК ПРОВЕРЕН на https://hojapedia.com: 48 URL из sitemap отдают 200, noindex нет ни в заголовках, ни в meta; 404 работает; canonical на hojapedia.com; GA4 на месте; workers.dev отдаёт 404; www → 301 на основной домен (настроено в Cloudflare); правовые страницы с Aleksandr Klimin, Chile. Осталось: http отдаёт 200 без редиректа (включить Always Use HTTPS в Cloudflare), подтвердить домен в Search Console и отправить sitemap.
 - 2026-11-19: Always Use HTTPS включён пользователем (http → 301 https). Ресурс sc-domain:hojapedia.com в Search Console (siteOwner). Sitemap отправляет пользователь в интерфейсе (наш скрипт gsc.mjs — только чтение). Исходная проверка URL: см. ниже.
   Исходное состояние: / и /plantas/orquidea/ — «URL is unknown to Google» (норма для нового домена).
+- 2026-11-19: пользователь отправил sitemap-index.xml в Search Console и импортировал сайт в Bing Webmaster Tools.
