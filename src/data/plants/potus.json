@@ -1,0 +1,109 @@
+{
+  "name": "Potus",
+  "synonyms": ["poto", "pothos", "Epipremnum aureum"],
+  "scientific": "Epipremnum aureum",
+  "family": "Araceae",
+  "origin": "Trepadora tropical de Asia y el Pacífico. En condiciones ideales sus tallos alcanzan 9–12 m.",
+  "title": "Potus (poto): cuidados, luz, riego y cómo hacer esquejes",
+  "description": "Cuidados del potus o poto (Epipremnum aureum): luz, riego, temperatura, por qué amarillean las hojas y cómo reproducirlo por esquejes en agua o en tierra.",
+  "summary": "El potus, también llamado poto o pothos, es una trepadora o colgante muy fácil de cuidar. Tolera poca luz, aunque entonces pierde el jaspeado y saca hojas más pequeñas. Se reproduce con facilidad por esquejes en agua o en tierra.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Luz brillante indirecta; tolera poca luz",
+      "text": "Lo ideal es luz brillante sin sol directo. Tolera rincones con poca luz, pero entonces las hojas nuevas salen más pequeñas y las variedades jaspeadas pierden parte del color. La luz muy intensa puede quemar los bordes."
+    },
+    "water": {
+      "short": "Cuando los 4–5 cm de arriba estén secos",
+      "text": "Riega a fondo solo cuando los 4–5 cm superiores del sustrato estén secos, y deja escurrir bien. El exceso de agua y el mal drenaje pudren las raíces y amarillean las hojas.",
+      "growing": "Cuando se seque la capa superior; suele ser más frecuente con calor y buena luz.",
+      "rest": "Menos a menudo en otoño e invierno."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": 16,
+      "idealMaxC": 29,
+      "text": "De noche, 16–21 °C; de día, 21–29 °C. Aléjalo del aire acondicionado, de los radiadores y de los alféizares fríos: el aire frío o caliente reseca las hojas."
+    },
+    "humidity": {
+      "short": "50–70 %, tolera aire de casa",
+      "text": "Prefiere una humedad del 50 al 70 %, pero tolera bien la humedad normal de una casa (30–60 %). Con aire muy seco pueden secarse las puntas."
+    },
+    "substrate": {
+      "short": "Sustrato aireado y drenante",
+      "text": "Usa un sustrato universal aireado y con buen drenaje. Trasplanta cada uno o dos años, cuando las raíces salgan por los agujeros de drenaje.",
+      "pot": "Con agujeros de drenaje; sirve maceta colgante o con tutor de musgo para que trepe."
+    },
+    "fertilizer": {
+      "short": "Cada dos meses en primavera y verano",
+      "text": "Abona cada dos meses en primavera y verano con un fertilizante para plantas de interior, siguiendo la dosis de la etiqueta. En invierno, nada."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "oxalatos de calcio insolubles",
+    "signs": "irritación y ardor intenso en boca, lengua y labios, babeo excesivo, vómitos y dificultad para tragar",
+    "aspcaName": "Golden Pothos",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/golden-pothos",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes de tallo",
+      "when": "En primavera o verano",
+      "steps": [
+        "Corta un trozo de tallo con al menos un nudo (el bulto de donde sale la hoja y, a menudo, una raíz aérea).",
+        "Quita la hoja que quedaría bajo el agua o la tierra.",
+        "Ponlo en un vaso con agua o directamente en sustrato húmedo, con el nudo enterrado o sumergido.",
+        "Si está en agua, cámbiala cuando se enturbie y pásalo a maceta cuando tenga raíces de varios centímetros."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Exceso de riego o, con menos frecuencia, falta de nutrientes.",
+      "fix": "Deja secar la capa superior antes de regar y comprueba que la maceta drena. Si el riego es correcto, abona en primavera y verano."
+    },
+    {
+      "symptom": "Raíces negras y blandas, la planta se marchita aunque la tierra esté húmeda",
+      "cause": "Pudrición de raíz por exceso de agua o mal drenaje.",
+      "fix": "Corta las raíces podridas, trasplanta a sustrato nuevo y drenante, y salva esquejes sanos por si acaso."
+    },
+    {
+      "symptom": "Bordes y puntas marrones y secas",
+      "cause": "Humedad muy baja o luz demasiado intensa.",
+      "fix": "Apártalo del sol fuerte y de radiadores o aire acondicionado."
+    },
+    {
+      "symptom": "Hojas pequeñas y pierde el jaspeado",
+      "cause": "Poca luz.",
+      "fix": "Muévelo a un lugar con más luz indirecta."
+    },
+    {
+      "symptom": "Telarañas finas o bolitas blancas algodonosas",
+      "cause": "Araña roja o cochinilla algodonosa.",
+      "fix": "Limpia las hojas, aísla la planta y, si sigue, usa un producto para plantas de interior siguiendo la etiqueta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿El potus es tóxico para gatos y perros?",
+      "a": "Sí. Según la ASPCA es tóxico para perros y gatos por sus oxalatos de calcio insolubles: causa irritación intensa de la boca, babeo, vómitos y dificultad para tragar. Cuélgalo fuera de su alcance."
+    },
+    {
+      "q": "¿Se puede tener un potus en agua para siempre?",
+      "a": "Los esquejes enraízan bien en agua, pero para que crezca a largo plazo conviene pasarlo a sustrato cuando tenga raíces."
+    },
+    {
+      "q": "¿El potus aguanta sin luz natural?",
+      "a": "Tolera poca luz, pero necesita algo: con muy poca luz crece despacio, con hojas pequeñas y sin jaspeado."
+    }
+  ],
+  "sources": [
+    { "name": "Clemson HGIC: How to grow pothos indoors (HGIC 1568)", "url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/" },
+    { "name": "Clemson HGIC: Exciting houseplant selections for beginners", "url": "https://hgic.clemson.edu/exciting-houseplant-selections-for-beginners/" }
+  ]
+}

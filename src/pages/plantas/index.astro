@@ -1,0 +1,31 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { petVerdict } from '../../lib/format.js';
+
+const plants = (await getCollection('plants')).sort((a, b) => a.data.name.localeCompare(b.data.name, 'es'));
+const crumbs = [{ name: 'Inicio', path: '/' }, { name: 'Plantas', path: '/plantas/' }];
+---
+<Base
+  title="Fichas de plantas: cuidados, riego, luz y toxicidad"
+  description="Fichas de cuidado de plantas de interior y jardín: luz, riego, temperatura, sustrato, reproducción, problemas frecuentes y toxicidad para gatos y perros."
+  crumbs={crumbs}
+>
+  <h1>Fichas de plantas</h1>
+  <p class="lead">Cada ficha reúne luz, riego, temperatura, sustrato, reproducción y problemas frecuentes, con fuentes citadas y la toxicidad para mascotas comprobada en la ASPCA.</p>
+  <ul class="plant-grid">
+    {plants.map((plant) => {
+      const pets = petVerdict(plant.data.toxicity);
+      return (
+        <li>
+          <a class="plant-link" href={`/plantas/${plant.id}/`}>
+            <strong>{plant.data.name}</strong>
+            <em>{plant.data.scientific}</em>
+            {plant.data.synonyms.length > 0 && <span class="muted">{plant.data.synonyms.slice(0, 2).join(', ')}</span>}
+            <span class:list={['pill', pets.tone]}>{pets.text}</span>
+          </a>
+        </li>
+      );
+    })}
+  </ul>
+</Base>

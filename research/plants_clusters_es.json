@@ -1,0 +1,8194 @@
+{
+ "plagas": [
+  {
+   "k": "pulgones",
+   "v": 18100,
+   "hi": 0.19079147263157895
+  },
+  {
+   "k": "hongos adaptógenos",
+   "v": 12100,
+   "hi": 0.534958092631579
+  },
+  {
+   "k": "pulgon",
+   "v": 9900,
+   "hi": 0.5406309589473685
+  },
+  {
+   "k": "hongo venenosos",
+   "v": 6600,
+   "hi": 0.9857559463157896
+  },
+  {
+   "k": "pulgon en plantas",
+   "v": 2900,
+   "hi": 0.26498815684210525
+  },
+  {
+   "k": "pulgon blanco",
+   "v": 2400,
+   "hi": 0.18602380631578946
+  },
+  {
+   "k": "pulgon planta",
+   "v": 2400,
+   "hi": 0.11151019578947369
+  },
+  {
+   "k": "como eliminar la cochinilla algodonosa",
+   "v": 1900,
+   "hi": 0.36490141263157894
+  },
+  {
+   "k": "hongos medicinales",
+   "v": 1600,
+   "hi": 0.39310569157894737
+  },
+  {
+   "k": "insecticida para arañuela",
+   "v": 1600,
+   "hi": 0.24868396631578946
+  },
+  {
+   "k": "pulgon verde",
+   "v": 1600,
+   "hi": 0.09625535789473684
+  },
+  {
+   "k": "araña roja plantas",
+   "v": 1300,
+   "hi": 0.19599796
+  },
+  {
+   "k": "insecticida para pulgones",
+   "v": 1300,
+   "hi": 0.20062995368421052
+  },
+  {
+   "k": "hongo oidio",
+   "v": 1300,
+   "hi": 0.2083283894736842
+  },
+  {
+   "k": "hongos en plantas",
+   "v": 1000,
+   "hi": 0.8774224284210526
+  },
+  {
+   "k": "araña roja en tomatera",
+   "v": 880,
+   "hi": 0.7639735778947369
+  },
+  {
+   "k": "arbol con hongos",
+   "v": 880,
+   "hi": 0
+  },
+  {
+   "k": "hongo micorrizico",
+   "v": 880,
+   "hi": 0.37098342
+  },
+  {
+   "k": "pulgon de las plantas",
+   "v": 880,
+   "hi": 0.4345805778947368
+  },
+  {
+   "k": "como eliminar la cochinilla",
+   "v": 720,
+   "hi": 0.33112390210526316
+  },
+  {
+   "k": "araña roja plaga",
+   "v": 720,
+   "hi": 0
+  },
+  {
+   "k": "hongos adaptógenos para que sirve",
+   "v": 720,
+   "hi": 0.2740348526315789
+  },
+  {
+   "k": "planta con pulgon",
+   "v": 720,
+   "hi": 0.21246326421052633
+  },
+  {
+   "k": "hongo blanco en plantas",
+   "v": 590,
+   "hi": 1.5687298936842105
+  },
+  {
+   "k": "hongos en potus",
+   "v": 590,
+   "hi": 0
+  },
+  {
+   "k": "jabon potasico pulgones",
+   "v": 590,
+   "hi": 0.30487947473684207
+  },
+  {
+   "k": "insecticida pulgon",
+   "v": 480,
+   "hi": 0.23318957789473685
+  },
+  {
+   "k": "como combatir la cochinilla algodonosa",
+   "v": 480,
+   "hi": 0.2516179147368421
+  },
+  {
+   "k": "10 hongos venenosos",
+   "v": 480,
+   "hi": 0
+  },
+  {
+   "k": "hongo de ciprés",
+   "v": 480,
+   "hi": 0.1317775505263158
+  },
+  {
+   "k": "hongo de jardin",
+   "v": 480,
+   "hi": 0.20451680000000003
+  },
+  {
+   "k": "insecticida casero para el pulgon",
+   "v": 480,
+   "hi": 0.028463967368421054
+  },
+  {
+   "k": "pulgon blanco plantas",
+   "v": 480,
+   "hi": 0.06617708210526316
+  },
+  {
+   "k": "remedio casero para el pulgon",
+   "v": 480,
+   "hi": 0.01412280842105263
+  },
+  {
+   "k": "eliminar pulgón con fairy",
+   "v": 390,
+   "hi": 0
+  },
+  {
+   "k": "arañuela roja insecticida",
+   "v": 390,
+   "hi": 0.23398878315789473
+  },
+  {
+   "k": "como quitar la cochinilla de las plantas",
+   "v": 390,
+   "hi": 0.36187312736842103
+  },
+  {
+   "k": "hongo en orquideas",
+   "v": 390,
+   "hi": 0.8321486715789473
+  },
+  {
+   "k": "hongos en la grama bahiana",
+   "v": 390,
+   "hi": 0.0714704852631579
+  },
+  {
+   "k": "pulgon blanco en plantas",
+   "v": 390,
+   "hi": 0.16959242
+  },
+  {
+   "k": "pulgon del rosal",
+   "v": 390,
+   "hi": 0.06124830210526316
+  },
+  {
+   "k": "fungicida para hongos en plantas",
+   "v": 320,
+   "hi": 0.21609042210526316
+  },
+  {
+   "k": "araña roja como eliminarla",
+   "v": 320,
+   "hi": 0.8172817757894737
+  },
+  {
+   "k": "araña roja de jardin",
+   "v": 320,
+   "hi": 0
+  },
+  {
+   "k": "cochinilla blanca como eliminar",
+   "v": 320,
+   "hi": 0.2714400894736842
+  },
+  {
+   "k": "como eliminar cochinilla de las plantas",
+   "v": 320,
+   "hi": 0.1271943147368421
+  },
+  {
+   "k": "jabon potasico para pulgones",
+   "v": 320,
+   "hi": 0.17559705263157896
+  },
+  {
+   "k": "remedios caseros para la araña roja",
+   "v": 320,
+   "hi": 0.18371310947368422
+  },
+  {
+   "k": "tipo de hongos en las plantas",
+   "v": 320,
+   "hi": 0.5617748936842105
+  },
+  {
+   "k": "como combatir la cochinilla en las plantas",
+   "v": 260,
+   "hi": 0.19079147263157895
+  },
+  {
+   "k": "como eliminar la cochinilla algodonosa en las plantas",
+   "v": 260,
+   "hi": 0.3870777410526316
+  },
+  {
+   "k": "crassula ovata hongos",
+   "v": 260,
+   "hi": 0
+  },
+  {
+   "k": "hongo blanco en las plantas",
+   "v": 260,
+   "hi": 0.7535913421052632
+  },
+  {
+   "k": "hongo en cactus",
+   "v": 260,
+   "hi": 1.155348367368421
+  },
+  {
+   "k": "hongo en el pasto",
+   "v": 260,
+   "hi": 0.4168316715789474
+  },
+  {
+   "k": "hongo en hojas de plantas",
+   "v": 260,
+   "hi": 0.3391848410526316
+  },
+  {
+   "k": "pulgones citricos",
+   "v": 260,
+   "hi": 0.20139099894736842
+  },
+  {
+   "k": "mejor insecticida para pulgones",
+   "v": 210,
+   "hi": 0.34433303157894735
+  },
+  {
+   "k": "araña roja es venenosa",
+   "v": 210,
+   "hi": 0
+  },
+  {
+   "k": "como eliminar la cochinilla de mis plantas",
+   "v": 210,
+   "hi": 0.7504178442105264
+  },
+  {
+   "k": "hongo en suculentas",
+   "v": 210,
+   "hi": 1.0708955821052633
+  },
+  {
+   "k": "pulgon blanco como eliminarlo",
+   "v": 210,
+   "hi": 0.14568624842105263
+  },
+  {
+   "k": "pulgon remedio casero",
+   "v": 210,
+   "hi": 0.03166184421052632
+  },
+  {
+   "k": "araña roja en citricos",
+   "v": 170,
+   "hi": 0
+  },
+  {
+   "k": "araña roja plantas remedio casero",
+   "v": 170,
+   "hi": 0.01990908947368421
+  },
+  {
+   "k": "cochinillas y pulgones",
+   "v": 170,
+   "hi": 0.14839336736842107
+  },
+  {
+   "k": "como combatir cochinilla",
+   "v": 170,
+   "hi": 0.18474762315789475
+  },
+  {
+   "k": "como es la cochinilla de las plantas",
+   "v": 170,
+   "hi": 0.012533938947368421
+  },
+  {
+   "k": "eliminar el pulgon",
+   "v": 170,
+   "hi": 0.24902951052631578
+  },
+  {
+   "k": "porque aparecen los pulgones en las plantas",
+   "v": 170,
+   "hi": 0.8763243168421053
+  },
+  {
+   "k": "remedio casero contra el pulgon",
+   "v": 170,
+   "hi": 0.010540168421052631
+  },
+  {
+   "k": "remedio casero para los pulgones de las plantas",
+   "v": 170,
+   "hi": 0.008233711578947369
+  },
+  {
+   "k": "veneno para el pulgón",
+   "v": 170,
+   "hi": 0.19609229578947368
+  },
+  {
+   "k": "adaptógenos hongos",
+   "v": 140,
+   "hi": 0.5705184431578948
+  },
+  {
+   "k": "araña roja en rosales",
+   "v": 140,
+   "hi": 1.0125377694736841
+  },
+  {
+   "k": "cochinilla algodonosa como combatirla",
+   "v": 140,
+   "hi": 0.1383863547368421
+  },
+  {
+   "k": "cochinilla negra como eliminar",
+   "v": 140,
+   "hi": 0.18577895684210524
+  },
+  {
+   "k": "como acabar con la cochinilla algodonosa",
+   "v": 140,
+   "hi": 0.34978436736842106
+  },
+  {
+   "k": "hongo en monstera",
+   "v": 140,
+   "hi": 0
+  },
+  {
+   "k": "hongos en las plantas como eliminarlos",
+   "v": 140,
+   "hi": 0.15640131052631578
+  },
+  {
+   "k": "insecticida natural para pulgon",
+   "v": 140,
+   "hi": 0.1347136189473684
+  },
+  {
+   "k": "insecticida para pulgones plantas",
+   "v": 140,
+   "hi": 0.19571601263157895
+  },
+  {
+   "k": "mata pulgones",
+   "v": 140,
+   "hi": 0.24326548842105264
+  },
+  {
+   "k": "pulgones amarillos como eliminarlos",
+   "v": 140,
+   "hi": 0.09597023052631579
+  },
+  {
+   "k": "remedio casero para el pulgon de las plantas",
+   "v": 140,
+   "hi": 0.013130692631578946
+  },
+  {
+   "k": "remedio casero para pulgon en plantas",
+   "v": 140,
+   "hi": 0.01586219052631579
+  },
+  {
+   "k": "cochinillas de las plantas",
+   "v": 110,
+   "hi": 0
+  },
+  {
+   "k": "como quitar cochinilla algodonosa",
+   "v": 110,
+   "hi": 0.95099692
+  },
+  {
+   "k": "como quitar cochinilla de las plantas",
+   "v": 110,
+   "hi": 0.4062236652631579
+  },
+  {
+   "k": "como quitar la cochinilla algodonosa de las plantas",
+   "v": 110,
+   "hi": 0.2896447757894737
+  },
+  {
+   "k": "eliminar pulgon de las plantas",
+   "v": 110,
+   "hi": 0.16058812315789475
+  },
+  {
+   "k": "hongo en plantas de interior",
+   "v": 110,
+   "hi": 0.4781287326315789
+  },
+  {
+   "k": "hongo en rosal",
+   "v": 110,
+   "hi": 0.5511743084210526
+  },
+  {
+   "k": "hongo oidio en plantas",
+   "v": 110,
+   "hi": 0.2678447294736842
+  },
+  {
+   "k": "mata pulgones plantas",
+   "v": 110,
+   "hi": 0.1473556747368421
+  },
+  {
+   "k": "pulgon tratamiento",
+   "v": 110,
+   "hi": 0.1565359242105263
+  },
+  {
+   "k": "pulgon verde en plantas",
+   "v": 110,
+   "hi": 0.2838415347368421
+  },
+  {
+   "k": "pulgones blancos remedios caseros",
+   "v": 110,
+   "hi": 0.012855105263157895
+  },
+  {
+   "k": "tipo de hongos en plantas",
+   "v": 110,
+   "hi": 1.2332580663157895
+  },
+  {
+   "k": "afidos y pulgones",
+   "v": 90,
+   "hi": 0
+  },
+  {
+   "k": "cochinilla lapa como eliminar",
+   "v": 90,
+   "hi": 0.27626499368421054
+  },
+  {
+   "k": "como eliminar la cochinilla blanca de las plantas",
+   "v": 90,
+   "hi": 0.01652466105263158
+  },
+  {
+   "k": "eliminar pulgones plantas interior",
+   "v": 90,
+   "hi": 0.25940114736842107
+  },
+  {
+   "k": "hongo en plantas de jardin",
+   "v": 90,
+   "hi": 1.1183062031578948
+  },
+  {
+   "k": "insecticida contra el pulgon",
+   "v": 90,
+   "hi": 0.17764806
+  },
+  {
+   "k": "mosquitas en la tierra de las macetas",
+   "v": 90,
+   "hi": 0.2162472957894737
+  },
+  {
+   "k": "pulgon en las plantas remedio casero",
+   "v": 90,
+   "hi": 0.010175544210526315
+  },
+  {
+   "k": "pulgones en rosas como eliminarlos",
+   "v": 90,
+   "hi": 0.017201970526315787
+  },
+  {
+   "k": "remedio casero contra los pulgones",
+   "v": 90,
+   "hi": 0.11034742842105263
+  },
+  {
+   "k": "remedio casero para los pulgones",
+   "v": 90,
+   "hi": 0.009335002105263158
+  },
+  {
+   "k": "remedio contra el pulgon",
+   "v": 90,
+   "hi": 0.3113367063157895
+  },
+  {
+   "k": "remedio para el pulgon",
+   "v": 90,
+   "hi": 0.18877332315789472
+  },
+  {
+   "k": "remedios caseros pulgon plantas",
+   "v": 90,
+   "hi": 0.03060295157894737
+  },
+  {
+   "k": "araña roja alocasia",
+   "v": 70,
+   "hi": 0
+  },
+  {
+   "k": "cochinilla cerosa como eliminar",
+   "v": 70,
+   "hi": 0.013771964210526316
+  },
+  {
+   "k": "cochinilla plantas como eliminar",
+   "v": 70,
+   "hi": 0.022916175789473685
+  },
+  {
+   "k": "combatir el pulgon",
+   "v": 70,
+   "hi": 0.06599689052631579
+  },
+  {
+   "k": "como eliminar la cochinilla algodonosa de las plantas",
+   "v": 70,
+   "hi": 0.30037149578947364
+  },
+  {
+   "k": "como eliminar la cochinilla de la tierra",
+   "v": 70,
+   "hi": 0.18435968105263156
+  },
+  {
+   "k": "como eliminar las cochinillas de la casa",
+   "v": 70,
+   "hi": 0.4102165073684211
+  },
+  {
+   "k": "mamboreta trips",
+   "v": 70,
+   "hi": 0.08508133684210527
+  },
+  {
+   "k": "planta con hongos blancos",
+   "v": 70,
+   "hi": 0.5611198431578948
+  },
+  {
+   "k": "plantas con hongos en las hojas",
+   "v": 70,
+   "hi": 0.47826016631578944
+  },
+  {
+   "k": "pulgones en rosales",
+   "v": 70,
+   "hi": 0.04972237789473684
+  },
+  {
+   "k": "remedio casero para el pulgon en plantas",
+   "v": 70,
+   "hi": 0.028059065263157896
+  },
+  {
+   "k": "remedio para el pulgon de las plantas",
+   "v": 70,
+   "hi": 0.09503853263157895
+  },
+  {
+   "k": "remedio para pulgon",
+   "v": 70,
+   "hi": 0.17781023368421053
+  },
+  {
+   "k": "remedio pulgon plantas",
+   "v": 70,
+   "hi": 0.08538130421052632
+  },
+  {
+   "k": "rosal con pulgon",
+   "v": 70,
+   "hi": 0.13779278210526316
+  },
+  {
+   "k": "antipulgon casero",
+   "v": 50,
+   "hi": 0.00804504
+  },
+  {
+   "k": "araña blanca limonero",
+   "v": 50,
+   "hi": 0
+  },
+  {
+   "k": "araña roja remedio casero",
+   "v": 50,
+   "hi": 0.16538864842105264
+  },
+  {
+   "k": "como curar la cochinilla de las plantas",
+   "v": 50,
+   "hi": 0.0724053642105263
+  },
+  {
+   "k": "como eliminar cochinillas en las plantas",
+   "v": 50,
+   "hi": 0.38114094631578943
+  },
+  {
+   "k": "como sacar la cochinilla de las plantas",
+   "v": 50,
+   "hi": 0.17602951263157895
+  },
+  {
+   "k": "hongo roya en plantas",
+   "v": 50,
+   "hi": 0.31798578842105263
+  },
+  {
+   "k": "insecticida pulgones plantas",
+   "v": 50,
+   "hi": 0.21078748
+  },
+  {
+   "k": "pulgon blanco plantas eliminar",
+   "v": 50,
+   "hi": 0.12533515789473684
+  },
+  {
+   "k": "pulgon de rosal",
+   "v": 50,
+   "hi": 0.03923944631578947
+  },
+  {
+   "k": "pulgon en el limonero",
+   "v": 50,
+   "hi": 0.11554437578947369
+  },
+  {
+   "k": "quitar pulgon plantas",
+   "v": 50,
+   "hi": 0.23467457157894736
+  },
+  {
+   "k": "remedio casero pulgones rosal",
+   "v": 50,
+   "hi": 0.055379344210526316
+  },
+  {
+   "k": "remedio para pulgones en plantas",
+   "v": 50,
+   "hi": 0.16646768
+  },
+  {
+   "k": "remedio pulgon",
+   "v": 50,
+   "hi": 0.1710699947368421
+  },
+  {
+   "k": "afidos pulgones",
+   "v": 40,
+   "hi": 0
+  },
+  {
+   "k": "cochinilla algodonosa como eliminar",
+   "v": 40,
+   "hi": 0.7264205157894736
+  },
+  {
+   "k": "cochinilla como combatirla",
+   "v": 40,
+   "hi": 0.0071292410526315785
+  },
+  {
+   "k": "como acabar con la cochinilla en las plantas",
+   "v": 40,
+   "hi": 0.11576378631578947
+  },
+  {
+   "k": "como combatir la cochinilla algodonosa en las plantas",
+   "v": 40,
+   "hi": 0.17232815789473685
+  },
+  {
+   "k": "como combatir las cochinillas de las plantas",
+   "v": 40,
+   "hi": 0.03719797684210527
+  },
+  {
+   "k": "fungicida para pulgones",
+   "v": 40,
+   "hi": 0.1885327136842105
+  },
+  {
+   "k": "hongos comestibles champiñones",
+   "v": 40,
+   "hi": 0.18170131894736843
+  },
+  {
+   "k": "hongos en el césped solución",
+   "v": 40,
+   "hi": 0.20139099894736842
+  },
+  {
+   "k": "insecticida para pulgon verde",
+   "v": 40,
+   "hi": 0.16391955368421054
+  },
+  {
+   "k": "insecticida para pulgones en plantas",
+   "v": 40,
+   "hi": 0.25154265789473684
+  },
+  {
+   "k": "insecticida sistemico para pulgon",
+   "v": 40,
+   "hi": 0.35090791789473685
+  },
+  {
+   "k": "mamboreta hongos",
+   "v": 40,
+   "hi": 0.1826128789473684
+  },
+  {
+   "k": "mata pulgon casero",
+   "v": 40,
+   "hi": 0.11769926
+  },
+  {
+   "k": "matar pulgones de forma natural",
+   "v": 40,
+   "hi": 0.011671137894736842
+  },
+  {
+   "k": "pulgon del limonero",
+   "v": 40,
+   "hi": 0.16857380631578947
+  },
+  {
+   "k": "remedio casero para el pulgon de los rosales",
+   "v": 40,
+   "hi": 0.006996746315789473
+  },
+  {
+   "k": "remedio para los pulgones en las plantas",
+   "v": 40,
+   "hi": 0.16378917999999998
+  },
+  {
+   "k": "remedio para pulgones de plantas",
+   "v": 40,
+   "hi": 0.3108226294736842
+  },
+  {
+   "k": "veneno pulgon",
+   "v": 40,
+   "hi": 0.1975656305263158
+  },
+  {
+   "k": "albahaca hongos",
+   "v": 30,
+   "hi": 0
+  },
+  {
+   "k": "combatir pulgon de forma natural",
+   "v": 30,
+   "hi": 0.009029735789473683
+  },
+  {
+   "k": "como combatir cochinilla en plantas",
+   "v": 30,
+   "hi": 0.05023645473684211
+  },
+  {
+   "k": "como eliminar cochinilla algodonosa de las plantas",
+   "v": 30,
+   "hi": 0.6676355431578948
+  },
+  {
+   "k": "como erradicar la cochinilla algodonosa",
+   "v": 30,
+   "hi": 0.5333342452631579
+  },
+  {
+   "k": "como se elimina la cochinilla de las plantas",
+   "v": 30,
+   "hi": 0.20187857789473684
+  },
+  {
+   "k": "como tratar cochinilla algodonosa",
+   "v": 30,
+   "hi": 0.9184129157894736
+  },
+  {
+   "k": "hongos en rosales tratamiento",
+   "v": 30,
+   "hi": 0.19112217789473684
+  },
+  {
+   "k": "insecticida sistémico para pulgones",
+   "v": 30,
+   "hi": 0.16898188736842104
+  },
+  {
+   "k": "jabon para pulgon",
+   "v": 30,
+   "hi": 0.11887474736842105
+  },
+  {
+   "k": "mamboreta pulgones",
+   "v": 30,
+   "hi": 0.16212187473684211
+  },
+  {
+   "k": "mosquitos en tierra macetas",
+   "v": 30,
+   "hi": 0.4868924210526316
+  },
+  {
+   "k": "pulgon en jazmin",
+   "v": 30,
+   "hi": 0.16730504315789474
+  },
+  {
+   "k": "pulgones en rosales remedios caseros",
+   "v": 30,
+   "hi": 0.013453977894736843
+  },
+  {
+   "k": "remedio casero para eliminar pulgones",
+   "v": 30,
+   "hi": 0.027208983157894738
+  },
+  {
+   "k": "remedio casero para pulgones de plantas",
+   "v": 30,
+   "hi": 0.007557462105263158
+  },
+  {
+   "k": "remedio para los pulgones",
+   "v": 30,
+   "hi": 0.10599526210526315
+  },
+  {
+   "k": "remedios caseros araña roja",
+   "v": 30,
+   "hi": 0.04672695157894737
+  },
+  {
+   "k": "tratamiento para el pulgon",
+   "v": 30,
+   "hi": 0.04024746105263158
+  },
+  {
+   "k": "veneno para el pulgon de las plantas",
+   "v": 30,
+   "hi": 0.18618703894736843
+  },
+  {
+   "k": "mosquitos en las macetas",
+   "v": 20,
+   "hi": 0
+  },
+  {
+   "k": "anti pulgon",
+   "v": 20,
+   "hi": 1.4868506736842104
+  },
+  {
+   "k": "anti pulgones plantas",
+   "v": 20,
+   "hi": 0.20992361789473685
+  },
+  {
+   "k": "combatir pulgones en rosales",
+   "v": 20,
+   "hi": 0.06185353578947369
+  },
+  {
+   "k": "como combatir las cochinillas algodonosas",
+   "v": 20,
+   "hi": 0.09452869473684211
+  },
+  {
+   "k": "como limpiar la cochinilla de las plantas",
+   "v": 20,
+   "hi": 0.17517519052631578
+  },
+  {
+   "k": "como quitar la cochinilla del limonero",
+   "v": 20,
+   "hi": 0.44164728210526316
+  },
+  {
+   "k": "como sacar las cochinillas de las plantas",
+   "v": 20,
+   "hi": 0.17648953263157893
+  },
+  {
+   "k": "como se combate la cochinilla algodonosa",
+   "v": 20,
+   "hi": 0.4360867715789474
+  },
+  {
+   "k": "contra el pulgón de las plantas",
+   "v": 20,
+   "hi": 0.12129249894736842
+  },
+  {
+   "k": "control de pulgon en alfalfa",
+   "v": 20,
+   "hi": 0.2576585852631579
+  },
+  {
+   "k": "control químico de pulgones",
+   "v": 20,
+   "hi": 0.3056680789473684
+  },
+  {
+   "k": "insecticida ecologico pulgon",
+   "v": 20,
+   "hi": 0.15584377473684208
+  },
+  {
+   "k": "insecticida organico para pulgon",
+   "v": 20,
+   "hi": 0.13934031263157895
+  },
+  {
+   "k": "insecticida para arañuela roja",
+   "v": 20,
+   "hi": 0.29609034736842105
+  },
+  {
+   "k": "para los pulgones de las plantas",
+   "v": 20,
+   "hi": 0.08479620947368421
+  },
+  {
+   "k": "para pulgones",
+   "v": 20,
+   "hi": 0.19000710842105265
+  },
+  {
+   "k": "producto contra pulgon",
+   "v": 20,
+   "hi": 0.16407748736842107
+  },
+  {
+   "k": "pulgon de las rosas",
+   "v": 20,
+   "hi": 0.013509095789473685
+  },
+  {
+   "k": "pulgon rosal remedio casero",
+   "v": 20,
+   "hi": 0.01699316
+  },
+  {
+   "k": "pulgones en las plantas como eliminarlos",
+   "v": 20,
+   "hi": 0.017950296842105265
+  },
+  {
+   "k": "pulgón en alfalfa control químico",
+   "v": 20,
+   "hi": 0.22259005157894735
+  },
+  {
+   "k": "remedio casero para el pulgon blanco",
+   "v": 20,
+   "hi": 0.1384902305263158
+  },
+  {
+   "k": "remedio casero para eliminar pulgones de las plantas",
+   "v": 20,
+   "hi": 0.010179784210526316
+  },
+  {
+   "k": "remedio casero para los pulgones de las rosas",
+   "v": 20,
+   "hi": 0.009546992631578946
+  },
+  {
+   "k": "remedio casero para los pulgones en las plantas",
+   "v": 20,
+   "hi": 0.03450357789473684
+  },
+  {
+   "k": "remedio casero para matar pulgones en plantas",
+   "v": 20,
+   "hi": 0.0066999600000000005
+  },
+  {
+   "k": "remedio casero para pulgones en rosas",
+   "v": 20,
+   "hi": 0.009751563157894737
+  },
+  {
+   "k": "repelente para pulgones en plantas",
+   "v": 20,
+   "hi": 0.1848790568421053
+  },
+  {
+   "k": "tratamiento contra el pulgon",
+   "v": 20,
+   "hi": 0.4531753273684211
+  },
+  {
+   "k": "tratamiento para pulgones en plantas",
+   "v": 20,
+   "hi": 0.3156008957894737
+  },
+  {
+   "k": "tratamiento pulgon plantas",
+   "v": 20,
+   "hi": 0.38262276
+  },
+  {
+   "k": "veneno casero para pulgones de plantas",
+   "v": 20,
+   "hi": 0.009086973684210527
+  },
+  {
+   "k": "acabar con el pulgon",
+   "v": 10,
+   "hi": 0
+  },
+  {
+   "k": "combatir pulgones en rosas",
+   "v": 10,
+   "hi": 0.048449374736842105
+  },
+  {
+   "k": "como combatir la cochinilla con remedios caseros",
+   "v": 10,
+   "hi": 0.02441706842105263
+  },
+  {
+   "k": "como combatir pulgones y cochinillas",
+   "v": 10,
+   "hi": 0.11833311157894737
+  },
+  {
+   "k": "control pulgones",
+   "v": 10,
+   "hi": 1.2147555326315789
+  },
+  {
+   "k": "eliminar el pulgon en las plantas",
+   "v": 10,
+   "hi": 0.07852341052631578
+  },
+  {
+   "k": "insecticida casero para pulgones en las rosas",
+   "v": 10,
+   "hi": 0.14716276315789473
+  },
+  {
+   "k": "insecticida casero para pulgones y cochinillas",
+   "v": 10,
+   "hi": 0.02594446
+  },
+  {
+   "k": "insecticida para pulgones rosas",
+   "v": 10,
+   "hi": 0.16322528526315788
+  },
+  {
+   "k": "mamboreta pulgones y cochinillas",
+   "v": 10,
+   "hi": 0.2309361189473684
+  },
+  {
+   "k": "mata pulgon",
+   "v": 10,
+   "hi": 0.18602380631578946
+  },
+  {
+   "k": "plaga araña roja remedio casero",
+   "v": 10,
+   "hi": 0.07791181789473685
+  },
+  {
+   "k": "porque aparecen pulgones en las plantas",
+   "v": 10,
+   "hi": 0.1609845452631579
+  },
+  {
+   "k": "pulgon blanco en jazmin",
+   "v": 10,
+   "hi": 0.415012792631579
+  },
+  {
+   "k": "pulgones como eliminarlos naturalmente",
+   "v": 10,
+   "hi": 0.007235235789473684
+  },
+  {
+   "k": "pulgones en limonero remedio casero",
+   "v": 10,
+   "hi": 0.011762293684210527
+  },
+  {
+   "k": "pulgones en rosales insecticida",
+   "v": 10,
+   "hi": 0.03868085052631579
+  },
+  {
+   "k": "remedio casero contra pulgones plantas",
+   "v": 10,
+   "hi": 0.007538382105263158
+  },
+  {
+   "k": "remedio casero para el pulgon del limonero",
+   "v": 10,
+   "hi": 0.011875708421052632
+  },
+  {
+   "k": "remedio casero para matar pulgones",
+   "v": 10,
+   "hi": 0.009009596842105264
+  },
+  {
+   "k": "remedio casero para pulgon rosales",
+   "v": 10,
+   "hi": 0.021097296842105265
+  },
+  {
+   "k": "remedio casero para pulgones de las plantas",
+   "v": 10,
+   "hi": 0.009266105263157895
+  },
+  {
+   "k": "remedio casero para pulgones de rosas",
+   "v": 10,
+   "hi": 0.00986497894736842
+  },
+  {
+   "k": "remedio casero para pulgones en las plantas",
+   "v": 10,
+   "hi": 0.008416023157894737
+  },
+  {
+   "k": "remedio casero para pulgones jazmin",
+   "v": 10,
+   "hi": 0.03983725894736842
+  },
+  {
+   "k": "remedio contra pulgones en plantas",
+   "v": 10,
+   "hi": 0.3615244031578947
+  },
+  {
+   "k": "remedio para los pulgones de las rosas",
+   "v": 10,
+   "hi": 0.09060369052631578
+  },
+  {
+   "k": "remedio para pulgones en rosales",
+   "v": 10,
+   "hi": 0.06755926
+  },
+  {
+   "k": "remedios caseros para pulgones en rosales",
+   "v": 10,
+   "hi": 0.010247621052631578
+  },
+  {
+   "k": "remedios contra los pulgones en las plantas",
+   "v": 10,
+   "hi": 0.18019194631578947
+  },
+  {
+   "k": "sacar pulgones plantas",
+   "v": 10,
+   "hi": 0.011656298947368422
+  },
+  {
+   "k": "veneno casero para pulgones",
+   "v": 10,
+   "hi": 0.010402374736842105
+  },
+  {
+   "k": "veneno natural para pulgones",
+   "v": 10,
+   "hi": 0.008589855789473685
+  },
+  {
+   "k": "veneno para pulgones casero",
+   "v": 10,
+   "hi": 0.024089543157894733
+  },
+  {
+   "k": "veneno para pulgones rosas",
+   "v": 10,
+   "hi": 0.22113049684210526
+  },
+  {
+   "k": "araña blanca plantas ornamentales",
+   "v": 0,
+   "hi": 0
+  }
+ ],
+ "abono": [
+  {
+   "k": "humus de lombriz",
+   "v": 27100,
+   "hi": 0.3619982021052632
+  },
+  {
+   "k": "humus de lombriz liquido",
+   "v": 2900,
+   "hi": 0.3485357431578947
+  },
+  {
+   "k": "fertilizante casero para plantas",
+   "v": 2400,
+   "hi": 0.027325577894736844
+  },
+  {
+   "k": "humus de lombriz precio",
+   "v": 1600,
+   "hi": 0.2755866242105263
+  },
+  {
+   "k": "humus del suelo",
+   "v": 1600,
+   "hi": 0.3127952010526316
+  },
+  {
+   "k": "cascaras de huevo para las plantas",
+   "v": 1300,
+   "hi": 0.00868101157894737
+  },
+  {
+   "k": "cascara de huevo para plantas",
+   "v": 1000,
+   "hi": 0.010611185263157895
+  },
+  {
+   "k": "humus lombriz",
+   "v": 1000,
+   "hi": 0.74334796
+  },
+  {
+   "k": "humus liquido",
+   "v": 1000,
+   "hi": 0.4668232778947369
+  },
+  {
+   "k": "fertilizantes naturales",
+   "v": 1000,
+   "hi": 0.3833975852631579
+  },
+  {
+   "k": "abono natural para plantas",
+   "v": 1000,
+   "hi": 0.2764928831578948
+  },
+  {
+   "k": "fertilizante natural para plantas",
+   "v": 1000,
+   "hi": 0.31270616526315786
+  },
+  {
+   "k": "posos de cafe para plantas",
+   "v": 880,
+   "hi": 0.19079147263157895
+  },
+  {
+   "k": "compost casero",
+   "v": 880,
+   "hi": 0.08250565263157894
+  },
+  {
+   "k": "abono casero para plantas",
+   "v": 880,
+   "hi": 0.052080771578947374
+  },
+  {
+   "k": "abono casero para plantas en macetas",
+   "v": 880,
+   "hi": 0.03749158421052631
+  },
+  {
+   "k": "abono orgánico para las plantas",
+   "v": 880,
+   "hi": 0.4154028557894737
+  },
+  {
+   "k": "fertilizantes caseros",
+   "v": 720,
+   "hi": 0.24378910421052633
+  },
+  {
+   "k": "abono casero para cuna de moisés",
+   "v": 720,
+   "hi": 0.011263055789473685
+  },
+  {
+   "k": "humus de lombriz para plantas",
+   "v": 720,
+   "hi": 0.29554765157894736
+  },
+  {
+   "k": "humus tierra",
+   "v": 720,
+   "hi": 0.4757766968421053
+  },
+  {
+   "k": "abono casero",
+   "v": 590,
+   "hi": 0.23982806210526317
+  },
+  {
+   "k": "humus para plantas",
+   "v": 590,
+   "hi": 0.23845436315789473
+  },
+  {
+   "k": "fertilizante casero para acelerar crecimiento plantas",
+   "v": 590,
+   "hi": 0.23311008210526316
+  },
+  {
+   "k": "abono natural",
+   "v": 480,
+   "hi": 0
+  },
+  {
+   "k": "compost con lombrices",
+   "v": 480,
+   "hi": 0.22686272105263158
+  },
+  {
+   "k": "la cascara de huevo es buena para las plantas",
+   "v": 480,
+   "hi": 0.00827822947368421
+  },
+  {
+   "k": "comprar humus de lombriz",
+   "v": 390,
+   "hi": 0.7045950315789473
+  },
+  {
+   "k": "cascaras de huevo para plantas",
+   "v": 390,
+   "hi": 0.010993828421052631
+  },
+  {
+   "k": "humus de lombriz donde comprar",
+   "v": 390,
+   "hi": 0.4835175315789474
+  },
+  {
+   "k": "abono de lombriz",
+   "v": 320,
+   "hi": 0.5047250631578948
+  },
+  {
+   "k": "abonos naturales",
+   "v": 320,
+   "hi": 1.5290283084210525
+  },
+  {
+   "k": "abono humus de lombriz",
+   "v": 320,
+   "hi": 0.5538220694736842
+  },
+  {
+   "k": "abono casero para flor de pascua",
+   "v": 320,
+   "hi": 0
+  },
+  {
+   "k": "abono casero para plantas de interior",
+   "v": 320,
+   "hi": 0.12354383789473684
+  },
+  {
+   "k": "abono casero para tomateras",
+   "v": 320,
+   "hi": 0.011982764210526315
+  },
+  {
+   "k": "fertilizante para limonero casero",
+   "v": 320,
+   "hi": 0.03928290421052632
+  },
+  {
+   "k": "compost de lombriz",
+   "v": 260,
+   "hi": 0.2287960747368421
+  },
+  {
+   "k": "abono casero para tomates y pimientos",
+   "v": 260,
+   "hi": 0.01096626947368421
+  },
+  {
+   "k": "abono humus",
+   "v": 260,
+   "hi": 0.7385601536842106
+  },
+  {
+   "k": "cuál es el humus de lombriz",
+   "v": 260,
+   "hi": 0
+  },
+  {
+   "k": "cuál es el mejor abono casero para las plantas",
+   "v": 260,
+   "hi": 0.12883618210526315
+  },
+  {
+   "k": "fertilizante humus",
+   "v": 260,
+   "hi": 0.24984249368421052
+  },
+  {
+   "k": "humus de lombriz como se hace",
+   "v": 260,
+   "hi": 0.024874967368421055
+  },
+  {
+   "k": "humus planta",
+   "v": 260,
+   "hi": 0.49065631263157894
+  },
+  {
+   "k": "hacer compost casero",
+   "v": 210,
+   "hi": 0.07109844210526316
+  },
+  {
+   "k": "abono casero para citricos",
+   "v": 210,
+   "hi": 0.016420785263157895
+  },
+  {
+   "k": "abono casero para rosales",
+   "v": 210,
+   "hi": 0.029699872631578948
+  },
+  {
+   "k": "abono natural para orquideas",
+   "v": 210,
+   "hi": 0.23483250526315788
+  },
+  {
+   "k": "abono rico en nitrógeno fósforo y potasio casero",
+   "v": 210,
+   "hi": 0.23318957789473685
+  },
+  {
+   "k": "humus liquido para plantas",
+   "v": 210,
+   "hi": 0.2844086094736842
+  },
+  {
+   "k": "humus precio",
+   "v": 210,
+   "hi": 0.24378910421052633
+  },
+  {
+   "k": "posos cafe plantas",
+   "v": 210,
+   "hi": 0
+  },
+  {
+   "k": "humus de lombriz walmart",
+   "v": 170,
+   "hi": 0.28778455894736843
+  },
+  {
+   "k": "venta de humus de lombriz",
+   "v": 170,
+   "hi": 0.5817391021052631
+  },
+  {
+   "k": "abono casero para anturios",
+   "v": 170,
+   "hi": 0
+  },
+  {
+   "k": "abono casero para florecer anturios",
+   "v": 170,
+   "hi": 0.010259281052631578
+  },
+  {
+   "k": "abono con cascara de huevo",
+   "v": 170,
+   "hi": 0.024773212631578948
+  },
+  {
+   "k": "compost humus de lombriz",
+   "v": 170,
+   "hi": 0.25647779789473685
+  },
+  {
+   "k": "fertilizante casero para jazmín del cabo",
+   "v": 170,
+   "hi": 0.011581042105263157
+  },
+  {
+   "k": "fertilizante humus de lombriz",
+   "v": 170,
+   "hi": 0.41251448421052633
+  },
+  {
+   "k": "humus de lombriz liquido precio",
+   "v": 170,
+   "hi": 0.4982879715789474
+  },
+  {
+   "k": "las cascaras de huevo son buenas para las plantas",
+   "v": 170,
+   "hi": 0.0077535526315789475
+  },
+  {
+   "k": "mejor fertilizante para floración casero",
+   "v": 170,
+   "hi": 0.2543886305263158
+  },
+  {
+   "k": "saco de humus de lombriz",
+   "v": 170,
+   "hi": 0.45114445789473684
+  },
+  {
+   "k": "te de humus de lombriz",
+   "v": 170,
+   "hi": 0.90265672
+  },
+  {
+   "k": "tierra de humus de lombriz",
+   "v": 170,
+   "hi": 0.28577488842105264
+  },
+  {
+   "k": "hacer compost en casa",
+   "v": 140,
+   "hi": 0.13539198842105263
+  },
+  {
+   "k": "humus lombriz liquido",
+   "v": 140,
+   "hi": 0.5507884852631578
+  },
+  {
+   "k": "humus de lombriz amazon",
+   "v": 140,
+   "hi": 0.23266172210526317
+  },
+  {
+   "k": "abono casero para huerto",
+   "v": 140,
+   "hi": 0.19079147263157895
+  },
+  {
+   "k": "cascara de huevos para las plantas",
+   "v": 140,
+   "hi": 0.03843176210526316
+  },
+  {
+   "k": "fertilizante casero para limonero",
+   "v": 140,
+   "hi": 0.008758388421052631
+  },
+  {
+   "k": "fertilizante casero para orquideas",
+   "v": 140,
+   "hi": 0.022980832631578945
+  },
+  {
+   "k": "fertilizante casero para plantas de interior",
+   "v": 140,
+   "hi": 0.03186641578947368
+  },
+  {
+   "k": "fertilizante casero para tomateras",
+   "v": 140,
+   "hi": 0.01139979052631579
+  },
+  {
+   "k": "fertilizante para arboles frutales casero",
+   "v": 140,
+   "hi": 0.2196052252631579
+  },
+  {
+   "k": "humus de lombriz como usarlo",
+   "v": 140,
+   "hi": 0.2596544757894737
+  },
+  {
+   "k": "humus organico",
+   "v": 140,
+   "hi": 0
+  },
+  {
+   "k": "abono casero para arboles frutales",
+   "v": 110,
+   "hi": 0
+  },
+  {
+   "k": "cascara huevo plantas",
+   "v": 110,
+   "hi": 0.009050934736842105
+  },
+  {
+   "k": "fertilizante casero para floracion",
+   "v": 110,
+   "hi": 0.16651749789473683
+  },
+  {
+   "k": "fertilizante de lombrices",
+   "v": 110,
+   "hi": 0.27961974315789473
+  },
+  {
+   "k": "fertilizante natural para orquideas",
+   "v": 110,
+   "hi": 0.2119905252631579
+  },
+  {
+   "k": "fertilizante para arbol de limon",
+   "v": 110,
+   "hi": 0.19079147263157895
+  },
+  {
+   "k": "fertilizante para rosales casero",
+   "v": 110,
+   "hi": 0.0129717
+  },
+  {
+   "k": "humus de gusano",
+   "v": 110,
+   "hi": 0.34392176947368425
+  },
+  {
+   "k": "humus de lombriz como hacerlo",
+   "v": 110,
+   "hi": 0.10061388315789474
+  },
+  {
+   "k": "humus de lombriz precio leroy merlin",
+   "v": 110,
+   "hi": 0.33055046736842103
+  },
+  {
+   "k": "humus de lombriz precio por kilo",
+   "v": 110,
+   "hi": 0.2351865294736842
+  },
+  {
+   "k": "lixiviado de humus de lombriz",
+   "v": 110,
+   "hi": 0.20709990421052632
+  },
+  {
+   "k": "abono casero para buganvilla",
+   "v": 90,
+   "hi": 0
+  },
+  {
+   "k": "abono casero para hortensias",
+   "v": 90,
+   "hi": 0.01183437052631579
+  },
+  {
+   "k": "abono casero para limonero",
+   "v": 90,
+   "hi": 0.1960181
+  },
+  {
+   "k": "abono casero para limonero 4 estaciones",
+   "v": 90,
+   "hi": 0.010813635789473685
+  },
+  {
+   "k": "abono casero para pimientos",
+   "v": 90,
+   "hi": 0.02057792
+  },
+  {
+   "k": "abono natural para tomateras",
+   "v": 90,
+   "hi": 0.33610885894736847
+  },
+  {
+   "k": "cascara de huevo en las plantas",
+   "v": 90,
+   "hi": 0.007798070526315789
+  },
+  {
+   "k": "cascara de huevo en plantas",
+   "v": 90,
+   "hi": 0.009756863157894737
+  },
+  {
+   "k": "compost casero para plantas",
+   "v": 90,
+   "hi": 0.12334138736842105
+  },
+  {
+   "k": "compost lombriz californiana",
+   "v": 90,
+   "hi": 0.11658630947368422
+  },
+  {
+   "k": "fertilizante casero para geranios",
+   "v": 90,
+   "hi": 0.0080408
+  },
+  {
+   "k": "fertilizante natural para arboles frutales",
+   "v": 90,
+   "hi": 0.31208397263157894
+  },
+  {
+   "k": "fertilizante para rosas casero",
+   "v": 90,
+   "hi": 0.028274235789473686
+  },
+  {
+   "k": "fertilizante para tomates casero",
+   "v": 90,
+   "hi": 0.10439685368421052
+  },
+  {
+   "k": "fertilizantes para crecimiento y floración caseros",
+   "v": 90,
+   "hi": 0.2755866242105263
+  },
+  {
+   "k": "humus de lombriz 25 kg",
+   "v": 90,
+   "hi": 0.4292320578947369
+  },
+  {
+   "k": "humus de lombriz carrefour",
+   "v": 90,
+   "hi": 0.4259907221052632
+  },
+  {
+   "k": "lombricomposta precio",
+   "v": 90,
+   "hi": 0.28077933157894736
+  },
+  {
+   "k": "humus de lombriz 50 litros",
+   "v": 70,
+   "hi": 0.9128131863157894
+  },
+  {
+   "k": "abono casero para azaleas",
+   "v": 70,
+   "hi": 0.01611127894736842
+  },
+  {
+   "k": "abono casero para cactus",
+   "v": 70,
+   "hi": 0
+  },
+  {
+   "k": "abono con lombrices",
+   "v": 70,
+   "hi": 0.6934305505263157
+  },
+  {
+   "k": "abono natural para limonero",
+   "v": 70,
+   "hi": 0.27516794210526313
+  },
+  {
+   "k": "abono para limonero casero",
+   "v": 70,
+   "hi": 0.2562128094736842
+  },
+  {
+   "k": "cafe como fertilizante",
+   "v": 70,
+   "hi": 0.006056568421052631
+  },
+  {
+   "k": "comprar humus",
+   "v": 70,
+   "hi": 0.5310966852631579
+  },
+  {
+   "k": "es buena la cascara de huevo para las plantas",
+   "v": 70,
+   "hi": 0.006402113684210526
+  },
+  {
+   "k": "fertilizante casero para palo de agua",
+   "v": 70,
+   "hi": 0.008666172631578947
+  },
+  {
+   "k": "humus de lombriz californiana",
+   "v": 70,
+   "hi": 0.37712266631578945
+  },
+  {
+   "k": "humus de lombriz mercado libre",
+   "v": 70,
+   "hi": 0.6593615526315789
+  },
+  {
+   "k": "humus liquido precio",
+   "v": 70,
+   "hi": 0.3163089442105263
+  },
+  {
+   "k": "humus lombriz leroy merlin",
+   "v": 70,
+   "hi": 0.24314889368421053
+  },
+  {
+   "k": "restos de cafe para las plantas",
+   "v": 70,
+   "hi": 0.09551869052631579
+  },
+  {
+   "k": "tierra de humus",
+   "v": 70,
+   "hi": 0.3969406
+  },
+  {
+   "k": "humus de lombriz barato",
+   "v": 50,
+   "hi": 0.5582134536842105
+  },
+  {
+   "k": "lombrices para humus",
+   "v": 50,
+   "hi": 0.3972829652631579
+  },
+  {
+   "k": "abono casero para engordar tomates",
+   "v": 50,
+   "hi": 0
+  },
+  {
+   "k": "abono casero para suculentas",
+   "v": 50,
+   "hi": 0.008091677894736842
+  },
+  {
+   "k": "abono natural para citricos",
+   "v": 50,
+   "hi": 0.47462346842105263
+  },
+  {
+   "k": "abono natural para plantas de interior",
+   "v": 50,
+   "hi": 0.5997370978947368
+  },
+  {
+   "k": "abono para palmeras casero",
+   "v": 50,
+   "hi": 0.44665025894736843
+  },
+  {
+   "k": "cascara huevo para plantas",
+   "v": 50,
+   "hi": 0.007216156842105264
+  },
+  {
+   "k": "fertilizante casero para cactus",
+   "v": 50,
+   "hi": 0.006398933684210526
+  },
+  {
+   "k": "fertilizante casero para potus",
+   "v": 50,
+   "hi": 0.008890882105263159
+  },
+  {
+   "k": "fertilizante líquido para plantas casero",
+   "v": 50,
+   "hi": 0.041069984210526315
+  },
+  {
+   "k": "fertilizante natural para limonero",
+   "v": 50,
+   "hi": 0.22259005157894735
+  },
+  {
+   "k": "fertilizante natural para tomates",
+   "v": 50,
+   "hi": 0.20139099894736842
+  },
+  {
+   "k": "fertilizante para hortensias casero",
+   "v": 50,
+   "hi": 0.01234102842105263
+  },
+  {
+   "k": "fertilizante para orquideas natural",
+   "v": 50,
+   "hi": 0.2922649778947368
+  },
+  {
+   "k": "humus de lombriz 40l",
+   "v": 50,
+   "hi": 0.6957189884210526
+  },
+  {
+   "k": "humus de lombriz al por mayor",
+   "v": 50,
+   "hi": 0.6789982357894737
+  },
+  {
+   "k": "humus de lombriz fertilizante",
+   "v": 50,
+   "hi": 0.28771036210526313
+  },
+  {
+   "k": "humus de lombriz para huerto",
+   "v": 50,
+   "hi": 0.3895283515789474
+  },
+  {
+   "k": "humus lombricompuesto",
+   "v": 50,
+   "hi": 0.2119905252631579
+  },
+  {
+   "k": "para que sirve la cascara de huevo para las plantas",
+   "v": 50,
+   "hi": 0.011224897894736843
+  },
+  {
+   "k": "sirve la cascara de huevo para las plantas",
+   "v": 50,
+   "hi": 0.007949644210526316
+  },
+  {
+   "k": "sustrato humus de lombriz",
+   "v": 50,
+   "hi": 0.24378910421052633
+  },
+  {
+   "k": "humus de lombriz 1000 kg",
+   "v": 40,
+   "hi": 0.5899113368421052
+  },
+  {
+   "k": "amazon humus de lombriz",
+   "v": 40,
+   "hi": 0.46510721368421054
+  },
+  {
+   "k": "abono cascara de huevo",
+   "v": 40,
+   "hi": 0
+  },
+  {
+   "k": "abono casero para limon",
+   "v": 40,
+   "hi": 0.00872764947368421
+  },
+  {
+   "k": "abono organico humus de lombriz",
+   "v": 40,
+   "hi": 0.6637296178947368
+  },
+  {
+   "k": "beneficios de la cascara de huevo para las plantas",
+   "v": 40,
+   "hi": 0.011564083157894738
+  },
+  {
+   "k": "fertilizante casero para helechos",
+   "v": 40,
+   "hi": 0.009201448421052633
+  },
+  {
+   "k": "fertilizante casero para rosales",
+   "v": 40,
+   "hi": 0.033887745263157895
+  },
+  {
+   "k": "fertilizante casero para rosas",
+   "v": 40,
+   "hi": 0.00850294
+  },
+  {
+   "k": "fertilizante casero para santa rita",
+   "v": 40,
+   "hi": 0.23318957789473685
+  },
+  {
+   "k": "fertilizante de banana y cáscara de huevo",
+   "v": 40,
+   "hi": 0.20139099894736842
+  },
+  {
+   "k": "fertilizante para floracion casero",
+   "v": 40,
+   "hi": 0.26498815684210525
+  },
+  {
+   "k": "humus de lombriz saco",
+   "v": 40,
+   "hi": 1.0475808642105262
+  },
+  {
+   "k": "humus lombrisol",
+   "v": 40,
+   "hi": 0.28442980842105264
+  },
+  {
+   "k": "lombrices vermicompostaje",
+   "v": 40,
+   "hi": 0.9993095610526316
+  },
+  {
+   "k": "venta de humus",
+   "v": 40,
+   "hi": 0.31479851157894734
+  },
+  {
+   "k": "comprar humus de lombriz barato",
+   "v": 30,
+   "hi": 1.0052251568421053
+  },
+  {
+   "k": "abono casero orquideas",
+   "v": 30,
+   "hi": 0
+  },
+  {
+   "k": "abono casero para floracion",
+   "v": 30,
+   "hi": 0.00894282
+  },
+  {
+   "k": "abono casero para jazmin",
+   "v": 30,
+   "hi": 0.01612505894736842
+  },
+  {
+   "k": "abono de lombriz liquido",
+   "v": 30,
+   "hi": 0.2626605010526316
+  },
+  {
+   "k": "abono liquido casero para plantas",
+   "v": 30,
+   "hi": 0.006297177894736843
+  },
+  {
+   "k": "comprar humus de lombriz liquido",
+   "v": 30,
+   "hi": 0.7308564178947368
+  },
+  {
+   "k": "ecocelta humus de lombriz",
+   "v": 30,
+   "hi": 1.4560389105263158
+  },
+  {
+   "k": "fertilizante casero para cuna de moisés",
+   "v": 30,
+   "hi": 0.00717375894736842
+  },
+  {
+   "k": "fertilizante casero para jazmin",
+   "v": 30,
+   "hi": 0.02241799789473684
+  },
+  {
+   "k": "fertilizante con cafe",
+   "v": 30,
+   "hi": 0.20139099894736842
+  },
+  {
+   "k": "fertilizante de humus de lombriz",
+   "v": 30,
+   "hi": 0.37406152315789476
+  },
+  {
+   "k": "fertilizante natural para pasto",
+   "v": 30,
+   "hi": 0.260160072631579
+  },
+  {
+   "k": "fertilizante natural para rosas",
+   "v": 30,
+   "hi": 0.24378910421052633
+  },
+  {
+   "k": "fertilizante para cactus y suculentas casero",
+   "v": 30,
+   "hi": 0.015721216842105264
+  },
+  {
+   "k": "fertilizante para césped casero",
+   "v": 30,
+   "hi": 0.2119905252631579
+  },
+  {
+   "k": "humus de lombriz a granel",
+   "v": 30,
+   "hi": 0.559561712631579
+  },
+  {
+   "k": "humus de lombriz en amazon",
+   "v": 30,
+   "hi": 0.2670031273684211
+  },
+  {
+   "k": "humus de lombriz granulado",
+   "v": 30,
+   "hi": 0.3752603294736842
+  },
+  {
+   "k": "humus de lombriz líquido 1000 litros",
+   "v": 30,
+   "hi": 0.5333872431578948
+  },
+  {
+   "k": "humus de lombriz organico",
+   "v": 30,
+   "hi": 0.710556205263158
+  },
+  {
+   "k": "poner cascara de huevo a las plantas",
+   "v": 30,
+   "hi": 0.57237442
+  },
+  {
+   "k": "comprar humus de lombriz a granel",
+   "v": 20,
+   "hi": 0.5900427705263157
+  },
+  {
+   "k": "abono cactus casero",
+   "v": 20,
+   "hi": 0
+  },
+  {
+   "k": "abono lombriz humus",
+   "v": 20,
+   "hi": 1.012720082105263
+  },
+  {
+   "k": "abono natural para cesped",
+   "v": 20,
+   "hi": 0.1978846757894737
+  },
+  {
+   "k": "abono natural plantas",
+   "v": 20,
+   "hi": 0.48108282
+  },
+  {
+   "k": "abono para cactus y suculentas casero",
+   "v": 20,
+   "hi": 0.006512348421052631
+  },
+  {
+   "k": "abono para plantas de interior casero",
+   "v": 20,
+   "hi": 0.9822793021052632
+  },
+  {
+   "k": "abono para suculentas casero",
+   "v": 20,
+   "hi": 0.03780003052631579
+  },
+  {
+   "k": "cascara de huevo como fertilizante para plantas",
+   "v": 20,
+   "hi": 0.009534273684210526
+  },
+  {
+   "k": "compost en casa como hacer",
+   "v": 20,
+   "hi": 0.11659478842105264
+  },
+  {
+   "k": "compost para plantas casero",
+   "v": 20,
+   "hi": 0.02981858736842105
+  },
+  {
+   "k": "fertilizante npk casero",
+   "v": 20,
+   "hi": 0.07326392526315789
+  },
+  {
+   "k": "fertilizante para las plantas casero",
+   "v": 20,
+   "hi": 0.3099958663157895
+  },
+  {
+   "k": "fertilizantes caseros para plantas frutales",
+   "v": 20,
+   "hi": 0.1446326557894737
+  },
+  {
+   "k": "humus de lombriz 20 kg",
+   "v": 20,
+   "hi": 0.6981324999999999
+  },
+  {
+   "k": "humus de lombriz 50 kg",
+   "v": 20,
+   "hi": 0.5194711242105263
+  },
+  {
+   "k": "humus de lombriz puro",
+   "v": 20,
+   "hi": 0.2033879505263158
+  },
+  {
+   "k": "humus liquido concentrado",
+   "v": 20,
+   "hi": 0.22259005157894735
+  },
+  {
+   "k": "precio de la lombricomposta",
+   "v": 20,
+   "hi": 0.28567101263157896
+  },
+  {
+   "k": "sustrato de humus de lombriz",
+   "v": 20,
+   "hi": 0.2455793642105263
+  },
+  {
+   "k": "tierra humus de lombriz precio",
+   "v": 20,
+   "hi": 0.4348572263157895
+  },
+  {
+   "k": "crickwoo humus de lombriz",
+   "v": 10,
+   "hi": 0
+  },
+  {
+   "k": "abono casero para malvones",
+   "v": 10,
+   "hi": 0.009014896842105264
+  },
+  {
+   "k": "abono casero para potus",
+   "v": 10,
+   "hi": 0.008178593684210526
+  },
+  {
+   "k": "abono para potus casero",
+   "v": 10,
+   "hi": 0.007030665263157895
+  },
+  {
+   "k": "cascara de huevo molida para las plantas",
+   "v": 10,
+   "hi": 0.006455110526315789
+  },
+  {
+   "k": "compost casero en balde sin lombrices",
+   "v": 10,
+   "hi": 0.14373381578947367
+  },
+  {
+   "k": "compost de lombriz californiana",
+   "v": 10,
+   "hi": 0.2785385915789474
+  },
+  {
+   "k": "fertilizante casero con cascara de banana",
+   "v": 10,
+   "hi": 0.00938376
+  },
+  {
+   "k": "fertilizante casero para azaleas",
+   "v": 10,
+   "hi": 0.018883055789473684
+  },
+  {
+   "k": "fertilizante casero para cactus y suculentas",
+   "v": 10,
+   "hi": 0.008018541052631578
+  },
+  {
+   "k": "fertilizante casero para tomates y pimientos",
+   "v": 10,
+   "hi": 0.012348447368421053
+  },
+  {
+   "k": "fertilizante con cáscara de banana huevo y café",
+   "v": 10,
+   "hi": 0.06591527368421052
+  },
+  {
+   "k": "fertilizante natural para cesped",
+   "v": 10,
+   "hi": 0.22259005157894735
+  },
+  {
+   "k": "fertilizante natural para huerta",
+   "v": 10,
+   "hi": 0.4839966305263158
+  },
+  {
+   "k": "fertilizante para jazmin casero",
+   "v": 10,
+   "hi": 0.01254665894736842
+  },
+  {
+   "k": "humus 25 kg",
+   "v": 10,
+   "hi": 1.3690856957894737
+  },
+  {
+   "k": "humus de lombriz ecologico",
+   "v": 10,
+   "hi": 1.086547902105263
+  },
+  {
+   "k": "humus de lombriz lombrimur",
+   "v": 10,
+   "hi": 1.3531058505263158
+  },
+  {
+   "k": "kilo de humus de lombriz precio",
+   "v": 10,
+   "hi": 0.24987959263157897
+  }
+ ],
+ "listas": [
+  {
+   "k": "plantas colgantes",
+   "v": 14800,
+   "hi": 0.35439728210526317
+  },
+  {
+   "k": "plantas de sol",
+   "v": 12100,
+   "hi": 0.34978436736842106
+  },
+  {
+   "k": "plantas de interior poca luz",
+   "v": 8100,
+   "hi": 0.10964679894736841
+  },
+  {
+   "k": "plantas para baño",
+   "v": 5400,
+   "hi": 0.16832683684210525
+  },
+  {
+   "k": "plantas toxicas para gatos",
+   "v": 4400,
+   "hi": 0.1672552252631579
+  },
+  {
+   "k": "plantas de sol directo",
+   "v": 4400,
+   "hi": 0.49739655157894735
+  },
+  {
+   "k": "plantas de sol y poca agua",
+   "v": 4400,
+   "hi": 0
+  },
+  {
+   "k": "plantas para el bano",
+   "v": 4400,
+   "hi": 0.12099677263157894
+  },
+  {
+   "k": "plantas colgantes artificiales",
+   "v": 3600,
+   "hi": 0.44790630315789476
+  },
+  {
+   "k": "plantas colgantes interior",
+   "v": 3600,
+   "hi": 0.28185836315789475
+  },
+  {
+   "k": "plantas colgantes exterior",
+   "v": 2900,
+   "hi": 0.34458424
+  },
+  {
+   "k": "plantas colgantes de interior",
+   "v": 2900,
+   "hi": 0.15242542736842105
+  },
+  {
+   "k": "plantas resistentes al sol y al calor",
+   "v": 2900,
+   "hi": 0.24140209157894738
+  },
+  {
+   "k": "plantas de exterior resistentes todo el año",
+   "v": 2400,
+   "hi": 0.19099180421052633
+  },
+  {
+   "k": "plantas que no necesitan luz",
+   "v": 2400,
+   "hi": 0.12710103894736843
+  },
+  {
+   "k": "plantas de sol y sombra",
+   "v": 2400,
+   "hi": 0.16826218
+  },
+  {
+   "k": "plantas de exterior resistentes",
+   "v": 1900,
+   "hi": 0.21370022947368422
+  },
+  {
+   "k": "plantas para gatos",
+   "v": 1900,
+   "hi": 0.30520806
+  },
+  {
+   "k": "plantas de exterior resistentes todo el año en macetas",
+   "v": 1900,
+   "hi": 0.21046207368421055
+  },
+  {
+   "k": "plantas de flores de sombra",
+   "v": 1900,
+   "hi": 0.0513292652631579
+  },
+  {
+   "k": "plantas toxicas para perros",
+   "v": 1900,
+   "hi": 0.07324590631578948
+  },
+  {
+   "k": "plantas resistentes al sol",
+   "v": 1600,
+   "hi": 0.2326002452631579
+  },
+  {
+   "k": "plantas colgantes de sol",
+   "v": 1600,
+   "hi": 0.6067932021052631
+  },
+  {
+   "k": "plantas resistentes al sol directo",
+   "v": 1600,
+   "hi": 0.22325888210526315
+  },
+  {
+   "k": "plantas de interior que no necesitan luz",
+   "v": 1300,
+   "hi": 0.10720996842105263
+  },
+  {
+   "k": "plantas que purifican el aire",
+   "v": 1300,
+   "hi": 0.1582996852631579
+  },
+  {
+   "k": "plantas de sol directo que florecen todo el año",
+   "v": 1300,
+   "hi": 0.14839336736842107
+  },
+  {
+   "k": "plantas que cuelgan",
+   "v": 1300,
+   "hi": 0.25154795789473683
+  },
+  {
+   "k": "plantas para exteriores resistentes al sol",
+   "v": 1300,
+   "hi": 0.5405758410526316
+  },
+  {
+   "k": "plantas para interior con poca luz",
+   "v": 1300,
+   "hi": 0.08440084736842106
+  },
+  {
+   "k": "plantas de sol para jardin",
+   "v": 1300,
+   "hi": 0.5617748936842105
+  },
+  {
+   "k": "plantas para el baño que absorben humedad",
+   "v": 1300,
+   "hi": 0.06336502736842105
+  },
+  {
+   "k": "plantas de exterior resistentes al sol",
+   "v": 1000,
+   "hi": 0.27209408
+  },
+  {
+   "k": "plantas de exterior resistentes al frío y calor",
+   "v": 1000,
+   "hi": 0.24028278105263157
+  },
+  {
+   "k": "plantas para sol",
+   "v": 1000,
+   "hi": 0.35094713578947373
+  },
+  {
+   "k": "plantas colgantes de exterior",
+   "v": 1000,
+   "hi": 0.17858399894736843
+  },
+  {
+   "k": "plantas de interior que necesitan poca luz",
+   "v": 1000,
+   "hi": 0.08370657894736841
+  },
+  {
+   "k": "plantas de luz solares",
+   "v": 1000,
+   "hi": 0.3603838936842105
+  },
+  {
+   "k": "plantas que no necesitan sol",
+   "v": 1000,
+   "hi": 0.06888950105263157
+  },
+  {
+   "k": "plantas para sol directo",
+   "v": 1000,
+   "hi": 0.26785426947368424
+  },
+  {
+   "k": "plantas trepadoras de sol",
+   "v": 1000,
+   "hi": 0.19998550210526317
+  },
+  {
+   "k": "plantas para baños cerrados",
+   "v": 1000,
+   "hi": 0.20173442421052631
+  },
+  {
+   "k": "plantas colgantes de sombra",
+   "v": 880,
+   "hi": 0.32828640842105267
+  },
+  {
+   "k": "plantas que necesitan poca luz",
+   "v": 880,
+   "hi": 0.10720996842105263
+  },
+  {
+   "k": "plantas resistentes al sol y poca agua",
+   "v": 880,
+   "hi": 0.23318957789473685
+  },
+  {
+   "k": "plantas que florecen todo el año y resistente al sol",
+   "v": 880,
+   "hi": 0.1798040042105263
+  },
+  {
+   "k": "plantas para pleno sol en macetas",
+   "v": 880,
+   "hi": 0.10355843157894737
+  },
+  {
+   "k": "flores y plantas de sol",
+   "v": 880,
+   "hi": 0.12413953157894736
+  },
+  {
+   "k": "nombres plantas de sombra",
+   "v": 880,
+   "hi": 0
+  },
+  {
+   "k": "plantas para interiores sin luz",
+   "v": 720,
+   "hi": 0.25154477789473684
+  },
+  {
+   "k": "flor plantas colgantes",
+   "v": 720,
+   "hi": 0
+  },
+  {
+   "k": "planta colgantes con flores",
+   "v": 720,
+   "hi": 0.15045391578947367
+  },
+  {
+   "k": "planta para exterior sombra",
+   "v": 720,
+   "hi": 0.26823797263157895
+  },
+  {
+   "k": "planta para recamara",
+   "v": 720,
+   "hi": 0.4277258642105263
+  },
+  {
+   "k": "plantas para macetas exterior resistentes",
+   "v": 590,
+   "hi": 0.24273445157894735
+  },
+  {
+   "k": "plantas colgantes para interior",
+   "v": 590,
+   "hi": 0.2303626842105263
+  },
+  {
+   "k": "plantas para colgar",
+   "v": 590,
+   "hi": 0.10298923684210527
+  },
+  {
+   "k": "plantas de poca luz",
+   "v": 590,
+   "hi": 0.20769771789473682
+  },
+  {
+   "k": "plantas de exterior resistentes al sol y poca agua",
+   "v": 590,
+   "hi": 0.08003066315789473
+  },
+  {
+   "k": "plantas de mucho sol",
+   "v": 590,
+   "hi": 0.3964095642105263
+  },
+  {
+   "k": "planta de baño",
+   "v": 590,
+   "hi": 0.27405181263157896
+  },
+  {
+   "k": "planta para baño con poca luz",
+   "v": 590,
+   "hi": 0.04762579157894736
+  },
+  {
+   "k": "planta para baño sin luz",
+   "v": 590,
+   "hi": 0.12419146947368422
+  },
+  {
+   "k": "plantas colgantes de sol directo",
+   "v": 590,
+   "hi": 0
+  },
+  {
+   "k": "plantas del sol",
+   "v": 590,
+   "hi": 0.4983430884210526
+  },
+  {
+   "k": "plantas para terrazas a pleno sol",
+   "v": 590,
+   "hi": 0.18629515368421054
+  },
+  {
+   "k": "macetas para plantas colgantes",
+   "v": 480,
+   "hi": 0.3607644168421053
+  },
+  {
+   "k": "plantas de interior que purifican el aire",
+   "v": 480,
+   "hi": 0.2414254105263158
+  },
+  {
+   "k": "flores plantas de sol y poca agua",
+   "v": 480,
+   "hi": 0
+  },
+  {
+   "k": "planta para poner en el baño",
+   "v": 480,
+   "hi": 0.10055240631578947
+  },
+  {
+   "k": "plantas colgantes exterior todo el año",
+   "v": 480,
+   "hi": 0.12466314842105264
+  },
+  {
+   "k": "plantas de exterior resistentes al frío y calor para macetas",
+   "v": 480,
+   "hi": 0.2025081894736842
+  },
+  {
+   "k": "plantas de interior no toxicas para gatos",
+   "v": 480,
+   "hi": 0.13322438526315789
+  },
+  {
+   "k": "plantas de interior q no necesitan mucha luz",
+   "v": 480,
+   "hi": 0.13088083052631577
+  },
+  {
+   "k": "plantas que aguantan heladas y mucho sol",
+   "v": 480,
+   "hi": 0.11852178315789473
+  },
+  {
+   "k": "plantas de exterior resistentes al sol y al frío",
+   "v": 390,
+   "hi": 0.16914300105263158
+  },
+  {
+   "k": "plantas trepadoras resistentes exterior",
+   "v": 390,
+   "hi": 0.5073166473684211
+  },
+  {
+   "k": "plantas que cuelgan interior",
+   "v": 390,
+   "hi": 0.1945458252631579
+  },
+  {
+   "k": "plantas que duran todo el año exterior",
+   "v": 390,
+   "hi": 0.15439905999999998
+  },
+  {
+   "k": "plantas de interior sin luz",
+   "v": 390,
+   "hi": 0.13251951684210525
+  },
+  {
+   "k": "plantas que limpian el aire",
+   "v": 390,
+   "hi": 0.2119905252631579
+  },
+  {
+   "k": "planta de calor",
+   "v": 390,
+   "hi": 0
+  },
+  {
+   "k": "planta de gatos",
+   "v": 390,
+   "hi": 0.042125696842105265
+  },
+  {
+   "k": "planta de pleno sol",
+   "v": 390,
+   "hi": 0.11325911789473685
+  },
+  {
+   "k": "planta de semisombra",
+   "v": 390,
+   "hi": 0.16244834
+  },
+  {
+   "k": "planta para el baño sin luz",
+   "v": 390,
+   "hi": 0.05176066631578947
+  },
+  {
+   "k": "plantas de exterior a la sombra",
+   "v": 390,
+   "hi": 0.09019984842105264
+  },
+  {
+   "k": "plantas de exterior de verano",
+   "v": 390,
+   "hi": 0.09620129999999999
+  },
+  {
+   "k": "plantas de interior poca luz resistentes",
+   "v": 390,
+   "hi": 0.14238661684210527
+  },
+  {
+   "k": "plantas para el baño sin ventana",
+   "v": 390,
+   "hi": 0.11384209157894737
+  },
+  {
+   "k": "plantas que aguantan el sol directo",
+   "v": 390,
+   "hi": 0.24579347473684213
+  },
+  {
+   "k": "plantas que no necesiten mucha luz",
+   "v": 390,
+   "hi": 0.10781096105263158
+  },
+  {
+   "k": "plantas de aire colgantes",
+   "v": 320,
+   "hi": 0.2554093652631579
+  },
+  {
+   "k": "plantas colgantes naturales",
+   "v": 320,
+   "hi": 0.2498361347368421
+  },
+  {
+   "k": "plantas para purificar el aire",
+   "v": 320,
+   "hi": 0.08102277894736841
+  },
+  {
+   "k": "nombres de plantas de sol",
+   "v": 320,
+   "hi": 0
+  },
+  {
+   "k": "planta que cuelgan exterior",
+   "v": 320,
+   "hi": 0.11537478315789473
+  },
+  {
+   "k": "plantas para terraza con mucho sol",
+   "v": 320,
+   "hi": 0.2459312694736842
+  },
+  {
+   "k": "plantas toxicas para los gatos",
+   "v": 320,
+   "hi": 0.10697889894736842
+  },
+  {
+   "k": "plantas colgantes artificiales realistas",
+   "v": 260,
+   "hi": 0.4570144757894737
+  },
+  {
+   "k": "plantas de exterior resistentes al frío y calor con flores",
+   "v": 260,
+   "hi": 0.18901075263157896
+  },
+  {
+   "k": "plantas para gatos interior",
+   "v": 260,
+   "hi": 0.23542925789473684
+  },
+  {
+   "k": "plantas colgantes interior poca luz",
+   "v": 260,
+   "hi": 0.26577146210526315
+  },
+  {
+   "k": "gatos plantas toxicas",
+   "v": 260,
+   "hi": 0.20320881789473683
+  },
+  {
+   "k": "jardin con plantas de sol",
+   "v": 260,
+   "hi": 0
+  },
+  {
+   "k": "plantas colgantes para exteriores",
+   "v": 260,
+   "hi": 0.34184320315789474
+  },
+  {
+   "k": "plantas de exteriores resistentes",
+   "v": 260,
+   "hi": 0.24654710105263156
+  },
+  {
+   "k": "plantas que oxigenan la casa",
+   "v": 260,
+   "hi": 0.2173613052631579
+  },
+  {
+   "k": "plantas que pueden comer los gatos",
+   "v": 260,
+   "hi": 0.46661658631578945
+  },
+  {
+   "k": "plantas que purifican el aire dentro de la casa",
+   "v": 260,
+   "hi": 0.3691804410526316
+  },
+  {
+   "k": "plantas que requieren poca agua y mucho sol",
+   "v": 260,
+   "hi": 0.27344127999999995
+  },
+  {
+   "k": "plantas para terrazas todo el año",
+   "v": 210,
+   "hi": 0.35907697263157895
+  },
+  {
+   "k": "plantas para colgar exterior",
+   "v": 210,
+   "hi": 0.19714694947368422
+  },
+  {
+   "k": "plantas que soportan mucho sol",
+   "v": 210,
+   "hi": 0.09307126
+  },
+  {
+   "k": "balcones con plantas colgantes",
+   "v": 210,
+   "hi": 0.17337645157894738
+  },
+  {
+   "k": "planta para pleno sol",
+   "v": 210,
+   "hi": 0.10681778631578946
+  },
+  {
+   "k": "plantas de calor y sol",
+   "v": 210,
+   "hi": 0
+  },
+  {
+   "k": "plantas de interior aptas para gatos",
+   "v": 210,
+   "hi": 0.1383068589473684
+  },
+  {
+   "k": "plantas para baño sin luz natural",
+   "v": 210,
+   "hi": 0.05987354421052631
+  },
+  {
+   "k": "plantas para decorar baños pequeños",
+   "v": 210,
+   "hi": 0.19079147263157895
+  },
+  {
+   "k": "plantas para exterior resistentes",
+   "v": 210,
+   "hi": 0.21820396842105264
+  },
+  {
+   "k": "plantas para exterior resistentes al sol",
+   "v": 210,
+   "hi": 1.4052247810526315
+  },
+  {
+   "k": "plantas para habitacion con poca luz",
+   "v": 210,
+   "hi": 0.08690021578947368
+  },
+  {
+   "k": "plantas para interior sin luz natural",
+   "v": 210,
+   "hi": 0.08735705578947368
+  },
+  {
+   "k": "plantas para poca luz",
+   "v": 210,
+   "hi": 0.06989857578947369
+  },
+  {
+   "k": "plantas de jardin resistentes al sol",
+   "v": 170,
+   "hi": 0.48303949263157897
+  },
+  {
+   "k": "plantas para jardín de sol",
+   "v": 170,
+   "hi": 0.2584440094736842
+  },
+  {
+   "k": "colgante planta de hojas moradas",
+   "v": 170,
+   "hi": 0
+  },
+  {
+   "k": "planta de dormitorio",
+   "v": 170,
+   "hi": 0.16938466947368422
+  },
+  {
+   "k": "planta de interior que no necesita luz",
+   "v": 170,
+   "hi": 0.06748930315789474
+  },
+  {
+   "k": "planta de interior que no necesiten mucha luz",
+   "v": 170,
+   "hi": 0.07935971263157895
+  },
+  {
+   "k": "planta para decorar el baño",
+   "v": 170,
+   "hi": 0.22926033368421053
+  },
+  {
+   "k": "plantas colgantes exterior resistentes al sol",
+   "v": 170,
+   "hi": 0.1900728252631579
+  },
+  {
+   "k": "plantas de interior seguras para gatos",
+   "v": 170,
+   "hi": 0.17273518
+  },
+  {
+   "k": "plantas para el baño feng shui",
+   "v": 170,
+   "hi": 0.037135440000000006
+  },
+  {
+   "k": "plantas para jardín exterior resistentes al sol",
+   "v": 170,
+   "hi": 0.35566286526315793
+  },
+  {
+   "k": "plantas que soportan el sol directo",
+   "v": 170,
+   "hi": 0.41109626736842103
+  },
+  {
+   "k": "plantas para colgar interior",
+   "v": 140,
+   "hi": 0.12527898105263158
+  },
+  {
+   "k": "baño de plantas para la buena suerte",
+   "v": 140,
+   "hi": 0
+  },
+  {
+   "k": "colgar planta del techo",
+   "v": 140,
+   "hi": 0.23321713684210524
+  },
+  {
+   "k": "planta de poco sol",
+   "v": 140,
+   "hi": 0.20899827999999998
+  },
+  {
+   "k": "planta del aire colgante",
+   "v": 140,
+   "hi": 0.20148957473684212
+  },
+  {
+   "k": "planta para ducha",
+   "v": 140,
+   "hi": 0.4911725094736842
+  },
+  {
+   "k": "planta para la humedad del baño",
+   "v": 140,
+   "hi": 0.031161547368421055
+  },
+  {
+   "k": "planta que necesita mucho sol",
+   "v": 140,
+   "hi": 0.14193401684210524
+  },
+  {
+   "k": "plantas de exterior que no necesitan sol",
+   "v": 140,
+   "hi": 0.054412667368421055
+  },
+  {
+   "k": "plantas de interior que no necesitan sol",
+   "v": 140,
+   "hi": 0.09070332631578948
+  },
+  {
+   "k": "plantas para macetas exterior resistentes al sol",
+   "v": 140,
+   "hi": 0.23635883684210526
+  },
+  {
+   "k": "plantas para tener en el baño",
+   "v": 140,
+   "hi": 0.17041918315789473
+  },
+  {
+   "k": "plantas que aguantan mucho sol",
+   "v": 140,
+   "hi": 0.14139556105263157
+  },
+  {
+   "k": "plantas que no necesitan sol directo",
+   "v": 140,
+   "hi": 0.024725514736842105
+  },
+  {
+   "k": "plantas que no son toxicas para gatos",
+   "v": 140,
+   "hi": 0.08800892631578948
+  },
+  {
+   "k": "plantas que no son toxicas para los gatos",
+   "v": 140,
+   "hi": 0.02417645894736842
+  },
+  {
+   "k": "plantas que resisten el sol directo",
+   "v": 140,
+   "hi": 0.013230328421052632
+  },
+  {
+   "k": "plantas resistentes al sol y frio",
+   "v": 140,
+   "hi": 0.21541417263157894
+  },
+  {
+   "k": "las 5 mejores plantas para purificar el aire en casa",
+   "v": 110,
+   "hi": 0
+  },
+  {
+   "k": "planta para interiores con poca luz",
+   "v": 110,
+   "hi": 0.36592108631578946
+  },
+  {
+   "k": "planta que aguanta frio y calor",
+   "v": 110,
+   "hi": 0.15523642210526317
+  },
+  {
+   "k": "plantas de exterior resistentes al frío",
+   "v": 110,
+   "hi": 0.31798578842105263
+  },
+  {
+   "k": "plantas de interior que cuelgan",
+   "v": 110,
+   "hi": 0.14180152210526314
+  },
+  {
+   "k": "plantas para el baño con poca luz",
+   "v": 110,
+   "hi": 0.024128761052631578
+  },
+  {
+   "k": "plantas para jardin resistentes al sol",
+   "v": 110,
+   "hi": 0.3717974642105263
+  },
+  {
+   "k": "plantas para mucho sol",
+   "v": 110,
+   "hi": 0.05944108315789474
+  },
+  {
+   "k": "plantas que absorben humedad baño",
+   "v": 110,
+   "hi": 0.09901865473684211
+  },
+  {
+   "k": "plantas que purifican el aire en casa",
+   "v": 110,
+   "hi": 0.1662387305263158
+  },
+  {
+   "k": "plantas que requieren poca luz",
+   "v": 110,
+   "hi": 0.13900430736842104
+  },
+  {
+   "k": "plantas que soportan el sol",
+   "v": 110,
+   "hi": 0.038462501052631576
+  },
+  {
+   "k": "plantas de plastico colgantes",
+   "v": 90,
+   "hi": 0.3164668768421052
+  },
+  {
+   "k": "plantas colgantes exterior resistentes",
+   "v": 90,
+   "hi": 0
+  },
+  {
+   "k": "planta decorativa baño",
+   "v": 90,
+   "hi": 0.36510068315789473
+  },
+  {
+   "k": "planta para baño oscuro",
+   "v": 90,
+   "hi": 0.13894601052631578
+  },
+  {
+   "k": "planta para limpiar el aire",
+   "v": 90,
+   "hi": 0.20029606842105263
+  },
+  {
+   "k": "plantas colgantes de interior poca luz",
+   "v": 90,
+   "hi": 0.1420940694736842
+  },
+  {
+   "k": "plantas colgantes de interior resistentes",
+   "v": 90,
+   "hi": 0.14527710736842106
+  },
+  {
+   "k": "plantas colgantes falsas",
+   "v": 90,
+   "hi": 0.6393803863157895
+  },
+  {
+   "k": "plantas colgantes interior resistentes",
+   "v": 90,
+   "hi": 0.2542222189473684
+  },
+  {
+   "k": "plantas con flores de exterior resistentes al sol",
+   "v": 90,
+   "hi": 0.2119905252631579
+  },
+  {
+   "k": "plantas de exterior sol directo",
+   "v": 90,
+   "hi": 0.14413659789473685
+  },
+  {
+   "k": "plantas de interior con poca luz natural",
+   "v": 90,
+   "hi": 0.08600137578947369
+  },
+  {
+   "k": "plantas de interior para baño",
+   "v": 90,
+   "hi": 0.08511207578947368
+  },
+  {
+   "k": "plantas de interior para purificar el aire",
+   "v": 90,
+   "hi": 0.1409525
+  },
+  {
+   "k": "plantas de interior toxicas para gatos",
+   "v": 90,
+   "hi": 0.010200983157894737
+  },
+  {
+   "k": "plantas decorativas para baño",
+   "v": 90,
+   "hi": 0.24527833789473685
+  },
+  {
+   "k": "plantas para balcones con mucho sol",
+   "v": 90,
+   "hi": 0.12905241263157893
+  },
+  {
+   "k": "plantas para canteros a pleno sol",
+   "v": 90,
+   "hi": 0.15899289368421052
+  },
+  {
+   "k": "plantas para exterior con mucho sol",
+   "v": 90,
+   "hi": 0.14811142
+  },
+  {
+   "k": "plantas para interiores de casa purificadores",
+   "v": 90,
+   "hi": 0.47280988947368424
+  },
+  {
+   "k": "plantas para los gatos",
+   "v": 90,
+   "hi": 0.06480974315789474
+  },
+  {
+   "k": "plantas para media sombra",
+   "v": 90,
+   "hi": 0.28618720947368426
+  },
+  {
+   "k": "plantas que necesitan muy poca luz",
+   "v": 90,
+   "hi": 0.09782832736842105
+  },
+  {
+   "k": "plantas que no necesitan mucho sol",
+   "v": 90,
+   "hi": 0.03127390210526316
+  },
+  {
+   "k": "plantas que oxigenan el ambiente",
+   "v": 90,
+   "hi": 0.3078335621052632
+  },
+  {
+   "k": "plantas que pueden ir en el baño",
+   "v": 90,
+   "hi": 0.04397001473684211
+  },
+  {
+   "k": "plantas toxicas para los perros",
+   "v": 90,
+   "hi": 0.008019601052631579
+  },
+  {
+   "k": "plantas toxicas para perros y gatos",
+   "v": 90,
+   "hi": 0.06670493894736843
+  },
+  {
+   "k": "interior plantas para baños",
+   "v": 70,
+   "hi": 0
+  },
+  {
+   "k": "planta de interior que no necesitan luz",
+   "v": 70,
+   "hi": 0.09401885789473684
+  },
+  {
+   "k": "planta que no necesita sol",
+   "v": 70,
+   "hi": 0.1245253547368421
+  },
+  {
+   "k": "plantas colgantes de exterior para balcones",
+   "v": 70,
+   "hi": 0.20561385052631578
+  },
+  {
+   "k": "plantas colgantes decorativas",
+   "v": 70,
+   "hi": 0.3051275031578947
+  },
+  {
+   "k": "plantas colgantes largas",
+   "v": 70,
+   "hi": 0.24586555157894735
+  },
+  {
+   "k": "plantas con flores que no necesitan sol",
+   "v": 70,
+   "hi": 0.04160208
+  },
+  {
+   "k": "plantas de balcon resistentes al sol",
+   "v": 70,
+   "hi": 0.373958707368421
+  },
+  {
+   "k": "plantas de exterior no toxicas para gatos",
+   "v": 70,
+   "hi": 0.050694353684210526
+  },
+  {
+   "k": "plantas de interior que no sean toxicas para gatos",
+   "v": 70,
+   "hi": 0.11941956315789473
+  },
+  {
+   "k": "plantas para purificar el aire dentro de la casa",
+   "v": 70,
+   "hi": 0.3284655410526316
+  },
+  {
+   "k": "plantas que le hacen mal a los gatos",
+   "v": 70,
+   "hi": 0.05851680421052632
+  },
+  {
+   "k": "plantas que no requieren luz",
+   "v": 70,
+   "hi": 0.0746026452631579
+  },
+  {
+   "k": "plantas colgantes interior artificiales",
+   "v": 50,
+   "hi": 0.5502924273684211
+  },
+  {
+   "k": "cocina con plantas colgantes",
+   "v": 50,
+   "hi": 0
+  },
+  {
+   "k": "planta decorativa colgante",
+   "v": 50,
+   "hi": 0.21777150736842107
+  },
+  {
+   "k": "planta para habitacion sin luz",
+   "v": 50,
+   "hi": 0.11834371052631579
+  },
+  {
+   "k": "plantas colgantes con flores todo el año",
+   "v": 50,
+   "hi": 0.14404438210526316
+  },
+  {
+   "k": "plantas colgantes para terraza",
+   "v": 50,
+   "hi": 0.4300408010526316
+  },
+  {
+   "k": "plantas de exterior resistentes al sol y al frío chile",
+   "v": 50,
+   "hi": 0.5550357157894737
+  },
+  {
+   "k": "plantas de interior colgantes poca luz",
+   "v": 50,
+   "hi": 0.21180609368421052
+  },
+  {
+   "k": "plantas de interior para gatos",
+   "v": 50,
+   "hi": 0.09725701263157895
+  },
+  {
+   "k": "plantas de interior que requieren poca luz",
+   "v": 50,
+   "hi": 0.08905828
+  },
+  {
+   "k": "plantas de pleno sol con flores",
+   "v": 50,
+   "hi": 0.006857892631578948
+  },
+  {
+   "k": "plantas de purificacion",
+   "v": 50,
+   "hi": 1.0449638410526316
+  },
+  {
+   "k": "plantas para balcon con poco sol",
+   "v": 50,
+   "hi": 0.2264726589473684
+  },
+  {
+   "k": "plantas para balcon sin sol",
+   "v": 50,
+   "hi": 0.18521400210526318
+  },
+  {
+   "k": "plantas para bano",
+   "v": 50,
+   "hi": 0.19073847578947367
+  },
+  {
+   "k": "plantas para exterior resistentes al sol y al frio",
+   "v": 50,
+   "hi": 0.1487155936842105
+  },
+  {
+   "k": "plantas para living comedor",
+   "v": 50,
+   "hi": 0.12539133578947367
+  },
+  {
+   "k": "plantas para lugares con poca luz",
+   "v": 50,
+   "hi": 0.08479620947368421
+  },
+  {
+   "k": "plantas para semisombra",
+   "v": 50,
+   "hi": 0.8691611568421053
+  },
+  {
+   "k": "plantas para un baño sin luz",
+   "v": 50,
+   "hi": 0.04621287473684211
+  },
+  {
+   "k": "plantas que necesitan poca luz interior",
+   "v": 50,
+   "hi": 0.2757678757894737
+  },
+  {
+   "k": "plantas que no necesitan luz de interior",
+   "v": 50,
+   "hi": 0.0688004652631579
+  },
+  {
+   "k": "plantas que no requieren mucha luz",
+   "v": 50,
+   "hi": 0.06741934631578947
+  },
+  {
+   "k": "plantas que resisten heladas",
+   "v": 50,
+   "hi": 0.09659772210526316
+  },
+  {
+   "k": "plantas que viven con poca luz",
+   "v": 50,
+   "hi": 0.08775877789473685
+  },
+  {
+   "k": "plantas toxicas para gatos y perros",
+   "v": 50,
+   "hi": 0.010814695789473684
+  },
+  {
+   "k": "plantas colgantes artificiales leroy merlin",
+   "v": 40,
+   "hi": 0.5731905842105264
+  },
+  {
+   "k": "5 plantas de interior que purifican el aire",
+   "v": 40,
+   "hi": 0
+  },
+  {
+   "k": "la planta de romero necesita sol",
+   "v": 40,
+   "hi": 0.013803762105263158
+  },
+  {
+   "k": "mejores plantas de interior con poca luz",
+   "v": 40,
+   "hi": 0.15052599263157895
+  },
+  {
+   "k": "plantas colgantes exterior naturales",
+   "v": 40,
+   "hi": 0.23341428842105263
+  },
+  {
+   "k": "plantas con flores para macetas exterior",
+   "v": 40,
+   "hi": 0.1339038157894737
+  },
+  {
+   "k": "plantas de interior compatibles con gatos",
+   "v": 40,
+   "hi": 0.1170314894736842
+  },
+  {
+   "k": "plantas de interior con mucha luz",
+   "v": 40,
+   "hi": 0.060688647368421056
+  },
+  {
+   "k": "plantas de interior mucha luz",
+   "v": 40,
+   "hi": 0.06648022842105263
+  },
+  {
+   "k": "plantas de interior para colgar",
+   "v": 40,
+   "hi": 0.2563304642105263
+  },
+  {
+   "k": "plantas de interior que limpian el aire",
+   "v": 40,
+   "hi": 0.08754996736842106
+  },
+  {
+   "k": "plantas de interior que necesitan muy poca luz",
+   "v": 40,
+   "hi": 0.10265853157894737
+  },
+  {
+   "k": "plantas de interior que no necesitan mucho cuidado",
+   "v": 40,
+   "hi": 0.07968405894736842
+  },
+  {
+   "k": "plantas de interior que no necesitan tanta luz",
+   "v": 40,
+   "hi": 0.12379822736842105
+  },
+  {
+   "k": "plantas de interior sin sol",
+   "v": 40,
+   "hi": 0.09543707473684211
+  },
+  {
+   "k": "plantas de interior y poca luz",
+   "v": 40,
+   "hi": 0.049578224210526316
+  },
+  {
+   "k": "plantas decoracion baño",
+   "v": 40,
+   "hi": 0.16287656105263157
+  },
+  {
+   "k": "plantas para salon con poca luz",
+   "v": 40,
+   "hi": 0.08507815789473686
+  },
+  {
+   "k": "plantas que no necesitan tanta luz",
+   "v": 40,
+   "hi": 0.034355184210526316
+  },
+  {
+   "k": "plantas que resisten el sol y el frio",
+   "v": 40,
+   "hi": 0.17368171789473685
+  },
+  {
+   "k": "plantas que son toxicas para los gatos",
+   "v": 40,
+   "hi": 0.011086044210526315
+  },
+  {
+   "k": "plantas resistentes al frio y calor",
+   "v": 30,
+   "hi": 0
+  },
+  {
+   "k": "mejores plantas para interior con poca luz",
+   "v": 30,
+   "hi": 0.05099008105263158
+  },
+  {
+   "k": "planta de interior de poca luz",
+   "v": 30,
+   "hi": 0.06972156315789474
+  },
+  {
+   "k": "plantas colgantes artificiales amazon",
+   "v": 30,
+   "hi": 0.09010445263157896
+  },
+  {
+   "k": "plantas colgantes exterior artificiales",
+   "v": 30,
+   "hi": 1.108290710526316
+  },
+  {
+   "k": "plantas con flores que duren todo el año",
+   "v": 30,
+   "hi": 0.055266989473684205
+  },
+  {
+   "k": "plantas de exterior con flor resistentes todo el año",
+   "v": 30,
+   "hi": 0.3664319842105263
+  },
+  {
+   "k": "plantas de interior con muy poca luz",
+   "v": 30,
+   "hi": 0.04576451473684211
+  },
+  {
+   "k": "plantas de interior para el baño",
+   "v": 30,
+   "hi": 0.033186056842105266
+  },
+  {
+   "k": "plantas de interior poca luz y resistentes",
+   "v": 30,
+   "hi": 0.07888697368421053
+  },
+  {
+   "k": "plantas de interior que oxigenan el ambiente",
+   "v": 30,
+   "hi": 0.16486291157894736
+  },
+  {
+   "k": "plantas de interior sol directo",
+   "v": 30,
+   "hi": 0.13670739052631578
+  },
+  {
+   "k": "plantas para absorber la humedad del baño",
+   "v": 30,
+   "hi": 0.04089615157894737
+  },
+  {
+   "k": "plantas para interior que no necesitan luz",
+   "v": 30,
+   "hi": 0.07611307789473684
+  },
+  {
+   "k": "plantas para mucho sol y calor",
+   "v": 30,
+   "hi": 0.025424023157894736
+  },
+  {
+   "k": "plantas para oxigenar una habitación",
+   "v": 30,
+   "hi": 0.9497779747368421
+  },
+  {
+   "k": "plantas que limpian el aire de tu casa",
+   "v": 30,
+   "hi": 0.05083956736842105
+  },
+  {
+   "k": "plantas que no necesitan luz natural",
+   "v": 30,
+   "hi": 0.13041869157894737
+  },
+  {
+   "k": "10 plantas de interior que purifican el aire",
+   "v": 20,
+   "hi": 0
+  },
+  {
+   "k": "plantas colgantes de interior artificiales",
+   "v": 20,
+   "hi": 0.6453193010526315
+  },
+  {
+   "k": "plantas colgantes para interior con poca luz",
+   "v": 20,
+   "hi": 0.18969760210526318
+  },
+  {
+   "k": "plantas de exterior que soportan mucho sol",
+   "v": 20,
+   "hi": 0.11706540842105263
+  },
+  {
+   "k": "plantas de interior colgantes naturales",
+   "v": 20,
+   "hi": 0.10862712526315789
+  },
+  {
+   "k": "plantas de interior con sol directo",
+   "v": 20,
+   "hi": 0.0673525694736842
+  },
+  {
+   "k": "plantas de interior poca luz y poco cuidado",
+   "v": 20,
+   "hi": 0.24365025052631578
+  },
+  {
+   "k": "plantas de interior que ayudan a purificar el aire",
+   "v": 20,
+   "hi": 0.02575472842105263
+  },
+  {
+   "k": "plantas de interior que no requieren luz",
+   "v": 20,
+   "hi": 0.15439905999999998
+  },
+  {
+   "k": "plantas de interior que no requieren mucha luz",
+   "v": 20,
+   "hi": 0.01701541894736842
+  },
+  {
+   "k": "plantas para el balcon con mucho sol",
+   "v": 20,
+   "hi": 0.10620513368421051
+  },
+  {
+   "k": "plantas para espacios con poca luz",
+   "v": 20,
+   "hi": 0.018236484210526316
+  },
+  {
+   "k": "plantas para interior con mucha luz",
+   "v": 20,
+   "hi": 0.13779278210526316
+  },
+  {
+   "k": "plantas para rincones con poca luz",
+   "v": 20,
+   "hi": 0.015124463157894737
+  },
+  {
+   "k": "plantas que crecen con poca luz",
+   "v": 20,
+   "hi": 0.02417539894736842
+  },
+  {
+   "k": "plantas que purifican el aire de tu casa",
+   "v": 10,
+   "hi": 0
+  },
+  {
+   "k": "mejor planta de interior con poca luz",
+   "v": 10,
+   "hi": 0.03736332947368421
+  },
+  {
+   "k": "planta de interior que no necesita mucha luz",
+   "v": 10,
+   "hi": 0.047958615789473684
+  },
+  {
+   "k": "plantas colgantes artificiales baratas",
+   "v": 10,
+   "hi": 0.44518010421052634
+  },
+  {
+   "k": "plantas colgantes artificiales exterior",
+   "v": 10,
+   "hi": 0.29366729578947365
+  },
+  {
+   "k": "plantas con flores que soportan mucho sol",
+   "v": 10,
+   "hi": 0.15453791368421052
+  },
+  {
+   "k": "plantas de interior grandes que necesitan poca luz",
+   "v": 10,
+   "hi": 0.22199753894736843
+  },
+  {
+   "k": "plantas de interior sin mucha luz",
+   "v": 10,
+   "hi": 0.10659943578947369
+  },
+  {
+   "k": "plantas decorativas artificiales colgantes",
+   "v": 10,
+   "hi": 1.674725156842105
+  },
+  {
+   "k": "plantas que purifican el aire en el hogar",
+   "v": 10,
+   "hi": 0.011270475789473683
+  },
+  {
+   "k": "verdecora plantas colgantes",
+   "v": 10,
+   "hi": 0.26088932
+  },
+  {
+   "k": "plantas de interior purificadoras del ambiente",
+   "v": 0,
+   "hi": 0
+  }
+ ],
+ "problemas": [
+  {
+   "k": "como revivir una planta",
+   "v": 1000,
+   "hi": 0.8970474515789474
+  },
+  {
+   "k": "limonero hojas caidas",
+   "v": 880,
+   "hi": 0
+  },
+  {
+   "k": "alocasia hojas caidas",
+   "v": 720,
+   "hi": 0
+  },
+  {
+   "k": "como revivir una orquidea",
+   "v": 720,
+   "hi": 0.752566367368421
+  },
+  {
+   "k": "dracena marginata hojas caidas",
+   "v": 590,
+   "hi": 0
+  },
+  {
+   "k": "aphelandra hojas caidas",
+   "v": 480,
+   "hi": 0
+  },
+  {
+   "k": "monstera hojas caidas",
+   "v": 480,
+   "hi": 0.5377669673684211
+  },
+  {
+   "k": "aloe vera hojas caidas",
+   "v": 390,
+   "hi": 0
+  },
+  {
+   "k": "orquidea hojas caidas",
+   "v": 390,
+   "hi": 0.7688016621052631
+  },
+  {
+   "k": "porque las hojas de mi planta se ponen amarillas",
+   "v": 390,
+   "hi": 0.7460699178947369
+  },
+  {
+   "k": "albahaca hojas caidas",
+   "v": 320,
+   "hi": 0
+  },
+  {
+   "k": "como revivir un anturio",
+   "v": 260,
+   "hi": 0
+  },
+  {
+   "k": "como revivir un ficus",
+   "v": 260,
+   "hi": 0.8059710210526315
+  },
+  {
+   "k": "como revivir una planta de romero",
+   "v": 260,
+   "hi": 1.6575857231578948
+  },
+  {
+   "k": "como revivir el pasto seco",
+   "v": 210,
+   "hi": 0
+  },
+  {
+   "k": "como revivir una orquídea",
+   "v": 210,
+   "hi": 0.5334720389473684
+  },
+  {
+   "k": "como revivir una planta seca",
+   "v": 210,
+   "hi": 0.6983890094736842
+  },
+  {
+   "k": "planta con puntas secas",
+   "v": 210,
+   "hi": 0.8922172473684211
+  },
+  {
+   "k": "planta triste hojas caídas",
+   "v": 210,
+   "hi": 1.7913199463157894
+  },
+  {
+   "k": "como recuperar una planta seca",
+   "v": 170,
+   "hi": 0.8275887547368421
+  },
+  {
+   "k": "como revivir bonsai seco",
+   "v": 170,
+   "hi": 1.4668620863157895
+  },
+  {
+   "k": "como revivir una hortensia en maceta",
+   "v": 170,
+   "hi": 0.5245175589473684
+  },
+  {
+   "k": "como revivir una orquídea seca",
+   "v": 170,
+   "hi": 0.7118207284210526
+  },
+  {
+   "k": "hojas con puntas secas",
+   "v": 170,
+   "hi": 0
+  },
+  {
+   "k": "mi planta tiene hojas amarillas",
+   "v": 170,
+   "hi": 0.6089820042105264
+  },
+  {
+   "k": "punta de hojas secas",
+   "v": 170,
+   "hi": 0.7327653926315789
+  },
+  {
+   "k": "aloe vera hojas caídas y blandas",
+   "v": 140,
+   "hi": 0
+  },
+  {
+   "k": "como revivir un arbol seco",
+   "v": 140,
+   "hi": 1.0809704315789475
+  },
+  {
+   "k": "como revivir un cactus",
+   "v": 140,
+   "hi": 0.6985533021052631
+  },
+  {
+   "k": "como revivir un helecho",
+   "v": 140,
+   "hi": 0.53836584
+  },
+  {
+   "k": "como revivir un helecho seco",
+   "v": 140,
+   "hi": 0.22259005157894735
+  },
+  {
+   "k": "sansevieria hojas caidas",
+   "v": 140,
+   "hi": 0.2980607989473684
+  },
+  {
+   "k": "calathea puntas secas",
+   "v": 110,
+   "hi": 0
+  },
+  {
+   "k": "como revivir un palo de agua",
+   "v": 110,
+   "hi": 0.7744925484210526
+  },
+  {
+   "k": "como revivir una suculenta",
+   "v": 110,
+   "hi": 0.7142130421052632
+  },
+  {
+   "k": "puntas de hojas marrones",
+   "v": 110,
+   "hi": 0.9518629010526316
+  },
+  {
+   "k": "planta con hojas caidas",
+   "v": 90,
+   "hi": 1.0477674157894736
+  },
+  {
+   "k": "como revivir planta alegría del hogar",
+   "v": 90,
+   "hi": 0
+  },
+  {
+   "k": "como revivir un girasol en maceta",
+   "v": 90,
+   "hi": 0.5454505642105263
+  },
+  {
+   "k": "como revivir una lavanda seca",
+   "v": 90,
+   "hi": 0.6151424494736841
+  },
+  {
+   "k": "como revivir una palmera seca",
+   "v": 90,
+   "hi": 1.3026955631578947
+  },
+  {
+   "k": "como revivir una planta de interior",
+   "v": 90,
+   "hi": 0.6255172652631579
+  },
+  {
+   "k": "como revivir una planta marchita",
+   "v": 90,
+   "hi": 0.8161635252631579
+  },
+  {
+   "k": "como revivir una suculenta seca",
+   "v": 90,
+   "hi": 1.3270808336842104
+  },
+  {
+   "k": "las hojas de mi orquidea se estan poniendo amarillas",
+   "v": 90,
+   "hi": 1.2361623357894738
+  },
+  {
+   "k": "monstera puntas secas",
+   "v": 90,
+   "hi": 0.36011996631578946
+  },
+  {
+   "k": "porque mi limonero tiene las hojas amarillas",
+   "v": 90,
+   "hi": 0.23318957789473685
+  },
+  {
+   "k": "porque mi planta tiene hojas amarillas",
+   "v": 90,
+   "hi": 1.1673650505263158
+  },
+  {
+   "k": "aralia hojas caidas",
+   "v": 70,
+   "hi": 0
+  },
+  {
+   "k": "como revivir orquideas",
+   "v": 70,
+   "hi": 0.6475526210526316
+  },
+  {
+   "k": "como revivir un cactus seco",
+   "v": 70,
+   "hi": 1.6539659852631579
+  },
+  {
+   "k": "como revivir una planta decaida",
+   "v": 70,
+   "hi": 0.43189889789473684
+  },
+  {
+   "k": "porque las hojas de mis plantas se ponen amarillas",
+   "v": 70,
+   "hi": 1.6270357684210526
+  },
+  {
+   "k": "porque mi planta tiene las hojas amarillas",
+   "v": 70,
+   "hi": 1.2194818621052632
+  },
+  {
+   "k": "como recuperar una planta marchita",
+   "v": 50,
+   "hi": 0.8373625778947369
+  },
+  {
+   "k": "como recuperar una planta que se está secando",
+   "v": 50,
+   "hi": 0.7485682263157895
+  },
+  {
+   "k": "como revivir un potus en agua",
+   "v": 50,
+   "hi": 0
+  },
+  {
+   "k": "como revivir una bugambilia",
+   "v": 50,
+   "hi": 0.6359715778947368
+  },
+  {
+   "k": "como revivir una planta de ruda",
+   "v": 50,
+   "hi": 1.5621974063157895
+  },
+  {
+   "k": "como salvar una planta que se esta secando",
+   "v": 50,
+   "hi": 0.6769048294736841
+  },
+  {
+   "k": "mi planta tiene las hojas caidas",
+   "v": 50,
+   "hi": 2.318622002105263
+  },
+  {
+   "k": "porque las hojas de mi planta estan amarillas",
+   "v": 50,
+   "hi": 0.6074959505263159
+  },
+  {
+   "k": "puntas secas en plantas",
+   "v": 50,
+   "hi": 0.3391848410526316
+  },
+  {
+   "k": "aloe vera puntas secas y marrones",
+   "v": 40,
+   "hi": 0
+  },
+  {
+   "k": "como revivir planta seca",
+   "v": 40,
+   "hi": 0.5983241810526315
+  },
+  {
+   "k": "como revivir una orquidea casi muerta",
+   "v": 40,
+   "hi": 2.406092472631579
+  },
+  {
+   "k": "como revivir una planta de lavanda",
+   "v": 40,
+   "hi": 0.5069032663157895
+  },
+  {
+   "k": "como revivir una planta que se está secando",
+   "v": 40,
+   "hi": 0.6255395242105264
+  },
+  {
+   "k": "las hojas de mi planta estan amarillas",
+   "v": 40,
+   "hi": 0.6377893968421053
+  },
+  {
+   "k": "mi monstera tiene las hojas caidas",
+   "v": 40,
+   "hi": 1.1443534789473684
+  },
+  {
+   "k": "mi planta tiene las hojas amarillas",
+   "v": 40,
+   "hi": 0.5551894084210526
+  },
+  {
+   "k": "porque a mi planta se le ponen las hojas amarillas",
+   "v": 40,
+   "hi": 0.7398691947368421
+  },
+  {
+   "k": "por que mi planta tiene hojas amarillas",
+   "v": 30,
+   "hi": 0.9857559463157896
+  },
+  {
+   "k": "puntas secas en las plantas",
+   "v": 30,
+   "hi": 0
+  },
+  {
+   "k": "como recuperar planta marchita",
+   "v": 30,
+   "hi": 0.7164559021052631
+  },
+  {
+   "k": "como revivir plantas de interior",
+   "v": 30,
+   "hi": 1.4260878284210528
+  },
+  {
+   "k": "como revivir plantas marchitas",
+   "v": 30,
+   "hi": 0.42335038
+  },
+  {
+   "k": "como revivir un ficus seco",
+   "v": 30,
+   "hi": 0.48368818421052634
+  },
+  {
+   "k": "como revivir un jazmin seco",
+   "v": 30,
+   "hi": 0.27331408526315787
+  },
+  {
+   "k": "como salvar una planta seca",
+   "v": 30,
+   "hi": 0.5087285052631579
+  },
+  {
+   "k": "las hojas de mi planta se estan poniendo amarillas",
+   "v": 30,
+   "hi": 0.92415786
+  },
+  {
+   "k": "porque mi planta tiene las hojas caidas",
+   "v": 30,
+   "hi": 0.9003990210526316
+  },
+  {
+   "k": "porque mi planta tiene las puntas secas",
+   "v": 30,
+   "hi": 0.6465711042105263
+  },
+  {
+   "k": "puntas secas en las hojas de las plantas",
+   "v": 30,
+   "hi": 0.14909187684210526
+  },
+  {
+   "k": "aglaonema hojas caídas",
+   "v": 20,
+   "hi": 0
+  },
+  {
+   "k": "como recuperar una planta que se esta marchitando",
+   "v": 20,
+   "hi": 0.4915954305263158
+  },
+  {
+   "k": "como revivir a una planta",
+   "v": 20,
+   "hi": 1.5475308410526316
+  },
+  {
+   "k": "como revivir mi planta",
+   "v": 20,
+   "hi": 0.9203081115789473
+  },
+  {
+   "k": "como revivir un limonero que se esta secando",
+   "v": 20,
+   "hi": 1.0073122031578947
+  },
+  {
+   "k": "como revivir un palo de agua seco",
+   "v": 20,
+   "hi": 0.5279359063157895
+  },
+  {
+   "k": "como revivir una planta de la abundancia",
+   "v": 20,
+   "hi": 0.8856360010526315
+  },
+  {
+   "k": "mi planta tiene las puntas de las hojas secas",
+   "v": 20,
+   "hi": 1.2150555
+  },
+  {
+   "k": "mi planta tiene las puntas secas",
+   "v": 20,
+   "hi": 0.8857101978947368
+  },
+  {
+   "k": "porque mi planta se le ponen las hojas amarillas",
+   "v": 20,
+   "hi": 0.9517802252631579
+  },
+  {
+   "k": "alocasia zebrina hojas caídas",
+   "v": 10,
+   "hi": 0
+  },
+  {
+   "k": "como ayudar a una planta que se esta secando",
+   "v": 10,
+   "hi": 0.45047986736842105
+  },
+  {
+   "k": "como mejorar una planta marchita",
+   "v": 10,
+   "hi": 0.5501546336842105
+  },
+  {
+   "k": "como puedo revivir una planta",
+   "v": 10,
+   "hi": 0.5036481515789474
+  },
+  {
+   "k": "como revivir mi bonsai",
+   "v": 10,
+   "hi": 0.614772525263158
+  },
+  {
+   "k": "como revivir palo de agua",
+   "v": 10,
+   "hi": 1.0091702999999999
+  },
+  {
+   "k": "como revivir una planta de jazmin",
+   "v": 10,
+   "hi": 0.2930228442105263
+  },
+  {
+   "k": "hojas de mi planta amarillas",
+   "v": 10,
+   "hi": 0.7867615
+  },
+  {
+   "k": "porque mis plantas estan caidas",
+   "v": 10,
+   "hi": 0.57237442
+  },
+  {
+   "k": "ardisia hojas caídas",
+   "v": 0,
+   "hi": 0
+  }
+ ],
+ "huerto": [
+  {
+   "k": "huerto urbano",
+   "v": 8100,
+   "hi": 0.5751737557894737
+  },
+  {
+   "k": "huertos",
+   "v": 5400,
+   "hi": 1.2745474610526315
+  },
+  {
+   "k": "huerto verticales",
+   "v": 4400,
+   "hi": 0.5193767884210526
+  },
+  {
+   "k": "como germinar semilla de palta",
+   "v": 3600,
+   "hi": 0.009932815789473685
+  },
+  {
+   "k": "huerto en casa",
+   "v": 2900,
+   "hi": 0.4162561168421053
+  },
+  {
+   "k": "como germinar semillas",
+   "v": 2900,
+   "hi": 0.9507722105263158
+  },
+  {
+   "k": "como plantar hueso de aguacate",
+   "v": 2400,
+   "hi": 0.02071041368421053
+  },
+  {
+   "k": "como germina la semilla de aguacate",
+   "v": 1900,
+   "hi": 0.012230792631578948
+  },
+  {
+   "k": "como germinar la semilla de mango",
+   "v": 1900,
+   "hi": 0.005238285263157895
+  },
+  {
+   "k": "calendario de siembra",
+   "v": 1600,
+   "hi": 2.119905262105263
+  },
+  {
+   "k": "como germinar semilla de durazno",
+   "v": 1600,
+   "hi": 0.006306717894736842
+  },
+  {
+   "k": "como germinar aguacate",
+   "v": 1300,
+   "hi": 0.016696373684210526
+  },
+  {
+   "k": "como sembrar hueso de aguacate",
+   "v": 1000,
+   "hi": 0.023494909473684208
+  },
+  {
+   "k": "huerto organicos",
+   "v": 1000,
+   "hi": 0.8105266978947369
+  },
+  {
+   "k": "calendario de siembra y cosecha",
+   "v": 880,
+   "hi": 0.4574893347368421
+  },
+  {
+   "k": "como germinar semilla de cereza",
+   "v": 880,
+   "hi": 0.012751229473684211
+  },
+  {
+   "k": "como germinar semilla de manzana",
+   "v": 880,
+   "hi": 0.007348651578947369
+  },
+  {
+   "k": "como sembrar la pepa de aguacate",
+   "v": 880,
+   "hi": 0
+  },
+  {
+   "k": "huerto urbano leroy merlin",
+   "v": 720,
+   "hi": 0.3431946421052632
+  },
+  {
+   "k": "mini huerto en casa",
+   "v": 720,
+   "hi": 0.21195448736842104
+  },
+  {
+   "k": "huerto terraza",
+   "v": 720,
+   "hi": 0.25404944631578946
+  },
+  {
+   "k": "como germina",
+   "v": 720,
+   "hi": 0.9523388199999999
+  },
+  {
+   "k": "como germinar la semilla de uva",
+   "v": 720,
+   "hi": 0
+  },
+  {
+   "k": "como germinar semilla de mandarina",
+   "v": 720,
+   "hi": 0.005252065263157894
+  },
+  {
+   "k": "como sembrar la semilla de durazno",
+   "v": 720,
+   "hi": 0.005808539999999999
+  },
+  {
+   "k": "huerto urbano que es",
+   "v": 720,
+   "hi": 0.6253720515789474
+  },
+  {
+   "k": "huertos elevados",
+   "v": 720,
+   "hi": 0.40560359368421056
+  },
+  {
+   "k": "huertos caseros",
+   "v": 590,
+   "hi": 2.119905262105263
+  },
+  {
+   "k": "mi huerto",
+   "v": 590,
+   "hi": 1.1105272105263158
+  },
+  {
+   "k": "huerto vertical casero",
+   "v": 590,
+   "hi": 0.27956038631578944
+  },
+  {
+   "k": "calendario de siembra lunar",
+   "v": 590,
+   "hi": 0.9019868305263158
+  },
+  {
+   "k": "como germinar las semillas de tomate",
+   "v": 590,
+   "hi": 0.2293673894736842
+  },
+  {
+   "k": "como germinar semilla de naranja",
+   "v": 590,
+   "hi": 0.03966554736842105
+  },
+  {
+   "k": "como plantar un hueso de mango",
+   "v": 590,
+   "hi": 0
+  },
+  {
+   "k": "que sembrar en noviembre",
+   "v": 480,
+   "hi": 0.029402025263157893
+  },
+  {
+   "k": "el huerto del abuelo",
+   "v": 480,
+   "hi": 1.0003090968421053
+  },
+  {
+   "k": "su huerto en casa",
+   "v": 480,
+   "hi": 0
+  },
+  {
+   "k": "calendario lunar para sembrar",
+   "v": 480,
+   "hi": 0.28618720947368426
+  },
+  {
+   "k": "como germinar las semillas de limon",
+   "v": 480,
+   "hi": 0.00738574947368421
+  },
+  {
+   "k": "huerto de madera",
+   "v": 390,
+   "hi": 0.31427701473684205
+  },
+  {
+   "k": "suhuertoencasa",
+   "v": 390,
+   "hi": 0
+  },
+  {
+   "k": "como germinar palta",
+   "v": 390,
+   "hi": 0.010787137894736842
+  },
+  {
+   "k": "como germinar papa",
+   "v": 390,
+   "hi": 2.119905262105263
+  },
+  {
+   "k": "como germinar semilla de ciruela",
+   "v": 390,
+   "hi": 0.40278199894736844
+  },
+  {
+   "k": "como germinar una semilla de ciruela",
+   "v": 390,
+   "hi": 0.005311422105263158
+  },
+  {
+   "k": "huerto en altura",
+   "v": 390,
+   "hi": 0.2723887463157895
+  },
+  {
+   "k": "que plantar en noviembre",
+   "v": 390,
+   "hi": 0.04818438631578948
+  },
+  {
+   "k": "huerto urbano ikea",
+   "v": 320,
+   "hi": 0.29107359157894735
+  },
+  {
+   "k": "huerto urbano lidl",
+   "v": 320,
+   "hi": 0.17717108210526314
+  },
+  {
+   "k": "huerto hidroponico en casa",
+   "v": 320,
+   "hi": 0.25164123368421054
+  },
+  {
+   "k": "calendario de siembra de hortalizas y verduras pdf",
+   "v": 320,
+   "hi": 0.42321788631578944
+  },
+  {
+   "k": "como germinar fresa",
+   "v": 320,
+   "hi": 0
+  },
+  {
+   "k": "como germinar mango",
+   "v": 320,
+   "hi": 0.005199067368421052
+  },
+  {
+   "k": "como germinar semilla de girasol",
+   "v": 320,
+   "hi": 0.005304002105263157
+  },
+  {
+   "k": "como germinar semillas de limón en 4 días",
+   "v": 320,
+   "hi": 0.007559582105263158
+  },
+  {
+   "k": "como germinar una semilla de mango rápido",
+   "v": 320,
+   "hi": 0.006836693684210526
+  },
+  {
+   "k": "como plantar semilla de manzana",
+   "v": 320,
+   "hi": 0.0073571305263157895
+  },
+  {
+   "k": "como plantar semillas",
+   "v": 320,
+   "hi": 0.9579714084210527
+  },
+  {
+   "k": "como se germina la semilla",
+   "v": 320,
+   "hi": 0.9553522652631579
+  },
+  {
+   "k": "como se germina una semilla de palta",
+   "v": 320,
+   "hi": 0.009996412631578947
+  },
+  {
+   "k": "cultivar en casa",
+   "v": 320,
+   "hi": 0.47697868315789477
+  },
+  {
+   "k": "huerto pequeño",
+   "v": 320,
+   "hi": 0.27205804105263154
+  },
+  {
+   "k": "que se siembra en noviembre",
+   "v": 320,
+   "hi": 0.03660970315789474
+  },
+  {
+   "k": "huerto urbano elevado",
+   "v": 260,
+   "hi": 0.3310613642105263
+  },
+  {
+   "k": "calendario de la siembra del huerto",
+   "v": 260,
+   "hi": 0.7388209021052632
+  },
+  {
+   "k": "calendario lunar de siembra del hortelano para los 12 meses",
+   "v": 260,
+   "hi": 0
+  },
+  {
+   "k": "como germinar ajo",
+   "v": 260,
+   "hi": 0.009121951578947367
+  },
+  {
+   "k": "como germinar fresas en 7 días",
+   "v": 260,
+   "hi": 0.5087772621052631
+  },
+  {
+   "k": "como germinar jengibre",
+   "v": 260,
+   "hi": 0.0072405357894736845
+  },
+  {
+   "k": "como germinar semilla de morron",
+   "v": 260,
+   "hi": 2.119905262105263
+  },
+  {
+   "k": "como germinar semilla de pimiento",
+   "v": 260,
+   "hi": 0.1178020747368421
+  },
+  {
+   "k": "como germinar tomate",
+   "v": 260,
+   "hi": 0.0076252989473684215
+  },
+  {
+   "k": "como germinar un carozo de durazno",
+   "v": 260,
+   "hi": 0.00580748
+  },
+  {
+   "k": "como germinar una pepa de aguacate",
+   "v": 260,
+   "hi": 0.011282135789473683
+  },
+  {
+   "k": "como germinar una semilla de palta en agua",
+   "v": 260,
+   "hi": 0.008611054736842106
+  },
+  {
+   "k": "como hacer germinar semillas",
+   "v": 260,
+   "hi": 0.9520536926315789
+  },
+  {
+   "k": "como se hace un germinador",
+   "v": 260,
+   "hi": 0.39218247263157896
+  },
+  {
+   "k": "huerto en balcón",
+   "v": 260,
+   "hi": 0.18137697368421052
+  },
+  {
+   "k": "semilla de mango como germinar",
+   "v": 260,
+   "hi": 0.005252065263157894
+  },
+  {
+   "k": "huerto urbano vertical",
+   "v": 210,
+   "hi": 0.27824604526315794
+  },
+  {
+   "k": "huertos alma",
+   "v": 210,
+   "hi": 2.2727239326315787
+  },
+  {
+   "k": "huerto urbano terraza",
+   "v": 210,
+   "hi": 0.3281804136842105
+  },
+  {
+   "k": "huerto urbano en casa",
+   "v": 210,
+   "hi": 0.3285853147368421
+  },
+  {
+   "k": "calendario de siembras ordenado por fechas",
+   "v": 210,
+   "hi": 0
+  },
+  {
+   "k": "calendario siembra huerta",
+   "v": 210,
+   "hi": 0.8330369115789474
+  },
+  {
+   "k": "como germinar durazno",
+   "v": 210,
+   "hi": 0.0067720368421052635
+  },
+  {
+   "k": "como germinar kiwi",
+   "v": 210,
+   "hi": 0.005219206315789473
+  },
+  {
+   "k": "como germinar semilla de durazno en 15 días",
+   "v": 210,
+   "hi": 0.005341101052631579
+  },
+  {
+   "k": "como germinar semilla de kiwi",
+   "v": 210,
+   "hi": 0.004756007368421053
+  },
+  {
+   "k": "como germinar semilla de pera",
+   "v": 210,
+   "hi": 0.004891681052631579
+  },
+  {
+   "k": "como germinar una semilla de limón",
+   "v": 210,
+   "hi": 0.007033845263157894
+  },
+  {
+   "k": "huerto alto",
+   "v": 210,
+   "hi": 0.19204963684210527
+  },
+  {
+   "k": "huerto hidroponico casero",
+   "v": 210,
+   "hi": 0.2328196547368421
+  },
+  {
+   "k": "huerto pequeño en casa",
+   "v": 210,
+   "hi": 0.28443298842105263
+  },
+  {
+   "k": "macetas para huerto en casa",
+   "v": 210,
+   "hi": 0.27373488631578946
+  },
+  {
+   "k": "que se puede sembrar en noviembre",
+   "v": 210,
+   "hi": 0.007064584210526316
+  },
+  {
+   "k": "mesa huerto urbano",
+   "v": 170,
+   "hi": 0.2130462389473684
+  },
+  {
+   "k": "huerto urbano madera",
+   "v": 170,
+   "hi": 0.3380962705263158
+  },
+  {
+   "k": "huerto madera",
+   "v": 170,
+   "hi": 0.6587118021052631
+  },
+  {
+   "k": "huerto balcon",
+   "v": 170,
+   "hi": 0.3144561463157895
+  },
+  {
+   "k": "macetas huerto urbano",
+   "v": 170,
+   "hi": 0.7219093578947369
+  },
+  {
+   "k": "calendario de siembra de hortalizas",
+   "v": 170,
+   "hi": 0
+  },
+  {
+   "k": "calendario del huerto",
+   "v": 170,
+   "hi": 2.119905262105263
+  },
+  {
+   "k": "como germinar frutilla",
+   "v": 170,
+   "hi": 0.0070889631578947366
+  },
+  {
+   "k": "como germinar la semilla de palta",
+   "v": 170,
+   "hi": 0.009454776842105262
+  },
+  {
+   "k": "como germinar semilla de frutilla",
+   "v": 170,
+   "hi": 0.00736879052631579
+  },
+  {
+   "k": "como se hace la germinacion",
+   "v": 170,
+   "hi": 0.9464804621052632
+  },
+  {
+   "k": "huerto movil",
+   "v": 170,
+   "hi": 0.30636446842105264
+  },
+  {
+   "k": "permacultura huerto",
+   "v": 140,
+   "hi": 1.2807450042105264
+  },
+  {
+   "k": "huerto urbano amazon",
+   "v": 140,
+   "hi": 0.2560834957894737
+  },
+  {
+   "k": "huerto para terraza",
+   "v": 140,
+   "hi": 0.17107529473684213
+  },
+  {
+   "k": "huerto portatil",
+   "v": 140,
+   "hi": 0.2377166357894737
+  },
+  {
+   "k": "tu huerto en casa",
+   "v": 140,
+   "hi": 0.6138938252631578
+  },
+  {
+   "k": "calendario de siembra de maiz",
+   "v": 140,
+   "hi": 0
+  },
+  {
+   "k": "calendario plantaciones huerto",
+   "v": 140,
+   "hi": 0.5418742831578948
+  },
+  {
+   "k": "como germinar pistacho",
+   "v": 140,
+   "hi": 0.010022911578947368
+  },
+  {
+   "k": "como hacer germinar semilla de durazno",
+   "v": 140,
+   "hi": 0.005483134736842105
+  },
+  {
+   "k": "como plantar un carozo de palta",
+   "v": 140,
+   "hi": 0.010219003157894736
+  },
+  {
+   "k": "como se germina una semilla de mango",
+   "v": 140,
+   "hi": 0.005204367368421053
+  },
+  {
+   "k": "huerto elevado madera",
+   "v": 140,
+   "hi": 0.7195223442105264
+  },
+  {
+   "k": "huerto urbano mesa de cultivo",
+   "v": 140,
+   "hi": 0.2473653852631579
+  },
+  {
+   "k": "semilla de palta como germinar",
+   "v": 140,
+   "hi": 0.010854974736842106
+  },
+  {
+   "k": "mesa huerto",
+   "v": 110,
+   "hi": 0.4467170357894737
+  },
+  {
+   "k": "huerto leroy merlin",
+   "v": 110,
+   "hi": 0.06995581368421053
+  },
+  {
+   "k": "huerto para casa",
+   "v": 110,
+   "hi": 0.37898606315789474
+  },
+  {
+   "k": "huerto urbano verdecora",
+   "v": 110,
+   "hi": 0.24314253368421054
+  },
+  {
+   "k": "calendario de plantar",
+   "v": 110,
+   "hi": 0
+  },
+  {
+   "k": "calendario de siembra pdf",
+   "v": 110,
+   "hi": 0.4133815252631579
+  },
+  {
+   "k": "como germinar aguacate en agua",
+   "v": 110,
+   "hi": 0.01073944
+  },
+  {
+   "k": "como germinar albahaca",
+   "v": 110,
+   "hi": 0.01653844
+  },
+  {
+   "k": "como germinar carozo de durazno",
+   "v": 110,
+   "hi": 0.00827292947368421
+  },
+  {
+   "k": "como germinar rosas",
+   "v": 110,
+   "hi": 0.017128833684210525
+  },
+  {
+   "k": "como germinar semilla de chia",
+   "v": 110,
+   "hi": 0.006514468421052632
+  },
+  {
+   "k": "como germinar semillas de albahaca",
+   "v": 110,
+   "hi": 0.007676176842105263
+  },
+  {
+   "k": "como germinar una rosa",
+   "v": 110,
+   "hi": 0.015190181052631578
+  },
+  {
+   "k": "como hacer germinar una semilla de mango",
+   "v": 110,
+   "hi": 0.005238285263157895
+  },
+  {
+   "k": "como se germina una semilla de durazno",
+   "v": 110,
+   "hi": 0.005726923157894737
+  },
+  {
+   "k": "semillas para huerta casera",
+   "v": 110,
+   "hi": 0.18320327263157893
+  },
+  {
+   "k": "siembra lunar",
+   "v": 110,
+   "hi": 0.18439465894736842
+  },
+  {
+   "k": "comprar huerto urbano",
+   "v": 90,
+   "hi": 0.23629312
+  },
+  {
+   "k": "tierra para huerto urbano",
+   "v": 90,
+   "hi": 0.3733195557894737
+  },
+  {
+   "k": "huerto domestico",
+   "v": 90,
+   "hi": 0.4875782094736842
+  },
+  {
+   "k": "huerto vertical leroy merlin",
+   "v": 90,
+   "hi": 0.12982829789473685
+  },
+  {
+   "k": "semillas para huerto en casa",
+   "v": 90,
+   "hi": 0.15693552631578947
+  },
+  {
+   "k": "calendario siembra huerto pdf",
+   "v": 90,
+   "hi": 0
+  },
+  {
+   "k": "como germinar la semilla de durazno",
+   "v": 90,
+   "hi": 0.008352426315789474
+  },
+  {
+   "k": "como germinar mandarina",
+   "v": 90,
+   "hi": 0.005212846315789474
+  },
+  {
+   "k": "como germinar palta en agua",
+   "v": 90,
+   "hi": 0.010247621052631578
+  },
+  {
+   "k": "como germinar semillas de lavanda",
+   "v": 90,
+   "hi": 0.00785848842105263
+  },
+  {
+   "k": "como germinar tomate cherry",
+   "v": 90,
+   "hi": 0.044373856842105264
+  },
+  {
+   "k": "como germinar una semilla de girasol",
+   "v": 90,
+   "hi": 0.005635767368421052
+  },
+  {
+   "k": "huerto de cero",
+   "v": 90,
+   "hi": 0.11585918210526315
+  },
+  {
+   "k": "huerto de otoño",
+   "v": 90,
+   "hi": 0.023743997894736843
+  },
+  {
+   "k": "huerto en la cocina",
+   "v": 90,
+   "hi": 0.49053865789473683
+  },
+  {
+   "k": "huerto urbano balcon",
+   "v": 90,
+   "hi": 0.2484889347368421
+  },
+  {
+   "k": "macetas para huerto urbano",
+   "v": 90,
+   "hi": 0.3168876778947368
+  },
+  {
+   "k": "madera para huerto",
+   "v": 90,
+   "hi": 0.3123934789473684
+  },
+  {
+   "k": "que se puede sembrar en octubre y noviembre",
+   "v": 90,
+   "hi": 0.025129356842105263
+  },
+  {
+   "k": "que se siembra en noviembre y diciembre",
+   "v": 90,
+   "hi": 0.030911397894736844
+  },
+  {
+   "k": "substrato huerto urbano",
+   "v": 90,
+   "hi": 0.33907990631578944
+  },
+  {
+   "k": "mini huerto urbano",
+   "v": 70,
+   "hi": 0.24488721578947367
+  },
+  {
+   "k": "huerto en casa ikea",
+   "v": 70,
+   "hi": 0
+  },
+  {
+   "k": "como germinar la palta",
+   "v": 70,
+   "hi": 0.009475975789473684
+  },
+  {
+   "k": "como germinar semilla de tomate cherry",
+   "v": 70,
+   "hi": 0.500603967368421
+  },
+  {
+   "k": "como germinar semillas de girasol rápido",
+   "v": 70,
+   "hi": 0.005248885263157895
+  },
+  {
+   "k": "como germinar semillas de limon rapido",
+   "v": 70,
+   "hi": 0.007242655789473684
+  },
+  {
+   "k": "como germinar una semilla de pera",
+   "v": 70,
+   "hi": 0.2608289031578947
+  },
+  {
+   "k": "como hacer germinación de semillas",
+   "v": 70,
+   "hi": 0.8771860589473685
+  },
+  {
+   "k": "como hacer germinados en casa",
+   "v": 70,
+   "hi": 0.05003400315789473
+  },
+  {
+   "k": "como hacer germinar semilla de limon",
+   "v": 70,
+   "hi": 0.006754017894736842
+  },
+  {
+   "k": "como plantar el carozo de la palta",
+   "v": 70,
+   "hi": 0.009831059999999999
+  },
+  {
+   "k": "huerto aromatico",
+   "v": 70,
+   "hi": 0.10237976421052632
+  },
+  {
+   "k": "huerto balcon pequeño",
+   "v": 70,
+   "hi": 0.33323850736842103
+  },
+  {
+   "k": "huerto de madera para casa",
+   "v": 70,
+   "hi": 0.2525082747368421
+  },
+  {
+   "k": "huerto en casa pequeño",
+   "v": 70,
+   "hi": 0.4958363010526316
+  },
+  {
+   "k": "mesa de huerto",
+   "v": 70,
+   "hi": 0.30770848842105264
+  },
+  {
+   "k": "palta como germinar",
+   "v": 70,
+   "hi": 0.010533808421052632
+  },
+  {
+   "k": "que sembrar en noviembre y diciembre",
+   "v": 70,
+   "hi": 0.03782864842105263
+  },
+  {
+   "k": "semillas de limon como germinar",
+   "v": 70,
+   "hi": 0.007455706315789474
+  },
+  {
+   "k": "huerto ecologico en casa",
+   "v": 50,
+   "hi": 0
+  },
+  {
+   "k": "huerto urbano barato",
+   "v": 50,
+   "hi": 0.1392926147368421
+  },
+  {
+   "k": "huerto urbano plastico",
+   "v": 50,
+   "hi": 0.18643294842105262
+  },
+  {
+   "k": "calendario de siembra buenos aires",
+   "v": 50,
+   "hi": 0.13915058105263156
+  },
+  {
+   "k": "calendario de siembra primavera verano",
+   "v": 50,
+   "hi": 2.119905262105263
+  },
+  {
+   "k": "como germina el aguacate",
+   "v": 50,
+   "hi": 0.008322747368421052
+  },
+  {
+   "k": "como germinar la semilla de la palta",
+   "v": 50,
+   "hi": 0.009216287368421052
+  },
+  {
+   "k": "como germinar la semilla del mango",
+   "v": 50,
+   "hi": 0.0045281168421052636
+  },
+  {
+   "k": "como germinar lavanda",
+   "v": 50,
+   "hi": 0.007174818947368421
+  },
+  {
+   "k": "como germinar semilla de zanahoria",
+   "v": 50,
+   "hi": 0.005255244210526316
+  },
+  {
+   "k": "como plantar carozo de palta",
+   "v": 50,
+   "hi": 0.011046826315789474
+  },
+  {
+   "k": "como se germina la semilla de mango",
+   "v": 50,
+   "hi": 0.005238285263157895
+  },
+  {
+   "k": "hortalia huerto urbano",
+   "v": 50,
+   "hi": 0.7628235294736843
+  },
+  {
+   "k": "huerto en terraza pequeña",
+   "v": 50,
+   "hi": 0.2214018452631579
+  },
+  {
+   "k": "huerto urbano exterior",
+   "v": 50,
+   "hi": 0.44544721263157894
+  },
+  {
+   "k": "huerto urbano keter",
+   "v": 50,
+   "hi": 0.2869259968421053
+  },
+  {
+   "k": "huerto verdecora",
+   "v": 50,
+   "hi": 0.28330095894736845
+  },
+  {
+   "k": "huerto vertical terraza",
+   "v": 50,
+   "hi": 0.17724315894736842
+  },
+  {
+   "k": "huertos para terraza",
+   "v": 50,
+   "hi": 0.23745906736842107
+  },
+  {
+   "k": "que se puede sembrar en octubre noviembre y diciembre",
+   "v": 50,
+   "hi": 0.23318957789473685
+  },
+  {
+   "k": "huerto online",
+   "v": 40,
+   "hi": 0.5735848863157894
+  },
+  {
+   "k": "huerto urbano carrefour",
+   "v": 40,
+   "hi": 0
+  },
+  {
+   "k": "huerto urbano con ruedas",
+   "v": 40,
+   "hi": 0.3275688210526316
+  },
+  {
+   "k": "huerto urbano grande",
+   "v": 40,
+   "hi": 0.3862350789473684
+  },
+  {
+   "k": "huerto urbano alto",
+   "v": 40,
+   "hi": 0.3456060347368421
+  },
+  {
+   "k": "cajones para huertos caseros",
+   "v": 40,
+   "hi": 0.24378910421052633
+  },
+  {
+   "k": "como germinar frutillas en casa",
+   "v": 40,
+   "hi": 0.006838813684210526
+  },
+  {
+   "k": "como germinar semillas de mandarina en algodón",
+   "v": 40,
+   "hi": 0.004770846315789473
+  },
+  {
+   "k": "como germinar una palta en agua",
+   "v": 40,
+   "hi": 0.010700221052631579
+  },
+  {
+   "k": "como germinar una semilla de limon en casa",
+   "v": 40,
+   "hi": 0.006677701052631579
+  },
+  {
+   "k": "como hacer germinar una semilla de mandarina",
+   "v": 40,
+   "hi": 0.004742227368421053
+  },
+  {
+   "k": "como se germina el mango",
+   "v": 40,
+   "hi": 0.005238285263157895
+  },
+  {
+   "k": "como se germina una semilla de limon",
+   "v": 40,
+   "hi": 0.007119701052631579
+  },
+  {
+   "k": "huerto de otoño invierno",
+   "v": 40,
+   "hi": 0.11314994315789474
+  },
+  {
+   "k": "huerto modular",
+   "v": 40,
+   "hi": 1.161553330526316
+  },
+  {
+   "k": "huerto urbano de madera",
+   "v": 40,
+   "hi": 0.28346843157894736
+  },
+  {
+   "k": "huerto urbano leroy",
+   "v": 40,
+   "hi": 0.3629998568421053
+  },
+  {
+   "k": "huerto urbano pequeño",
+   "v": 40,
+   "hi": 0.5200678778947369
+  },
+  {
+   "k": "huertos de cocina",
+   "v": 40,
+   "hi": 0.18366011157894735
+  },
+  {
+   "k": "huertos en espacios reducidos",
+   "v": 40,
+   "hi": 0.1046046052631579
+  },
+  {
+   "k": "macetas para huertos",
+   "v": 40,
+   "hi": 0.47837040105263157
+  },
+  {
+   "k": "mini huerto en terraza",
+   "v": 40,
+   "hi": 0.08063695578947369
+  },
+  {
+   "k": "que puedo sembrar en noviembre",
+   "v": 40,
+   "hi": 0.037963263157894736
+  },
+  {
+   "k": "tierra para huertos caseros",
+   "v": 40,
+   "hi": 0.3530458421052632
+  },
+  {
+   "k": "huerto urbano bricodepot",
+   "v": 30,
+   "hi": 0
+  },
+  {
+   "k": "como germinar el jengibre",
+   "v": 30,
+   "hi": 0.008067298947368422
+  },
+  {
+   "k": "como germinar kiwi en casa",
+   "v": 30,
+   "hi": 0.005253124210526316
+  },
+  {
+   "k": "como germinar la semilla de limón",
+   "v": 30,
+   "hi": 0.006514468421052632
+  },
+  {
+   "k": "como germinar semilla de palta en agua",
+   "v": 30,
+   "hi": 0.011753813684210527
+  },
+  {
+   "k": "como germinar semillas de rosas en casa",
+   "v": 30,
+   "hi": 0.018613827368421054
+  },
+  {
+   "k": "como germinar una semilla de palta en tierra",
+   "v": 30,
+   "hi": 0.01185450947368421
+  },
+  {
+   "k": "huerto urbano para terraza",
+   "v": 30,
+   "hi": 0.29830882842105266
+  },
+  {
+   "k": "mesa de huerto urbano",
+   "v": 30,
+   "hi": 0.47849971578947365
+  },
+  {
+   "k": "mesa para huerto",
+   "v": 30,
+   "hi": 0.65338554
+  },
+  {
+   "k": "que puedo plantar en noviembre",
+   "v": 30,
+   "hi": 0.008348186315789473
+  },
+  {
+   "k": "substrato huerto",
+   "v": 30,
+   "hi": 0.33172277473684214
+  },
+  {
+   "k": "tierra huerto urbano",
+   "v": 20,
+   "hi": 0
+  },
+  {
+   "k": "carozo de palta como plantar",
+   "v": 20,
+   "hi": 0.009265045263157894
+  },
+  {
+   "k": "como germina el limon",
+   "v": 20,
+   "hi": 0.006586545263157895
+  },
+  {
+   "k": "como germinar la semilla de limon",
+   "v": 20,
+   "hi": 0.008411783157894736
+  },
+  {
+   "k": "como germinar semilla de limon rapido",
+   "v": 20,
+   "hi": 0.007030665263157895
+  },
+  {
+   "k": "como germinar semilla de palta en tierra",
+   "v": 20,
+   "hi": 0.011900087368421053
+  },
+  {
+   "k": "como germinar semilla limon",
+   "v": 20,
+   "hi": 0.013296045263157894
+  },
+  {
+   "k": "como germinar semilla palta",
+   "v": 20,
+   "hi": 0.009929635789473683
+  },
+  {
+   "k": "como germinar semillas de limón en un frasco",
+   "v": 20,
+   "hi": 0.006318376842105263
+  },
+  {
+   "k": "como germinar una semilla de frutilla",
+   "v": 20,
+   "hi": 0.01167749789473684
+  },
+  {
+   "k": "como hacer que germine una semilla de aguacate",
+   "v": 20,
+   "hi": 0.02326596
+  },
+  {
+   "k": "como plantar palta con el carozo",
+   "v": 20,
+   "hi": 0.009387999999999999
+  },
+  {
+   "k": "como poner a germinar una semilla de palta",
+   "v": 20,
+   "hi": 0.011270475789473683
+  },
+  {
+   "k": "como se germina una semilla de mandarina",
+   "v": 20,
+   "hi": 0.00535912
+  },
+  {
+   "k": "como sembrar un carozo de palta",
+   "v": 20,
+   "hi": 0.009973093684210527
+  },
+  {
+   "k": "huerto con ruedas",
+   "v": 20,
+   "hi": 0.19628838736842108
+  },
+  {
+   "k": "huerto urbano con tapa",
+   "v": 20,
+   "hi": 0.3934607757894737
+  },
+  {
+   "k": "madera para huerto urbano",
+   "v": 20,
+   "hi": 0.26040598210526317
+  },
+  {
+   "k": "que cultivar en noviembre",
+   "v": 20,
+   "hi": 0.04340612
+  },
+  {
+   "k": "que se puede plantar en octubre noviembre",
+   "v": 20,
+   "hi": 0.10702977684210525
+  },
+  {
+   "k": "semillas para hortalizas caseras",
+   "v": 20,
+   "hi": 0.20267884210526319
+  },
+  {
+   "k": "cocopot huerto urbano",
+   "v": 10,
+   "hi": 0
+  },
+  {
+   "k": "como germinar palta en casa",
+   "v": 10,
+   "hi": 0.009007476842105263
+  },
+  {
+   "k": "como germinar palta en tierra",
+   "v": 10,
+   "hi": 0.008647092631578947
+  },
+  {
+   "k": "como germinar semillas de girasol en casa",
+   "v": 10,
+   "hi": 0.20321411789473684
+  },
+  {
+   "k": "como germinar semillas de mandarina paso a paso",
+   "v": 10,
+   "hi": 0.010822115789473685
+  },
+  {
+   "k": "como germinar un carozo de palta en tierra",
+   "v": 10,
+   "hi": 0.01138495052631579
+  },
+  {
+   "k": "como hacer brotar la semilla de palta",
+   "v": 10,
+   "hi": 0.010467031578947369
+  },
+  {
+   "k": "como plantar el carozo de palta",
+   "v": 10,
+   "hi": 0.011007607368421051
+  },
+  {
+   "k": "como plantar palta de carozo",
+   "v": 10,
+   "hi": 0.007652857894736843
+  },
+  {
+   "k": "como plantar semilla de limon germinada",
+   "v": 10,
+   "hi": 0.006758257894736842
+  },
+  {
+   "k": "como se germina semilla de limon",
+   "v": 10,
+   "hi": 0.00625054
+  },
+  {
+   "k": "cultivar tomates en huerto",
+   "v": 10,
+   "hi": 0.007852128421052632
+  },
+  {
+   "k": "huerto vertical easy",
+   "v": 10,
+   "hi": 0.23971570631578945
+  },
+  {
+   "k": "que plantar en noviembre en el huerto",
+   "v": 10,
+   "hi": 0.047338544210526315
+  },
+  {
+   "k": "que sembrar en octubre y noviembre",
+   "v": 10,
+   "hi": 0.1548071410526316
+  },
+  {
+   "k": "que verdura se siembra en noviembre",
+   "v": 10,
+   "hi": 0.022687225263157893
+  },
+  {
+   "k": "que verduras plantar en noviembre",
+   "v": 10,
+   "hi": 0.01180999157894737
+  },
+  {
+   "k": "que verduras sembrar en noviembre",
+   "v": 10,
+   "hi": 0.033690593684210526
+  },
+  {
+   "k": "tierra para huerto en casa",
+   "v": 10,
+   "hi": 0.08638507894736842
+  },
+  {
+   "k": "almanaque de siembra 2022",
+   "v": 0,
+   "hi": 0
+  }
+ ],
+ "sustrato": [
+  {
+   "k": "perlita",
+   "v": 18100,
+   "hi": 0.2790434463157895
+  },
+  {
+   "k": "tierra para plantas",
+   "v": 9900,
+   "hi": 0.30363941368421055
+  },
+  {
+   "k": "sustrato para las plantas",
+   "v": 9900,
+   "hi": 0.2142337105263158
+  },
+  {
+   "k": "perlita para plantas",
+   "v": 8100,
+   "hi": 0.21452073263157895
+  },
+  {
+   "k": "sustrato para orquídeas",
+   "v": 6600,
+   "hi": 0.2647802631578947
+  },
+  {
+   "k": "tierra de hoja",
+   "v": 5400,
+   "hi": 0.2529308168421053
+  },
+  {
+   "k": "sustrato universal",
+   "v": 2900,
+   "hi": 0.3329643578947369
+  },
+  {
+   "k": "tierra para macetas",
+   "v": 2900,
+   "hi": 0.2711265157894737
+  },
+  {
+   "k": "sustrato para suculentas",
+   "v": 2400,
+   "hi": 0.21953355263157895
+  },
+  {
+   "k": "tierra para orquideas",
+   "v": 2400,
+   "hi": 0.25996232105263156
+  },
+  {
+   "k": "perlita sustrato",
+   "v": 2400,
+   "hi": 0.24649136
+  },
+  {
+   "k": "como trasplantar una planta",
+   "v": 1900,
+   "hi": 0.04519163578947368
+  },
+  {
+   "k": "tierra de huerto",
+   "v": 1900,
+   "hi": 0.6569759663157895
+  },
+  {
+   "k": "tierra para suculentas",
+   "v": 1600,
+   "hi": 0.2029805494736842
+  },
+  {
+   "k": "sustrato para cactus",
+   "v": 1600,
+   "hi": 0.19356602210526316
+  },
+  {
+   "k": "turba para plantas",
+   "v": 1600,
+   "hi": 0.20391469368421053
+  },
+  {
+   "k": "orquideas de tierra",
+   "v": 1600,
+   "hi": 0.23300663157894738
+  },
+  {
+   "k": "como trasplantar las orquideas",
+   "v": 1600,
+   "hi": 0.051018919999999995
+  },
+  {
+   "k": "tierra para cactus",
+   "v": 1300,
+   "hi": 0.21264714736842105
+  },
+  {
+   "k": "tierra para jardin",
+   "v": 1300,
+   "hi": 0.3661942810526316
+  },
+  {
+   "k": "sustrato para anturios",
+   "v": 1000,
+   "hi": 0.21449107684210528
+  },
+  {
+   "k": "perlita vermiculita",
+   "v": 1000,
+   "hi": 0.3134606431578948
+  },
+  {
+   "k": "tierra miracle gro",
+   "v": 1000,
+   "hi": 0
+  },
+  {
+   "k": "tierra para plantas de interior",
+   "v": 880,
+   "hi": 0.3221221357894737
+  },
+  {
+   "k": "tierra plantas",
+   "v": 880,
+   "hi": 0.37525718
+  },
+  {
+   "k": "tierra para suculentas y cactus",
+   "v": 880,
+   "hi": 0.22341417157894736
+  },
+  {
+   "k": "perlita blanca",
+   "v": 880,
+   "hi": 0.3245157494736842
+  },
+  {
+   "k": "tierra para sembrar",
+   "v": 720,
+   "hi": 0.4347321221052632
+  },
+  {
+   "k": "tierra acida",
+   "v": 720,
+   "hi": 0.2821159557894737
+  },
+  {
+   "k": "sustrato para cactus y suculentas",
+   "v": 720,
+   "hi": 0.25032643789473685
+  },
+  {
+   "k": "sustrato para monstera",
+   "v": 720,
+   "hi": 0.58253882
+  },
+  {
+   "k": "tierra de monte para plantas",
+   "v": 720,
+   "hi": 0
+  },
+  {
+   "k": "tierra para plantas cerca de mi",
+   "v": 720,
+   "hi": 0.6796115010526316
+  },
+  {
+   "k": "tierra para huerto",
+   "v": 590,
+   "hi": 0.26124703473684213
+  },
+  {
+   "k": "tierra para sembrar plantas",
+   "v": 590,
+   "hi": 0.4378364063157895
+  },
+  {
+   "k": "sustrato para bonsai",
+   "v": 590,
+   "hi": 0.24420048105263156
+  },
+  {
+   "k": "tierra para pasto",
+   "v": 590,
+   "hi": 0.513652527368421
+  },
+  {
+   "k": "sustrato de orquideas",
+   "v": 590,
+   "hi": 0.26313332947368423
+  },
+  {
+   "k": "cactus como trasplantar",
+   "v": 590,
+   "hi": 0
+  },
+  {
+   "k": "como trasplantar una orquidea a una maceta mas grande",
+   "v": 590,
+   "hi": 0.07208377789473684
+  },
+  {
+   "k": "perlita plantas",
+   "v": 480,
+   "hi": 0.24801967157894736
+  },
+  {
+   "k": "sustrato suculentas",
+   "v": 480,
+   "hi": 0.39606996736842104
+  },
+  {
+   "k": "tierra para plantar",
+   "v": 480,
+   "hi": 0.49208988210526317
+  },
+  {
+   "k": "tierra para anturios",
+   "v": 480,
+   "hi": 0.27252455578947365
+  },
+  {
+   "k": "como trasplantar rosales",
+   "v": 480,
+   "hi": 0.02102990736842105
+  },
+  {
+   "k": "perlita tierra",
+   "v": 480,
+   "hi": 0.2394259642105263
+  },
+  {
+   "k": "tierra con turba",
+   "v": 480,
+   "hi": 0.11834194947368422
+  },
+  {
+   "k": "tierra para plantas lowes",
+   "v": 480,
+   "hi": 0
+  },
+  {
+   "k": "macetas con drenaje",
+   "v": 390,
+   "hi": 0.44755384210526317
+  },
+  {
+   "k": "tierra para bonsai",
+   "v": 390,
+   "hi": 0.24462095263157896
+  },
+  {
+   "k": "sustrato para semilleros",
+   "v": 390,
+   "hi": 0.27816225684210527
+  },
+  {
+   "k": "perlita leroy merlin",
+   "v": 390,
+   "hi": 0.06728490105263157
+  },
+  {
+   "k": "sustrato para plantas carnivoras",
+   "v": 390,
+   "hi": 0.16945936842105264
+  },
+  {
+   "k": "sustrato para suculentas y cactus",
+   "v": 390,
+   "hi": 0.21697789263157893
+  },
+  {
+   "k": "tierra preparada para plantas",
+   "v": 390,
+   "hi": 0.3517584610526316
+  },
+  {
+   "k": "como trasplantar lengua de suegra",
+   "v": 390,
+   "hi": 0.007881977894736842
+  },
+  {
+   "k": "plantas en agua sin tierra",
+   "v": 390,
+   "hi": 0
+  },
+  {
+   "k": "sustrato para helecho",
+   "v": 390,
+   "hi": 0.2924275589473684
+  },
+  {
+   "k": "plantas sin tierra",
+   "v": 320,
+   "hi": 0.6102496631578948
+  },
+  {
+   "k": "tierra para semilleros",
+   "v": 320,
+   "hi": 0.20582534842105263
+  },
+  {
+   "k": "sustrato cactus",
+   "v": 320,
+   "hi": 0.3243367578947368
+  },
+  {
+   "k": "tierra para hortensias",
+   "v": 320,
+   "hi": 0.23909022210526315
+  },
+  {
+   "k": "tierra de coco para plantas",
+   "v": 320,
+   "hi": 0.21417016315789475
+  },
+  {
+   "k": "sustrato para macetas",
+   "v": 320,
+   "hi": 0.2721750463157895
+  },
+  {
+   "k": "tierra macetas",
+   "v": 320,
+   "hi": 0.46886865263157895
+  },
+  {
+   "k": "akadama sustrato",
+   "v": 320,
+   "hi": 0.2672077684210526
+  },
+  {
+   "k": "sustrato leroy merlin",
+   "v": 320,
+   "hi": 0.04261691263157895
+  },
+  {
+   "k": "como trasplantar",
+   "v": 320,
+   "hi": 0.014357444210526316
+  },
+  {
+   "k": "como trasplantar la lengua de suegra",
+   "v": 320,
+   "hi": 0.07413847368421053
+  },
+  {
+   "k": "como trasplantar romero",
+   "v": 320,
+   "hi": 0.008180650526315789
+  },
+  {
+   "k": "como trasplantar una lengua de suegra",
+   "v": 320,
+   "hi": 1.7687321578947368
+  },
+  {
+   "k": "macetero con tierra",
+   "v": 320,
+   "hi": 0
+  },
+  {
+   "k": "plantas para tierra acida",
+   "v": 320,
+   "hi": 0.20047043263157896
+  },
+  {
+   "k": "sustrato para sansevieria",
+   "v": 320,
+   "hi": 0.3418175505263158
+  },
+  {
+   "k": "tierra de planta",
+   "v": 320,
+   "hi": 0.35620676947368424
+  },
+  {
+   "k": "tierra para césped",
+   "v": 320,
+   "hi": 0.6745616115789473
+  },
+  {
+   "k": "tierra para monstera",
+   "v": 320,
+   "hi": 0.47681312
+  },
+  {
+   "k": "comprar tierra para plantas",
+   "v": 260,
+   "hi": 0.42883599578947373
+  },
+  {
+   "k": "sustrato para huerto",
+   "v": 260,
+   "hi": 0.2721750463157895
+  },
+  {
+   "k": "sustrato universal leroy merlin",
+   "v": 260,
+   "hi": 0.05872932105263158
+  },
+  {
+   "k": "tierra para vegetales",
+   "v": 260,
+   "hi": 0
+  },
+  {
+   "k": "perlita precio",
+   "v": 260,
+   "hi": 0.16201480631578946
+  },
+  {
+   "k": "tierra para plantas carnivoras",
+   "v": 260,
+   "hi": 0.2063284305263158
+  },
+  {
+   "k": "sustrato para hortensias",
+   "v": 260,
+   "hi": 0.2235190252631579
+  },
+  {
+   "k": "como se trasplanta una orquidea",
+   "v": 260,
+   "hi": 0.03197168631578947
+  },
+  {
+   "k": "como trasplantar suculenta",
+   "v": 260,
+   "hi": 0.05162685473684211
+  },
+  {
+   "k": "sustrato bonsais",
+   "v": 260,
+   "hi": 0.38881604736842107
+  },
+  {
+   "k": "sustrato para anturios en maceta",
+   "v": 260,
+   "hi": 0.16482783157894737
+  },
+  {
+   "k": "sustrato para rosa del desierto",
+   "v": 260,
+   "hi": 0.21388526000000002
+  },
+  {
+   "k": "sustrato tierra",
+   "v": 260,
+   "hi": 0.22150139894736842
+  },
+  {
+   "k": "tierra de maceta",
+   "v": 260,
+   "hi": 0.1696849610526316
+  },
+  {
+   "k": "tierra para cultivo",
+   "v": 260,
+   "hi": 0.22033848421052632
+  },
+  {
+   "k": "tierra para plantas en walmart",
+   "v": 260,
+   "hi": 0.4977868947368421
+  },
+  {
+   "k": "tierra preparada para sembrar",
+   "v": 260,
+   "hi": 0.06429606105263158
+  },
+  {
+   "k": "tierra orquideas",
+   "v": 210,
+   "hi": 0.3466407884210526
+  },
+  {
+   "k": "tierra suculentas",
+   "v": 210,
+   "hi": 0.2664324915789474
+  },
+  {
+   "k": "tierra para huerto a granel",
+   "v": 210,
+   "hi": 0.28608766
+  },
+  {
+   "k": "tierra para plantas walmart",
+   "v": 210,
+   "hi": 0.15860549578947367
+  },
+  {
+   "k": "como se trasplanta una planta",
+   "v": 210,
+   "hi": 0.041631929473684215
+  },
+  {
+   "k": "como trasplantar albahaca",
+   "v": 210,
+   "hi": 0.008110748421052631
+  },
+  {
+   "k": "como trasplantar lavanda",
+   "v": 210,
+   "hi": 0.008669964210526316
+  },
+  {
+   "k": "como trasplantar un anturio",
+   "v": 210,
+   "hi": 0
+  },
+  {
+   "k": "como trasplantar una monstera",
+   "v": 210,
+   "hi": 0.09521604105263158
+  },
+  {
+   "k": "como trasplantar una planta grande",
+   "v": 210,
+   "hi": 0.02490840842105263
+  },
+  {
+   "k": "como trasplantar una suculenta",
+   "v": 210,
+   "hi": 0.014393454736842105
+  },
+  {
+   "k": "maceta con agujero",
+   "v": 210,
+   "hi": 0.28695190315789476
+  },
+  {
+   "k": "perlita mineral precio",
+   "v": 210,
+   "hi": 0.18590328105263157
+  },
+  {
+   "k": "perlita para macetas",
+   "v": 210,
+   "hi": 0.14946210315789474
+  },
+  {
+   "k": "piedra perlita",
+   "v": 210,
+   "hi": 0.1936602842105263
+  },
+  {
+   "k": "sustrato para alocasia",
+   "v": 210,
+   "hi": 0.6508521284210527
+  },
+  {
+   "k": "tierra abonada para plantas",
+   "v": 210,
+   "hi": 0.21501746
+  },
+  {
+   "k": "tierra de diatomeas para plantas",
+   "v": 210,
+   "hi": 0.2048668442105263
+  },
+  {
+   "k": "tierra de hojas para plantas",
+   "v": 210,
+   "hi": 0.3962245989473684
+  },
+  {
+   "k": "tierra para lengua de suegra",
+   "v": 210,
+   "hi": 0.27478472
+  },
+  {
+   "k": "tierra cactus",
+   "v": 170,
+   "hi": 0.20611342947368422
+  },
+  {
+   "k": "tierra para flores",
+   "v": 170,
+   "hi": 0.22600478210526315
+  },
+  {
+   "k": "sustrato cactus y suculentas",
+   "v": 170,
+   "hi": 0.2572033105263158
+  },
+  {
+   "k": "tierra para sembrar semillas",
+   "v": 170,
+   "hi": 0.28294207052631576
+  },
+  {
+   "k": "como trasplantar arboles",
+   "v": 170,
+   "hi": 0
+  },
+  {
+   "k": "como trasplantar un jazmin",
+   "v": 170,
+   "hi": 0.005301958947368421
+  },
+  {
+   "k": "como trasplantar una rosa",
+   "v": 170,
+   "hi": 0.014507840000000001
+  },
+  {
+   "k": "fibra de coco plantas",
+   "v": 170,
+   "hi": 0.2131237515789474
+  },
+  {
+   "k": "perlita agricola",
+   "v": 170,
+   "hi": 0.3389187368421053
+  },
+  {
+   "k": "sustrato de perlita",
+   "v": 170,
+   "hi": 0.2762664305263158
+  },
+  {
+   "k": "sustrato de suculenta",
+   "v": 170,
+   "hi": 0.21008301473684213
+  },
+  {
+   "k": "sustrato de tierra",
+   "v": 170,
+   "hi": 0.14206520210526316
+  },
+  {
+   "k": "sustrato para begonia",
+   "v": 170,
+   "hi": 0.23993857894736842
+  },
+  {
+   "k": "sustrato para citricos",
+   "v": 170,
+   "hi": 0.24359784210526314
+  },
+  {
+   "k": "sustrato para monstera deliciosa",
+   "v": 170,
+   "hi": 0.47481985473684213
+  },
+  {
+   "k": "sustrato para plantas acidofilas",
+   "v": 170,
+   "hi": 0.2518971147368421
+  },
+  {
+   "k": "tierra de encino para plantas",
+   "v": 170,
+   "hi": 0.07113162842105263
+  },
+  {
+   "k": "tierra de hoja de litre",
+   "v": 170,
+   "hi": 0.12955168631578948
+  },
+  {
+   "k": "tierra de orquideas",
+   "v": 170,
+   "hi": 0.2151551452631579
+  },
+  {
+   "k": "tierra para helecho",
+   "v": 170,
+   "hi": 0.18534618421052632
+  },
+  {
+   "k": "tierra para sansevieria",
+   "v": 170,
+   "hi": 0.38853855789473685
+  },
+  {
+   "k": "tierra para violetas africanas",
+   "v": 170,
+   "hi": 0.27537041368421056
+  },
+  {
+   "k": "tierra universal",
+   "v": 170,
+   "hi": 0.41622610000000004
+  },
+  {
+   "k": "turba sphagnum",
+   "v": 170,
+   "hi": 0.26392555157894737
+  },
+  {
+   "k": "comprar tierra para huerto",
+   "v": 140,
+   "hi": 0.40390428631578945
+  },
+  {
+   "k": "sustrato plantas interior",
+   "v": 140,
+   "hi": 0.5714455863157895
+  },
+  {
+   "k": "perlita 100 litros",
+   "v": 140,
+   "hi": 0.2769654505263158
+  },
+  {
+   "k": "tierra para rosales",
+   "v": 140,
+   "hi": 0.30540496947368423
+  },
+  {
+   "k": "como trasplantar planta",
+   "v": 140,
+   "hi": 0.09241996210526315
+  },
+  {
+   "k": "como trasplantar un aloe vera",
+   "v": 140,
+   "hi": 0
+  },
+  {
+   "k": "maceta con buen drenaje",
+   "v": 140,
+   "hi": 0.3040281115789474
+  },
+  {
+   "k": "maceta sin drenaje",
+   "v": 140,
+   "hi": 0.45818318105263156
+  },
+  {
+   "k": "perlita gruesa",
+   "v": 140,
+   "hi": 0.24931391789473684
+  },
+  {
+   "k": "perlita para tierra",
+   "v": 140,
+   "hi": 0.27204477368421054
+  },
+  {
+   "k": "piedra drenaje maceta",
+   "v": 140,
+   "hi": 0.27060119157894735
+  },
+  {
+   "k": "sustrato de cactus",
+   "v": 140,
+   "hi": 0.2727480305263158
+  },
+  {
+   "k": "sustrato para bromelia",
+   "v": 140,
+   "hi": 0.21596855052631578
+  },
+  {
+   "k": "sustrato para calathea",
+   "v": 140,
+   "hi": 0.4023759747368421
+  },
+  {
+   "k": "sustrato para gardenia",
+   "v": 140,
+   "hi": 0.3024118926315789
+  },
+  {
+   "k": "sustrato para geranio",
+   "v": 140,
+   "hi": 0.20018341052631577
+  },
+  {
+   "k": "sustrato para lavanda",
+   "v": 140,
+   "hi": 0.2216041336842105
+  },
+  {
+   "k": "sustrato para tomateras",
+   "v": 140,
+   "hi": 0.33615231263157896
+  },
+  {
+   "k": "sustrato para violetas africanas",
+   "v": 140,
+   "hi": 0.26250738842105265
+  },
+  {
+   "k": "sustrato para zamioculcas",
+   "v": 140,
+   "hi": 0.2836590957894737
+  },
+  {
+   "k": "tierra acida para hortensias",
+   "v": 140,
+   "hi": 0.21461817157894736
+  },
+  {
+   "k": "tierra de cactus",
+   "v": 140,
+   "hi": 0.21238342631578946
+  },
+  {
+   "k": "tierra hoja",
+   "v": 140,
+   "hi": 0.3394419421052632
+  },
+  {
+   "k": "tierra para gardenia",
+   "v": 140,
+   "hi": 0.1904469105263158
+  },
+  {
+   "k": "tierra para plantas en macetas",
+   "v": 140,
+   "hi": 0.3676622231578947
+  },
+  {
+   "k": "tierra para tomateras",
+   "v": 140,
+   "hi": 0.23660446526315787
+  },
+  {
+   "k": "tierra vegetal comprar",
+   "v": 140,
+   "hi": 0.3316965894736842
+  },
+  {
+   "k": "tierra bonsai",
+   "v": 110,
+   "hi": 0.3586395705263158
+  },
+  {
+   "k": "tierra compo",
+   "v": 110,
+   "hi": 0.32002931263157897
+  },
+  {
+   "k": "tierra para orquídeas casera",
+   "v": 110,
+   "hi": 0.03997016842105263
+  },
+  {
+   "k": "la mejor tierra para plantas",
+   "v": 110,
+   "hi": 0.5401782147368421
+  },
+  {
+   "k": "mejor tierra para plantas",
+   "v": 110,
+   "hi": 0.41433239157894736
+  },
+  {
+   "k": "bertinat tierra",
+   "v": 110,
+   "hi": 0.22026434526315788
+  },
+  {
+   "k": "como trasplantar bambu",
+   "v": 110,
+   "hi": 0
+  },
+  {
+   "k": "como trasplantar una hortensia",
+   "v": 110,
+   "hi": 0.004431362105263158
+  },
+  {
+   "k": "drenaje para macetas",
+   "v": 110,
+   "hi": 0.16530761368421054
+  },
+  {
+   "k": "perlita para sustrato",
+   "v": 110,
+   "hi": 0.24470991894736843
+  },
+  {
+   "k": "precio de tierra para plantas",
+   "v": 110,
+   "hi": 0.10117253789473685
+  },
+  {
+   "k": "sustrato casero para suculentas",
+   "v": 110,
+   "hi": 0.03653861684210526
+  },
+  {
+   "k": "sustrato para azalea",
+   "v": 110,
+   "hi": 0.2630549547368421
+  },
+  {
+   "k": "sustrato para bugambilias",
+   "v": 110,
+   "hi": 0.2945765157894737
+  },
+  {
+   "k": "sustrato para carnivoras",
+   "v": 110,
+   "hi": 0.23378084842105262
+  },
+  {
+   "k": "sustrato para esquejes",
+   "v": 110,
+   "hi": 0.18191251368421052
+  },
+  {
+   "k": "sustrato para fresas",
+   "v": 110,
+   "hi": 0.5287598305263158
+  },
+  {
+   "k": "sustrato para rosal",
+   "v": 110,
+   "hi": 0.6858592557894737
+  },
+  {
+   "k": "sustrato para venus atrapamoscas",
+   "v": 110,
+   "hi": 0.12769716526315789
+  },
+  {
+   "k": "tierra buena para plantas",
+   "v": 110,
+   "hi": 0.39145431789473684
+  },
+  {
+   "k": "tierra canna",
+   "v": 110,
+   "hi": 0.771305965263158
+  },
+  {
+   "k": "tierra compo sana",
+   "v": 110,
+   "hi": 0.1602090042105263
+  },
+  {
+   "k": "tierra fibra de coco",
+   "v": 110,
+   "hi": 0.20902707157894737
+  },
+  {
+   "k": "tierra para arboles frutales",
+   "v": 110,
+   "hi": 0.41198326105263156
+  },
+  {
+   "k": "tierra para azalea",
+   "v": 110,
+   "hi": 0.13019457263157894
+  },
+  {
+   "k": "tierra para citricos",
+   "v": 110,
+   "hi": 0.29516856421052634
+  },
+  {
+   "k": "tierra para hortalizas",
+   "v": 110,
+   "hi": 0.15905774
+  },
+  {
+   "k": "tierra para matas",
+   "v": 110,
+   "hi": 0.5912045484210526
+  },
+  {
+   "k": "tierra para plantas de exterior",
+   "v": 110,
+   "hi": 0.6866377105263158
+  },
+  {
+   "k": "tierra para plantas interior",
+   "v": 110,
+   "hi": 0.4720841442105263
+  },
+  {
+   "k": "tierra para huerto urbano",
+   "v": 90,
+   "hi": 0.3730266705263158
+  },
+  {
+   "k": "sustrato plantas verdes",
+   "v": 90,
+   "hi": 0.13243143684210526
+  },
+  {
+   "k": "perlita para suculentas",
+   "v": 90,
+   "hi": 0.25544728842105263
+  },
+  {
+   "k": "tierra para grama",
+   "v": 90,
+   "hi": 1.6486002936842103
+  },
+  {
+   "k": "como pasar una planta a una maceta",
+   "v": 90,
+   "hi": 0
+  },
+  {
+   "k": "como trasplantar un arbol grande",
+   "v": 90,
+   "hi": 0.3590378
+  },
+  {
+   "k": "comprar tierra para jardin",
+   "v": 90,
+   "hi": 0.3494294536842105
+  },
+  {
+   "k": "comprar turba rubia",
+   "v": 90,
+   "hi": 0.2718498957894737
+  },
+  {
+   "k": "fibra de coco y perlita",
+   "v": 90,
+   "hi": 0.3010403315789474
+  },
+  {
+   "k": "leroy merlin tierra plantas",
+   "v": 90,
+   "hi": 0.03707770947368421
+  },
+  {
+   "k": "perlita jardineria",
+   "v": 90,
+   "hi": 0.3126991357894737
+  },
+  {
+   "k": "perlita verdecora",
+   "v": 90,
+   "hi": 0.12128630631578947
+  },
+  {
+   "k": "perlita volcanica",
+   "v": 90,
+   "hi": 0.40987561052631577
+  },
+  {
+   "k": "perlita y fibra de coco",
+   "v": 90,
+   "hi": 0.16593461263157894
+  },
+  {
+   "k": "precio tierra para jardin",
+   "v": 90,
+   "hi": 0.17711787263157894
+  },
+  {
+   "k": "precio tierra para plantas",
+   "v": 90,
+   "hi": 0.15331624526315787
+  },
+  {
+   "k": "sustrato para ficus",
+   "v": 90,
+   "hi": 0.5648790357894737
+  },
+  {
+   "k": "sustrato para hortalizas",
+   "v": 90,
+   "hi": 0.2067817347368421
+  },
+  {
+   "k": "sustrato para kokedamas",
+   "v": 90,
+   "hi": 0.14600301368421054
+  },
+  {
+   "k": "sustrato para lithops",
+   "v": 90,
+   "hi": 0.22552288210526314
+  },
+  {
+   "k": "sustrato para orquideas phalaenopsis",
+   "v": 90,
+   "hi": 0.48978841263157896
+  },
+  {
+   "k": "sustrato para pata de elefante",
+   "v": 90,
+   "hi": 0.42311038736842105
+  },
+  {
+   "k": "sustrato para plantas precio",
+   "v": 90,
+   "hi": 0.17607463789473685
+  },
+  {
+   "k": "sustrato para romero",
+   "v": 90,
+   "hi": 0.20595244315789474
+  },
+  {
+   "k": "sustrato perlita para plantas",
+   "v": 90,
+   "hi": 0.1906417894736842
+  },
+  {
+   "k": "tierra blanca en macetas",
+   "v": 90,
+   "hi": 0.0075769515789473685
+  },
+  {
+   "k": "tierra cactus y suculentas",
+   "v": 90,
+   "hi": 0.19509962947368423
+  },
+  {
+   "k": "tierra de brezo",
+   "v": 90,
+   "hi": 0.14021597684210524
+  },
+  {
+   "k": "tierra de fibra de coco",
+   "v": 90,
+   "hi": 0.2427802
+  },
+  {
+   "k": "tierra de suculentas",
+   "v": 90,
+   "hi": 0.16403137263157894
+  },
+  {
+   "k": "tierra para arboles",
+   "v": 90,
+   "hi": 0.2528736242105263
+  },
+  {
+   "k": "tierra para cesped natural",
+   "v": 90,
+   "hi": 0.3490788842105263
+  },
+  {
+   "k": "tierra para limonero",
+   "v": 90,
+   "hi": 0.19161194421052632
+  },
+  {
+   "k": "tierra para limonero en maceta",
+   "v": 90,
+   "hi": 0.13569564842105264
+  },
+  {
+   "k": "tierra para macetas precio",
+   "v": 90,
+   "hi": 0.08200668315789475
+  },
+  {
+   "k": "tierra para rosas en maceta",
+   "v": 90,
+   "hi": 0.16061570736842107
+  },
+  {
+   "k": "tierra para sembrar pasto",
+   "v": 90,
+   "hi": 0.7062430999999999
+  },
+  {
+   "k": "tierra vegetal leroy merlin",
+   "v": 90,
+   "hi": 0.06246272315789474
+  },
+  {
+   "k": "tierra vegetal para jardin",
+   "v": 90,
+   "hi": 0.659528447368421
+  },
+  {
+   "k": "tierra acida plantas",
+   "v": 70,
+   "hi": 0
+  },
+  {
+   "k": "tierra para orquideas walmart",
+   "v": 70,
+   "hi": 0.10198488421052632
+  },
+  {
+   "k": "mejor tierra para plantas de interior",
+   "v": 70,
+   "hi": 0.49553096631578947
+  },
+  {
+   "k": "perlita expandida precio",
+   "v": 70,
+   "hi": 0.10898567368421053
+  },
+  {
+   "k": "arena perlita",
+   "v": 70,
+   "hi": 0.4445268736842105
+  },
+  {
+   "k": "como cambiar de maceta una planta",
+   "v": 70,
+   "hi": 0.02981002105263158
+  },
+  {
+   "k": "como se trasplantan las orquideas",
+   "v": 70,
+   "hi": 0.013287732631578947
+  },
+  {
+   "k": "como trasplantar un limonero en maceta",
+   "v": 70,
+   "hi": 0.007697691578947369
+  },
+  {
+   "k": "como trasplantar un potus",
+   "v": 70,
+   "hi": 0.006410858947368421
+  },
+  {
+   "k": "como trasplantar una orquidea a otra maceta",
+   "v": 70,
+   "hi": 0.495442
+  },
+  {
+   "k": "leroy merlin perlita",
+   "v": 70,
+   "hi": 0.06052559052631579
+  },
+  {
+   "k": "lidl tierra plantas",
+   "v": 70,
+   "hi": 0.08331999368421052
+  },
+  {
+   "k": "lowes tierra para plantas",
+   "v": 70,
+   "hi": 0.4468982463157895
+  },
+  {
+   "k": "maceta de tierra",
+   "v": 70,
+   "hi": 0.24336377578947369
+  },
+  {
+   "k": "mejor sustrato para orquideas",
+   "v": 70,
+   "hi": 0.32975416210526315
+  },
+  {
+   "k": "perlita amazon",
+   "v": 70,
+   "hi": 0.1840434652631579
+  },
+  {
+   "k": "perlita carrefour",
+   "v": 70,
+   "hi": 0.2949948684210526
+  },
+  {
+   "k": "perlita para plantas leroy merlin",
+   "v": 70,
+   "hi": 0.06584449578947368
+  },
+  {
+   "k": "perlita para plantas precios",
+   "v": 70,
+   "hi": 0.35155616842105264
+  },
+  {
+   "k": "perlita sustrato precio",
+   "v": 70,
+   "hi": 0.12564141157894737
+  },
+  {
+   "k": "precio de la perlita",
+   "v": 70,
+   "hi": 0.0952001547368421
+  },
+  {
+   "k": "sustrato helechos",
+   "v": 70,
+   "hi": 0.8354526915789474
+  },
+  {
+   "k": "sustrato para camelias",
+   "v": 70,
+   "hi": 0.3025082726315789
+  },
+  {
+   "k": "sustrato para ficus lyrata",
+   "v": 70,
+   "hi": 0.38873131789473686
+  },
+  {
+   "k": "sustrato para helechos en maceta",
+   "v": 70,
+   "hi": 0.1683441136842105
+  },
+  {
+   "k": "sustrato para hoyas",
+   "v": 70,
+   "hi": 0.5663374452631579
+  },
+  {
+   "k": "sustrato para limonero",
+   "v": 70,
+   "hi": 0.2617278757894737
+  },
+  {
+   "k": "sustrato para palmeras",
+   "v": 70,
+   "hi": 0.2120911084210526
+  },
+  {
+   "k": "sustrato para pasto",
+   "v": 70,
+   "hi": 0.29740436842105267
+  },
+  {
+   "k": "sustrato suculentas y cactus",
+   "v": 70,
+   "hi": 0.18422775157894739
+  },
+  {
+   "k": "tierra para camelias",
+   "v": 70,
+   "hi": 0.19390070421052633
+  },
+  {
+   "k": "tierra para geranios",
+   "v": 70,
+   "hi": 0.1655596842105263
+  },
+  {
+   "k": "tierra para lavanda",
+   "v": 70,
+   "hi": 0.2540270063157895
+  },
+  {
+   "k": "tierra para monstera deliciosa",
+   "v": 70,
+   "hi": 0.4769200915789474
+  },
+  {
+   "k": "tierra para olivo en maceta",
+   "v": 70,
+   "hi": 0.24142770210526315
+  },
+  {
+   "k": "tierra para palo de brasil",
+   "v": 70,
+   "hi": 0.1485629094736842
+  },
+  {
+   "k": "tierra para plantar semillas",
+   "v": 70,
+   "hi": 0.2239871557894737
+  },
+  {
+   "k": "tierra para plantas 50l",
+   "v": 70,
+   "hi": 0.3658712494736842
+  },
+  {
+   "k": "tierra para plantas exterior",
+   "v": 70,
+   "hi": 0.15326434842105263
+  },
+  {
+   "k": "tierra para plantas leroy merlin",
+   "v": 70,
+   "hi": 0.05555407578947369
+  },
+  {
+   "k": "tierra para potos",
+   "v": 70,
+   "hi": 0.15520995368421053
+  },
+  {
+   "k": "tierra para rosa del desierto",
+   "v": 70,
+   "hi": 0.3495597252631579
+  },
+  {
+   "k": "tierra para sembrar vegetales",
+   "v": 70,
+   "hi": 0.3733518210526316
+  },
+  {
+   "k": "tierra para suculentas home depot",
+   "v": 70,
+   "hi": 0.12517539894736843
+  },
+  {
+   "k": "tierra para venus atrapamoscas",
+   "v": 70,
+   "hi": 0.2595270221052631
+  },
+  {
+   "k": "tierra para violetas",
+   "v": 70,
+   "hi": 0.49129977789473683
+  },
+  {
+   "k": "tierra para zacate",
+   "v": 70,
+   "hi": 1.96796236
+  },
+  {
+   "k": "tierra sustrato para plantas",
+   "v": 70,
+   "hi": 0.21998367894736842
+  },
+  {
+   "k": "tierra universal para plantas",
+   "v": 70,
+   "hi": 0.3555384642105263
+  },
+  {
+   "k": "walmart tierra para plantas",
+   "v": 70,
+   "hi": 0.3389187368421053
+  },
+  {
+   "k": "abono perlita",
+   "v": 50,
+   "hi": 0
+  },
+  {
+   "k": "como cambiar de maceta una orquidea",
+   "v": 50,
+   "hi": 0.04546806631578947
+  },
+  {
+   "k": "como trasplantar una planta a una maceta mas grande",
+   "v": 50,
+   "hi": 0.005278658947368421
+  },
+  {
+   "k": "fibra de coco para las plantas",
+   "v": 50,
+   "hi": 0.2647802631578947
+  },
+  {
+   "k": "la mejor tierra para plantas de interior",
+   "v": 50,
+   "hi": 0.20264163052631579
+  },
+  {
+   "k": "monstera sustrato",
+   "v": 50,
+   "hi": 0.5931459178947368
+  },
+  {
+   "k": "perlita blanca para plantas",
+   "v": 50,
+   "hi": 0.27439390421052634
+  },
+  {
+   "k": "perlita para cactus",
+   "v": 50,
+   "hi": 0.1982198
+  },
+  {
+   "k": "sustrato de cactus y suculentas",
+   "v": 50,
+   "hi": 0.30140149157894736
+  },
+  {
+   "k": "sustrato de turba y perlita",
+   "v": 50,
+   "hi": 0.12540416842105262
+  },
+  {
+   "k": "sustrato fibra de coco y perlita",
+   "v": 50,
+   "hi": 0.2535938263157895
+  },
+  {
+   "k": "sustrato hortensias",
+   "v": 50,
+   "hi": 0.13268562631578948
+  },
+  {
+   "k": "sustrato para almacigo",
+   "v": 50,
+   "hi": 0.15174345052631577
+  },
+  {
+   "k": "sustrato para huerto urbano",
+   "v": 50,
+   "hi": 0.19070109999999998
+  },
+  {
+   "k": "sustrato para limonero en maceta",
+   "v": 50,
+   "hi": 0.22840051368421055
+  },
+  {
+   "k": "sustrato para olivo en maceta",
+   "v": 50,
+   "hi": 0.19337432105263158
+  },
+  {
+   "k": "sustrato universal con perlita",
+   "v": 50,
+   "hi": 0.12759337157894737
+  },
+  {
+   "k": "tierra con fibra de coco",
+   "v": 50,
+   "hi": 0.17940769157894737
+  },
+  {
+   "k": "tierra con perlita y fibra de coco",
+   "v": 50,
+   "hi": 0.1984962305263158
+  },
+  {
+   "k": "tierra de hoja compost",
+   "v": 50,
+   "hi": 0.29704320842105264
+  },
+  {
+   "k": "tierra de hojas a domicilio",
+   "v": 50,
+   "hi": 0.2686937147368421
+  },
+  {
+   "k": "tierra de hojas precio",
+   "v": 50,
+   "hi": 0.17565840315789474
+  },
+  {
+   "k": "tierra de rio para plantas",
+   "v": 50,
+   "hi": 0.15198492947368422
+  },
+  {
+   "k": "tierra fertilizada para plantas",
+   "v": 50,
+   "hi": 0.12709452631578946
+  },
+  {
+   "k": "tierra para esquejes",
+   "v": 50,
+   "hi": 0.09170823263157894
+  },
+  {
+   "k": "tierra para ficus",
+   "v": 50,
+   "hi": 0.6739049568421053
+  },
+  {
+   "k": "tierra para hortensias en maceta",
+   "v": 50,
+   "hi": 0.21182421052631578
+  },
+  {
+   "k": "tierra para jazmin",
+   "v": 50,
+   "hi": 0.12600998631578947
+  },
+  {
+   "k": "tierra para macetas de interior",
+   "v": 50,
+   "hi": 0.2636332347368421
+  },
+  {
+   "k": "tierra para palmeras",
+   "v": 50,
+   "hi": 0.8079250757894737
+  },
+  {
+   "k": "tierra para plantas suculentas",
+   "v": 50,
+   "hi": 0.19014612
+  },
+  {
+   "k": "tierra para plantas tropicales",
+   "v": 50,
+   "hi": 0.3833552189473684
+  },
+  {
+   "k": "tierra para rellenar jardin",
+   "v": 50,
+   "hi": 1.091986637894737
+  },
+  {
+   "k": "tierra para romero",
+   "v": 50,
+   "hi": 0.2755748242105263
+  },
+  {
+   "k": "tierra para rosales en maceta",
+   "v": 50,
+   "hi": 0.12058622736842105
+  },
+  {
+   "k": "tierra para sembrar cesped",
+   "v": 50,
+   "hi": 0.2619333452631579
+  },
+  {
+   "k": "tierra plantas leroy merlin",
+   "v": 50,
+   "hi": 0.03411428842105263
+  },
+  {
+   "k": "tierra turba para plantas",
+   "v": 50,
+   "hi": 0.24474698842105264
+  },
+  {
+   "k": "turba rubia precio",
+   "v": 50,
+   "hi": 0.20656779263157896
+  },
+  {
+   "k": "arboles frutales de tierra fria",
+   "v": 40,
+   "hi": 0
+  },
+  {
+   "k": "carrefour tierra plantas",
+   "v": 40,
+   "hi": 0.04143387368421053
+  },
+  {
+   "k": "como trasplantar un palo de agua",
+   "v": 40,
+   "hi": 0.0068228568421052635
+  },
+  {
+   "k": "perlita al por mayor",
+   "v": 40,
+   "hi": 0.3389187368421053
+  },
+  {
+   "k": "plantar lavanda en tierra",
+   "v": 40,
+   "hi": 0.052956052631578945
+  },
+  {
+   "k": "sustrato begonias",
+   "v": 40,
+   "hi": 0.8558206484210527
+  },
+  {
+   "k": "sustrato de bonsai",
+   "v": 40,
+   "hi": 0.36268647157894734
+  },
+  {
+   "k": "sustrato para anthurium",
+   "v": 40,
+   "hi": 0.23003367789473683
+  },
+  {
+   "k": "sustrato para arboles frutales",
+   "v": 40,
+   "hi": 0.8513712810526316
+  },
+  {
+   "k": "sustrato para citricos en maceta",
+   "v": 40,
+   "hi": 0.29763525684210523
+  },
+  {
+   "k": "sustrato para enraizar esquejes",
+   "v": 40,
+   "hi": 0.16237914421052632
+  },
+  {
+   "k": "sustrato para plantas acidas",
+   "v": 40,
+   "hi": 0.31230726105263157
+  },
+  {
+   "k": "sustrato para plantines",
+   "v": 40,
+   "hi": 0.16168118315789476
+  },
+  {
+   "k": "tierra abonada para huerta",
+   "v": 40,
+   "hi": 0.28073486210526316
+  },
+  {
+   "k": "tierra acida para arandanos",
+   "v": 40,
+   "hi": 0.24997586842105265
+  },
+  {
+   "k": "tierra acida para camelias",
+   "v": 40,
+   "hi": 0.4645146063157895
+  },
+  {
+   "k": "tierra akadama",
+   "v": 40,
+   "hi": 0.3140495147368421
+  },
+  {
+   "k": "tierra de hoja para pasto",
+   "v": 40,
+   "hi": 0.3535335473684211
+  },
+  {
+   "k": "tierra especial para cactus",
+   "v": 40,
+   "hi": 0.2124385
+  },
+  {
+   "k": "tierra especial para orquideas",
+   "v": 40,
+   "hi": 0.26643566842105265
+  },
+  {
+   "k": "tierra para citricos en maceta",
+   "v": 40,
+   "hi": 0.22844076
+  },
+  {
+   "k": "tierra para huertos caseros",
+   "v": 40,
+   "hi": 0.3527688621052632
+  },
+  {
+   "k": "tierra para plantar cesped",
+   "v": 40,
+   "hi": 1.1775826831578948
+  },
+  {
+   "k": "tierra para plantas acidofilas",
+   "v": 40,
+   "hi": 0.18022109684210524
+  },
+  {
+   "k": "tierra para plantas bodega aurrera",
+   "v": 40,
+   "hi": 0.12680326736842104
+  },
+  {
+   "k": "tierra para romero en maceta",
+   "v": 40,
+   "hi": 0.18005057894736842
+  },
+  {
+   "k": "tierra sustrato universal",
+   "v": 40,
+   "hi": 0.48801968
+  },
+  {
+   "k": "tierra universal para macetas",
+   "v": 40,
+   "hi": 0.22029294210526318
+  },
+  {
+   "k": "verdecora perlita",
+   "v": 40,
+   "hi": 0.12770140210526315
+  },
+  {
+   "k": "agujeros macetas",
+   "v": 30,
+   "hi": 0
+  },
+  {
+   "k": "amazon perlita para plantas",
+   "v": 30,
+   "hi": 0.18005057894736842
+  },
+  {
+   "k": "amazon tierra plantas",
+   "v": 30,
+   "hi": 0.2779144231578948
+  },
+  {
+   "k": "como pasar una planta de una maceta a otra",
+   "v": 30,
+   "hi": 0.00557944947368421
+  },
+  {
+   "k": "como trasplantar una planta de palta",
+   "v": 30,
+   "hi": 0.007808898947368421
+  },
+  {
+   "k": "compost para macetas",
+   "v": 30,
+   "hi": 0.4945311557894737
+  },
+  {
+   "k": "comprar fibra de coco para plantas",
+   "v": 30,
+   "hi": 0.12834958421052634
+  },
+  {
+   "k": "comprar tierra de hoja",
+   "v": 30,
+   "hi": 0.6346560484210526
+  },
+  {
+   "k": "el mejor sustrato para orquideas",
+   "v": 30,
+   "hi": 0.7206196094736842
+  },
+  {
+   "k": "esquejes de rosas en tierra",
+   "v": 30,
+   "hi": 0.012576003157894736
+  },
+  {
+   "k": "macetas y tierra",
+   "v": 30,
+   "hi": 0.24871975157894735
+  },
+  {
+   "k": "perlita 100l",
+   "v": 30,
+   "hi": 0.5915392305263157
+  },
+  {
+   "k": "perlita 20 litros",
+   "v": 30,
+   "hi": 0.24679109157894738
+  },
+  {
+   "k": "perlita 50 litros",
+   "v": 30,
+   "hi": 0.38093512736842106
+  },
+  {
+   "k": "perlita para jardineria",
+   "v": 30,
+   "hi": 0.41630129789473685
+  },
+  {
+   "k": "perlita para orquideas",
+   "v": 30,
+   "hi": 0.28847385999999997
+  },
+  {
+   "k": "precio de perlita para plantas",
+   "v": 30,
+   "hi": 0.11359814631578947
+  },
+  {
+   "k": "precio de turba",
+   "v": 30,
+   "hi": 0.16596003157894734
+  },
+  {
+   "k": "precio perlita para plantas",
+   "v": 30,
+   "hi": 0.13424571157894738
+  },
+  {
+   "k": "sustrato de tierra para macetas",
+   "v": 30,
+   "hi": 0.14495130631578948
+  },
+  {
+   "k": "sustrato mineral para cactus",
+   "v": 30,
+   "hi": 0.3976289936842105
+  },
+  {
+   "k": "sustrato para acidofilas",
+   "v": 30,
+   "hi": 0.7047624484210526
+  },
+  {
+   "k": "sustrato para acodos aéreos",
+   "v": 30,
+   "hi": 0.17638284210526317
+  },
+  {
+   "k": "sustrato para cactaceas",
+   "v": 30,
+   "hi": 0.22224808
+  },
+  {
+   "k": "sustrato para frutales",
+   "v": 30,
+   "hi": 0.10390401157894737
+  },
+  {
+   "k": "sustrato para orquídeas precio",
+   "v": 30,
+   "hi": 0.18448829578947368
+  },
+  {
+   "k": "sustrato para plantas suculentas",
+   "v": 30,
+   "hi": 0.1851936705263158
+  },
+  {
+   "k": "sustrato para sembrar",
+   "v": 30,
+   "hi": 0.22241542105263157
+  },
+  {
+   "k": "sustrato para tierra",
+   "v": 30,
+   "hi": 0.11195333157894737
+  },
+  {
+   "k": "sustrato plantas acidofilas",
+   "v": 30,
+   "hi": 0.23670825894736844
+  },
+  {
+   "k": "tierra arcillosa para plantas",
+   "v": 30,
+   "hi": 0.23427651684210526
+  },
+  {
+   "k": "tierra de bonsai",
+   "v": 30,
+   "hi": 0.2984560757894737
+  },
+  {
+   "k": "tierra de cactus y suculentas",
+   "v": 30,
+   "hi": 0.12287075157894738
+  },
+  {
+   "k": "tierra de hoja barata",
+   "v": 30,
+   "hi": 0.2586500705263158
+  },
+  {
+   "k": "tierra de hoja para maceteros",
+   "v": 30,
+   "hi": 0.1916532494736842
+  },
+  {
+   "k": "tierra de macetero",
+   "v": 30,
+   "hi": 0.5490271705263159
+  },
+  {
+   "k": "tierra de pino para plantas",
+   "v": 30,
+   "hi": 0.056511521052631575
+  },
+  {
+   "k": "tierra especial para suculentas",
+   "v": 30,
+   "hi": 0.1788982547368421
+  },
+  {
+   "k": "tierra hortensias",
+   "v": 30,
+   "hi": 0.22041897789473686
+  },
+  {
+   "k": "tierra para alocasia",
+   "v": 30,
+   "hi": 0.26740476421052634
+  },
+  {
+   "k": "tierra para arbol de jade",
+   "v": 30,
+   "hi": 0.18148568736842105
+  },
+  {
+   "k": "tierra para azaleas en macetas",
+   "v": 30,
+   "hi": 0.25544728842105263
+  },
+  {
+   "k": "tierra para cactus leroy merlin",
+   "v": 30,
+   "hi": 0.047044037894736844
+  },
+  {
+   "k": "tierra para ficus lyrata",
+   "v": 30,
+   "hi": 0.3429328052631579
+  },
+  {
+   "k": "tierra para jazmin en maceta",
+   "v": 30,
+   "hi": 0.26995618736842103
+  },
+  {
+   "k": "tierra para kokedama",
+   "v": 30,
+   "hi": 0.5356314073684211
+  },
+  {
+   "k": "tierra para lavanda en maceta",
+   "v": 30,
+   "hi": 0.1293779905263158
+  },
+  {
+   "k": "tierra para plantas amazon",
+   "v": 30,
+   "hi": 0.12709452631578946
+  },
+  {
+   "k": "tierra para suculentas casera",
+   "v": 30,
+   "hi": 0.06314056
+  },
+  {
+   "k": "tierra para suculentas leroy merlin",
+   "v": 30,
+   "hi": 0.10102955684210525
+  },
+  {
+   "k": "tierra plantas interior",
+   "v": 30,
+   "hi": 0.5102146210526316
+  },
+  {
+   "k": "turba para macetas",
+   "v": 30,
+   "hi": 0.1666474010526316
+  },
+  {
+   "k": "verdecora tierra",
+   "v": 30,
+   "hi": 0.08203210210526315
+  },
+  {
+   "k": "agrolita y perlita es lo mismo",
+   "v": 20,
+   "hi": 0
+  },
+  {
+   "k": "amazon perlita",
+   "v": 20,
+   "hi": 0.36830299052631577
+  },
+  {
+   "k": "amazon sustrato universal",
+   "v": 20,
+   "hi": 0.5825335242105263
+  },
+  {
+   "k": "como trasplantar tomates cherry",
+   "v": 20,
+   "hi": 0.00674766
+  },
+  {
+   "k": "como trasplantar una planta de una maceta a otra",
+   "v": 20,
+   "hi": 0.005029765263157895
+  },
+  {
+   "k": "como y cuando trasplantar una orquidea",
+   "v": 20,
+   "hi": 0.06392854631578947
+  },
+  {
+   "k": "comprar sustrato para orquideas",
+   "v": 20,
+   "hi": 0.2817081947368421
+  },
+  {
+   "k": "comprar tierra para césped",
+   "v": 20,
+   "hi": 1.1228091789473682
+  },
+  {
+   "k": "comprar tierra para macetas",
+   "v": 20,
+   "hi": 0.11884926842105263
+  },
+  {
+   "k": "comprar tierra plantas",
+   "v": 20,
+   "hi": 0.9534716094736843
+  },
+  {
+   "k": "comprar turba para plantas",
+   "v": 20,
+   "hi": 0.2134923252631579
+  },
+  {
+   "k": "leroy sustrato universal",
+   "v": 20,
+   "hi": 0.10791490315789475
+  },
+  {
+   "k": "perlita leroy",
+   "v": 20,
+   "hi": 0.05661319684210526
+  },
+  {
+   "k": "perlita para plantas amazon",
+   "v": 20,
+   "hi": 0.10981708421052631
+  },
+  {
+   "k": "precio de la perlita para plantas",
+   "v": 20,
+   "hi": 0.04701544210526316
+  },
+  {
+   "k": "precio tierra para huerto",
+   "v": 20,
+   "hi": 0.22562243894736841
+  },
+  {
+   "k": "precio tierra para macetas",
+   "v": 20,
+   "hi": 0.13630358315789473
+  },
+  {
+   "k": "preparar tierra para cactus",
+   "v": 20,
+   "hi": 0.07883143894736841
+  },
+  {
+   "k": "sustrato carnivoras",
+   "v": 20,
+   "hi": 0.6192437189473684
+  },
+  {
+   "k": "sustrato especial para suculentas",
+   "v": 20,
+   "hi": 0.11263010947368421
+  },
+  {
+   "k": "sustrato mineral para suculentas",
+   "v": 20,
+   "hi": 0.3222386389473684
+  },
+  {
+   "k": "sustrato olivo",
+   "v": 20,
+   "hi": 1.3768446589473684
+  },
+  {
+   "k": "sustrato para cactus y suculentas casero",
+   "v": 20,
+   "hi": 0.012084570526315789
+  },
+  {
+   "k": "sustrato para huertos y hortalizas",
+   "v": 20,
+   "hi": 0.4616666294736842
+  },
+  {
+   "k": "sustrato para jazmin del cabo",
+   "v": 20,
+   "hi": 0.08302767578947369
+  },
+  {
+   "k": "sustrato para plantas aromaticas",
+   "v": 20,
+   "hi": 0.4177544115789474
+  },
+  {
+   "k": "sustrato tierra de hoja",
+   "v": 20,
+   "hi": 0.2746046694736842
+  },
+  {
+   "k": "tierra canna profesional",
+   "v": 20,
+   "hi": 0.7712625410526316
+  },
+  {
+   "k": "tierra de hojas anasac 40 litros",
+   "v": 20,
+   "hi": 0.13036509157894735
+  },
+  {
+   "k": "tierra de hojas comprar",
+   "v": 20,
+   "hi": 1.0140014368421053
+  },
+  {
+   "k": "tierra fértil para huerta",
+   "v": 20,
+   "hi": 0.05773480631578948
+  },
+  {
+   "k": "tierra para anthurium",
+   "v": 20,
+   "hi": 0.22877756105263158
+  },
+  {
+   "k": "tierra para bonsai ficus",
+   "v": 20,
+   "hi": 0.2188864294736842
+  },
+  {
+   "k": "tierra para bulbos",
+   "v": 20,
+   "hi": 0.1890033284210526
+  },
+  {
+   "k": "tierra para costilla de adan",
+   "v": 20,
+   "hi": 0.47681312
+  },
+  {
+   "k": "tierra para enraizar",
+   "v": 20,
+   "hi": 0.10591210526315789
+  },
+  {
+   "k": "tierra para frutales",
+   "v": 20,
+   "hi": 0.3401992136842105
+  },
+  {
+   "k": "tierra para maceteros anasac",
+   "v": 20,
+   "hi": 0.2691978568421053
+  },
+  {
+   "k": "tierra para palo de agua",
+   "v": 20,
+   "hi": 0.06305371263157894
+  },
+  {
+   "k": "tierra para plantas a domicilio",
+   "v": 20,
+   "hi": 0.26398592210526317
+  },
+  {
+   "k": "tierra para plantas barata",
+   "v": 20,
+   "hi": 0.14728243263157895
+  },
+  {
+   "k": "tierra para plantas verdes",
+   "v": 20,
+   "hi": 0.500199572631579
+  },
+  {
+   "k": "tierra para plantines",
+   "v": 20,
+   "hi": 0.6854345484210527
+  },
+  {
+   "k": "tierra para violeta africana",
+   "v": 20,
+   "hi": 0.19951616421052631
+  },
+  {
+   "k": "tierra planta carnivora",
+   "v": 20,
+   "hi": 0.18005057894736842
+  },
+  {
+   "k": "tierra plantas carrefour",
+   "v": 20,
+   "hi": 0.08686910842105264
+  },
+  {
+   "k": "tierra preparada para jardin",
+   "v": 20,
+   "hi": 0.06962132210526314
+  },
+  {
+   "k": "tierra y macetas",
+   "v": 20,
+   "hi": 0.40092921473684207
+  },
+  {
+   "k": "turba y fibra de coco",
+   "v": 20,
+   "hi": 0.16904948842105263
+  },
+  {
+   "k": "agrolita perlita",
+   "v": 10,
+   "hi": 0
+  },
+  {
+   "k": "como trasplantar un jazmin del cabo",
+   "v": 10,
+   "hi": 0.004583875789473685
+  },
+  {
+   "k": "comprar sustrato para huerto",
+   "v": 10,
+   "hi": 1.0641900063157894
+  },
+  {
+   "k": "macetas y tierra a domicilio",
+   "v": 10,
+   "hi": 0.3463188147368421
+  },
+  {
+   "k": "mercado libre sustrato",
+   "v": 10,
+   "hi": 0.5719253684210527
+  },
+  {
+   "k": "perlita a granel",
+   "v": 10,
+   "hi": 0.8009211084210526
+  },
+  {
+   "k": "perlita agricola precio",
+   "v": 10,
+   "hi": 0.6977680136842105
+  },
+  {
+   "k": "perlita drenaje",
+   "v": 10,
+   "hi": 0.3363821410526316
+  },
+  {
+   "k": "perlita huerto",
+   "v": 10,
+   "hi": 0.6831743842105263
+  },
+  {
+   "k": "precio de tierra para macetas",
+   "v": 10,
+   "hi": 0.1918163547368421
+  },
+  {
+   "k": "sustrato akadama bonsai",
+   "v": 10,
+   "hi": 0.18694545684210526
+  },
+  {
+   "k": "sustrato para frutillas en maceta",
+   "v": 10,
+   "hi": 0.14842416421052632
+  },
+  {
+   "k": "sustrato para huerta casera",
+   "v": 10,
+   "hi": 0.07430899157894737
+  },
+  {
+   "k": "sustrato para suculentas easy",
+   "v": 10,
+   "hi": 0.19593421684210527
+  },
+  {
+   "k": "tierra de hoja acida",
+   "v": 10,
+   "hi": 0.21928889473684213
+  },
+  {
+   "k": "tierra ideal para helechos",
+   "v": 10,
+   "hi": 0.14998954526315791
+  },
+  {
+   "k": "tierra para crasas y suculentas",
+   "v": 10,
+   "hi": 0.4151320284210526
+  },
+  {
+   "k": "tierra para hortensias azules",
+   "v": 10,
+   "hi": 0.09836692631578949
+  },
+  {
+   "k": "tierra para huerta en casa",
+   "v": 10,
+   "hi": 0.08631730631578947
+  },
+  {
+   "k": "tierra para jazmin del cabo",
+   "v": 10,
+   "hi": 0.6580838063157894
+  },
+  {
+   "k": "tierra para orquídeas amazon",
+   "v": 10,
+   "hi": 0.1906417894736842
+  },
+  {
+   "k": "tierras y sustratos para jardineria",
+   "v": 10,
+   "hi": 0.8608398231578948
+  },
+  {
+   "k": "como trasplantar bambus grandes",
+   "v": 0,
+   "hi": 0
+  }
+ ]
+}

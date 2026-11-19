@@ -1,0 +1,16 @@
+wave 1 abono                  pages   11 rows   22 volume 67500
+wave 1 ficha-planta           pages   40 rows    0 volume 191070
+wave 1 herramienta            pages    4 rows    0 volume 0
+wave 1 listas                 pages   39 rows   61 volume 163110
+wave 1 plagas                 pages   11 rows   31 volume 74770
+wave 1 problemas              pages    8 rows   30 volume 13380
+wave 1 sustrato               pages   12 rows   55 volume 140310
+wave 2 ficha-planta           pages   63 rows    0 volume 55500
+wave 2 planta-hojas-amarillas pages    8 rows   95 volume 31100
+wave 2 planta-poda            pages    4 rows   99 volume 23730
+wave 2 planta-reproducir      pages    7 rows   96 volume 37260
+wave 2 planta-significado     pages    0 rows  103 volume 77060
+wave 2 planta-tipos           pages   45 rows   58 volume 162480
+wave 3 huerto                 pages   23 rows   69 volume 82790
+TOTAL pages 275 rows 719
+top plants: orquidea, dracaena, sansevieria, anturio, kalanchoe, bonsai, hortensia, lavanda, tulipan, begonia, nochebuena, espatifilo, arbol-de-jade, geranio, albahaca, rosal, azalea, bromelia, petunia, planta-carnivora, buganvilla, romero, helecho, aloe-vera, dipladenia, cactus-de-navidad, suculentas, gardenia, monstera, ficus, crisantemo, ciclamen, gerbera, planta-del-dinero, cactus, calathea, jazmin, potus, limonero, cheflera

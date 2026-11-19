@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hojapedia.com/sitemap-index.xml

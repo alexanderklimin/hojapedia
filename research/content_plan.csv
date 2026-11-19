@@ -1,0 +1,995 @@
+wave,topic,format,url,query,best,volume,variants,gate
+1,sustrato,page,/sustratos-y-macetas/tierra-para-plantas/,tierra para plantas,9900,49410,134,
+1,plagas,page,/plagas/pulgones/,pulgones,18100,49190,123,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,abono,page,/abonos/humus-de-lombriz/,humus de lombriz,27100,35670,39,
+1,listas,page,/listas/plantas-colgantes/,plantas colgantes,14800,35580,27,toxicidad por ASPCA
+1,sustrato,page,/sustratos-y-macetas/sustrato-para-las-plantas/,sustrato para las plantas,9900,34590,73,
+1,sustrato,page,/sustratos-y-macetas/perlita/,perlita,18100,33680,34,
+1,ficha-planta,page,/plantas/orquidea/,orquidea cuidados,9900,31260,16,datos de cultivo verificados; toxicidad por ASPCA
+1,listas,page,/listas/plantas-de-sol/,plantas de sol,12100,28780,20,toxicidad por ASPCA
+1,listas,page,/listas/plantas-para-bano/,plantas para baño,5400,12870,16,toxicidad por ASPCA
+1,listas,page,/listas/plantas-de-interior-poca-luz/,plantas de interior poca luz,8100,12520,21,toxicidad por ASPCA
+1,ficha-planta,page,/plantas/dracaena/,palo de brasil cuidados,5400,10180,40,datos de cultivo verificados; toxicidad por ASPCA
+1,abono,page,/abonos/abono-natural-para-plantas/,abono natural para plantas,1000,8740,44,
+1,abono,page,/abonos/fertilizante-casero-para-plantas/,fertilizante casero para plantas,2400,7970,42,
+1,listas,page,/listas/plantas-toxicas-para-gatos/,plantas toxicas para gatos,4400,7910,12,toxicidad por ASPCA
+1,sustrato,page,/sustratos-y-macetas/como-trasplantar-una-planta/,como trasplantar una planta,1900,7700,21,
+1,ficha-planta,page,/plantas/sansevieria/,lengua de suegra cuidados,3600,7430,33,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/anturio/,anturio cuidados,4400,7170,17,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/kalanchoe/,kalanchoe cuidados,5400,6880,11,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/bonsai/,como cuidar bonsai,2400,6370,11,datos de cultivo verificados; toxicidad por ASPCA
+1,plagas,page,/plagas/como-eliminar-la-cochinilla-algodonosa/,como eliminar la cochinilla algodonosa,1900,6260,33,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,ficha-planta,page,/plantas/hortensia/,hortensia cuidados,3600,6000,13,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/lavanda/,lavanda cuidados,2900,5910,10,datos de cultivo verificados; toxicidad por ASPCA
+1,listas,page,/listas/plantas-de-exterior-resistentes/,plantas de exterior resistentes,1900,5890,12,toxicidad por ASPCA
+1,listas,page,/listas/plantas-de-sol-y-poca-agua/,plantas de sol y poca agua,4400,5760,3,toxicidad por ASPCA
+1,ficha-planta,page,/plantas/tulipan/,tulipan cuidados,2900,5460,14,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/begonia/,begonia cuidados,2400,5120,15,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/nochebuena/,flor de pascua cuidados,2400,5060,31,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/espatifilo/,cuna de moises cuidados,1900,4810,33,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/arbol-de-jade/,arbol de jade cuidados,2400,4690,33,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/geranio/,geranio cuidados,3600,4600,25,datos de cultivo verificados; toxicidad por ASPCA
+1,plagas,page,/plagas/arana-roja-plantas/,araña roja plantas,1300,4500,13,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,ficha-planta,page,/plantas/albahaca/,albahaca cuidados,2400,4490,10,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/rosal/,rosal cuidados,1300,4440,23,datos de cultivo verificados; toxicidad por ASPCA
+1,listas,page,/listas/plantas-de-exterior-resistentes-todo-el-ano/,plantas de exterior resistentes todo el año,2400,4330,3,toxicidad por ASPCA
+1,abono,page,/abonos/cascaras-de-huevo-para-las-plantas/,cascaras de huevo para las plantas,1300,4300,19,
+1,problemas,page,/problemas/como-revivir-una-planta/,como revivir una planta,1000,4050,27,
+1,ficha-planta,page,/plantas/azalea/,azalea cuidados,2400,4020,11,datos de cultivo verificados; toxicidad por ASPCA
+1,listas,page,/listas/plantas-que-no-necesitan-luz/,plantas que no necesitan luz,2400,3920,7,toxicidad por ASPCA
+1,ficha-planta,page,/plantas/bromelia/,bromelia cuidados,2900,3800,11,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/petunia/,petunia cuidados,2400,3710,16,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/planta-carnivora/,planta carnivora cuidados,1300,3630,28,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/buganvilla/,buganvilla cuidados,1000,3500,33,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/romero/,romero cuidados,1300,3450,11,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/helecho/,helecho cuidados,2400,3370,14,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/aloe-vera/,aloe vera cuidados,1300,3310,33,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/dipladenia/,dipladenia cuidados,2400,3310,22,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/cactus-de-navidad/,cactus de navidad cuidados,2400,3290,21,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/suculentas/,suculentas cuidados,1900,3110,14,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/gardenia/,gardenia cuidados,1300,3060,11,datos de cultivo verificados; toxicidad por ASPCA
+1,listas,page,/listas/plantas-resistentes-al-sol-y-al-calor/,plantas resistentes al sol y al calor,2900,2900,1,toxicidad por ASPCA
+1,ficha-planta,page,/plantas/monstera/,monstera cuidados,1300,2890,22,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/ficus/,ficus cuidados,1600,2860,11,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/crisantemo/,crisantemo cuidados,2400,2790,10,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/ciclamen/,ciclamen cuidados,2400,2770,11,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/gerbera/,gerbera cuidados,1600,2710,11,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/planta-del-dinero/,planta del dinero cuidados,1600,2670,32,datos de cultivo verificados; toxicidad por ASPCA
+1,plagas,page,/plagas/hongo-oidio/,hongo oidio,1300,2410,3,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,ficha-planta,page,/plantas/cactus/,como cuidar cactus,1000,2400,11,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/calathea/,calathea cuidados,1900,2310,11,datos de cultivo verificados; toxicidad por ASPCA
+1,ficha-planta,page,/plantas/jazmin/,jazmin cuidados,1600,2180,10,datos de cultivo verificados; toxicidad por ASPCA
+1,listas,page,/listas/plantas-que-purifican-el-aire/,plantas que purifican el aire,1300,2170,6,toxicidad por ASPCA
+1,ficha-planta,page,/plantas/potus/,potus cuidados,1000,2130,33,datos de cultivo verificados; toxicidad por ASPCA
+1,listas,page,/listas/plantas-que-cuelgan/,plantas que cuelgan,1300,2120,4,toxicidad por ASPCA
+1,abono,page,/abonos/compost-casero/,compost casero,880,2100,8,
+1,plagas,page,/plagas/insecticida-para-aranuela/,insecticida para arañuela,1600,2010,3,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,ficha-planta,page,/plantas/limonero/,limonero cuidados,720,2000,19,datos de cultivo verificados; toxicidad por ASPCA
+1,listas,page,/listas/plantas-toxicas-para-perros/,plantas toxicas para perros,1900,1990,2,toxicidad por ASPCA
+1,ficha-planta,page,/plantas/cheflera/,cheflera cuidados,720,1930,22,datos de cultivo verificados; toxicidad por ASPCA
+1,listas,page,/listas/plantas-de-flores-de-sombra/,plantas de flores de sombra,1900,1900,1,toxicidad por ASPCA
+1,listas,page,/listas/plantas-de-exterior-resistentes-al-frio-y-calor/,plantas de exterior resistentes al frío y calor,1000,1880,5,toxicidad por ASPCA
+1,sustrato,page,/sustratos-y-macetas/turba-para-plantas/,turba para plantas,1600,1800,3,
+1,abono,page,/abonos/humus-del-suelo/,humus del suelo,1600,1600,1,
+1,listas,page,/listas/plantas-resistentes-al-sol-directo/,plantas resistentes al sol directo,1600,1600,1,toxicidad por ASPCA
+1,listas,page,/listas/plantas-que-no-necesitan-sol/,plantas que no necesitan sol,1000,1580,6,toxicidad por ASPCA
+1,sustrato,page,/sustratos-y-macetas/sustrato-para-cactus-y-suculentas/,sustrato para cactus y suculentas,720,1420,6,
+1,listas,page,/listas/plantas-para-el-bano-que-absorben-humedad/,plantas para el baño que absorben humedad,1300,1410,2,toxicidad por ASPCA
+1,listas,page,/listas/plantas-para-interiores-sin-luz/,plantas para interiores sin luz,720,1330,4,toxicidad por ASPCA
+1,listas,page,/listas/plantas-de-sol-directo-que-florecen-todo-el-ano/,plantas de sol directo que florecen todo el año,1300,1300,1,toxicidad por ASPCA
+1,listas,page,/listas/planta-para-bano-sin-luz/,planta para baño sin luz,590,1240,4,toxicidad por ASPCA
+1,abono,page,/abonos/humus-liquido/,humus liquido,1000,1230,3,
+1,listas,page,/listas/plantas-para-colgar/,plantas para colgar,590,1120,5,toxicidad por ASPCA
+1,listas,page,/listas/planta-para-exterior-sombra/,planta para exterior sombra,720,1110,2,toxicidad por ASPCA
+1,abono,page,/abonos/posos-de-cafe-para-plantas/,posos de cafe para plantas,880,1090,2,
+1,problemas,page,/problemas/limonero-hojas-caidas/,limonero hojas caidas,880,1050,4,
+1,sustrato,page,/sustratos-y-macetas/como-trasplantar-lengua-de-suegra/,como trasplantar lengua de suegra,390,1030,3,
+1,listas,page,/listas/plantas-de-luz-solares/,plantas de luz solares,1000,1000,1,toxicidad por ASPCA
+1,sustrato,page,/sustratos-y-macetas/tierra-miracle-gro/,tierra miracle gro,1000,1000,1,
+1,sustrato,page,/sustratos-y-macetas/tierra-para-suculentas-y-cactus/,tierra para suculentas y cactus,880,1000,3,
+1,listas,page,/listas/plantas-que-necesitan-poca-luz/,plantas que necesitan poca luz,880,970,2,toxicidad por ASPCA
+1,problemas,page,/problemas/porque-las-hojas-de-mi-planta-se-ponen-amarillas/,porque las hojas de mi planta se ponen amarillas,390,930,10,
+1,plagas,page,/plagas/hongo-blanco-en-plantas/,hongo blanco en plantas,590,920,3,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,sustrato,page,/sustratos-y-macetas/macetas-con-drenaje/,macetas con drenaje,390,920,5,
+1,plagas,page,/plagas/jabon-potasico-pulgones/,jabon potasico pulgones,590,910,2,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,page,/plagas/arbol-con-hongos/,arbol con hongos,880,880,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,page,/plagas/hongo-micorrizico/,hongo micorrizico,880,880,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,listas,page,/listas/plantas-que-florecen-todo-el-ano-y-resistente-al-sol/,plantas que florecen todo el año y resistente al sol,880,880,1,toxicidad por ASPCA
+1,listas,page,/listas/plantas-para-pleno-sol-en-macetas/,plantas para pleno sol en macetas,880,880,1,toxicidad por ASPCA
+1,listas,page,/listas/nombres-plantas-de-sombra/,nombres plantas de sombra,880,880,1,toxicidad por ASPCA
+1,abono,page,/abonos/humus-tierra/,humus tierra,720,790,2,
+1,listas,page,/listas/plantas-para-gatos-interior/,plantas para gatos interior,260,730,5,toxicidad por ASPCA
+1,problemas,page,/problemas/alocasia-hojas-caidas/,alocasia hojas caidas,720,730,2,
+1,problemas,page,/problemas/planta-con-puntas-secas/,planta con puntas secas,210,730,9,
+1,abono,page,/abonos/abono-casero-para-cuna-de-moises/,abono casero para cuna de moisés,720,720,1,
+1,listas,page,/listas/planta-para-recamara/,planta para recamara,720,720,1,toxicidad por ASPCA
+1,listas,page,/listas/planta-para-bano-con-poca-luz/,planta para baño con poca luz,590,700,2,toxicidad por ASPCA
+1,sustrato,page,/sustratos-y-macetas/como-trasplantar-una-orquidea-a-una-maceta-mas-grande/,como trasplantar una orquidea a una maceta mas grande,590,640,2,
+1,listas,page,/listas/plantas-que-aguantan-heladas-y-mucho-sol/,plantas que aguantan heladas y mucho sol,480,620,2,toxicidad por ASPCA
+1,plagas,page,/plagas/hongos-en-potus/,hongos en potus,590,590,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,abono,page,/abonos/fertilizante-casero-para-acelerar-crecimiento-plantas/,fertilizante casero para acelerar crecimiento plantas,590,590,1,
+1,listas,page,/listas/plantas-para-macetas-exterior-resistentes/,plantas para macetas exterior resistentes,590,590,1,toxicidad por ASPCA
+1,listas,page,/listas/plantas-de-exterior-resistentes-al-sol-y-poca-agua/,plantas de exterior resistentes al sol y poca agua,590,590,1,toxicidad por ASPCA
+1,listas,page,/listas/plantas-colgantes-de-sol-directo/,plantas colgantes de sol directo,590,590,1,toxicidad por ASPCA
+1,listas,page,/listas/plantas-para-terrazas-a-pleno-sol/,plantas para terrazas a pleno sol,590,590,1,toxicidad por ASPCA
+1,listas,page,/listas/plantas-para-purificar-el-aire/,plantas para purificar el aire,320,590,4,toxicidad por ASPCA
+1,problemas,page,/problemas/dracena-marginata-hojas-caidas/,dracena marginata hojas caidas,590,590,1,
+1,plagas,page,/plagas/hongo-de-jardin/,hongo de jardin,480,570,2,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,listas,page,/listas/plantas-que-no-necesiten-mucha-luz/,plantas que no necesiten mucha luz,390,560,2,toxicidad por ASPCA
+1,listas,page,/listas/plantas-de-interior-no-toxicas-para-gatos/,plantas de interior no toxicas para gatos,480,550,2,toxicidad por ASPCA
+1,problemas,page,/problemas/aloe-vera-hojas-caidas/,aloe vera hojas caidas,390,530,2,
+1,problemas,page,/problemas/monstera-hojas-caidas/,monstera hojas caidas,480,520,2,
+1,sustrato,page,/sustratos-y-macetas/fibra-de-coco-plantas/,fibra de coco plantas,170,520,6,
+1,herramienta,page,/herramientas/identificar-planta/,identificar planta por foto,0,0,1,sin volumen propio; ver demanda de la consulta
+1,herramienta,page,/herramientas/calendario-de-siembra/,calendario de siembra,0,0,1,sin volumen propio; ver demanda de la consulta
+1,herramienta,page,/herramientas/que-planta-me-conviene/,que planta de interior me conviene,0,0,1,sin volumen propio; ver demanda de la consulta
+1,herramienta,page,/herramientas/plantas-seguras-para-gatos-y-perros/,plantas toxicas para gatos,0,0,1,sin volumen propio; ver demanda de la consulta
+1,plagas,faq-or-table,/plagas/#hongo-de-cipres,hongo de ciprés,480,480,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,listas,faq-or-table,/listas/#plantas-colgantes-exterior-todo-el-ano,plantas colgantes exterior todo el año,480,480,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-de-interior-q-no-necesitan-mucha-luz,plantas de interior q no necesitan mucha luz,480,480,1,toxicidad por ASPCA
+1,problemas,faq-or-table,/problemas/#aphelandra-hojas-caidas,aphelandra hojas caidas,480,480,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#como-se-trasplanta-una-orquidea,como se trasplanta una orquidea,260,470,2,
+1,listas,faq-or-table,/listas/#plantas-que-limpian-el-aire,plantas que limpian el aire,390,460,3,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#planta-de-semisombra,planta de semisombra,390,440,2,toxicidad por ASPCA
+1,plagas,faq-or-table,/plagas/#tipo-de-hongos-en-las-plantas,tipo de hongos en las plantas,320,430,2,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#cochinilla-blanca-como-eliminar,cochinilla blanca como eliminar,320,410,2,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#hongo-en-orquideas,hongo en orquideas,390,390,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#hongos-en-la-grama-bahiana,hongos en la grama bahiana,390,390,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,listas,faq-or-table,/listas/#plantas-trepadoras-resistentes-exterior,plantas trepadoras resistentes exterior,390,390,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-que-duran-todo-el-ano-exterior,plantas que duran todo el año exterior,390,390,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#planta-de-calor,planta de calor,390,390,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-de-exterior-de-verano,plantas de exterior de verano,390,390,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-que-aguantan-el-sol-directo,plantas que aguantan el sol directo,390,390,1,toxicidad por ASPCA
+1,problemas,faq-or-table,/problemas/#orquidea-hojas-caidas,orquidea hojas caidas,390,390,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#plantas-en-agua-sin-tierra,plantas en agua sin tierra,390,390,1,
+1,listas,faq-or-table,/listas/#plantas-que-oxigenan-la-casa,plantas que oxigenan la casa,260,350,2,toxicidad por ASPCA
+1,plagas,faq-or-table,/plagas/#hongo-en-hojas-de-plantas,hongo en hojas de plantas,260,330,2,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#fungicida-para-hongos-en-plantas,fungicida para hongos en plantas,320,320,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,abono,faq-or-table,/abonos/#abono-casero-para-flor-de-pascua,abono casero para flor de pascua,320,320,1,
+1,listas,faq-or-table,/listas/#plantas-para-terraza-con-mucho-sol,plantas para terraza con mucho sol,320,320,1,toxicidad por ASPCA
+1,problemas,faq-or-table,/problemas/#albahaca-hojas-caidas,albahaca hojas caidas,320,320,1,
+1,listas,faq-or-table,/listas/#plantas-de-jardin-resistentes-al-sol,plantas de jardin resistentes al sol,170,280,2,toxicidad por ASPCA
+1,plagas,faq-or-table,/plagas/#crassula-ovata-hongos,crassula ovata hongos,260,260,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#hongo-en-cactus,hongo en cactus,260,260,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#hongo-en-el-pasto,hongo en el pasto,260,260,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,abono,faq-or-table,/abonos/#abono-casero-para-tomates-y-pimientos,abono casero para tomates y pimientos,260,260,1,
+1,listas,faq-or-table,/listas/#plantas-colgantes-artificiales-realistas,plantas colgantes artificiales realistas,260,260,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-que-pueden-comer-los-gatos,plantas que pueden comer los gatos,260,260,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-que-requieren-poca-agua-y-mucho-sol,plantas que requieren poca agua y mucho sol,260,260,1,toxicidad por ASPCA
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-para-anturios-en-maceta,sustrato para anturios en maceta,260,260,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-para-rosa-del-desierto,sustrato para rosa del desierto,260,260,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-preparada-para-sembrar,tierra preparada para sembrar,260,260,1,
+1,listas,faq-or-table,/listas/#plantas-que-soportan-mucho-sol,plantas que soportan mucho sol,210,240,3,toxicidad por ASPCA
+1,sustrato,faq-or-table,/sustratos-y-macetas/#maceta-con-agujero,maceta con agujero,210,240,2,
+1,abono,faq-or-table,/abonos/#fertilizante-para-arboles-frutales-casero,fertilizante para arboles frutales casero,140,230,2,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#fibra-de-coco-y-perlita,fibra de coco y perlita,90,230,3,
+1,plagas,faq-or-table,/plagas/#hongo-en-suculentas,hongo en suculentas,210,210,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#pulgon-blanco-como-eliminarlo,pulgon blanco como eliminarlo,210,210,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,abono,faq-or-table,/abonos/#abono-rico-en-nitrogeno-fosforo-y-potasio-casero,abono rico en nitrógeno fósforo y potasio casero,210,210,1,
+1,listas,faq-or-table,/listas/#plantas-para-terrazas-todo-el-ano,plantas para terrazas todo el año,210,210,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-para-decorar-banos-pequenos,plantas para decorar baños pequeños,210,210,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-para-habitacion-con-poca-luz,plantas para habitacion con poca luz,210,210,1,toxicidad por ASPCA
+1,problemas,faq-or-table,/problemas/#como-revivir-el-pasto-seco,como revivir el pasto seco,210,210,1,
+1,problemas,faq-or-table,/problemas/#planta-triste-hojas-caidas,planta triste hojas caídas,210,210,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-huerto-a-granel,tierra para huerto a granel,210,210,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-lengua-de-suegra,tierra para lengua de suegra,210,210,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-violetas-africanas,tierra para violetas africanas,170,190,2,
+1,listas,faq-or-table,/listas/#plantas-colgantes-de-interior-resistentes,plantas colgantes de interior resistentes,90,180,2,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#planta-de-interior-que-no-necesita-luz,planta de interior que no necesita luz,170,180,2,toxicidad por ASPCA
+1,abono,faq-or-table,/abonos/#abono-casero-para-florecer-anturios,abono casero para florecer anturios,170,170,1,
+1,abono,faq-or-table,/abonos/#fertilizante-casero-para-jazmin-del-cabo,fertilizante casero para jazmín del cabo,170,170,1,
+1,listas,faq-or-table,/listas/#colgante-planta-de-hojas-moradas,colgante planta de hojas moradas,170,170,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#planta-de-dormitorio,planta de dormitorio,170,170,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-para-el-bano-feng-shui,plantas para el baño feng shui,170,170,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-que-soportan-el-sol-directo,plantas que soportan el sol directo,170,170,1,toxicidad por ASPCA
+1,problemas,faq-or-table,/problemas/#como-recuperar-una-planta-seca,como recuperar una planta seca,170,170,1,
+1,problemas,faq-or-table,/problemas/#como-revivir-bonsai-seco,como revivir bonsai seco,170,170,1,
+1,problemas,faq-or-table,/problemas/#como-revivir-una-hortensia-en-maceta,como revivir una hortensia en maceta,170,170,1,
+1,problemas,faq-or-table,/problemas/#como-revivir-una-orquidea-seca,como revivir una orquídea seca,170,170,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-sembrar-semillas,tierra para sembrar semillas,170,170,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-para-monstera-deliciosa,sustrato para monstera deliciosa,170,170,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-de-hoja-de-litre,tierra de hoja de litre,170,170,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-arboles-frutales,tierra para arboles frutales,110,150,2,
+1,plagas,faq-or-table,/plagas/#cochinilla-negra-como-eliminar,cochinilla negra como eliminar,140,140,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#hongo-en-monstera,hongo en monstera,140,140,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#hongos-en-las-plantas-como-eliminarlos,hongos en las plantas como eliminarlos,140,140,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#pulgones-amarillos-como-eliminarlos,pulgones amarillos como eliminarlos,140,140,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#hongo-en-rosal,hongo en rosal,110,140,2,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,abono,faq-or-table,/abonos/#humus-organico,humus organico,140,140,1,
+1,listas,faq-or-table,/listas/#bano-de-plantas-para-la-buena-suerte,baño de plantas para la buena suerte,140,140,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#planta-para-ducha,planta para ducha,140,140,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#planta-que-necesita-mucho-sol,planta que necesita mucho sol,140,140,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-que-resisten-el-sol-directo,plantas que resisten el sol directo,140,140,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-resistentes-al-sol-y-frio,plantas resistentes al sol y frio,140,140,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-que-no-requieren-luz,plantas que no requieren luz,70,140,3,toxicidad por ASPCA
+1,problemas,faq-or-table,/problemas/#como-revivir-un-arbol-seco,como revivir un arbol seco,140,140,1,
+1,problemas,faq-or-table,/problemas/#como-revivir-un-helecho-seco,como revivir un helecho seco,140,140,1,
+1,problemas,faq-or-table,/problemas/#sansevieria-hojas-caidas,sansevieria hojas caidas,140,140,1,
+1,problemas,faq-or-table,/problemas/#como-revivir-un-palo-de-agua,como revivir un palo de agua,110,140,3,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#como-trasplantar-un-aloe-vera,como trasplantar un aloe vera,140,140,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-para-violetas-africanas,sustrato para violetas africanas,140,140,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-acida-para-hortensias,tierra acida para hortensias,140,140,1,
+1,problemas,faq-or-table,/problemas/#las-hojas-de-mi-orquidea-se-estan-poniendo-amarillas,las hojas de mi orquidea se estan poniendo amarillas,90,120,2,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#como-pasar-una-planta-a-una-maceta,como pasar una planta a una maceta,90,120,2,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#como-cambiar-de-maceta-una-planta,como cambiar de maceta una planta,70,120,2,
+1,plagas,faq-or-table,/plagas/#hongo-en-plantas-de-interior,hongo en plantas de interior,110,110,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,abono,faq-or-table,/abonos/#abono-casero-para-arboles-frutales,abono casero para arboles frutales,110,110,1,
+1,abono,faq-or-table,/abonos/#fertilizante-para-arbol-de-limon,fertilizante para arbol de limon,110,110,1,
+1,abono,faq-or-table,/abonos/#humus-de-gusano,humus de gusano,110,110,1,
+1,listas,faq-or-table,/listas/#planta-que-aguanta-frio-y-calor,planta que aguanta frio y calor,110,110,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-que-requieren-poca-luz,plantas que requieren poca luz,110,110,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-para-balcones-con-mucho-sol,plantas para balcones con mucho sol,90,110,2,toxicidad por ASPCA
+1,problemas,faq-or-table,/problemas/#calathea-puntas-secas,calathea puntas secas,110,110,1,
+1,problemas,faq-or-table,/problemas/#puntas-de-hojas-marrones,puntas de hojas marrones,110,110,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-para-venus-atrapamoscas,sustrato para venus atrapamoscas,110,110,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-compo-sana,tierra compo sana,110,110,1,
+1,abono,faq-or-table,/abonos/#compost-lombriz-californiana,compost lombriz californiana,90,100,2,
+1,abono,faq-or-table,/abonos/#humus-de-lombriz-25-kg,humus de lombriz 25 kg,90,100,2,
+1,listas,faq-or-table,/listas/#plantas-de-interior-con-mucha-luz,plantas de interior con mucha luz,40,100,3,toxicidad por ASPCA
+1,plagas,faq-or-table,/plagas/#cochinilla-lapa-como-eliminar,cochinilla lapa como eliminar,90,90,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#insecticida-contra-el-pulgon,insecticida contra el pulgon,90,90,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#mosquitas-en-la-tierra-de-las-macetas,mosquitas en la tierra de las macetas,90,90,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#pulgones-en-rosas-como-eliminarlos,pulgones en rosas como eliminarlos,90,90,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,abono,faq-or-table,/abonos/#abono-casero-para-limonero-4-estaciones,abono casero para limonero 4 estaciones,90,90,1,
+1,abono,faq-or-table,/abonos/#fertilizantes-para-crecimiento-y-floracion-caseros,fertilizantes para crecimiento y floración caseros,90,90,1,
+1,listas,faq-or-table,/listas/#plantas-colgantes-exterior-resistentes,plantas colgantes exterior resistentes,90,90,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#planta-para-limpiar-el-aire,planta para limpiar el aire,90,90,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-de-exterior-sol-directo,plantas de exterior sol directo,90,90,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-para-canteros-a-pleno-sol,plantas para canteros a pleno sol,90,90,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-para-exterior-con-mucho-sol,plantas para exterior con mucho sol,90,90,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-para-interiores-de-casa-purificadores,plantas para interiores de casa purificadores,90,90,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-para-media-sombra,plantas para media sombra,90,90,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-que-pueden-ir-en-el-bano,plantas que pueden ir en el baño,90,90,1,toxicidad por ASPCA
+1,problemas,faq-or-table,/problemas/#como-revivir-un-girasol-en-maceta,como revivir un girasol en maceta,90,90,1,
+1,problemas,faq-or-table,/problemas/#como-revivir-una-lavanda-seca,como revivir una lavanda seca,90,90,1,
+1,problemas,faq-or-table,/problemas/#como-revivir-una-palmera-seca,como revivir una palmera seca,90,90,1,
+1,problemas,faq-or-table,/problemas/#como-revivir-una-suculenta-seca,como revivir una suculenta seca,90,90,1,
+1,problemas,faq-or-table,/problemas/#monstera-puntas-secas,monstera puntas secas,90,90,1,
+1,problemas,faq-or-table,/problemas/#porque-mi-limonero-tiene-las-hojas-amarillas,porque mi limonero tiene las hojas amarillas,90,90,1,
+1,problemas,faq-or-table,/problemas/#porque-las-hojas-de-mi-planta-estan-amarillas,porque las hojas de mi planta estan amarillas,50,90,2,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-huerto-urbano,tierra para huerto urbano,90,90,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#como-trasplantar-un-arbol-grande,como trasplantar un arbol grande,90,90,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-para-orquideas-phalaenopsis,sustrato para orquideas phalaenopsis,90,90,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-para-pata-de-elefante,sustrato para pata de elefante,90,90,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-blanca-en-macetas,tierra blanca en macetas,90,90,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-limonero-en-maceta,tierra para limonero en maceta,90,90,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-rosas-en-maceta,tierra para rosas en maceta,90,90,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-sembrar-pasto,tierra para sembrar pasto,90,90,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-vegetal-para-jardin,tierra vegetal para jardin,90,90,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#como-trasplantar-una-orquidea-a-otra-maceta,como trasplantar una orquidea a otra maceta,70,90,2,
+1,problemas,faq-or-table,/problemas/#como-recuperar-una-planta-marchita,como recuperar una planta marchita,50,80,2,
+1,plagas,faq-or-table,/plagas/#cochinilla-cerosa-como-eliminar,cochinilla cerosa como eliminar,70,70,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#como-eliminar-la-cochinilla-de-la-tierra,como eliminar la cochinilla de la tierra,70,70,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#mamboreta-trips,mamboreta trips,70,70,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#insecticida-sistemico-para-pulgon,insecticida sistemico para pulgon,40,70,2,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,abono,faq-or-table,/abonos/#humus-de-lombriz-50-litros,humus de lombriz 50 litros,70,70,1,
+1,abono,faq-or-table,/abonos/#fertilizante-casero-para-palo-de-agua,fertilizante casero para palo de agua,70,70,1,
+1,abono,faq-or-table,/abonos/#humus-de-lombriz-mercado-libre,humus de lombriz mercado libre,70,70,1,
+1,abono,faq-or-table,/abonos/#restos-de-cafe-para-las-plantas,restos de cafe para las plantas,70,70,1,
+1,listas,faq-or-table,/listas/#planta-que-no-necesita-sol,planta que no necesita sol,70,70,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-colgantes-de-exterior-para-balcones,plantas colgantes de exterior para balcones,70,70,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-de-balcon-resistentes-al-sol,plantas de balcon resistentes al sol,70,70,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-de-exterior-no-toxicas-para-gatos,plantas de exterior no toxicas para gatos,70,70,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-que-le-hacen-mal-a-los-gatos,plantas que le hacen mal a los gatos,70,70,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-colgantes-interior-artificiales,plantas colgantes interior artificiales,50,70,2,toxicidad por ASPCA
+1,problemas,faq-or-table,/problemas/#aralia-hojas-caidas,aralia hojas caidas,70,70,1,
+1,problemas,faq-or-table,/problemas/#como-revivir-un-cactus-seco,como revivir un cactus seco,70,70,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-orquideas-walmart,tierra para orquideas walmart,70,70,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#como-se-trasplantan-las-orquideas,como se trasplantan las orquideas,70,70,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#como-trasplantar-un-limonero-en-maceta,como trasplantar un limonero en maceta,70,70,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-para-ficus-lyrata,sustrato para ficus lyrata,70,70,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-para-helechos-en-maceta,sustrato para helechos en maceta,70,70,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-monstera-deliciosa,tierra para monstera deliciosa,70,70,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-olivo-en-maceta,tierra para olivo en maceta,70,70,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-palo-de-brasil,tierra para palo de brasil,70,70,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-plantar-semillas,tierra para plantar semillas,70,70,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-rosa-del-desierto,tierra para rosa del desierto,70,70,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-sembrar-vegetales,tierra para sembrar vegetales,70,70,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-venus-atrapamoscas,tierra para venus atrapamoscas,70,70,1,
+1,abono,faq-or-table,/abonos/#fertilizante-de-banana-y-cascara-de-huevo,fertilizante de banana y cáscara de huevo,40,60,3,
+1,problemas,faq-or-table,/problemas/#como-revivir-una-planta-que-se-esta-secando,como revivir una planta que se está secando,40,60,2,
+1,plagas,faq-or-table,/plagas/#antipulgon-casero,antipulgon casero,50,50,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#arana-blanca-limonero,araña blanca limonero,50,50,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#como-curar-la-cochinilla-de-las-plantas,como curar la cochinilla de las plantas,50,50,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#hongo-roya-en-plantas,hongo roya en plantas,50,50,1,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,plagas,faq-or-table,/plagas/#mosquitos-en-tierra-macetas,mosquitos en tierra macetas,30,50,2,solo remedios de bajo riesgo; productos con etiqueta; sin mezclas caseras toxicas
+1,abono,faq-or-table,/abonos/#lombrices-para-humus,lombrices para humus,50,50,1,
+1,abono,faq-or-table,/abonos/#abono-casero-para-engordar-tomates,abono casero para engordar tomates,50,50,1,
+1,abono,faq-or-table,/abonos/#humus-lombricompuesto,humus lombricompuesto,50,50,1,
+1,listas,faq-or-table,/listas/#planta-para-habitacion-sin-luz,planta para habitacion sin luz,50,50,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-colgantes-con-flores-todo-el-ano,plantas colgantes con flores todo el año,50,50,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-de-exterior-resistentes-al-sol-y-al-frio-chile,plantas de exterior resistentes al sol y al frío chile,50,50,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-de-pleno-sol-con-flores,plantas de pleno sol con flores,50,50,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-de-purificacion,plantas de purificacion,50,50,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-para-balcon-con-poco-sol,plantas para balcon con poco sol,50,50,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-para-balcon-sin-sol,plantas para balcon sin sol,50,50,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-para-living-comedor,plantas para living comedor,50,50,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-para-lugares-con-poca-luz,plantas para lugares con poca luz,50,50,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-que-resisten-heladas,plantas que resisten heladas,50,50,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-que-viven-con-poca-luz,plantas que viven con poca luz,50,50,1,toxicidad por ASPCA
+1,listas,faq-or-table,/listas/#plantas-de-interior-sol-directo,plantas de interior sol directo,30,50,2,toxicidad por ASPCA
+1,problemas,faq-or-table,/problemas/#como-recuperar-una-planta-que-se-esta-secando,como recuperar una planta que se está secando,50,50,1,
+1,problemas,faq-or-table,/problemas/#como-revivir-un-potus-en-agua,como revivir un potus en agua,50,50,1,
+1,problemas,faq-or-table,/problemas/#como-salvar-una-planta-que-se-esta-secando,como salvar una planta que se esta secando,50,50,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-de-turba-y-perlita,sustrato de turba y perlita,50,50,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-para-huerto-urbano,sustrato para huerto urbano,50,50,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-para-limonero-en-maceta,sustrato para limonero en maceta,50,50,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-para-olivo-en-maceta,sustrato para olivo en maceta,50,50,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#sustrato-universal-con-perlita,sustrato universal con perlita,50,50,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-de-hoja-compost,tierra de hoja compost,50,50,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-de-hojas-a-domicilio,tierra de hojas a domicilio,50,50,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-hortensias-en-maceta,tierra para hortensias en maceta,50,50,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-macetas-de-interior,tierra para macetas de interior,50,50,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-rellenar-jardin,tierra para rellenar jardin,50,50,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-rosales-en-maceta,tierra para rosales en maceta,50,50,1,
+1,sustrato,faq-or-table,/sustratos-y-macetas/#tierra-para-sembrar-cesped,tierra para sembrar cesped,50,50,1,
+2,planta-tipos,page,/plantas/cactus/tipos/,tipos de cactus,12100,12100,1,
+2,planta-tipos,page,/plantas/lirio/tipos/,tipos de lirio,12100,12100,1,
+2,planta-tipos,page,/plantas/rosal/tipos/,tipos de rosal,9900,9900,1,
+2,planta-poda,page,/plantas/rosal/poda/,como podar rosal,2900,8700,3,
+2,planta-tipos,page,/plantas/suculentas/tipos/,tipos de suculentas,8100,8100,1,
+2,planta-tipos,page,/plantas/pasto/tipos/,tipos de pasto,4400,6000,2,
+2,planta-tipos,page,/plantas/jazmin/tipos/,tipos de jazmin,5400,5400,1,
+2,planta-tipos,page,/plantas/ficus/tipos/,tipos de ficus,4400,4400,1,
+2,planta-tipos,page,/plantas/cinta/tipos/,tipos de cinta,3600,3690,2,
+2,planta-tipos,page,/plantas/geranio/tipos/,tipos de geranio,3600,3620,2,
+2,planta-tipos,page,/plantas/monstera/tipos/,tipos de monstera,3600,3610,2,
+2,planta-tipos,page,/plantas/lavanda/tipos/,tipos de lavanda,3600,3600,1,
+2,planta-tipos,page,/plantas/tulipan/tipos/,tipos de tulipan,3600,3600,1,
+2,planta-tipos,page,/plantas/margarita/tipos/,tipos de margaritas,3600,3600,2,
+2,planta-tipos,page,/plantas/menta/tipos/,tipos de menta,3600,3600,1,
+2,planta-tipos,page,/plantas/oregano/tipos/,tipos de oregano,3600,3600,1,
+2,planta-tipos,page,/plantas/agave/tipos/,tipos de agave,1900,3500,2,
+2,planta-tipos,page,/plantas/aloe-vera/tipos/,tipos de aloe vera,1600,3210,3,
+2,planta-reproducir,page,/plantas/rosal/como-reproducir/,esquejes de rosal,2900,3160,2,
+2,planta-tipos,page,/plantas/albahaca/tipos/,tipos de albahaca,2900,2900,1,
+2,planta-tipos,page,/plantas/naranjo/tipos/,tipos de naranjo,2900,2900,1,
+2,planta-tipos,page,/plantas/sansevieria/tipos/,tipos de lengua de suegra,1600,2630,3,
+2,planta-hojas-amarillas,page,/plantas/limonero/hojas-amarillas/,limonero hojas amarillas,2400,2550,4,
+2,planta-poda,page,/plantas/limonero/poda/,como podar limonero,2400,2430,2,
+2,planta-tipos,page,/plantas/bonsai/tipos/,tipos de bonsai,2400,2400,1,
+2,planta-tipos,page,/plantas/hortensia/tipos/,tipos de hortensia,2400,2400,1,
+2,planta-tipos,page,/plantas/planta-carnivora/tipos/,tipos de plantas carnivoras,1900,2330,3,
+2,planta-tipos,page,/plantas/potus/tipos/,tipos de potus,1000,2140,3,
+2,planta-tipos,page,/plantas/yuca/tipos/,tipos de yuca planta,1900,2110,2,
+2,planta-reproducir,page,/plantas/buganvilla/como-reproducir/,como reproducir bugambilia,720,2070,6,
+2,planta-hojas-amarillas,page,/plantas/potus/hojas-amarillas/,potus hojas amarillas,1000,1930,6,
+2,planta-tipos,page,/plantas/orquidea/tipos/,tipos de orquidea,1900,1900,1,
+2,planta-tipos,page,/plantas/begonia/tipos/,tipos de begonia,1900,1900,1,
+2,ficha-planta,page,/plantas/zamioculca/,zamioculca cuidados,1600,1900,15,datos de cultivo verificados; toxicidad por ASPCA
+2,planta-reproducir,page,/plantas/lavanda/como-reproducir/,como reproducir lavanda,1000,1880,2,
+2,planta-tipos,page,/plantas/dracaena/tipos/,tipos de palo de brasil,1000,1850,4,
+2,ficha-planta,page,/plantas/hierbabuena/,hierbabuena cuidados,880,1780,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/areca/,palmera areca cuidados,1000,1740,22,datos de cultivo verificados; toxicidad por ASPCA
+2,planta-reproducir,page,/plantas/sansevieria/como-reproducir/,como reproducir lengua de suegra,880,1720,6,
+2,planta-tipos,page,/plantas/buganvilla/tipos/,tipos de bugambilia,1300,1710,3,
+2,ficha-planta,page,/plantas/cala/,cala cuidados,590,1660,26,datos de cultivo verificados; toxicidad por ASPCA
+2,planta-hojas-amarillas,page,/plantas/singonio/hojas-amarillas/,singonio hojas amarillas,1600,1610,4,
+2,planta-poda,page,/plantas/lavanda/poda/,como podar lavanda,1600,1600,1,
+2,planta-tipos,page,/plantas/azalea/tipos/,tipos de azalea,1600,1600,1,
+2,planta-reproducir,page,/plantas/romero/como-reproducir/,esquejes de romero,880,1600,2,
+2,planta-tipos,page,/plantas/romero/tipos/,tipos de romero,1600,1600,1,
+2,planta-tipos,page,/plantas/clavel/tipos/,tipos de clavel,1600,1600,1,
+2,planta-tipos,page,/plantas/ruda/tipos/,tipos de ruda,1600,1600,1,
+2,planta-tipos,page,/plantas/citronela/tipos/,tipos de citronela,1600,1600,1,
+2,planta-tipos,page,/plantas/cilantro/tipos/,tipos de cilantro,1600,1600,1,
+2,planta-tipos,page,/plantas/hiedra/tipos/,tipos de hiedra,1600,1600,1,
+2,planta-tipos,page,/plantas/laurel/tipos/,tipos de laurel,1600,1600,1,
+2,ficha-planta,page,/plantas/lirio/,lirio cuidados,1000,1560,10,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/coleo/,coleo cuidados,880,1550,22,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/ficus-lyrata/,ficus lyrata cuidados,1300,1540,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/camelia/,camelia cuidados,1000,1490,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/margarita/,margaritas cuidados,590,1390,21,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/clavel/,clavel cuidados,880,1380,14,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/rosa-del-desierto/,rosa del desierto cuidados,1000,1380,22,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/pasto/,como plantar cesped,590,1380,20,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/olivo/,como plantar olivo,480,1340,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/ruda/,ruda cuidados,720,1340,11,datos de cultivo verificados; toxicidad por ASPCA
+2,planta-reproducir,page,/plantas/hortensia/como-reproducir/,esquejes de hortensia,720,1310,2,
+2,planta-tipos,page,/plantas/kalanchoe/tipos/,tipos de kalanchoe,1300,1300,1,
+2,planta-tipos,page,/plantas/helecho/tipos/,tipos de helecho,1300,1300,1,
+2,planta-poda,page,/plantas/olivo/poda/,como podar olivo,1300,1300,1,
+2,planta-tipos,page,/plantas/alocasia/tipos/,tipos de alocasia,1300,1300,1,
+2,planta-tipos,page,/plantas/calendula/tipos/,tipos de calendula,1300,1300,1,
+2,planta-hojas-amarillas,page,/plantas/sansevieria/hojas-amarillas/,sansevieria hojas amarillas,590,1290,6,
+2,planta-hojas-amarillas,page,/plantas/espatifilo/hojas-amarillas/,espatifilo hojas amarillas,480,1280,6,
+2,ficha-planta,page,/plantas/violeta-africana/,violeta africana cuidados,1000,1250,10,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/strelitzia/,strelitzia cuidados,480,1250,22,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/pata-de-elefante/,pata de elefante cuidados,880,1240,10,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/ficus-benjamina/,ficus benjamina cuidados,1000,1230,10,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/menta/,menta cuidados,590,1220,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/girasol/,girasol cuidados,720,1220,10,datos de cultivo verificados; toxicidad por ASPCA
+2,planta-hojas-amarillas,page,/plantas/jazmin/hojas-amarillas/,jazmin hojas amarillas,720,1200,2,
+2,ficha-planta,page,/plantas/gomero/,ficus elastica cuidados,590,1190,33,datos de cultivo verificados; toxicidad por ASPCA
+2,planta-reproducir,page,/plantas/cactus-de-navidad/como-reproducir/,esquejes de cactus de navidad,880,1170,4,
+2,ficha-planta,page,/plantas/peperomia/,peperomia cuidados,880,1150,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/citronela/,citronela cuidados,880,1140,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/tomillo/,tomillo cuidados,720,1130,11,datos de cultivo verificados; toxicidad por ASPCA
+2,planta-hojas-amarillas,page,/plantas/dracaena/hojas-amarillas/,palo de agua hojas amarillas,390,1120,8,
+2,ficha-planta,page,/plantas/tradescantia/,tradescantia cuidados,720,1120,22,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/fresa/,como plantar fresas en maceta,480,1080,22,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/perejil/,como plantar perejil,480,1050,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/croton/,croton cuidados,880,1030,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/tomate/,tomatera cuidados,320,1030,19,datos de cultivo verificados; toxicidad por ASPCA
+2,planta-hojas-amarillas,page,/plantas/orquidea/hojas-amarillas/,orquidea hojas amarillas,1000,1010,2,
+2,planta-tipos,page,/plantas/crisantemo/tipos/,tipos de crisantemo,1000,1000,1,
+2,planta-tipos,page,/plantas/olivo/tipos/,tipos de olivo,1000,1000,1,
+2,ficha-planta,page,/plantas/oregano/,oregano cuidados,590,1000,11,datos de cultivo verificados; toxicidad por ASPCA
+2,planta-tipos,page,/plantas/nopal/tipos/,tipos de nopal,1000,1000,1,
+2,planta-tipos,page,/plantas/musgo/tipos/,tipos de musgo,1000,1000,1,
+2,ficha-planta,page,/plantas/yuca/,yuca planta cuidados,880,950,22,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/galan-de-noche/,dama de noche cuidados,480,950,22,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/bambu-de-la-suerte/,bambu de la suerte cuidados,720,920,10,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/alocasia/,alocasia cuidados,590,910,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/cilantro/,como plantar cilantro,590,890,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/singonio/,singonio cuidados,590,840,22,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/lantana/,lantana cuidados,590,740,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/cinta/,malamadre cuidados,260,720,31,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/aglaonema/,aglaonema cuidados,590,710,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/filodendro/,filodendro cuidados,260,700,22,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/hiedra/,hiedra cuidados,390,610,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/laurel/,laurel cuidados,320,600,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/tillandsia/,tillandsia cuidados,260,590,21,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/kentia/,kentia cuidados,390,580,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/naranjo/,como plantar naranjo,260,560,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/aguacate/,como cuidar arbol de aguacate,170,560,22,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/calendula/,calendula cuidados,390,550,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/nopal/,como plantar nopal,390,430,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/hibisco/,hibisco cuidados,260,420,33,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/maranta/,maranta cuidados,320,410,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/helecho-de-boston/,helecho de boston cuidados,320,330,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/pilea/,pilea cuidados,260,320,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/echeveria/,echeveria cuidados,210,270,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/plumeria/,plumeria cuidados,210,250,22,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/agave/,agave cuidados,70,200,22,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/arbol-de-la-felicidad/,arbol de la felicidad cuidados,170,170,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/cola-de-burro/,cola de burro cuidados,70,130,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/stevia/,como plantar stevia,50,120,10,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/musgo/,musgo cuidados,70,110,10,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/mango/,arbol de mango cuidados,50,80,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/manzanilla/,manzanilla planta cuidados,70,70,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/sabila-planta/,planta de sabila cuidados,30,50,11,datos de cultivo verificados; toxicidad por ASPCA
+2,ficha-planta,page,/plantas/cactus-san-pedro/,san pedro cactus sol o sombra,0,0,11,datos de cultivo verificados; toxicidad por ASPCA
+2,planta-significado,faq-or-table,/plantas/gerbera/#significado,gerbera significado,12100,12100,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/lirio/#significado,lirio significado,6600,6600,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/girasol/#significado,girasol significado,6600,6600,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/tulipan/#significado,tulipan significado,4400,4400,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/arbol-de-jade/#significado,arbol de jade significado,2900,3490,3,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/cala/#significado,cala significado,1300,3190,3,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/suculentas/#significado,suculentas significado,2900,2900,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/crisantemo/#significado,crisantemo significado,2900,2900,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/orquidea/#significado,orquidea significado,2400,2400,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/hortensia/#significado,hortensia significado,2400,2400,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/margarita/#significado,margaritas significado,1900,1920,2,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/clavel/#significado,clavel significado,1900,1900,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/potus/#significado,potus significado,880,1640,3,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/bonsai/#significado,bonsai significado,1600,1600,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/jazmin/#significado,jazmin significado,1600,1600,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/laurel/#significado,laurel significado,1300,1300,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/rosal/#significado,rosas significado,1000,1170,2,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/gardenia/#significado,gardenia significado,1000,1000,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/cactus/#significado,cactus significado,1000,1000,1,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/jazmin/#como-reproducir,esquejes de jazmin,720,980,2,
+2,planta-reproducir,faq-or-table,/plantas/geranio/#como-reproducir,esquejes de geranio,480,960,4,
+2,planta-significado,faq-or-table,/plantas/petunia/#significado,petunia significado,480,960,2,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/potus/#como-reproducir,esquejes de poto,320,910,6,
+2,planta-reproducir,faq-or-table,/plantas/camelia/#como-reproducir,esquejes de camelia,590,910,2,
+2,planta-tipos,faq-or-table,/plantas/filodendro/#tipos,tipos de filodendro,590,910,2,
+2,planta-reproducir,faq-or-table,/plantas/monstera/#como-reproducir,como reproducir monstera,320,880,4,
+2,planta-hojas-amarillas,faq-or-table,/plantas/zamioculca/#hojas-amarillas,zamioculca hojas amarillas,880,880,3,
+2,planta-tipos,faq-or-table,/plantas/camelia/#tipos,tipos de camelia,880,880,1,
+2,planta-significado,faq-or-table,/plantas/camelia/#significado,camelia significado,880,880,1,sin promesas; tradicion popular
+2,planta-tipos,faq-or-table,/plantas/croton/#tipos,tipos de croton,880,880,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/kalanchoe/#hojas-amarillas,kalanchoe hojas secas,480,870,2,
+2,planta-significado,faq-or-table,/plantas/buganvilla/#significado,bugambilia significado,590,830,3,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/clavel/#como-reproducir,esquejes de clavel,720,830,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/monstera/#hojas-amarillas,monstera hojas amarillas,480,820,4,
+2,planta-reproducir,faq-or-table,/plantas/suculentas/#como-reproducir,como reproducir suculentas,590,800,2,
+2,planta-poda,faq-or-table,/plantas/orquidea/#poda,como podar orquidea,390,780,2,
+2,planta-tipos,faq-or-table,/plantas/galan-de-noche/#tipos,tipos de dama de noche,480,740,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/naranjo/#hojas-amarillas,naranjo hojas amarillas,480,740,2,
+2,planta-reproducir,faq-or-table,/plantas/crisantemo/#como-reproducir,esquejes de crisantemo,720,730,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/cala/#hojas-amarillas,cala hojas amarillas,720,730,4,
+2,planta-tipos,faq-or-table,/plantas/anturio/#tipos,tipos de anturio,720,720,1,
+2,planta-reproducir,faq-or-table,/plantas/nochebuena/#como-reproducir,esquejes de flor de pascua,390,720,6,
+2,planta-significado,faq-or-table,/plantas/espatifilo/#significado,lirio de la paz significado,590,720,3,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/romero/#poda,como podar romero,720,720,1,
+2,planta-tipos,faq-or-table,/plantas/gerbera/#tipos,tipos de gerbera,720,720,1,
+2,planta-tipos,faq-or-table,/plantas/calathea/#tipos,tipos de calathea,720,720,1,
+2,planta-tipos,faq-or-table,/plantas/hierbabuena/#tipos,tipos de hierbabuena,720,720,1,
+2,planta-tipos,faq-or-table,/plantas/pata-de-elefante/#tipos,tipos de pata de elefante,720,720,1,
+2,planta-reproducir,faq-or-table,/plantas/gomero/#como-reproducir,esquejes de gomero,480,720,6,
+2,planta-tipos,faq-or-table,/plantas/bambu-de-la-suerte/#tipos,tipos de bambu de la suerte,720,720,1,
+2,planta-tipos,faq-or-table,/plantas/maranta/#tipos,tipos de maranta,720,720,1,
+2,planta-reproducir,faq-or-table,/plantas/gardenia/#como-reproducir,esquejes de gardenia,590,700,2,
+2,planta-tipos,faq-or-table,/plantas/gomero/#tipos,tipos de gomero,590,700,3,
+2,planta-significado,faq-or-table,/plantas/geranio/#significado,geranio significado,590,630,2,sin promesas; tradicion popular
+2,planta-hojas-amarillas,faq-or-table,/plantas/geranio/#hojas-amarillas,geranio hojas amarillas,390,620,4,
+2,planta-hojas-amarillas,faq-or-table,/plantas/ficus/#hojas-amarillas,ficus hojas amarillas,480,620,2,
+2,planta-reproducir,faq-or-table,/plantas/hierbabuena/#como-reproducir,esquejes de hierbabuena,480,620,2,
+2,planta-reproducir,faq-or-table,/plantas/laurel/#como-reproducir,esquejes de laurel,480,620,2,
+2,planta-reproducir,faq-or-table,/plantas/anturio/#como-reproducir,como reproducir anturio,390,610,3,
+2,planta-hojas-amarillas,faq-or-table,/plantas/areca/#hojas-amarillas,palmera areca hojas secas,210,610,4,
+2,planta-hojas-amarillas,faq-or-table,/plantas/menta/#hojas-amarillas,menta hojas amarillas,590,610,2,
+2,planta-poda,faq-or-table,/plantas/buganvilla/#poda,como podar buganvilla,320,600,3,
+2,planta-tipos,faq-or-table,/plantas/cala/#tipos,tipos de alcatraz,390,600,2,
+2,planta-reproducir,faq-or-table,/plantas/olivo/#como-reproducir,esquejes de olivo,390,600,2,
+2,planta-poda,faq-or-table,/plantas/dracaena/#poda,como podar tronco de brasil,390,590,4,
+2,planta-poda,faq-or-table,/plantas/hortensia/#poda,como podar hortensia,590,590,1,
+2,planta-tipos,faq-or-table,/plantas/bromelia/#tipos,tipos de bromelia,590,590,1,
+2,planta-tipos,faq-or-table,/plantas/gardenia/#tipos,tipos de gardenia,590,590,1,
+2,planta-significado,faq-or-table,/plantas/olivo/#significado,olivo significado,590,590,1,sin promesas; tradicion popular
+2,planta-tipos,faq-or-table,/plantas/girasol/#tipos,tipos de girasol,590,590,1,
+2,planta-tipos,faq-or-table,/plantas/perejil/#tipos,tipos de perejil,590,590,1,
+2,planta-reproducir,faq-or-table,/plantas/hiedra/#como-reproducir,esquejes de hiedra,480,590,2,
+2,planta-poda,faq-or-table,/plantas/naranjo/#poda,como podar naranjo,590,590,1,
+2,planta-reproducir,faq-or-table,/plantas/begonia/#como-reproducir,como reproducir begonia,320,580,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/rosal/#hojas-amarillas,rosal hojas amarillas,480,580,4,
+2,planta-tipos,faq-or-table,/plantas/coleo/#tipos,tipos de coleo,480,570,2,
+2,planta-significado,faq-or-table,/plantas/hibisco/#significado,hibisco significado,390,570,3,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/dracaena/#como-reproducir,como reproducir dracaena,140,560,8,
+2,planta-hojas-amarillas,faq-or-table,/plantas/anturio/#hojas-amarillas,anturio hojas amarillas,480,560,3,
+2,planta-hojas-amarillas,faq-or-table,/plantas/strelitzia/#hojas-amarillas,strelitzia hojas amarillas,390,550,4,
+2,planta-reproducir,faq-or-table,/plantas/aloe-vera/#como-reproducir,como reproducir aloe vera,260,540,6,
+2,planta-significado,faq-or-table,/plantas/anturio/#significado,anturio significado,320,530,2,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/agave/#significado,maguey significado,320,530,2,sin promesas; tradicion popular
+2,planta-tipos,faq-or-table,/plantas/cheflera/#tipos,tipos de cheflera,480,520,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/galan-de-noche/#hojas-amarillas,galan de noche hojas amarillas,260,520,4,
+2,planta-tipos,faq-or-table,/plantas/singonio/#tipos,tipos de singonio,480,520,2,
+2,planta-significado,faq-or-table,/plantas/zamioculca/#significado,zamioculca significado,480,490,2,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/lavanda/#significado,lavanda significado,480,480,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/azalea/#significado,azalea significado,480,480,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/romero/#significado,romero significado,480,480,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/helecho/#significado,helecho significado,480,480,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/ficus/#poda,como podar ficus,480,480,1,
+2,planta-poda,faq-or-table,/plantas/jazmin/#poda,como podar jazmin,480,480,1,
+2,planta-tipos,faq-or-table,/plantas/peperomia/#tipos,tipos de peperomia,480,480,1,
+2,planta-tipos,faq-or-table,/plantas/tomillo/#tipos,tipos de tomillo,480,480,1,
+2,planta-tipos,faq-or-table,/plantas/tradescantia/#tipos,tipos de tradescantia,480,480,2,
+2,planta-significado,faq-or-table,/plantas/lantana/#significado,lantana significado,480,480,1,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/orquidea/#como-reproducir,esquejes de orquidea,260,470,2,
+2,planta-significado,faq-or-table,/plantas/nochebuena/#significado,nochebuena significado,210,460,3,sin promesas; tradicion popular
+2,planta-hojas-amarillas,faq-or-table,/plantas/calathea/#hojas-amarillas,calathea hojas amarillas,390,460,2,
+2,planta-reproducir,faq-or-table,/plantas/ruda/#como-reproducir,esquejes de ruda,320,460,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/hortensia/#hojas-amarillas,hortensia hojas amarillas,260,430,2,
+2,planta-poda,faq-or-table,/plantas/nochebuena/#poda,como podar flor de pascua,390,430,3,
+2,planta-hojas-amarillas,faq-or-table,/plantas/buganvilla/#hojas-amarillas,buganvilla hojas secas,210,430,6,
+2,planta-tipos,faq-or-table,/plantas/cactus-de-navidad/#tipos,tipos de flor de mayo,320,430,2,
+2,planta-reproducir,faq-or-table,/plantas/cactus/#como-reproducir,como reproducir cactus,260,430,2,
+2,planta-tipos,faq-or-table,/plantas/nochebuena/#tipos,tipos de nochebuena,390,420,3,
+2,planta-hojas-amarillas,faq-or-table,/plantas/olivo/#hojas-amarillas,olivo hojas amarillas,320,410,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/citronela/#hojas-amarillas,citronela hojas amarillas,390,410,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/begonia/#hojas-amarillas,begonia hojas secas,390,400,4,
+2,planta-reproducir,faq-or-table,/plantas/ficus/#como-reproducir,esquejes de ficus,260,400,2,
+2,planta-poda,faq-or-table,/plantas/bonsai/#poda,como podar bonsai,390,390,1,
+2,planta-significado,faq-or-table,/plantas/begonia/#significado,begonia significado,390,390,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/ruda/#significado,ruda significado,390,390,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/bambu-de-la-suerte/#significado,bambu de la suerte significado,390,390,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/hiedra/#significado,hiedra significado,390,390,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/calendula/#significado,calendula significado,390,390,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/nopal/#significado,nopal significado,390,390,1,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/albahaca/#como-reproducir,como reproducir albahaca,210,380,2,
+2,planta-reproducir,faq-or-table,/plantas/azalea/#como-reproducir,esquejes de azalea,210,380,2,
+2,planta-reproducir,faq-or-table,/plantas/rosa-del-desierto/#como-reproducir,esquejes de rosa del desierto,260,370,4,
+2,planta-reproducir,faq-or-table,/plantas/helecho/#como-reproducir,como reproducir helecho,320,360,2,
+2,planta-reproducir,faq-or-table,/plantas/kalanchoe/#como-reproducir,esquejes de kalanchoe,210,350,2,
+2,planta-reproducir,faq-or-table,/plantas/cheflera/#como-reproducir,esquejes de cheflera,210,350,4,
+2,planta-reproducir,faq-or-table,/plantas/tradescantia/#como-reproducir,como reproducir tradescantia,320,350,4,
+2,planta-hojas-amarillas,faq-or-table,/plantas/albahaca/#hojas-amarillas,albahaca hojas amarillas,320,340,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/gardenia/#hojas-amarillas,gardenia hojas amarillas,320,330,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/pata-de-elefante/#hojas-amarillas,pata de elefante hojas amarillas,320,330,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/maranta/#hojas-amarillas,maranta hojas amarillas,320,330,2,
+2,planta-reproducir,faq-or-table,/plantas/stevia/#como-reproducir,esquejes de stevia,320,330,2,
+2,planta-tipos,faq-or-table,/plantas/petunia/#tipos,tipos de petunia,320,320,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/ciclamen/#hojas-amarillas,ciclamen hojas amarillas,320,320,2,
+2,planta-reproducir,faq-or-table,/plantas/aglaonema/#como-reproducir,como reproducir aglaonema,320,320,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/aglaonema/#hojas-amarillas,aglaonema hojas amarillas,320,320,2,
+2,planta-tipos,faq-or-table,/plantas/echeveria/#tipos,tipos de echeveria,320,320,1,
+2,planta-significado,faq-or-table,/plantas/musgo/#significado,musgo significado,320,320,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/pasto/#significado,cesped significado,170,310,2,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/menta/#como-reproducir,esquejes de menta,170,310,2,
+2,planta-tipos,faq-or-table,/plantas/limonero/#tipos,tipos de limonero,260,300,2,
+2,planta-significado,faq-or-table,/plantas/sansevieria/#significado,lengua de suegra significado,170,290,3,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/pasto/#como-reproducir,esquejes de cesped,260,290,4,
+2,planta-significado,faq-or-table,/plantas/cinta/#significado,cinta significado,260,290,3,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/arbol-de-jade/#como-reproducir,como reproducir arbol de jade,170,280,6,
+2,planta-hojas-amarillas,faq-or-table,/plantas/arbol-de-jade/#hojas-amarillas,arbol de jade hojas amarillas,260,280,6,
+2,planta-hojas-amarillas,faq-or-table,/plantas/kentia/#hojas-amarillas,kentia hojas amarillas,210,280,2,
+2,planta-significado,faq-or-table,/plantas/aloe-vera/#significado,sabila significado,210,260,3,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/ciclamen/#significado,ciclamen significado,260,260,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/hierbabuena/#poda,como podar hierbabuena,260,260,1,
+2,planta-tipos,faq-or-table,/plantas/ficus-benjamina/#tipos,tipos de ficus benjamina,260,260,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/tomate/#hojas-amarillas,tomatera hojas amarillas,210,260,4,
+2,planta-hojas-amarillas,faq-or-table,/plantas/hibisco/#hojas-amarillas,hibisco hojas amarillas,260,260,6,
+2,planta-hojas-amarillas,faq-or-table,/plantas/ficus-benjamina/#hojas-amarillas,ficus benjamina hojas amarillas,140,250,2,
+2,planta-reproducir,faq-or-table,/plantas/lantana/#como-reproducir,esquejes de lantana,140,250,2,
+2,planta-reproducir,faq-or-table,/plantas/limonero/#como-reproducir,esquejes de limonero,210,240,4,
+2,planta-reproducir,faq-or-table,/plantas/ficus-benjamina/#como-reproducir,esquejes de ficus benjamina,170,240,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/romero/#hojas-amarillas,romero hojas amarillas,210,230,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/bromelia/#hojas-amarillas,bromelia hojas secas,210,220,2,
+2,planta-significado,faq-or-table,/plantas/gomero/#significado,gomero significado,210,220,3,sin promesas; tradicion popular
+2,planta-hojas-amarillas,faq-or-table,/plantas/alocasia/#hojas-amarillas,alocasia hojas amarillas,210,220,2,
+2,planta-poda,faq-or-table,/plantas/geranio/#poda,como podar geranio,210,210,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/camelia/#hojas-amarillas,camelia hojas amarillas,210,210,2,
+2,planta-poda,faq-or-table,/plantas/ficus-benjamina/#poda,como podar ficus benjamina,210,210,1,
+2,planta-reproducir,faq-or-table,/plantas/croton/#como-reproducir,esquejes de croton,140,210,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/bambu-de-la-suerte/#hojas-amarillas,bambu de la suerte hojas amarillas,210,210,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/laurel/#hojas-amarillas,laurel hojas secas,140,210,2,
+2,planta-poda,faq-or-table,/plantas/laurel/#poda,como podar laurel,210,210,1,
+2,planta-tipos,faq-or-table,/plantas/tillandsia/#tipos,tipos de clavel del aire,140,210,2,
+2,planta-tipos,faq-or-table,/plantas/manzanilla/#tipos,tipos de manzanilla planta,210,210,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/lavanda/#hojas-amarillas,lavanda hojas amarillas,170,200,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/dipladenia/#hojas-amarillas,dipladenia hojas amarillas,170,200,4,
+2,planta-reproducir,faq-or-table,/plantas/citronela/#como-reproducir,esquejes de citronela,110,200,2,
+2,planta-reproducir,faq-or-table,/plantas/oregano/#como-reproducir,esquejes de oregano,110,200,2,
+2,planta-tipos,faq-or-table,/plantas/arbol-de-jade/#tipos,tipos de arbol de jade,70,190,3,
+2,planta-hojas-amarillas,faq-or-table,/plantas/suculentas/#hojas-amarillas,suculentas hojas amarillas,140,190,2,
+2,planta-significado,faq-or-table,/plantas/coleo/#significado,cretona significado,140,190,2,sin promesas; tradicion popular
+2,planta-tipos,faq-or-table,/plantas/strelitzia/#tipos,tipos de strelitzia,140,190,2,
+2,planta-reproducir,faq-or-table,/plantas/cinta/#como-reproducir,como reproducir mala madre,140,190,6,
+2,planta-hojas-amarillas,faq-or-table,/plantas/helecho/#hojas-amarillas,helecho hojas amarillas,90,180,2,
+2,planta-reproducir,faq-or-table,/plantas/margarita/#como-reproducir,como reproducir margaritas,90,180,4,
+2,planta-tipos,faq-or-table,/plantas/rosa-del-desierto/#tipos,tipos de rosa del desierto,140,180,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/gomero/#hojas-amarillas,ficus elastica hojas amarillas,110,180,6,
+2,planta-poda,faq-or-table,/plantas/aguacate/#poda,como podar arbol de aguacate,170,180,2,
+2,planta-significado,faq-or-table,/plantas/plumeria/#significado,frangipani significado,110,180,2,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/dracaena/#significado,palo de agua significado,70,170,4,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/sansevieria/#poda,como podar lengua de suegra,140,170,3,
+2,planta-poda,faq-or-table,/plantas/albahaca/#poda,como podar albahaca,170,170,1,
+2,planta-significado,faq-or-table,/plantas/bromelia/#significado,bromelia significado,170,170,1,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/petunia/#como-reproducir,como reproducir petunias,170,170,3,
+2,planta-hojas-amarillas,faq-or-table,/plantas/planta-del-dinero/#hojas-amarillas,planta del dinero hojas amarillas,140,170,6,
+2,planta-poda,faq-or-table,/plantas/pata-de-elefante/#poda,como podar pata de elefante,170,170,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/cilantro/#hojas-amarillas,cilantro hojas amarillas,170,170,2,
+2,planta-reproducir,faq-or-table,/plantas/singonio/#como-reproducir,como reproducir singonio,140,170,4,
+2,planta-tipos,faq-or-table,/plantas/aglaonema/#tipos,tipos de aglaonema,170,170,1,
+2,planta-reproducir,faq-or-table,/plantas/naranjo/#como-reproducir,esquejes de naranjo,170,170,2,
+2,planta-tipos,faq-or-table,/plantas/hibisco/#tipos,tipos de hibisco,140,170,3,
+2,planta-hojas-amarillas,faq-or-table,/plantas/stevia/#hojas-amarillas,stevia hojas secas,170,170,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/azalea/#hojas-amarillas,azalea hojas amarillas,90,160,2,
+2,planta-significado,faq-or-table,/plantas/strelitzia/#significado,ave del paraiso significado,90,160,2,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/tomillo/#como-reproducir,esquejes de tomillo,90,160,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/filodendro/#hojas-amarillas,philodendron hojas amarillas,110,150,4,
+2,planta-significado,faq-or-table,/plantas/kalanchoe/#significado,kalanchoe significado,140,140,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/albahaca/#significado,albahaca significado,140,140,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/azalea/#poda,como podar azalea,140,140,1,
+2,planta-significado,faq-or-table,/plantas/ficus/#significado,ficus significado,140,140,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/cactus/#poda,como podar cactus,140,140,1,
+2,planta-poda,faq-or-table,/plantas/margarita/#poda,como podar margaritas,140,140,2,
+2,planta-tipos,faq-or-table,/plantas/lantana/#tipos,tipos de lantana,140,140,1,
+2,planta-tipos,faq-or-table,/plantas/aguacate/#tipos,tipos de arbol de aguacate,140,140,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/nochebuena/#hojas-amarillas,flor de pascua hojas amarillas,70,130,6,
+2,planta-poda,faq-or-table,/plantas/aloe-vera/#poda,como podar aloe vera,110,130,3,
+2,planta-poda,faq-or-table,/plantas/begonia/#poda,como podar begonias,110,120,2,
+2,planta-significado,faq-or-table,/plantas/cactus-de-navidad/#significado,flor de mayo significado,110,120,2,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/ficus-lyrata/#como-reproducir,como reproducir ficus lyrata,90,120,2,
+2,planta-reproducir,faq-or-table,/plantas/pata-de-elefante/#como-reproducir,como reproducir pata de elefante,110,120,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/hiedra/#hojas-amarillas,hiedra hojas amarillas,90,120,2,
+2,planta-significado,faq-or-table,/plantas/tillandsia/#significado,clavel del aire significado,110,120,2,sin promesas; tradicion popular
+2,planta-hojas-amarillas,faq-or-table,/plantas/lirio/#hojas-amarillas,lirio hojas amarillas,110,110,2,
+2,planta-significado,faq-or-table,/plantas/violeta-africana/#significado,violeta africana significado,110,110,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/tomillo/#significado,tomillo significado,110,110,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/galan-de-noche/#poda,como podar dama de noche,70,110,2,
+2,planta-reproducir,faq-or-table,/plantas/nopal/#como-reproducir,como reproducir nopal,90,110,2,
+2,planta-reproducir,faq-or-table,/plantas/cola-de-burro/#como-reproducir,como reproducir cola de burro,110,110,2,
+2,planta-tipos,faq-or-table,/plantas/stevia/#tipos,tipos de stevia,110,110,1,
+2,planta-reproducir,faq-or-table,/plantas/musgo/#como-reproducir,como reproducir musgo,110,110,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/bonsai/#hojas-amarillas,bonsai hojas amarillas,70,100,2,
+2,planta-poda,faq-or-table,/plantas/petunia/#poda,como podar petunias,90,100,2,
+2,planta-poda,faq-or-table,/plantas/monstera/#poda,como podar monstera,90,100,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/cheflera/#hojas-amarillas,cheflera hojas amarillas,50,100,4,
+2,planta-hojas-amarillas,faq-or-table,/plantas/hierbabuena/#hojas-amarillas,hierbabuena hojas amarillas,90,100,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/ficus-lyrata/#hojas-amarillas,ficus lyrata hojas amarillas,50,100,2,
+2,planta-poda,faq-or-table,/plantas/tomate/#poda,como podar tomatera,50,100,2,
+2,planta-reproducir,faq-or-table,/plantas/galan-de-noche/#como-reproducir,como reproducir dama de noche,50,100,4,
+2,planta-reproducir,faq-or-table,/plantas/hibisco/#como-reproducir,esquejes de hibisco,70,100,6,
+2,planta-poda,faq-or-table,/plantas/kalanchoe/#poda,como podar kalanchoe,90,90,1,
+2,planta-tipos,faq-or-table,/plantas/espatifilo/#tipos,tipos de cuna de moises,50,90,3,
+2,planta-poda,faq-or-table,/plantas/arbol-de-jade/#poda,como podar arbol de jade,70,90,3,
+2,planta-reproducir,faq-or-table,/plantas/ciclamen/#como-reproducir,como reproducir ciclamen,90,90,2,
+2,planta-reproducir,faq-or-table,/plantas/zamioculca/#como-reproducir,como reproducir zamioculca,90,90,3,
+2,planta-tipos,faq-or-table,/plantas/ficus-lyrata/#tipos,tipos de ficus lyrata,90,90,1,
+2,planta-reproducir,faq-or-table,/plantas/violeta-africana/#como-reproducir,como reproducir violeta africana,70,90,2,
+2,planta-reproducir,faq-or-table,/plantas/strelitzia/#como-reproducir,como reproducir ave del paraiso,70,90,4,
+2,planta-reproducir,faq-or-table,/plantas/peperomia/#como-reproducir,como reproducir peperomia,70,90,2,
+2,planta-reproducir,faq-or-table,/plantas/perejil/#como-reproducir,esquejes de perejil,50,90,2,
+2,planta-reproducir,faq-or-table,/plantas/bambu-de-la-suerte/#como-reproducir,como reproducir bambu de la suerte,90,90,2,
+2,planta-reproducir,faq-or-table,/plantas/alocasia/#como-reproducir,como reproducir alocasia,90,90,2,
+2,planta-significado,faq-or-table,/plantas/monstera/#significado,monstera significado,70,80,2,sin promesas; tradicion popular
+2,planta-hojas-amarillas,faq-or-table,/plantas/rosa-del-desierto/#hojas-amarillas,rosa del desierto hojas amarillas,70,80,4,
+2,planta-reproducir,faq-or-table,/plantas/filodendro/#como-reproducir,como reproducir filodendro,50,80,4,
+2,planta-reproducir,faq-or-table,/plantas/plumeria/#como-reproducir,esquejes de plumeria,70,80,4,
+2,planta-reproducir,faq-or-table,/plantas/espatifilo/#como-reproducir,como reproducir cuna de moises,30,70,6,
+2,planta-reproducir,faq-or-table,/plantas/planta-carnivora/#como-reproducir,como reproducir plantas carnivoras,20,70,6,
+2,planta-poda,faq-or-table,/plantas/crisantemo/#poda,como podar crisantemo,70,70,1,
+2,planta-reproducir,faq-or-table,/plantas/planta-del-dinero/#como-reproducir,como reproducir planta del dinero,30,70,6,
+2,planta-tipos,faq-or-table,/plantas/planta-del-dinero/#tipos,tipos de planta del dinero,70,70,3,
+2,planta-significado,faq-or-table,/plantas/calathea/#significado,calathea significado,70,70,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/areca/#significado,areca significado,70,70,2,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/menta/#significado,menta significado,70,70,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/perejil/#significado,perejil significado,70,70,1,sin promesas; tradicion popular
+2,planta-tipos,faq-or-table,/plantas/tomate/#tipos,tipos de planta de tomate,70,70,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/oregano/#hojas-amarillas,oregano hojas secas,70,70,2,
+2,planta-significado,faq-or-table,/plantas/oregano/#significado,oregano significado,70,70,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/cilantro/#significado,cilantro significado,70,70,1,sin promesas; tradicion popular
+2,planta-tipos,faq-or-table,/plantas/pilea/#tipos,tipos de pilea,70,70,1,
+2,planta-tipos,faq-or-table,/plantas/sabila-planta/#tipos,tipos de planta de sabila,70,70,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/aloe-vera/#hojas-amarillas,aloe vera hojas amarillas,30,60,6,
+2,planta-poda,faq-or-table,/plantas/suculentas/#poda,como podar suculentas,50,50,1,
+2,planta-significado,faq-or-table,/plantas/planta-del-dinero/#significado,planta del dinero significado,20,50,3,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/calathea/#como-reproducir,como reproducir calathea,50,50,2,
+2,planta-tipos,faq-or-table,/plantas/zamioculca/#tipos,tipos de zamioculca,50,50,1,
+2,planta-significado,faq-or-table,/plantas/hierbabuena/#significado,hierbabuena significado,50,50,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/rosa-del-desierto/#poda,como podar rosa del desierto,40,50,2,
+2,planta-significado,faq-or-table,/plantas/rosa-del-desierto/#significado,rosa del desierto significado,40,50,2,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/pasto/#poda,como podar pasto,40,50,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/ruda/#hojas-amarillas,ruda hojas amarillas,40,50,2,
+2,planta-poda,faq-or-table,/plantas/strelitzia/#poda,como podar ave del paraiso,30,50,2,
+2,planta-poda,faq-or-table,/plantas/menta/#poda,como podar menta,50,50,1,
+2,planta-significado,faq-or-table,/plantas/peperomia/#significado,peperomia significado,50,50,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/tradescantia/#significado,tradescantia significado,40,50,2,sin promesas; tradicion popular
+2,planta-tipos,faq-or-table,/plantas/fresa/#tipos,tipos de planta de fresa,50,50,2,
+2,planta-poda,faq-or-table,/plantas/oregano/#poda,como podar oregano,50,50,1,
+2,planta-significado,faq-or-table,/plantas/yuca/#significado,izote significado,40,50,2,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/cilantro/#como-reproducir,como reproducir cilantro,30,50,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/cinta/#hojas-amarillas,cinta hojas amarillas,30,50,6,
+2,planta-significado,faq-or-table,/plantas/echeveria/#significado,echeveria significado,50,50,1,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/bonsai/#como-reproducir,esquejes de bonsai,30,40,2,
+2,planta-reproducir,faq-or-table,/plantas/dipladenia/#como-reproducir,como reproducir dipladenia,20,40,4,
+2,planta-poda,faq-or-table,/plantas/potus/#poda,como podar potus,30,40,3,
+2,planta-poda,faq-or-table,/plantas/cheflera/#poda,como podar cheflera,40,40,2,
+2,planta-reproducir,faq-or-table,/plantas/cala/#como-reproducir,como reproducir alcatraz,30,40,4,
+2,planta-reproducir,faq-or-table,/plantas/coleo/#como-reproducir,esquejes de coleo,40,40,4,
+2,planta-poda,faq-or-table,/plantas/ruda/#poda,como podar ruda,40,40,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/peperomia/#hojas-amarillas,peperomia hojas amarillas,40,40,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/perejil/#hojas-amarillas,perejil hojas amarillas,40,40,2,
+2,planta-significado,faq-or-table,/plantas/aglaonema/#significado,aglaonema significado,40,40,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/filodendro/#significado,filodendro significado,30,40,2,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/hiedra/#poda,como podar hiedra,40,40,1,
+2,planta-significado,faq-or-table,/plantas/naranjo/#significado,naranjo significado,40,40,1,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/maranta/#significado,maranta significado,40,40,1,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/agave/#como-reproducir,como reproducir agave,30,40,4,
+2,planta-poda,faq-or-table,/plantas/espatifilo/#poda,como podar cuna de moises,20,30,3,
+2,planta-tipos,faq-or-table,/plantas/dipladenia/#tipos,tipos de dipladenia,20,30,2,
+2,planta-tipos,faq-or-table,/plantas/ciclamen/#tipos,tipos de ciclamen,30,30,1,
+2,planta-poda,faq-or-table,/plantas/planta-del-dinero/#poda,como podar planta del dinero,30,30,3,
+2,planta-significado,faq-or-table,/plantas/limonero/#significado,limonero significado,30,30,2,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/areca/#como-reproducir,como reproducir palmera areca,30,30,4,
+2,planta-tipos,faq-or-table,/plantas/areca/#tipos,tipos de areca,30,30,2,
+2,planta-poda,faq-or-table,/plantas/cala/#poda,como podar calas,20,30,3,
+2,planta-poda,faq-or-table,/plantas/ficus-lyrata/#poda,como podar ficus lyrata,30,30,1,
+2,planta-poda,faq-or-table,/plantas/clavel/#poda,como podar claveles,30,30,2,
+2,planta-significado,faq-or-table,/plantas/pata-de-elefante/#significado,pata de elefante significado,30,30,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/gomero/#poda,como podar ficus elastica,20,30,3,
+2,planta-poda,faq-or-table,/plantas/citronela/#poda,como podar citronela,30,30,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/tomillo/#hojas-amarillas,tomillo hojas secas,30,30,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/croton/#hojas-amarillas,croton hojas amarillas,20,30,2,
+2,planta-significado,faq-or-table,/plantas/croton/#significado,croton significado,30,30,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/bambu-de-la-suerte/#poda,como podar bambu de la suerte,30,30,1,
+2,planta-tipos,faq-or-table,/plantas/kentia/#tipos,tipos de kentia,30,30,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/pilea/#hojas-amarillas,pilea hojas amarillas,30,30,2,
+2,planta-tipos,faq-or-table,/plantas/plumeria/#tipos,tipos de plumeria,30,30,2,
+2,planta-significado,faq-or-table,/plantas/stevia/#significado,stevia significado,30,30,1,sin promesas; tradicion popular
+2,planta-tipos,faq-or-table,/plantas/mango/#tipos,tipos de arbol de mango,30,30,1,
+2,planta-poda,faq-or-table,/plantas/anturio/#poda,como podar anturio,10,20,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/tulipan/#hojas-amarillas,tulipan hojas amarillas,20,20,3,
+2,planta-hojas-amarillas,faq-or-table,/plantas/petunia/#hojas-amarillas,petunia hojas amarillas,20,20,2,
+2,planta-significado,faq-or-table,/plantas/planta-carnivora/#significado,planta carnivora significado,10,20,3,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/dipladenia/#poda,como podar dipladenia,10,20,2,
+2,planta-significado,faq-or-table,/plantas/dipladenia/#significado,dipladenia significado,10,20,2,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/cactus-de-navidad/#poda,como podar cactus de navidad,20,20,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/cactus/#hojas-amarillas,cactus hojas amarillas,20,20,2,
+2,planta-significado,faq-or-table,/plantas/cheflera/#significado,cheflera significado,10,20,2,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/zamioculca/#poda,como podar zamioculca,10,20,2,
+2,planta-poda,faq-or-table,/plantas/areca/#poda,como podar areca,10,20,2,
+2,planta-poda,faq-or-table,/plantas/coleo/#poda,como podar coleo,20,20,2,
+2,planta-tipos,faq-or-table,/plantas/violeta-africana/#tipos,tipos de violeta africana,20,20,1,
+2,planta-reproducir,faq-or-table,/plantas/girasol/#como-reproducir,esquejes de girasol,20,20,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/girasol/#hojas-amarillas,girasol hojas amarillas,20,20,2,
+2,planta-poda,faq-or-table,/plantas/tomillo/#poda,como podar tomillo,20,20,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/tradescantia/#hojas-amarillas,tradescantia hojas amarillas,10,20,4,
+2,planta-poda,faq-or-table,/plantas/perejil/#poda,como podar perejil,20,20,1,
+2,planta-significado,faq-or-table,/plantas/tomate/#significado,tomatera significado,20,20,2,sin promesas; tradicion popular
+2,planta-significado,faq-or-table,/plantas/galan-de-noche/#significado,dama de noche significado,20,20,2,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/lantana/#poda,como podar lantana,20,20,1,
+2,planta-poda,faq-or-table,/plantas/filodendro/#poda,como podar filodendro,10,20,2,
+2,planta-significado,faq-or-table,/plantas/kentia/#significado,kentia significado,20,20,1,sin promesas; tradicion popular
+2,planta-hojas-amarillas,faq-or-table,/plantas/aguacate/#hojas-amarillas,arbol de aguacate hojas secas,10,20,4,
+2,planta-reproducir,faq-or-table,/plantas/calendula/#como-reproducir,como reproducir calendula,20,20,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/calendula/#hojas-amarillas,calendula hojas amarillas,10,20,2,
+2,planta-poda,faq-or-table,/plantas/hibisco/#poda,como podar hibisco,20,20,3,
+2,planta-reproducir,faq-or-table,/plantas/maranta/#como-reproducir,como reproducir maranta,20,20,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/echeveria/#hojas-amarillas,echeveria hojas amarillas,20,20,2,
+2,planta-poda,faq-or-table,/plantas/mango/#poda,como podar arbol de mango,20,20,1,
+2,planta-poda,faq-or-table,/plantas/bromelia/#poda,como podar bromelia,10,10,1,
+2,planta-poda,faq-or-table,/plantas/planta-carnivora/#poda,como podar planta carnivora,10,10,3,
+2,planta-hojas-amarillas,faq-or-table,/plantas/cactus-de-navidad/#hojas-amarillas,cactus de navidad hojas amarillas,10,10,4,
+2,planta-poda,faq-or-table,/plantas/gardenia/#poda,como podar gardenia,10,10,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/crisantemo/#hojas-amarillas,crisantemo hojas amarillas,10,10,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/gerbera/#hojas-amarillas,gerbera hojas amarillas,10,10,2,
+2,planta-poda,faq-or-table,/plantas/gerbera/#poda,como podar gerbera,10,10,1,
+2,planta-poda,faq-or-table,/plantas/calathea/#poda,como podar calathea,10,10,1,
+2,planta-poda,faq-or-table,/plantas/lirio/#poda,como podar lirio,10,10,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/coleo/#hojas-amarillas,coleo hojas amarillas,10,10,4,
+2,planta-significado,faq-or-table,/plantas/ficus-lyrata/#significado,ficus lyrata significado,10,10,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/camelia/#poda,como podar camelia,10,10,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/margarita/#hojas-amarillas,margaritas hojas amarillas,10,10,4,
+2,planta-hojas-amarillas,faq-or-table,/plantas/violeta-africana/#hojas-amarillas,violeta africana hojas amarillas,10,10,2,
+2,planta-significado,faq-or-table,/plantas/ficus-benjamina/#significado,ficus benjamina significado,10,10,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/peperomia/#poda,como podar peperomia,10,10,1,
+2,planta-significado,faq-or-table,/plantas/citronela/#significado,citronela significado,10,10,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/tradescantia/#poda,como podar tradescantia,10,10,2,
+2,planta-poda,faq-or-table,/plantas/fresa/#poda,como podar fresas en maceta,10,10,2,
+2,planta-poda,faq-or-table,/plantas/croton/#poda,como podar croton,10,10,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/yuca/#hojas-amarillas,yuca planta hojas amarillas,10,10,4,
+2,planta-poda,faq-or-table,/plantas/alocasia/#poda,como podar alocasia,10,10,1,
+2,planta-significado,faq-or-table,/plantas/alocasia/#significado,alocasia significado,10,10,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/cilantro/#poda,como podar cilantro,10,10,1,
+2,planta-poda,faq-or-table,/plantas/singonio/#poda,como podar singonio,10,10,2,
+2,planta-significado,faq-or-table,/plantas/singonio/#significado,singonio significado,10,10,2,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/aglaonema/#poda,como podar aglaonema,10,10,1,
+2,planta-reproducir,faq-or-table,/plantas/tillandsia/#como-reproducir,como reproducir clavel del aire,10,10,4,
+2,planta-poda,faq-or-table,/plantas/calendula/#poda,como podar calendula,10,10,1,
+2,planta-poda,faq-or-table,/plantas/maranta/#poda,como podar maranta,10,10,1,
+2,planta-reproducir,faq-or-table,/plantas/pilea/#como-reproducir,como reproducir pilea,10,10,2,
+2,planta-significado,faq-or-table,/plantas/pilea/#significado,pilea significado,10,10,1,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/echeveria/#como-reproducir,como reproducir echeveria,10,10,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/plumeria/#hojas-amarillas,plumeria hojas amarillas,10,10,4,
+2,planta-poda,faq-or-table,/plantas/plumeria/#poda,como podar plumeria,10,10,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/agave/#hojas-amarillas,agave hojas amarillas,10,10,4,
+2,planta-poda,faq-or-table,/plantas/agave/#poda,como podar agave,10,10,2,
+2,planta-significado,faq-or-table,/plantas/arbol-de-la-felicidad/#significado,arbol de la felicidad significado,10,10,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/stevia/#poda,como podar stevia,10,10,1,
+2,planta-reproducir,faq-or-table,/plantas/tulipan/#como-reproducir,como reproducir tulipan,0,0,2,
+2,planta-poda,faq-or-table,/plantas/tulipan/#poda,como podar tulipan,0,0,1,
+2,planta-reproducir,faq-or-table,/plantas/bromelia/#como-reproducir,como reproducir bromelia,0,0,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/planta-carnivora/#hojas-amarillas,planta carnivora hojas amarillas,0,0,6,
+2,planta-poda,faq-or-table,/plantas/helecho/#poda,como podar helecho,0,0,1,
+2,planta-poda,faq-or-table,/plantas/ciclamen/#poda,como podar ciclamen,0,0,1,
+2,planta-reproducir,faq-or-table,/plantas/gerbera/#como-reproducir,como reproducir gerbera,0,0,2,
+2,planta-reproducir,faq-or-table,/plantas/lirio/#como-reproducir,como reproducir lirio,0,0,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/clavel/#hojas-amarillas,clavel hojas amarillas,0,0,4,
+2,planta-hojas-amarillas,faq-or-table,/plantas/pasto/#hojas-amarillas,pasto hojas amarillas,0,0,4,
+2,planta-poda,faq-or-table,/plantas/violeta-africana/#poda,como podar violeta africana,0,0,1,
+2,planta-poda,faq-or-table,/plantas/girasol/#poda,como podar girasol,0,0,1,
+2,planta-reproducir,faq-or-table,/plantas/fresa/#como-reproducir,como reproducir planta de fresa,0,0,4,
+2,planta-hojas-amarillas,faq-or-table,/plantas/fresa/#hojas-amarillas,planta de fresa hojas amarillas,0,0,4,
+2,planta-significado,faq-or-table,/plantas/fresa/#significado,planta de fresa significado,0,0,2,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/tomate/#como-reproducir,como reproducir tomatera,0,0,4,
+2,planta-reproducir,faq-or-table,/plantas/yuca/#como-reproducir,como reproducir yuca planta,0,0,4,
+2,planta-poda,faq-or-table,/plantas/yuca/#poda,como podar yuca planta,0,0,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/lantana/#hojas-amarillas,lantana hojas amarillas,0,0,2,
+2,planta-poda,faq-or-table,/plantas/cinta/#poda,como podar cinta,0,0,3,
+2,planta-hojas-amarillas,faq-or-table,/plantas/tillandsia/#hojas-amarillas,tillandsia hojas amarillas,0,0,4,
+2,planta-poda,faq-or-table,/plantas/tillandsia/#poda,como podar tillandsia,0,0,2,
+2,planta-reproducir,faq-or-table,/plantas/kentia/#como-reproducir,como reproducir kentia,0,0,2,
+2,planta-poda,faq-or-table,/plantas/kentia/#poda,como podar kentia,0,0,1,
+2,planta-reproducir,faq-or-table,/plantas/aguacate/#como-reproducir,como reproducir arbol de aguacate,0,0,4,
+2,planta-significado,faq-or-table,/plantas/aguacate/#significado,arbol de aguacate significado,0,0,2,sin promesas; tradicion popular
+2,planta-hojas-amarillas,faq-or-table,/plantas/nopal/#hojas-amarillas,nopal hojas amarillas,0,0,2,
+2,planta-poda,faq-or-table,/plantas/nopal/#poda,como podar nopal,0,0,1,
+2,planta-reproducir,faq-or-table,/plantas/helecho-de-boston/#como-reproducir,como reproducir helecho de boston,0,0,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/helecho-de-boston/#hojas-amarillas,helecho de boston hojas amarillas,0,0,2,
+2,planta-poda,faq-or-table,/plantas/helecho-de-boston/#poda,como podar helecho de boston,0,0,1,
+2,planta-tipos,faq-or-table,/plantas/helecho-de-boston/#tipos,tipos de helecho de boston,0,0,1,
+2,planta-significado,faq-or-table,/plantas/helecho-de-boston/#significado,helecho de boston significado,0,0,1,sin promesas; tradicion popular
+2,planta-poda,faq-or-table,/plantas/pilea/#poda,como podar pilea,0,0,1,
+2,planta-poda,faq-or-table,/plantas/echeveria/#poda,como podar echeveria,0,0,1,
+2,planta-reproducir,faq-or-table,/plantas/arbol-de-la-felicidad/#como-reproducir,como reproducir arbol de la felicidad,0,0,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/arbol-de-la-felicidad/#hojas-amarillas,arbol de la felicidad hojas amarillas,0,0,2,
+2,planta-poda,faq-or-table,/plantas/arbol-de-la-felicidad/#poda,como podar arbol de la felicidad,0,0,1,
+2,planta-tipos,faq-or-table,/plantas/arbol-de-la-felicidad/#tipos,tipos de arbol de la felicidad,0,0,1,
+2,planta-hojas-amarillas,faq-or-table,/plantas/cola-de-burro/#hojas-amarillas,cola de burro hojas amarillas,0,0,2,
+2,planta-poda,faq-or-table,/plantas/cola-de-burro/#poda,como podar cola de burro,0,0,1,
+2,planta-tipos,faq-or-table,/plantas/cola-de-burro/#tipos,tipos de cola de burro,0,0,1,
+2,planta-significado,faq-or-table,/plantas/cola-de-burro/#significado,cola de burro significado,0,0,1,sin promesas; tradicion popular
+2,planta-hojas-amarillas,faq-or-table,/plantas/musgo/#hojas-amarillas,musgo hojas amarillas,0,0,2,
+2,planta-poda,faq-or-table,/plantas/musgo/#poda,como podar musgo,0,0,1,
+2,planta-reproducir,faq-or-table,/plantas/mango/#como-reproducir,como reproducir arbol de mango,0,0,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/mango/#hojas-amarillas,arbol de mango hojas amarillas,0,0,2,
+2,planta-significado,faq-or-table,/plantas/mango/#significado,arbol de mango significado,0,0,1,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/manzanilla/#como-reproducir,como reproducir manzanilla planta,0,0,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/manzanilla/#hojas-amarillas,manzanilla planta hojas amarillas,0,0,2,
+2,planta-poda,faq-or-table,/plantas/manzanilla/#poda,como podar manzanilla planta,0,0,1,
+2,planta-significado,faq-or-table,/plantas/manzanilla/#significado,manzanilla planta significado,0,0,1,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/sabila-planta/#como-reproducir,como reproducir planta de sabila,0,0,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/sabila-planta/#hojas-amarillas,planta de sabila hojas amarillas,0,0,2,
+2,planta-poda,faq-or-table,/plantas/sabila-planta/#poda,como podar planta de sabila,0,0,1,
+2,planta-significado,faq-or-table,/plantas/sabila-planta/#significado,planta de sabila significado,0,0,1,sin promesas; tradicion popular
+2,planta-reproducir,faq-or-table,/plantas/cactus-san-pedro/#como-reproducir,como reproducir san pedro cactus,0,0,2,
+2,planta-hojas-amarillas,faq-or-table,/plantas/cactus-san-pedro/#hojas-amarillas,san pedro cactus hojas amarillas,0,0,2,
+2,planta-poda,faq-or-table,/plantas/cactus-san-pedro/#poda,como podar san pedro cactus,0,0,1,
+2,planta-tipos,faq-or-table,/plantas/cactus-san-pedro/#tipos,tipos de san pedro cactus,0,0,1,
+2,planta-significado,faq-or-table,/plantas/cactus-san-pedro/#significado,san pedro cactus significado,0,0,1,sin promesas; tradicion popular
+3,huerto,page,/huerto/huerto-urbano/,huerto urbano,8100,33180,59,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germinar-semilla-de-palta/,como germinar semilla de palta,3600,8040,16,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/calendario-de-siembra/,calendario de siembra,1600,3960,8,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germinar-la-semilla-de-mango/,como germinar la semilla de mango,1900,2960,6,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-plantar-hueso-de-aguacate/,como plantar hueso de aguacate,2400,2400,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germina-la-semilla-de-aguacate/,como germina la semilla de aguacate,1900,2270,3,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germinar-semilla-de-durazno/,como germinar semilla de durazno,1600,2040,4,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germinar-aguacate/,como germinar aguacate,1300,1670,3,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germinar-las-semillas-de-limon/,como germinar las semillas de limon,480,1050,11,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-sembrar-hueso-de-aguacate/,como sembrar hueso de aguacate,1000,1000,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germinar-las-semillas-de-tomate/,como germinar las semillas de tomate,590,920,3,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germinar-semilla-de-mandarina/,como germinar semilla de mandarina,720,900,5,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germinar-semilla-de-cereza/,como germinar semilla de cereza,880,880,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germinar-semilla-de-manzana/,como germinar semilla de manzana,880,880,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-sembrar-la-pepa-de-aguacate/,como sembrar la pepa de aguacate,880,880,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/que-sembrar-en-noviembre/,que sembrar en noviembre,480,820,6,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germinar-semilla-de-ciruela/,como germinar semilla de ciruela,390,780,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germina/,como germina,720,780,3,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germinar-la-semilla-de-uva/,como germinar la semilla de uva,720,720,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-sembrar-la-semilla-de-durazno/,como sembrar la semilla de durazno,720,720,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-plantar-semilla-de-manzana/,como plantar semilla de manzana,320,640,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-germinar-semilla-de-naranja/,como germinar semilla de naranja,590,590,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,page,/huerto/como-plantar-un-hueso-de-mango/,como plantar un hueso de mango,590,590,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-semilla-de-girasol,como germinar semilla de girasol,320,490,4,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#calendario-lunar-para-sembrar,calendario lunar para sembrar,480,480,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-kiwi,como germinar kiwi,210,450,3,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#que-plantar-en-noviembre,que plantar en noviembre,390,440,4,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#que-se-siembra-en-noviembre,que se siembra en noviembre,320,420,3,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-frutilla,como germinar frutilla,170,400,4,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#suhuertoencasa,suhuertoencasa,390,390,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-papa,como germinar papa,390,390,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-un-carozo-de-durazno,como germinar un carozo de durazno,260,370,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#cultivar-en-casa,cultivar en casa,320,340,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#mesa-huerto-urbano,mesa huerto urbano,170,340,3,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-urbano-ikea,huerto urbano ikea,320,320,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-urbano-lidl,huerto urbano lidl,320,320,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#calendario-de-siembra-de-hortalizas-y-verduras-pdf,calendario de siembra de hortalizas y verduras pdf,320,320,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-fresa,como germinar fresa,320,320,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-semillas-de-limon-en-4-dias,como germinar semillas de limón en 4 días,320,320,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-se-germina-una-semilla-de-palta,como se germina una semilla de palta,320,320,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-plantar-un-carozo-de-palta,como plantar un carozo de palta,140,320,7,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-jengibre,como germinar jengibre,260,290,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-semilla-de-pera,como germinar semilla de pera,210,280,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-urbano-elevado,huerto urbano elevado,260,260,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#calendario-lunar-de-siembra-del-hortelano-para-los-12-meses,calendario lunar de siembra del hortelano para los 12 meses,260,260,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-ajo,como germinar ajo,260,260,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-fresas-en-7-dias,como germinar fresas en 7 días,260,260,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-semilla-de-morron,como germinar semilla de morron,260,260,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-semilla-de-pimiento,como germinar semilla de pimiento,260,260,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-se-hace-un-germinador,como se hace un germinador,260,260,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#macetas-huerto-urbano,macetas huerto urbano,170,260,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-rosas,como germinar rosas,110,250,3,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-urbano-terraza,huerto urbano terraza,210,240,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-urbano-madera,huerto urbano madera,170,230,3,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-albahaca,como germinar albahaca,110,220,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-urbano-vertical,huerto urbano vertical,210,210,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#calendario-de-siembras-ordenado-por-fechas,calendario de siembras ordenado por fechas,210,210,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-semilla-de-durazno-en-15-dias,como germinar semilla de durazno en 15 días,210,210,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-se-germina-una-semilla-de-mango,como se germina una semilla de mango,140,190,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-se-hace-la-germinacion,como se hace la germinacion,170,170,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#calendario-plantaciones-huerto,calendario plantaciones huerto,140,140,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-pistacho,como germinar pistacho,140,140,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-elevado-madera,huerto elevado madera,140,140,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-semillas-de-lavanda,como germinar semillas de lavanda,90,140,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#que-se-puede-sembrar-en-octubre-y-noviembre,que se puede sembrar en octubre y noviembre,90,140,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-palta-en-agua,como germinar palta en agua,90,130,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-urbano-verdecora,huerto urbano verdecora,110,110,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#calendario-de-plantar,calendario de plantar,110,110,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-semilla-de-chia,como germinar semilla de chia,110,110,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-se-germina-una-semilla-de-durazno,como se germina una semilla de durazno,110,110,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#semillas-para-huerta-casera,semillas para huerta casera,110,110,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#siembra-lunar,siembra lunar,110,110,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#tierra-para-huerto-urbano,tierra para huerto urbano,90,110,2,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#calendario-siembra-huerto-pdf,calendario siembra huerto pdf,90,90,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-tomate-cherry,como germinar tomate cherry,90,90,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-urbano-balcon,huerto urbano balcon,90,90,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#substrato-huerto-urbano,substrato huerto urbano,90,90,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#mini-huerto-urbano,mini huerto urbano,70,70,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-hacer-germinacion-de-semillas,como hacer germinación de semillas,70,70,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-hacer-germinados-en-casa,como hacer germinados en casa,70,70,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-balcon-pequeno,huerto balcon pequeño,70,70,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-urbano-barato,huerto urbano barato,50,50,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-urbano-plastico,huerto urbano plastico,50,50,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#calendario-de-siembra-buenos-aires,calendario de siembra buenos aires,50,50,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#calendario-de-siembra-primavera-verano,calendario de siembra primavera verano,50,50,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-germinar-semilla-de-zanahoria,como germinar semilla de zanahoria,50,50,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#hortalia-huerto-urbano,hortalia huerto urbano,50,50,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-en-terraza-pequena,huerto en terraza pequeña,50,50,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-urbano-exterior,huerto urbano exterior,50,50,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-urbano-keter,huerto urbano keter,50,50,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#huerto-vertical-terraza,huerto vertical terraza,50,50,1,calendario por hemisferio (AR/CL al reves)
+3,huerto,faq-or-table,/huerto/#como-se-germina-una-semilla-de-limon,como se germina una semilla de limon,40,50,2,calendario por hemisferio (AR/CL al reves)

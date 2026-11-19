@@ -1,0 +1,221 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import { growingSeason, monthRange } from '../../lib/seasons.js';
+import { formatDate, petLabel, petVerdict, temperatureLine } from '../../lib/format.js';
+import { SITE_NAME } from '../../data/site.js';
+
+export async function getStaticPaths() {
+  const plants = await getCollection('plants');
+  return plants.map((plant) => ({ params: { slug: plant.id }, props: { plant } }));
+}
+
+interface Props { plant: CollectionEntry<'plants'> }
+const { plant } = Astro.props;
+const p = plant.data;
+const url = new URL(Astro.url.pathname, Astro.site).href;
+const season = growingSeason();
+const rest = { norte: monthRange(['otono', 'invierno'], 'norte'), sur: monthRange(['otono', 'invierno'], 'sur') };
+const pets = petVerdict(p.toxicity);
+const reviewed = formatDate(p.reviewed);
+const checked = formatDate(p.toxicity.checked);
+
+const quick = [
+  { icon: 'sun', label: 'Luz', value: p.care.light.short, href: '#luz' },
+  { icon: 'droplet', label: 'Riego', value: p.care.water.short, href: '#riego' },
+  { icon: 'thermometer', label: 'Temperatura', value: temperatureLine(p.care.temperature), href: '#temperatura' },
+  { icon: 'droplets', label: 'Humedad', value: p.care.humidity.short, href: '#humedad' },
+  { icon: 'layers', label: 'Sustrato', value: p.care.substrate.short, href: '#sustrato' },
+  { icon: 'sprout', label: 'Abono', value: p.care.fertilizer.short, href: '#abono' },
+];
+
+const jsonLd: Record<string, unknown>[] = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: p.title,
+    description: p.description,
+    inLanguage: 'es',
+    dateModified: p.reviewed,
+    mainEntityOfPage: url,
+    about: { '@type': 'Thing', name: p.name, alternateName: [p.scientific, ...p.synonyms] },
+    publisher: { '@type': 'Organization', name: SITE_NAME },
+    citation: p.sources.map((s) => s.url).concat(p.toxicity.aspcaUrl),
+  },
+  ...p.propagation.map((method) => ({
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    name: `Cómo reproducir ${p.name.toLowerCase()} ${method.method.toLowerCase()}`,
+    step: method.steps.map((text, index) => ({ '@type': 'HowToStep', position: index + 1, text })),
+  })),
+];
+if (p.faq.length) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: p.faq.map((item) => ({
+      '@type': 'Question',
+      name: item.q,
+      acceptedAnswer: { '@type': 'Answer', text: item.a },
+    })),
+  });
+}
+
+const crumbs = [
+  { name: 'Inicio', path: '/' },
+  { name: 'Plantas', path: '/plantas/' },
+  { name: p.name, path: `/plantas/${plant.id}/` },
+];
+---
+<Base title={p.title} description={p.description} crumbs={crumbs} jsonLd={jsonLd} ogType="article">
+  <article>
+    <header class="plant-head">
+      <h1>{p.name}: cuidados</h1>
+      <p class="names">
+        <em>{p.scientific}</em> · {p.family}
+        {p.synonyms.length > 0 && <><br />También llamada: {p.synonyms.join(', ')}</>}
+      </p>
+      <p class="lead">{p.summary}</p>
+      <p class="tags">
+        <span class="pill">Dificultad: {p.difficulty}</span>
+        <a class:list={['pill', pets.tone]} href="#mascotas">
+          <Icon name={pets.tone === 'ok' ? 'circle-check' : 'triangle-alert'} size={16} /> {pets.text}
+        </a>
+      </p>
+    </header>
+
+    <section class="card" aria-labelledby="resumen">
+      <h2 id="resumen" class="h-card">Ficha rápida de cuidados</h2>
+      <dl class="quick">
+        {quick.map((row) => (
+          <div>
+            <dt><Icon name={row.icon as never} size={18} /> {row.label}</dt>
+            <dd><a href={row.href}>{row.value}</a></dd>
+          </div>
+        ))}
+      </dl>
+    </section>
+
+    <h2 id="luz"><Icon name="sun" /> Luz</h2>
+    <p>{p.care.light.text}</p>
+
+    <h2 id="riego"><Icon name="droplet" /> Riego</h2>
+    <p>{p.care.water.text}</p>
+    <div class="table-scroll">
+      <table>
+        <thead><tr><th scope="col">Época</th><th scope="col">Hemisferio norte</th><th scope="col">Hemisferio sur</th><th scope="col">Riego</th></tr></thead>
+        <tbody>
+          <tr><th scope="row">Crecimiento (primavera y verano)</th><td>{season.norte}</td><td>{season.sur}</td><td>{p.care.water.growing}</td></tr>
+          <tr><th scope="row">Reposo (otoño e invierno)</th><td>{rest.norte}</td><td>{rest.sur}</td><td>{p.care.water.rest}</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="muted small">España, México y el resto del hemisferio norte frente a Argentina, Chile, Uruguay y el sur: las estaciones van al revés. En zonas tropicales manda más la época de lluvias que el calendario.</p>
+
+    <h2 id="temperatura"><Icon name="thermometer" /> Temperatura</h2>
+    <p>{p.care.temperature.text}</p>
+
+    <h2 id="humedad"><Icon name="droplets" /> Humedad</h2>
+    <p>{p.care.humidity.text}</p>
+
+    <h2 id="sustrato"><Icon name="layers" /> Sustrato y maceta</h2>
+    <p>{p.care.substrate.text}</p>
+    <p><strong>Maceta:</strong> {p.care.substrate.pot}</p>
+
+    <h2 id="abono"><Icon name="sprout" /> Abono</h2>
+    <p>{p.care.fertilizer.text}</p>
+
+    <h2 id="mascotas"><Icon name="cat" /> ¿Es tóxica para gatos y perros?</h2>
+    <div class:list={['pets', pets.tone]}>
+      <p class="pets-verdict"><Icon name={pets.tone === 'ok' ? 'circle-check' : 'triangle-alert'} /> {pets.text}</p>
+      <ul>
+        <li><Icon name="cat" size={18} /> Gatos: <strong>{petLabel(p.toxicity.cats)}</strong></li>
+        <li><Icon name="dog" size={18} /> Perros: <strong>{petLabel(p.toxicity.dogs)}</strong></li>
+      </ul>
+      {p.toxicity.principles && <p><strong>Sustancia tóxica:</strong> {p.toxicity.principles}.</p>}
+      {p.toxicity.signs && <p><strong>Síntomas posibles:</strong> {p.toxicity.signs}.</p>}
+      {pets.tone === 'bad' && <p>Si tu mascota ha mordido o comido la planta, llama a tu veterinario.</p>}
+      <p class="small">Fuente: <a href={p.toxicity.aspcaUrl} rel="noopener">ASPCA, «{p.toxicity.aspcaName}»</a>. Comprobado el {checked}.</p>
+    </div>
+
+    <h2 id="reproducir"><Icon name="scissors" /> Cómo reproducirla</h2>
+    {p.propagation.map((method) => (
+      <section class="card">
+        <h3>{method.method}</h3>
+        <p class="muted"><Icon name="calendar" size={18} /> {method.when}</p>
+        <ol class="steps">{method.steps.map((step) => <li>{step}</li>)}</ol>
+      </section>
+    ))}
+
+    <h2 id="problemas"><Icon name="triangle-alert" /> Problemas frecuentes</h2>
+    <div class="table-scroll stack">
+      <table>
+        <thead><tr><th scope="col">Qué ves</th><th scope="col">Causa probable</th><th scope="col">Qué hacer</th></tr></thead>
+        <tbody>
+          {p.problems.map((row) => (
+            <tr><th scope="row">{row.symptom}</th><td data-label="Causa probable">{row.cause}</td><td data-label="Qué hacer">{row.fix}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p class="muted small">Contra plagas, usa primero métodos suaves (limpiar, aislar, retirar a mano) y cualquier producto solo según las instrucciones de su etiqueta.</p>
+
+    {p.faq.length > 0 && (
+      <>
+        <h2 id="preguntas"><Icon name="info" /> Preguntas frecuentes</h2>
+        {p.faq.map((item) => (
+          <details class="faq">
+            <summary>{item.q}</summary>
+            <p>{item.a}</p>
+          </details>
+        ))}
+      </>
+    )}
+
+    <section class="sources" aria-labelledby="fuentes">
+      <h2 id="fuentes"><Icon name="book-open" /> Fuentes</h2>
+      <ul>
+        {p.sources.map((s) => <li><a href={s.url} rel="noopener">{s.name}</a></li>)}
+        <li><a href={p.toxicity.aspcaUrl} rel="noopener">ASPCA: Toxic and Non-Toxic Plants, «{p.toxicity.aspcaName}»</a></li>
+      </ul>
+      <p>Ficha revisada el {reviewed}. Origen: {p.origin}</p>
+    </section>
+  </article>
+</Base>
+
+<style>
+  .plant-head .names { margin: 0 0 0.6rem; color: var(--muted); }
+  .tags { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.8rem; }
+  .tags a.pill { text-decoration: none; }
+  .h-card { margin-top: 0; font-size: 1.2rem; }
+  .quick { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 0.6rem 1.25rem; margin: 0; }
+  .quick div { border-bottom: 1px dashed var(--line); padding-bottom: 0.5rem; }
+  .quick dt { font-weight: 700; color: var(--leaf-dark); font-size: 0.9rem; }
+  .quick dd { margin: 0.1rem 0 0; }
+  .quick dd a { color: var(--ink); text-decoration: none; }
+  .quick dd a:hover { text-decoration: underline; }
+  h2 .icon { color: var(--leaf); }
+  .small { font-size: 0.9rem; }
+  .pets { border-radius: var(--radius); padding: 1rem 1.15rem; }
+  .pets.ok { background: var(--ok-soft); }
+  .pets.bad { background: var(--bad-soft); }
+  .pets p { margin: 0.4rem 0; }
+  .pets ul { list-style: none; padding: 0; margin: 0.4rem 0; display: flex; flex-wrap: wrap; gap: 0.3rem 1.5rem; }
+  .pets-verdict { font-weight: 800; font-size: 1.2rem; }
+  .pets.ok .pets-verdict { color: var(--ok); }
+  .pets.bad .pets-verdict { color: var(--bad); }
+  .steps { margin: 0.5rem 0 0; padding-left: 1.3rem; display: grid; gap: 0.35rem; }
+  .faq { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 0.75rem 1rem; margin-block: 0.5rem; }
+  .faq summary { font-weight: 700; cursor: pointer; }
+  .faq p { margin: 0.5rem 0 0; }
+  tbody th { font-weight: 650; }
+  @media (max-width: 40rem) {
+    .stack thead { position: absolute; left: -999px; }
+    .stack tr, .stack th, .stack td { display: block; }
+    .stack tr { border-bottom: 1px solid var(--line); padding-block: 0.4rem; }
+    .stack tr:last-child { border-bottom: 0; }
+    .stack th, .stack td { border: 0; padding-block: 0.2rem; }
+    .stack td::before { content: attr(data-label) ': '; font-weight: 700; color: var(--leaf-dark); }
+  }
+</style>

@@ -1,0 +1,132 @@
+{
+  "name": "Sansevieria",
+  "synonyms": [
+    "lengua de suegra",
+    "espada de San Jorge",
+    "planta serpiente",
+    "Dracaena trifasciata"
+  ],
+  "scientific": "Dracaena trifasciata (antes Sansevieria trifasciata)",
+  "family": "Asparagaceae",
+  "origin": "África occidental tropical. En 2017 se reclasificó del género Sansevieria al género Dracaena tras análisis de ADN.",
+  "title": "Sansevieria (lengua de suegra): cuidados, riego y reproducción",
+  "description": "Cuidados de la sansevieria o lengua de suegra: luz, cada cuánto regarla, sustrato, cómo reproducirla por hojas o división y problemas frecuentes.",
+  "summary": "La sansevieria, también llamada lengua de suegra o espada de San Jorge, es una de las plantas de interior más resistentes. Aguanta poca luz y el aire seco de las casas. Su principal enemigo es el exceso de agua: el riego excesivo es una causa frecuente de pudrición de raíces.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Luz brillante; tolera poca luz",
+      "text": "Lo ideal es luz brillante y algo tamizada. Tolera rincones con poca luz, aunque allí crece más despacio y necesita menos agua. En verano, protégela del sol del mediodía: quema las hojas. Con más sol queda más compacta; en sombra estira hojas más altas."
+    },
+    "water": {
+      "short": "Solo cuando el sustrato esté seco",
+      "text": "Riega solo cuando el sustrato se haya secado: compruébalo metiendo un dedo, no riegues por calendario. Moja la tierra, no el centro de la roseta, y tira el agua que quede en el plato. Es mejor quedarse corto que pasarse.",
+      "growing": "Cada 2–4 semanas aproximadamente; más a menudo cuanta más luz reciba.",
+      "rest": "Cada 4–6 semanas, o casi nada si la habitación es fresca."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": 15,
+      "idealMaxC": 24,
+      "text": "Lo ideal son 15–24 °C. Mantenla lejos de corrientes de aire frío y de radiadores."
+    },
+    "humidity": {
+      "short": "Baja: no pulverizar",
+      "text": "Prefiere humedad baja, como la de una casa normal. No la pulverices y evita baños con mucho vapor. Le gusta que el aire circule, sin corrientes frías."
+    },
+    "substrate": {
+      "short": "Sustrato para cactus, muy drenante",
+      "text": "Usa sustrato para cactus y suculentas, o mezcla dos partes de sustrato universal con una parte de grava fina o arena gruesa. Trasplanta cuando raíces y hojas llenen la maceta; las raíces pueden llegar a romper macetas finas.",
+      "pot": "Con muchos agujeros de drenaje, solo un poco más grande que la anterior y pesada (barro o cerámica) para que las hojas altas no la vuelquen."
+    },
+    "fertilizer": {
+      "short": "Una vez al mes como máximo, en crecimiento",
+      "text": "No necesita mucho abono. En la época de crecimiento basta un abono líquido para plantas de interior o para cactus una vez al mes o cada dos meses, siguiendo la dosis de la etiqueta. En invierno, nada."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "saponinas",
+    "signs": "náuseas, vómitos y diarrea",
+    "aspcaName": "Snake Plant (Mother-in-Law’s Tongue)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/snake-plant",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por división",
+      "when": "En primavera, al trasplantar",
+      "steps": [
+        "Saca la planta de la maceta y separa los hijuelos o divide la mata en trozos.",
+        "Cada trozo debe tener hojas y raíces propias. Descarta las partes dañadas.",
+        "Planta cada trozo en sustrato para cactus y sujeta con una caña los que se tambaleen."
+      ]
+    },
+    {
+      "method": "Por esquejes de hoja",
+      "when": "En primavera o verano, con calor",
+      "steps": [
+        "Corta una hoja adulta por la base y divídela en trozos de unos 5 cm. Marca cuál es la parte de abajo de cada trozo.",
+        "Deja secar los cortes en un lugar seco durante uno o dos días, hasta que cicatricen.",
+        "Entierra la mitad de cada trozo, con la parte de abajo hacia el sustrato, en sustrato para esquejes ligeramente húmedo mezclado con grava.",
+        "Mantén calor suave (unos 18 °C en la base) y ten paciencia: tardan semanas en enraizar."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "La base se pudre y las hojas se caen o se tambalean",
+      "cause": "Pudrición de raíz por exceso de riego o por dejarla con agua en el plato.",
+      "fix": "Sácala de la maceta, corta lo podrido y trasplanta a sustrato seco para cactus. Si la base está perdida, salva hojas sanas como esquejes."
+    },
+    {
+      "symptom": "Las hojas altas se doblan",
+      "cause": "Muy poca luz; si toda la planta se inclina, puede haber pudrición de raíz.",
+      "fix": "Llévala a un sitio más luminoso y revisa la base y las raíces."
+    },
+    {
+      "symptom": "Hojas quemadas o con manchas claras secas",
+      "cause": "Sol directo fuerte, sobre todo al mediodía en verano.",
+      "fix": "Muévela a luz brillante sin sol del mediodía. Las manchas no desaparecen, pero las hojas nuevas saldrán sanas."
+    },
+    {
+      "symptom": "Bolitas blancas algodonosas o finas telarañas",
+      "cause": "Cochinilla algodonosa o araña roja (esta última, con calor y aire muy seco).",
+      "fix": "Limpia las hojas con un paño y aísla la planta. Si la plaga sigue, usa un producto para plantas de interior siguiendo la etiqueta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Los esquejes de hoja mantienen el borde amarillo?",
+      "a": "Normalmente no: los esquejes de hoja de variedades con borde amarillo o crema tienden a dar plantas totalmente verdes. Para conservar el borde, reprodúcela por división."
+    },
+    {
+      "q": "¿La sansevieria es tóxica para gatos y perros?",
+      "a": "Sí. Según la ASPCA es tóxica para perros y gatos: contiene saponinas y puede causar náuseas, vómitos y diarrea. Su savia también irrita la piel; usa guantes al cortarla."
+    },
+    {
+      "q": "¿Cada cuánto se riega una sansevieria?",
+      "a": "Solo cuando el sustrato esté seco: en la época de crecimiento suele ser cada 2–4 semanas, y en otoño e invierno cada 4–6 semanas o menos."
+    }
+  ],
+  "sources": [
+    {
+      "name": "RHS: How to grow sansevierias",
+      "url": "https://www.rhs.org.uk/plants/sansevieria/growing-guide"
+    },
+    {
+      "name": "Clemson HGIC: Exciting houseplant selections for beginners",
+      "url": "https://hgic.clemson.edu/exciting-houseplant-selections-for-beginners/"
+    },
+    {
+      "name": "UGA Extension: Snake plant, a striking and durable houseplant",
+      "url": "https://site.extension.uga.edu/forsyth/snake-plant-a-striking-and-durable-houseplant/"
+    },
+    {
+      "name": "NParks Singapur: Snake plant",
+      "url": "https://gardeningsg.nparks.gov.sg/gardening-resource-library/snake-plant/"
+    }
+  ]
+}

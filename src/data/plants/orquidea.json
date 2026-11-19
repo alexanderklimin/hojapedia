@@ -1,0 +1,116 @@
+{
+  "name": "Orquídea",
+  "synonyms": ["orquídea mariposa", "falenopsis", "Phalaenopsis"],
+  "scientific": "Phalaenopsis spp.",
+  "family": "Orchidaceae",
+  "origin": "Epífita tropical: en la naturaleza crece sobre ramas de árboles, no en tierra.",
+  "title": "Orquídea: cuidados, riego, luz y cómo hacer que vuelva a florecer",
+  "description": "Cómo cuidar una orquídea Phalaenopsis: luz, riego, temperatura, sustrato, qué hacer con la vara al terminar la floración y cómo lograr que vuelva a florecer.",
+  "summary": "La orquídea mariposa (Phalaenopsis) es la orquídea más vendida para interior. No vive en tierra sino en corteza: sus raíces necesitan aire, luz y agua sin encharcamiento. Con luz brillante sin sol directo de verano y un descenso de temperatura nocturna en otoño, vuelve a florecer cada año.",
+  "difficulty": "media",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Mucha luz, sin sol directo de verano",
+      "text": "Necesita luz brillante pero no el sol directo del verano, que quema las hojas. Una ventana al este es ideal; al sur o al oeste, con una cortina fina. En invierno puede estar junto a la ventana."
+    },
+    "water": {
+      "short": "Cuando la corteza esté casi seca",
+      "text": "Riega a fondo y espera a que la corteza esté casi seca antes de volver a regar: no debe secarse del todo ni quedar empapada. Vacía siempre el agua que quede en el cubremacetas. Riega por la mañana y no dejes agua en el centro de las hojas: provoca la pudrición del cogollo. Mejor con agua a temperatura ambiente, si puedes de lluvia.",
+      "growing": "Aproximadamente una vez por semana; más a menudo con calor seco.",
+      "rest": "Un poco menos: cada 10 días aproximadamente en casas frescas."
+    },
+    "temperature": {
+      "minC": 16,
+      "idealMinC": 16,
+      "idealMaxC": 30,
+      "text": "De día, 19–30 °C; de noche, 16–19 °C. Mantenla por encima de 16 °C y lejos de radiadores, estufas y corrientes de aire. Los cambios bruscos de temperatura hacen caer los botones florales."
+    },
+    "humidity": {
+      "short": "50–80 %",
+      "text": "Le gusta una humedad del 50 al 80 %. En casa, coloca la maceta sobre un plato ancho con grava húmeda, sin que el fondo toque el agua, y mantén el aire en movimiento para evitar hongos."
+    },
+    "substrate": {
+      "short": "Corteza para orquídeas, nunca tierra",
+      "text": "Usa sustrato de corteza específico para orquídeas. La tierra universal o de jardín las mata: asfixia las raíces. Trasplanta cada dos años aproximadamente, cuando la corteza empiece a deshacerse, mejor justo después de la floración. Quita las raíces muertas y no elijas una maceta mucho más grande.",
+      "pot": "Maceta transparente con agujeros, para que las raíces reciban luz y puedas ver cuándo regar."
+    },
+    "fertilizer": {
+      "short": "Abono para orquídeas, poco y a menudo",
+      "text": "Durante la época de crecimiento, abona poco pero con regularidad con un fertilizante para orquídeas, siguiendo la dosis de la etiqueta. Cada cuatro riegos, riega solo con agua para lavar las sales. En invierno, poco o nada."
+    }
+  },
+  "toxicity": {
+    "cats": "no-toxica",
+    "dogs": "no-toxica",
+    "aspcaName": "Phalaenopsis Orchid",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/phalaenopsis-orchid",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por keikis (hijuelos de la vara floral)",
+      "when": "Cuando el keiki tenga varias raíces sanas",
+      "steps": [
+        "A veces aparece una plantita (keiki) en un nudo de la vara floral. Déjala crecer unida a la madre.",
+        "Cuando tenga varias raíces buenas, sepárala con una tijera limpia.",
+        "Plántala en una maceta pequeña con corteza para orquídeas.",
+        "Al principio riega poco y pulveriza sus hojas a diario."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "No vuelve a florecer",
+      "cause": "Le falta el descenso de temperatura que activa la vara floral, o tiene poca luz.",
+      "fix": "Durante un mes, colócala en un sitio unos 5 °C más fresco (de noche, hacia 13 °C durante varias semanas de otoño) y con buena luz. Suele aparecer una vara nueva."
+    },
+    {
+      "symptom": "Raíces marrones, blandas o huecas",
+      "cause": "Pudrición por exceso de riego o corteza empapada y descompuesta.",
+      "fix": "Sácala de la maceta, corta las raíces podridas y trasplanta a corteza nueva. Riega solo cuando la corteza esté casi seca."
+    },
+    {
+      "symptom": "Raíces arrugadas y secas",
+      "cause": "Falta de riego: la corteza se seca del todo durante días.",
+      "fix": "Riega a fondo y no esperes a que la corteza esté totalmente seca."
+    },
+    {
+      "symptom": "Se caen los botones antes de abrir",
+      "cause": "Cambios bruscos de temperatura o corrientes de aire.",
+      "fix": "No la muevas mientras tenga botones y aléjala de puertas, radiadores y aire acondicionado."
+    },
+    {
+      "symptom": "El centro de las hojas se pudre",
+      "cause": "Agua estancada en el cogollo, sobre todo al regar por la tarde o noche.",
+      "fix": "Riega por la mañana y seca con papel el agua que quede entre las hojas."
+    },
+    {
+      "symptom": "Bolitas blancas algodonosas en hojas y raíces",
+      "cause": "Cochinilla algodonosa.",
+      "fix": "Retírala con un bastoncillo y vigila la planta. Si sigue, usa un producto apto para orquídeas siguiendo la etiqueta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Qué hago con la vara cuando se caen las flores?",
+      "a": "Córtala justo por encima del segundo nudo por debajo de las flores secas: puede salir una rama lateral con flores nuevas. Si la vara se pone amarilla y seca, córtala desde la base."
+    },
+    {
+      "q": "¿Corto las raíces que salen fuera de la maceta?",
+      "a": "No. Las raíces aéreas son normales en las orquídeas epífitas. No las cortes ni las entierres."
+    },
+    {
+      "q": "¿La orquídea es tóxica para gatos y perros?",
+      "a": "Según la ASPCA, la Phalaenopsis no es tóxica para perros, gatos ni caballos. Aun así, evita que la muerdan: el abono y los productos contra plagas sí pueden ser peligrosos."
+    },
+    {
+      "q": "¿Puedo regarla con cubitos de hielo?",
+      "a": "Las fuentes que consultamos recomiendan agua a temperatura ambiente. El frío del hielo no forma parte de sus cuidados recomendados."
+    }
+  ],
+  "sources": [
+    { "name": "RHS: How to grow Phalaenopsis (moth orchids)", "url": "https://www.rhs.org.uk/plants/phalaenopsis/growing-guide" },
+    { "name": "American Orchid Society: Phalaenopsis culture sheet", "url": "https://www.aos.org/orchid-care/care-sheets/phalaenopsis-culture-sheet" }
+  ]
+}

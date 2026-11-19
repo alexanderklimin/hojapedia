@@ -1,0 +1,12 @@
+{
+  // Статический сайт на Cloudflare Workers (static assets). Сборка: npm run build → dist/
+  // Домен ещё не куплен: routes добавить после «да» пользователя.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "hojapedia",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

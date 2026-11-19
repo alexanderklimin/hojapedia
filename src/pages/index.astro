@@ -1,0 +1,49 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import { SITE_NAME } from '../data/site.js';
+import { petVerdict } from '../lib/format.js';
+
+const plants = (await getCollection('plants')).sort((a, b) => a.data.name.localeCompare(b.data.name, 'es'));
+const jsonLd = [{ '@context': 'https://schema.org', '@type': 'WebSite', name: SITE_NAME, url: Astro.site?.href, inLanguage: 'es' }];
+---
+<Base
+  title="Hojapedia: cuidados de plantas de interior y jardín"
+  description="Guías claras para cuidar tus plantas: luz, riego, sustrato, plagas y si son tóxicas para gatos y perros. Con calendario para el hemisferio norte y sur."
+  jsonLd={jsonLd}
+>
+  <section class="hero">
+    <h1>Cuida tus plantas sin adivinar</h1>
+    <p class="lead">Fichas de cuidado con datos comprobados: cuánta luz necesitan, cuándo regarlas, qué sustrato usar, qué hacer si amarillean y si son seguras para gatos y perros.</p>
+    <ul class="promises">
+      <li><Icon name="book-open" size={18} /> Fuentes botánicas citadas en cada ficha</li>
+      <li><Icon name="cat" size={18} /> Toxicidad para mascotas según la ASPCA</li>
+      <li><Icon name="calendar" size={18} /> Épocas para el hemisferio norte y sur</li>
+    </ul>
+  </section>
+
+  <h2>Fichas de plantas</h2>
+  <ul class="plant-grid">
+    {plants.map((plant) => {
+      const pets = petVerdict(plant.data.toxicity);
+      return (
+        <li>
+          <a class="plant-link" href={`/plantas/${plant.id}/`}>
+            <strong>{plant.data.name}</strong>
+            <em>{plant.data.scientific}</em>
+            <span class:list={['pill', pets.tone]}>{pets.text}</span>
+          </a>
+        </li>
+      );
+    })}
+  </ul>
+  <p><a href="/plantas/">Ver todas las fichas <Icon name="chevron-right" size={18} /></a></p>
+</Base>
+
+<style>
+  .hero { background: var(--leaf-dark); color: #fff; border-radius: 24px; padding: 1.6rem 1.3rem; margin-top: 0.75rem; }
+  .hero h1 { margin-top: 0; }
+  .promises { list-style: none; padding: 0; margin: 1rem 0 0; display: grid; gap: 0.4rem; }
+  .promises li { display: flex; gap: 0.5rem; align-items: center; }
+</style>
