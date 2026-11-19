@@ -1,4 +1,5 @@
 ---
+import '@fontsource-variable/fraunces';
 import Icon from '../components/Icon.astro';
 import { SITE_NAME } from '../data/site.js';
 
@@ -67,7 +68,7 @@ if (crumbs.length > 1) {
     <header class="site-header">
       <div class="wrap bar">
         <a class="brand" href="/" aria-label={`${SITE_NAME}, inicio`}>
-          <span class="brand-mark"><Icon name="leaf" size={20} /></span>
+          <span class="brand-mark"><Icon name="leaf" size={18} /></span>
           <span>Hoja<span class="brand-accent">pedia</span></span>
         </a>
         <nav aria-label="Principal">
@@ -97,14 +98,20 @@ if (crumbs.length > 1) {
       <slot />
     </main>
     <footer class="site-footer">
-      <div class="wrap">
-        <p class="footer-brand"><Icon name="leaf" size={18} /> {SITE_NAME}</p>
-        <p>
-          Fichas de cuidado de plantas basadas en fuentes botánicas y universitarias, citadas en cada página.
-          La toxicidad para mascotas se comprueba en la base de datos de la ASPCA.
-        </p>
-        <p class="credits">Iconos: <a href="https://lucide.dev" rel="noopener">Lucide</a>.</p>
+      <div class="wrap footer-grid">
+        <div>
+          <p class="footer-brand"><Icon name="leaf" size={18} /> {SITE_NAME}</p>
+          <p>Fichas de cuidado de plantas con fuentes botánicas y universitarias citadas en cada página. Toxicidad para mascotas según la ASPCA.</p>
+        </div>
+        <nav class="footer-links" aria-label="Secciones">
+          <a href="/plantas/">Plantas</a>
+          <a href="/herramientas/buscador-de-plantas/">Buscador</a>
+          <a href="/plagas/">Plagas</a>
+          <a href="/sustratos-y-macetas/">Sustratos</a>
+          <a href="/abonos/">Abonos</a>
+        </nav>
       </div>
+      <p class="wrap credits">Iconos: <a href="https://lucide.dev" rel="noopener">Lucide</a>. Tipografía: Fraunces (SIL OFL).</p>
     </footer>
   </body>
 </html>
@@ -112,89 +119,135 @@ if (crumbs.length > 1) {
 <style is:global>
   :root {
     color-scheme: light;
-    --bg: #f6f8f1;
+    --bg: #f7f8f3;
     --surface: #ffffff;
     --ink: #1c2a1f;
-    --muted: #55645a;
-    --line: #dfe7d6;
+    --muted: #5d6b61;
+    --line: #e4eadf;
     --leaf: #1f6b3a;
     --leaf-dark: #154d29;
-    --leaf-soft: #e3f1e4;
-    --sun: #b06d00;
-    --sun-soft: #fff1d1;
+    --leaf-soft: #e5f2e6;
+    --sun: #9a5f00;
+    --sun-soft: #fff3d6;
     --water: #1d5f8a;
-    --water-soft: #e1eff8;
+    --water-soft: #e3f0f9;
+    --rose: #a8325e;
+    --rose-soft: #fbe8ef;
+    --sage: #2b6a5c;
+    --sage-soft: #e2f1ec;
+    --lilac: #5b3fa0;
+    --lilac-soft: #efeafa;
+    --soil: #7a5534;
+    --soil-soft: #f5ece2;
     --ok: #12703f;
     --ok-soft: #dcf4e5;
     --bad: #b3261e;
-    --bad-soft: #fde4e1;
+    --bad-soft: #fde8e5;
     --radius: 18px;
-    --shadow: 0 8px 24px rgb(30 60 35 / 8%);
+    --serif: 'Fraunces Variable', Georgia, 'Times New Roman', serif;
   }
   *, *::before, *::after { box-sizing: border-box; }
-  html { -webkit-text-size-adjust: 100%; }
+  html { -webkit-text-size-adjust: 100%; scroll-padding-top: 5rem; }
   body {
     margin: 0;
     background: var(--bg);
     color: var(--ink);
-    font: 1.0625rem/1.65 system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+    font: 1.0625rem/1.7 system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
   }
-  .wrap { width: min(100%, 58rem); margin-inline: auto; padding-inline: 1rem; }
-  a { color: var(--leaf); text-underline-offset: 0.15em; }
-  h1, h2, h3 { line-height: 1.2; letter-spacing: -0.01em; }
-  h1 { font-size: clamp(1.9rem, 6vw, 2.7rem); font-weight: 800; margin: 0.5rem 0; }
-  h2 { font-size: 1.45rem; font-weight: 750; margin: 2.25rem 0 0.7rem; color: var(--leaf-dark); }
-  h3 { font-size: 1.1rem; font-weight: 700; margin: 1.25rem 0 0.3rem; }
+  .wrap { width: min(100%, 68rem); margin-inline: auto; padding-inline: 1.25rem; }
+  a { color: var(--leaf); text-underline-offset: 0.18em; text-decoration-thickness: 1px; }
+  h1, h2, h3 { font-family: var(--serif); font-optical-sizing: auto; line-height: 1.15; letter-spacing: -0.01em; color: var(--ink); }
+  h1 { font-size: clamp(2.1rem, 6vw, 3.4rem); font-weight: 650; margin: 0.4rem 0 0.5rem; }
+  h2 { font-size: clamp(1.45rem, 3.5vw, 1.85rem); font-weight: 600; margin: 2.75rem 0 0.6rem; }
+  h3 { font-size: 1.2rem; font-weight: 600; margin: 1.25rem 0 0.3rem; }
+  p { margin: 0 0 1rem; }
   .icon { flex: none; vertical-align: -0.2em; }
-  .lead { font-size: 1.15rem; margin: 0.25rem 0 0; }
+  .lead { font-size: 1.2rem; color: #2f3d33; }
   .muted { color: var(--muted); }
+  .small { font-size: 0.9rem; }
+  .eyebrow { display: block; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--leaf); }
   .skip { position: absolute; left: -999px; }
   .skip:focus { left: 1rem; top: 0.5rem; background: var(--surface); padding: 0.5rem 0.75rem; z-index: 10; }
-  :focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
+  :focus-visible { outline: 3px solid #e2a400; outline-offset: 2px; }
 
-  .site-header { position: sticky; top: 0; z-index: 5; background: rgb(255 255 255 / 94%); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
-  .bar { display: flex; align-items: center; justify-content: space-between; gap: 1rem; min-height: 3.5rem; }
-  .brand { display: inline-flex; align-items: center; gap: 0.5rem; font-weight: 850; font-size: 1.25rem; color: var(--ink); text-decoration: none; }
+  .site-header { position: sticky; top: 0; z-index: 5; background: rgb(247 248 243 / 92%); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+  .bar { display: flex; align-items: center; justify-content: space-between; gap: 1rem; min-height: 3.75rem; }
+  .brand { display: inline-flex; align-items: center; gap: 0.5rem; font-family: var(--serif); font-weight: 650; font-size: 1.4rem; color: var(--ink); text-decoration: none; }
   .brand-accent { color: var(--leaf); }
-  .brand-mark { display: inline-grid; place-items: center; width: 2.1rem; height: 2.1rem; border-radius: 10px; color: #fff; background: var(--leaf); }
-  .bar nav { display: flex; gap: 0.25rem; }
-  .bar nav a { display: inline-flex; align-items: center; gap: 0.35rem; min-height: 2.5rem; padding: 0.3rem 0.75rem; border-radius: 999px; color: var(--ink); font-weight: 650; text-decoration: none; }
+  .brand-mark { display: inline-grid; place-items: center; width: 2rem; height: 2rem; border-radius: 50% 50% 50% 8px; color: #fff; background: var(--leaf); }
+  .bar nav { display: flex; gap: 0.15rem; }
+  .bar nav a { display: inline-flex; align-items: center; gap: 0.35rem; min-height: 2.5rem; padding: 0.3rem 0.8rem; border-radius: 999px; color: var(--ink); font-weight: 600; font-size: 0.95rem; text-decoration: none; }
+  .bar nav a .icon { color: var(--leaf); }
   .bar nav a:hover { background: var(--leaf-soft); }
-  .bar nav a[aria-current='page'] { background: var(--leaf); color: #fff; }
+  .bar nav a[aria-current='page'] { background: var(--leaf-soft); color: var(--leaf-dark); }
   @media (max-width: 40rem) {
-    .bar { flex-direction: column; align-items: stretch; gap: 0.4rem; padding-block: 0.5rem; }
+    .bar { flex-direction: column; align-items: stretch; gap: 0.25rem; padding-block: 0.5rem 0.35rem; }
     .bar .brand { align-self: center; }
     .bar nav { display: grid; grid-template-columns: repeat(4, 1fr); }
     .bar nav a { flex-direction: column; gap: 0.1rem; padding: 0.25rem 0.1rem; border-radius: 12px; font-size: 0.75rem; min-height: 3rem; justify-content: center; }
   }
 
-  main { padding-block: 0.75rem 3rem; }
-  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.2rem 0.5rem; list-style: none; margin: 0.5rem 0 0.5rem; padding: 0; font-size: 0.875rem; color: var(--muted); }
+  main { padding-block: 1rem 4rem; }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.2rem 0.5rem; list-style: none; margin: 0.25rem 0 0.5rem; padding: 0; font-size: 0.875rem; color: var(--muted); }
+  .crumbs a { color: var(--muted); }
   .crumbs li + li::before { content: '›'; margin-right: 0.5rem; }
 
-  .card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 1.1rem 1.2rem; margin-block: 1.1rem; box-shadow: var(--shadow); }
-  .pill { display: inline-flex; align-items: center; gap: 0.3rem; padding: 0.15rem 0.65rem; border-radius: 999px; font-size: 0.85rem; font-weight: 700; white-space: nowrap; background: var(--leaf-soft); color: var(--leaf-dark); }
+  .card { background: var(--surface); border-radius: var(--radius); padding: 1.25rem 1.4rem; margin-block: 1.25rem; }
+  .pill { display: inline-flex; align-items: center; gap: 0.3rem; padding: 0.2rem 0.7rem; border-radius: 999px; font-size: 0.85rem; font-weight: 650; white-space: nowrap; background: var(--leaf-soft); color: var(--leaf-dark); }
   .pill.ok { background: var(--ok-soft); color: var(--ok); }
   .pill.bad { background: var(--bad-soft); color: var(--bad); }
+  .button { display: inline-flex; align-items: center; gap: 0.45rem; min-height: 3rem; padding: 0.55rem 1.25rem; border-radius: 999px; background: var(--leaf); color: #fff; font-weight: 700; text-decoration: none; }
+  .button:hover { background: var(--leaf-dark); }
+  .button.ghost { background: transparent; color: var(--leaf-dark); box-shadow: inset 0 0 0 1.5px var(--leaf); }
+  .button.ghost:hover { background: var(--leaf-soft); }
 
-  .table-scroll { overflow-x: auto; border-radius: 14px; border: 1px solid var(--line); background: var(--surface); }
+  .table-scroll { overflow-x: auto; border-radius: 14px; background: var(--surface); }
   table { width: 100%; border-collapse: collapse; font-size: 0.975rem; }
-  th, td { text-align: left; padding: 0.65rem 0.8rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th, td { text-align: left; padding: 0.75rem 0.9rem; border-bottom: 1px solid var(--line); vertical-align: top; }
   tr:last-child td, tr:last-child th { border-bottom: 0; }
-  thead th { background: var(--leaf-soft); color: var(--leaf-dark); }
+  thead th { font-size: 0.8rem; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); font-weight: 700; }
 
+  /* Plant tiles (home, catalog, finder, guides) */
+  .tile-grid { display: grid; gap: 0.75rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr)); list-style: none; padding: 0; margin: 1rem 0 0; }
+  .tile { display: flex; align-items: center; gap: 0.85rem; height: 100%; padding: 0.8rem 0.9rem; background: var(--surface); border-radius: 16px; color: var(--ink); text-decoration: none; transition: transform 0.15s ease, background 0.15s ease; }
+  .tile:hover { transform: translateY(-2px); background: #fff; box-shadow: 0 8px 22px rgb(30 60 35 / 8%); }
+  .tile-body { display: flex; flex-direction: column; min-width: 0; }
+  .tile-body strong { font-family: var(--serif); font-size: 1.15rem; font-weight: 600; line-height: 1.2; }
+  .tile-meta { color: var(--muted); font-size: 0.875rem; line-height: 1.35; }
+  .tile-safe { display: inline-flex; align-items: center; gap: 0.25rem; margin-top: 0.2rem; color: var(--ok); font-size: 0.8rem; font-weight: 700; }
+  .avatar { display: inline-grid; place-items: center; flex: none; width: 3rem; height: 3rem; border-radius: 50% 50% 50% 14px; }
+  .avatar.lg { width: 4.5rem; height: 4.5rem; }
+  .g-flor { background: var(--rose-soft); color: var(--rose); }
+  .g-follaje { background: var(--leaf-soft); color: var(--leaf); }
+  .g-suculenta { background: var(--sage-soft); color: var(--sage); }
+  .g-aromatica { background: var(--lilac-soft); color: var(--lilac); }
+
+  /* Older grids still used by guides and lists */
   .plant-grid { display: grid; gap: 0.75rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr)); list-style: none; padding: 0; margin: 1rem 0 0; }
-  .plant-link { display: flex; flex-direction: column; gap: 0.2rem; height: 100%; padding: 0.9rem 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; color: var(--ink); text-decoration: none; box-shadow: var(--shadow); }
-  .plant-link:hover { border-color: var(--leaf); }
-  .plant-link strong { font-size: 1.1rem; }
+  .plant-link { display: flex; flex-direction: column; gap: 0.2rem; height: 100%; padding: 1rem 1.1rem; background: var(--surface); border-radius: 16px; color: var(--ink); text-decoration: none; }
+  .plant-link:hover { box-shadow: 0 8px 22px rgb(30 60 35 / 8%); }
+  .plant-link strong { font-family: var(--serif); font-size: 1.15rem; font-weight: 600; }
   .plant-link em { color: var(--muted); font-size: 0.9rem; }
   .plant-link .pill { align-self: flex-start; margin-top: 0.35rem; }
 
-  .sources { font-size: 0.925rem; color: var(--muted); }
+  .faq { border-bottom: 1px solid var(--line); padding: 0.9rem 0; }
+  .faq summary { font-weight: 650; cursor: pointer; list-style: none; display: flex; justify-content: space-between; gap: 1rem; }
+  .faq summary::-webkit-details-marker { display: none; }
+  .faq summary::after { content: '+'; color: var(--leaf); font-weight: 700; font-size: 1.3rem; line-height: 1; }
+  .faq[open] summary::after { content: '–'; }
+  .faq p { margin: 0.6rem 0 0; color: #2f3d33; }
+
+  .sources { font-size: 0.925rem; color: var(--muted); border-top: 1px solid var(--line); margin-top: 3rem; padding-top: 0.5rem; }
+  .sources h2 { font-size: 1.15rem; margin-top: 1rem; }
   .sources ul { padding-left: 1.2rem; margin: 0.4rem 0; }
-  .site-footer { margin-top: 1rem; background: var(--leaf-dark); color: #e4efe5; font-size: 0.925rem; padding-block: 1.5rem; }
-  .site-footer p { margin: 0.3rem 0; }
-  .footer-brand { display: flex; align-items: center; gap: 0.4rem; font-weight: 850; font-size: 1.1rem; color: #fff; }
-  .credits { font-size: 0.8rem; color: #bcd2bf; }
+  .site-footer { background: var(--leaf-dark); color: #dfece1; font-size: 0.925rem; padding-block: 2rem 1rem; }
+  .footer-grid { display: grid; gap: 1rem 3rem; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); }
+  @media (max-width: 40rem) { .footer-grid { grid-template-columns: 1fr; } }
+  .site-footer p { margin: 0.3rem 0; max-width: 34rem; }
+  .footer-brand { display: flex; align-items: center; gap: 0.4rem; font-family: var(--serif); font-weight: 650; font-size: 1.3rem; color: #fff; }
+  .footer-links { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 1rem; align-content: start; }
+  .footer-links a { color: #fff; min-height: 2.25rem; display: inline-flex; align-items: center; }
+  .credits { font-size: 0.8rem; color: #b6cdb9; margin-top: 1.25rem; }
   .credits a { color: inherit; }
+  @media (prefers-reduced-motion: reduce) { .tile { transition: none; } .tile:hover { transform: none; } }
 </style>

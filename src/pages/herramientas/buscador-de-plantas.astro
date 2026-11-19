@@ -2,8 +2,8 @@
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Icon from '../../components/Icon.astro';
+import PlantTile from '../../components/PlantTile.astro';
 import { isPetSafe } from '../../lib/finder.js';
-import { petVerdict } from '../../lib/format.js';
 
 const plants = (await getCollection('plants')).sort((a, b) => a.data.name.localeCompare(b.data.name, 'es'));
 const crumbs = [{ name: 'Inicio', path: '/' }, { name: 'Buscador de plantas', path: Astro.url.pathname }];
@@ -48,25 +48,17 @@ const jsonLd = [{
   </form>
 
   <p class="count" id="count" aria-live="polite">{plants.length} plantas</p>
-  <ul class="plant-grid" id="results">
-    {plants.map((p) => {
-      const pets = petVerdict(p.data.toxicity);
-      return (
-        <li
-          data-light={p.data.traits.light.join(' ')}
-          data-place={p.data.traits.place.join(' ')}
-          data-safe={isPetSafe(p.data) ? '1' : '0'}
-          data-difficulty={p.data.difficulty}
-        >
-          <a class="plant-link" href={`/plantas/${p.id}/`}>
-            <strong>{p.data.name}</strong>
-            <em>{p.data.scientific}</em>
-            <span class="muted"><Icon name="sun" size={14} /> {p.data.care.light.short}</span>
-            <span class:list={['pill', pets.tone]}>{pets.text}</span>
-          </a>
-        </li>
-      );
-    })}
+  <ul class="tile-grid" id="results">
+    {plants.map((p) => (
+      <li
+        data-light={p.data.traits.light.join(' ')}
+        data-place={p.data.traits.place.join(' ')}
+        data-safe={isPetSafe(p.data) ? '1' : '0'}
+        data-difficulty={p.data.difficulty}
+      >
+        <PlantTile plant={p} />
+      </li>
+    ))}
   </ul>
   <p class="empty" id="empty" hidden>Ninguna de nuestras fichas encaja con todos los filtros todavía. Prueba a quitar alguno: añadimos plantas nuevas con regularidad.</p>
 
@@ -105,8 +97,8 @@ const jsonLd = [{
   .finder { display: grid; gap: 0.75rem; }
   .finder fieldset { border: 0; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.35rem 0.5rem; }
   .finder legend { font-weight: 750; margin-bottom: 0.35rem; width: 100%; }
-  .finder label { display: inline-flex; align-items: center; gap: 0.4rem; min-height: 2.5rem; padding: 0.2rem 0.75rem; border: 1px solid var(--line); border-radius: 999px; background: var(--bg); cursor: pointer; }
+  .finder label { display: inline-flex; align-items: center; gap: 0.4rem; min-height: 2.5rem; padding: 0.2rem 0.85rem; border-radius: 999px; background: var(--bg); cursor: pointer; }
   .finder label:has(input:checked) { background: var(--leaf-soft); border-color: var(--leaf); }
   .count { font-weight: 750; margin-bottom: 0; }
-  .plant-grid li[hidden], .empty[hidden] { display: none; }
+  .tile-grid li[hidden], .empty[hidden] { display: none; }
 </style>

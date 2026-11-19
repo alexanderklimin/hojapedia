@@ -1,6 +1,10 @@
 {
   "name": "Aglaonema",
-  "synonyms": ["siempreverde chino", "aglonema", "Aglaonema modestum"],
+  "synonyms": [
+    "siempreverde chino",
+    "aglonema",
+    "Aglaonema modestum"
+  ],
   "scientific": "Aglaonema spp.",
   "family": "Araceae",
   "origin": "Zonas tropicales y subtropicales del Sudeste asiático y Nueva Guinea.",
@@ -9,7 +13,16 @@
   "summary": "La aglaonema, o siempreverde chino, es una de las plantas de interior que mejor aguantan la poca luz, con hojas verdes, plateadas o rosadas según la variedad. Quiere calor, riego regular sin encharcar y protección frente al frío y las corrientes de aire.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
-  "traits": { "light": ["semisombra", "sombra"], "place": ["interior"] },
+  "traits": {
+    "light": [
+      "semisombra",
+      "sombra"
+    ],
+    "place": [
+      "interior"
+    ],
+    "group": "follaje"
+  },
   "care": {
     "light": {
       "short": "Luz indirecta; tolera poca luz",
@@ -89,6 +102,9 @@
     }
   ],
   "sources": [
-    { "name": "NC State Extension: Aglaonema", "url": "https://plants.ces.ncsu.edu/plants/aglaonema/" }
+    {
+      "name": "NC State Extension: Aglaonema",
+      "url": "https://plants.ces.ncsu.edu/plants/aglaonema/"
+    }
   ]
 }

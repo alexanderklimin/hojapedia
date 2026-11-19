@@ -1,6 +1,10 @@
 {
   "name": "Peperomia",
-  "synonyms": ["peperomia obtusifolia", "planta de goma enana", "Peperomia obtusifolia"],
+  "synonyms": [
+    "peperomia obtusifolia",
+    "planta de goma enana",
+    "Peperomia obtusifolia"
+  ],
   "scientific": "Peperomia obtusifolia",
   "family": "Piperaceae",
   "origin": "América tropical.",
@@ -9,7 +13,16 @@
   "summary": "La peperomia obtusifolia es una planta compacta de hojas gruesas y brillantes, ideal para mesas y estanterías. Tolera meses de poca luz, sobre todo las variedades verdes, y su mayor enemigo es el exceso de riego. No es tóxica para gatos ni perros.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
-  "traits": { "light": ["semisombra", "sombra"], "place": ["interior"] },
+  "traits": {
+    "light": [
+      "semisombra",
+      "sombra"
+    ],
+    "place": [
+      "interior"
+    ],
+    "group": "follaje"
+  },
   "care": {
     "light": {
       "short": "Luz brillante indirecta; tolera poca luz",
@@ -83,6 +96,9 @@
     }
   ],
   "sources": [
-    { "name": "NC State Extension: Peperomia obtusifolia", "url": "https://plants.ces.ncsu.edu/plants/peperomia-obtusifolia/" }
+    {
+      "name": "NC State Extension: Peperomia obtusifolia",
+      "url": "https://plants.ces.ncsu.edu/plants/peperomia-obtusifolia/"
+    }
   ]
 }

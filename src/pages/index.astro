@@ -2,11 +2,22 @@
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import Icon from '../components/Icon.astro';
+import PlantTile from '../components/PlantTile.astro';
 import { SITE_NAME } from '../data/site.js';
-import { petVerdict } from '../lib/format.js';
+import { GROUPS } from '../data/groups.js';
 
 const plants = (await getCollection('plants')).sort((a, b) => a.data.name.localeCompare(b.data.name, 'es'));
+const byGroup = Object.entries(GROUPS)
+  .map(([key, group]) => ({ key, ...group, plants: plants.filter((p) => p.data.traits.group === key) }))
+  .filter((g) => g.plants.length > 0);
 const jsonLd = [{ '@context': 'https://schema.org', '@type': 'WebSite', name: SITE_NAME, url: Astro.site?.href, inLanguage: 'es' }];
+const starts = [
+  { href: '/listas/plantas-de-interior-poca-luz/', icon: 'sun-dim', text: 'Tengo poca luz' },
+  { href: '/listas/plantas-toxicas-para-gatos-y-perros/', icon: 'paw-print', text: 'Tengo gato o perro' },
+  { href: '/plagas/cochinilla/', icon: 'bug', text: 'Tiene bolitas blancas' },
+  { href: '/plagas/pulgones/', icon: 'bug', text: 'Tiene pulgones' },
+  { href: '/sustratos-y-macetas/tierra-para-plantas/', icon: 'layers', text: '¿Qué tierra uso?' },
+];
 ---
 <Base
   title="Hojapedia: cuidados de plantas de interior y jardín"
@@ -14,45 +25,57 @@ const jsonLd = [{ '@context': 'https://schema.org', '@type': 'WebSite', name: SI
   jsonLd={jsonLd}
 >
   <section class="hero">
-    <h1>Cuida tus plantas sin adivinar</h1>
-    <p class="lead">Fichas de cuidado con datos comprobados: cuánta luz necesitan, cuándo regarlas, qué sustrato usar, qué hacer si amarillean y si son seguras para gatos y perros.</p>
-    <ul class="promises">
-      <li><Icon name="book-open" size={18} /> Fuentes botánicas citadas en cada ficha</li>
-      <li><Icon name="cat" size={18} /> Toxicidad para mascotas según la ASPCA</li>
-      <li><Icon name="calendar" size={18} /> Épocas para el hemisferio norte y sur</li>
+    <div>
+      <span class="eyebrow">Cuidados de plantas, con fuentes</span>
+      <h1>Cuida tus plantas<br />sin adivinar</h1>
+      <p class="lead">Cuánta luz necesitan, cuándo regarlas, qué sustrato usar y si son seguras para tu gato o tu perro. Datos comprobados, sin rodeos.</p>
+      <p class="hero-actions">
+        <a class="button" href="/herramientas/buscador-de-plantas/"><Icon name="search" size={18} /> ¿Qué planta me conviene?</a>
+        <a class="button ghost" href="/plantas/">Ver todas las fichas</a>
+      </p>
+    </div>
+    <ul class="hero-art" aria-hidden="true">
+      <li class="avatar g-flor"><Icon name="flower-2" size={34} /></li>
+      <li class="avatar g-follaje"><Icon name="leaf" size={34} /></li>
+      <li class="avatar g-suculenta"><Icon name="cactus" size={34} /></li>
+      <li class="avatar g-aromatica"><Icon name="leafy-green" size={34} /></li>
     </ul>
   </section>
 
-  <h2>Fichas de plantas</h2>
-  <ul class="plant-grid">
-    {plants.map((plant) => {
-      const pets = petVerdict(plant.data.toxicity);
-      return (
-        <li>
-          <a class="plant-link" href={`/plantas/${plant.id}/`}>
-            <strong>{plant.data.name}</strong>
-            <em>{plant.data.scientific}</em>
-            <span class:list={['pill', pets.tone]}>{pets.text}</span>
-          </a>
-        </li>
-      );
-    })}
+  <ul class="trust">
+    <li><Icon name="book-open" size={18} /> Fuentes botánicas en cada ficha</li>
+    <li><Icon name="paw-print" size={18} /> Toxicidad según la ASPCA</li>
+    <li><Icon name="calendar" size={18} /> Hemisferio norte y sur</li>
   </ul>
-  <p><a href="/plantas/">Ver todas las fichas <Icon name="chevron-right" size={18} /></a></p>
 
-  <h2>Guías</h2>
-  <ul class="plant-grid">
-    <li><a class="plant-link" href="/herramientas/buscador-de-plantas/"><strong><Icon name="search" size={18} /> ¿Qué planta me conviene?</strong><span class="muted">Buscador por luz, lugar y mascotas</span></a></li>
-    <li><a class="plant-link" href="/listas/plantas-toxicas-para-gatos-y-perros/"><strong><Icon name="cat" size={18} /> Plantas tóxicas para gatos y perros</strong><span class="muted">Cuáles son seguras y cuáles no, según la ASPCA</span></a></li>
-    <li><a class="plant-link" href="/plagas/"><strong><Icon name="bug" size={18} /> Plagas</strong><span class="muted">Pulgones, cochinilla y cómo controlarlas con poco riesgo</span></a></li>
-    <li><a class="plant-link" href="/sustratos-y-macetas/"><strong><Icon name="layers" size={18} /> Sustratos y macetas</strong><span class="muted">Qué tierra usar, perlita y mezclas</span></a></li>
-    <li><a class="plant-link" href="/abonos/"><strong><Icon name="sprout" size={18} /> Abonos</strong><span class="muted">Humus de lombriz y cómo abonar</span></a></li>
+  <h2>Empieza por lo que te pasa</h2>
+  <ul class="chips">
+    {starts.map((s) => <li><a href={s.href}><Icon name={s.icon as never} size={18} /> {s.text}</a></li>)}
   </ul>
+
+  {byGroup.map((g) => (
+    <section>
+      <h2>{g.label}</h2>
+      <ul class="tile-grid">{g.plants.map((p) => <li><PlantTile plant={p} /></li>)}</ul>
+    </section>
+  ))}
 </Base>
 
 <style>
-  .hero { background: var(--leaf-dark); color: #fff; border-radius: 24px; padding: 1.6rem 1.3rem; margin-top: 0.75rem; }
-  .hero h1 { margin-top: 0; }
-  .promises { list-style: none; padding: 0; margin: 1rem 0 0; display: grid; gap: 0.4rem; }
-  .promises li { display: flex; gap: 0.5rem; align-items: center; }
+  .hero { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2rem; align-items: center; padding-block: 2rem 1rem; }
+  .hero h1 { font-size: clamp(2.4rem, 7vw, 4.2rem); margin-top: 0.5rem; }
+  .hero .lead { max-width: 36rem; }
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.5rem; }
+  .hero-art { display: grid; grid-template-columns: repeat(2, 5.5rem); gap: 0.9rem; list-style: none; padding: 0; margin: 0; }
+  .hero-art .avatar { width: 5.5rem; height: 5.5rem; }
+  .hero-art li:nth-child(2) { transform: translateY(1.5rem); }
+  .hero-art li:nth-child(4) { transform: translateY(1.5rem); }
+  @media (max-width: 44rem) { .hero { grid-template-columns: 1fr; } .hero-art { display: none; } }
+  .trust { display: flex; flex-wrap: wrap; gap: 0.5rem 1.75rem; list-style: none; padding: 1rem 0; margin: 0; border-block: 1px solid var(--line); color: var(--muted); font-size: 0.95rem; }
+  .trust li { display: inline-flex; align-items: center; gap: 0.45rem; }
+  .trust .icon { color: var(--leaf); }
+  .chips { display: flex; flex-wrap: wrap; gap: 0.5rem; list-style: none; padding: 0; margin: 0.75rem 0 0; }
+  .chips a { display: inline-flex; align-items: center; gap: 0.45rem; min-height: 2.75rem; padding: 0.35rem 1rem; border-radius: 999px; background: var(--surface); color: var(--ink); font-weight: 600; text-decoration: none; }
+  .chips a .icon { color: var(--leaf); }
+  .chips a:hover { background: var(--leaf-soft); }
 </style>

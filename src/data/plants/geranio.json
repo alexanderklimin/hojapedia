@@ -20,7 +20,8 @@
     ],
     "place": [
       "exterior"
-    ]
+    ],
+    "group": "flor"
   },
   "care": {
     "light": {

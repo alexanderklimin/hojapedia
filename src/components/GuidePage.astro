@@ -2,6 +2,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import Icon from './Icon.astro';
+import PlantTile from './PlantTile.astro';
 import { GUIDE_SECTIONS, plantsForGuide } from '../lib/related.js';
 import { formatDate } from '../lib/format.js';
 import { SITE_NAME } from '../data/site.js';
@@ -48,7 +49,7 @@ const crumbs = [
 ];
 ---
 <Base title={g.title} description={g.description} crumbs={crumbs} jsonLd={jsonLd} ogType="article">
-  <article>
+  <article class="guide">
     <h1>{g.name}</h1>
     {g.synonyms.length > 0 && <p class="muted">Otros nombres: {g.synonyms.join(', ')}</p>}
     <p class="lead">{g.summary}</p>
@@ -75,17 +76,13 @@ const crumbs = [
     {plants.length > 0 && (
       <section>
         <h2 id="plantas">{relatedHeading}</h2>
-        <ul class="plant-grid">
-          {plants.map((plant) => (
-            <li><a class="plant-link" href={`/plantas/${plant.id}/`}><strong>{plant.data.name}</strong><em>{plant.data.scientific}</em></a></li>
-          ))}
-        </ul>
+        <ul class="tile-grid">{plants.map((plant) => <li><PlantTile plant={plant} /></li>)}</ul>
       </section>
     )}
 
     {g.faq.length > 0 && (
       <>
-        <h2 id="preguntas"><Icon name="info" /> Preguntas frecuentes</h2>
+        <h2 id="preguntas">Preguntas frecuentes</h2>
         {g.faq.map((item) => (
           <details class="faq"><summary>{item.q}</summary><p>{item.a}</p></details>
         ))}
@@ -93,7 +90,7 @@ const crumbs = [
     )}
 
     <section class="sources" aria-labelledby="fuentes">
-      <h2 id="fuentes"><Icon name="book-open" /> Fuentes</h2>
+      <h2 id="fuentes">Fuentes</h2>
       <ul>{g.sources.map((s) => <li><a href={s.url} rel="noopener">{s.name}</a></li>)}</ul>
       <p>Revisado el {formatDate(g.reviewed)}.</p>
     </section>
@@ -101,10 +98,8 @@ const crumbs = [
 </Base>
 
 <style>
+  .guide { max-width: 46rem; }
   .toc ol { margin: 0.4rem 0 0; padding-left: 1.3rem; }
   .guide-list { display: grid; gap: 0.45rem; padding-left: 1.3rem; }
   .notice { background: var(--sun-soft); border-radius: 14px; padding: 0.8rem 1rem; }
-  .faq { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 0.75rem 1rem; margin-block: 0.5rem; }
-  .faq summary { font-weight: 700; cursor: pointer; }
-  .faq p { margin: 0.5rem 0 0; }
 </style>

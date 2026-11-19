@@ -6,6 +6,7 @@ import { growingSeason, monthRange } from '../../lib/seasons.js';
 import { formatDate, petLabel, petVerdict, temperatureLine } from '../../lib/format.js';
 import { SITE_NAME } from '../../data/site.js';
 import { guidesForPlant, guidePath } from '../../lib/related.js';
+import { GROUPS } from '../../data/groups.js';
 
 export async function getStaticPaths() {
   const plants = await getCollection('plants');
@@ -23,13 +24,19 @@ const reviewed = formatDate(p.reviewed);
 const checked = formatDate(p.toxicity.checked);
 const guides = (await getCollection('guides')).filter((g) => guidesForPlant(p, [g.data]).length > 0);
 
+const group = GROUPS[p.traits.group];
 const quick = [
-  { icon: 'sun', label: 'Luz', value: p.care.light.short, href: '#luz' },
-  { icon: 'droplet', label: 'Riego', value: p.care.water.short, href: '#riego' },
-  { icon: 'thermometer', label: 'Temperatura', value: temperatureLine(p.care.temperature), href: '#temperatura' },
-  { icon: 'droplets', label: 'Humedad', value: p.care.humidity.short, href: '#humedad' },
-  { icon: 'layers', label: 'Sustrato', value: p.care.substrate.short, href: '#sustrato' },
-  { icon: 'sprout', label: 'Abono', value: p.care.fertilizer.short, href: '#abono' },
+  { icon: 'sun', label: 'Luz', value: p.care.light.short, href: '#luz', tone: 'sun' },
+  { icon: 'droplet', label: 'Riego', value: p.care.water.short, href: '#riego', tone: 'water' },
+  { icon: 'thermometer', label: 'Temperatura', value: temperatureLine(p.care.temperature), href: '#temperatura', tone: 'rose' },
+  { icon: 'droplets', label: 'Humedad', value: p.care.humidity.short, href: '#humedad', tone: 'water' },
+  { icon: 'layers', label: 'Sustrato', value: p.care.substrate.short, href: '#sustrato', tone: 'soil' },
+  { icon: 'sprout', label: 'Abono', value: p.care.fertilizer.short, href: '#abono', tone: 'leaf' },
+];
+const toc = [
+  ['luz', 'Luz'], ['riego', 'Riego'], ['temperatura', 'Temperatura y humedad'], ['sustrato', 'Sustrato y abono'],
+  ['mascotas', '¿Es tóxica?'], ['reproducir', 'Reproducción'], ['problemas', 'Problemas'],
+  ...(p.faq.length ? [['preguntas', 'Preguntas']] : []), ['fuentes', 'Fuentes'],
 ];
 
 const jsonLd: Record<string, unknown>[] = [
@@ -73,158 +80,191 @@ const crumbs = [
 <Base title={p.title} description={p.description} crumbs={crumbs} jsonLd={jsonLd} ogType="article">
   <article>
     <header class="plant-head">
-      <h1>{p.name}: cuidados</h1>
-      <p class="names">
-        <em>{p.scientific}</em> · {p.family}
-        {p.synonyms.length > 0 && <><br />También llamada: {p.synonyms.join(', ')}</>}
-      </p>
-      <p class="lead">{p.summary}</p>
-      <p class="tags">
-        <span class="pill">Dificultad: {p.difficulty}</span>
-        <a class:list={['pill', pets.tone]} href="#mascotas">
-          <Icon name={pets.tone === 'ok' ? 'circle-check' : 'triangle-alert'} size={16} /> {pets.text}
-        </a>
-      </p>
+      <span class:list={['avatar', 'lg', `g-${p.traits.group}`]} title={group.label}><Icon name={group.icon as never} size={34} /></span>
+      <div>
+        <span class="eyebrow">Ficha de cuidados</span>
+        <h1>{p.name}: cuidados</h1>
+        <p class="names"><em>{p.scientific}</em> · {p.family}{p.synonyms.length > 0 && <> · también {p.synonyms.filter((s) => s !== p.scientific).slice(0, 3).join(', ')}</>}</p>
+      </div>
     </header>
+    <p class="lead">{p.summary}</p>
+    <p class="tags">
+      <span class="pill">Dificultad: {p.difficulty}</span>
+      <a class:list={['pill', pets.tone]} href="#mascotas"><Icon name={pets.tone === 'ok' ? 'paw-print' : 'triangle-alert'} size={15} /> {pets.text}</a>
+    </p>
 
-    <section class="card" aria-labelledby="resumen">
-      <h2 id="resumen" class="h-card">Ficha rápida de cuidados</h2>
-      <dl class="quick">
+    <section aria-labelledby="resumen">
+      <h2 id="resumen" class="visually-hidden">Resumen de cuidados</h2>
+      <ul class="quick">
         {quick.map((row) => (
-          <div>
-            <dt><Icon name={row.icon as never} size={18} /> {row.label}</dt>
-            <dd><a href={row.href}>{row.value}</a></dd>
-          </div>
+          <li>
+            <a class:list={['quick-tile', `t-${row.tone}`]} href={row.href}>
+              <span class="quick-icon"><Icon name={row.icon as never} size={20} /></span>
+              <span class="quick-label">{row.label}</span>
+              <span class="quick-value">{row.value}</span>
+            </a>
+          </li>
         ))}
-      </dl>
+      </ul>
     </section>
 
-    <h2 id="luz"><Icon name="sun" /> Luz</h2>
-    <p>{p.care.light.text}</p>
+    <div class="layout">
+      <div class="prose">
+        <h2 id="luz">Luz</h2>
+        <p>{p.care.light.text}</p>
 
-    <h2 id="riego"><Icon name="droplet" /> Riego</h2>
-    <p>{p.care.water.text}</p>
-    <div class="table-scroll stack">
-      <table>
-        <thead><tr><th scope="col">Época</th><th scope="col">Hemisferio norte</th><th scope="col">Hemisferio sur</th><th scope="col">Riego</th></tr></thead>
-        <tbody>
-          <tr><th scope="row">Crecimiento (primavera y verano)</th><td data-label="Hemisferio norte">{season.norte}</td><td data-label="Hemisferio sur">{season.sur}</td><td data-label="Riego">{p.care.water.growing}</td></tr>
-          <tr><th scope="row">Reposo (otoño e invierno)</th><td data-label="Hemisferio norte">{rest.norte}</td><td data-label="Hemisferio sur">{rest.sur}</td><td data-label="Riego">{p.care.water.rest}</td></tr>
-        </tbody>
-      </table>
-    </div>
-    <p class="muted small">España, México y el resto del hemisferio norte frente a Argentina, Chile, Uruguay y el sur: las estaciones van al revés. En zonas tropicales manda más la época de lluvias que el calendario.</p>
+        <h2 id="riego">Riego</h2>
+        <p>{p.care.water.text}</p>
+        <div class="table-scroll stack">
+          <table>
+            <thead><tr><th scope="col">Época</th><th scope="col">Hemisferio norte</th><th scope="col">Hemisferio sur</th><th scope="col">Riego</th></tr></thead>
+            <tbody>
+              <tr><th scope="row">Primavera y verano</th><td data-label="Hemisferio norte">{season.norte}</td><td data-label="Hemisferio sur">{season.sur}</td><td data-label="Riego">{p.care.water.growing}</td></tr>
+              <tr><th scope="row">Otoño e invierno</th><td data-label="Hemisferio norte">{rest.norte}</td><td data-label="Hemisferio sur">{rest.sur}</td><td data-label="Riego">{p.care.water.rest}</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="muted small">España, México y el resto del hemisferio norte frente a Argentina, Chile, Uruguay y el sur: las estaciones van al revés. En zonas tropicales manda más la época de lluvias que el calendario.</p>
 
-    <h2 id="temperatura"><Icon name="thermometer" /> Temperatura</h2>
-    <p>{p.care.temperature.text}</p>
+        <h2 id="temperatura">Temperatura y humedad</h2>
+        <p>{p.care.temperature.text}</p>
+        <p>{p.care.humidity.text}</p>
 
-    <h2 id="humedad"><Icon name="droplets" /> Humedad</h2>
-    <p>{p.care.humidity.text}</p>
+        <h2 id="sustrato">Sustrato, maceta y abono</h2>
+        <p>{p.care.substrate.text}</p>
+        <p><strong>Maceta:</strong> {p.care.substrate.pot}</p>
+        <p><strong>Abono:</strong> {p.care.fertilizer.text}</p>
 
-    <h2 id="sustrato"><Icon name="layers" /> Sustrato y maceta</h2>
-    <p>{p.care.substrate.text}</p>
-    <p><strong>Maceta:</strong> {p.care.substrate.pot}</p>
+        <h2 id="mascotas">¿Es tóxica para gatos y perros?</h2>
+        <div class:list={['pets', pets.tone]}>
+          <p class="pets-verdict"><Icon name={pets.tone === 'ok' ? 'paw-print' : 'triangle-alert'} /> {pets.text}</p>
+          <ul>
+            <li><Icon name="cat" size={18} /> Gatos: <strong>{petLabel(p.toxicity.cats)}</strong></li>
+            <li><Icon name="dog" size={18} /> Perros: <strong>{petLabel(p.toxicity.dogs)}</strong></li>
+          </ul>
+          {p.toxicity.principles && <p><strong>Sustancia tóxica:</strong> {p.toxicity.principles}.</p>}
+          {p.toxicity.signs && <p><strong>Síntomas posibles:</strong> {p.toxicity.signs}.</p>}
+          {pets.tone === 'bad' && <p>Si tu mascota ha mordido o comido la planta, llama a tu veterinario.</p>}
+          <p class="small">Fuente: <a href={p.toxicity.aspcaUrl} rel="noopener">ASPCA, «{p.toxicity.aspcaName}»</a>, comprobado el {checked}. <a href="/listas/plantas-toxicas-para-gatos-y-perros/">Ver todas las plantas tóxicas y seguras</a>.</p>
+        </div>
 
-    <h2 id="abono"><Icon name="sprout" /> Abono</h2>
-    <p>{p.care.fertilizer.text}</p>
+        <h2 id="reproducir">Cómo reproducirla</h2>
+        {p.propagation.map((method) => (
+          <section class="method">
+            <h3>{method.method}</h3>
+            <p class="muted small"><Icon name="calendar" size={16} /> {method.when}</p>
+            <ol class="steps">{method.steps.map((step) => <li>{step}</li>)}</ol>
+          </section>
+        ))}
 
-    <h2 id="mascotas"><Icon name="cat" /> ¿Es tóxica para gatos y perros?</h2>
-    <div class:list={['pets', pets.tone]}>
-      <p class="pets-verdict"><Icon name={pets.tone === 'ok' ? 'circle-check' : 'triangle-alert'} /> {pets.text}</p>
-      <ul>
-        <li><Icon name="cat" size={18} /> Gatos: <strong>{petLabel(p.toxicity.cats)}</strong></li>
-        <li><Icon name="dog" size={18} /> Perros: <strong>{petLabel(p.toxicity.dogs)}</strong></li>
-      </ul>
-      {p.toxicity.principles && <p><strong>Sustancia tóxica:</strong> {p.toxicity.principles}.</p>}
-      {p.toxicity.signs && <p><strong>Síntomas posibles:</strong> {p.toxicity.signs}.</p>}
-      {pets.tone === 'bad' && <p>Si tu mascota ha mordido o comido la planta, llama a tu veterinario.</p>}
-      <p class="small">Fuente: <a href={p.toxicity.aspcaUrl} rel="noopener">ASPCA, «{p.toxicity.aspcaName}»</a>. Comprobado el {checked}.</p>
-      <p class="small"><a href="/listas/plantas-toxicas-para-gatos-y-perros/">Ver todas las plantas tóxicas y seguras para gatos y perros</a></p>
-    </div>
-
-    <h2 id="reproducir"><Icon name="scissors" /> Cómo reproducirla</h2>
-    {p.propagation.map((method) => (
-      <section class="card">
-        <h3>{method.method}</h3>
-        <p class="muted"><Icon name="calendar" size={18} /> {method.when}</p>
-        <ol class="steps">{method.steps.map((step) => <li>{step}</li>)}</ol>
-      </section>
-    ))}
-
-    <h2 id="problemas"><Icon name="triangle-alert" /> Problemas frecuentes</h2>
-    <div class="table-scroll stack">
-      <table>
-        <thead><tr><th scope="col">Qué ves</th><th scope="col">Causa probable</th><th scope="col">Qué hacer</th></tr></thead>
-        <tbody>
+        <h2 id="problemas">Problemas frecuentes</h2>
+        <div class="problems">
           {p.problems.map((row) => (
-            <tr><th scope="row">{row.symptom}</th><td data-label="Causa probable">{row.cause}</td><td data-label="Qué hacer">{row.fix}</td></tr>
+            <details class="problem">
+              <summary>{row.symptom}</summary>
+              <p><strong>Causa probable:</strong> {row.cause}</p>
+              <p><strong>Qué hacer:</strong> {row.fix}</p>
+            </details>
           ))}
-        </tbody>
-      </table>
+        </div>
+        <p class="muted small">Contra plagas, usa primero métodos suaves (limpiar, aislar, retirar a mano) y cualquier producto solo según las instrucciones de su etiqueta.</p>
+
+        {guides.length > 0 && (
+          <aside class="related" aria-label="Guías relacionadas">
+            <span class="eyebrow">Guías relacionadas</span>
+            <ul>{guides.map((g) => <li><a href={guidePath(g.data.kind, g.id)}><Icon name={g.data.kind === 'plaga' ? 'bug' : 'layers'} size={18} /> {g.data.name}</a></li>)}</ul>
+          </aside>
+        )}
+
+        {p.faq.length > 0 && (
+          <>
+            <h2 id="preguntas">Preguntas frecuentes</h2>
+            {p.faq.map((item) => (
+              <details class="faq"><summary>{item.q}</summary><p>{item.a}</p></details>
+            ))}
+          </>
+        )}
+
+        <section class="sources" aria-labelledby="fuentes">
+          <h2 id="fuentes">Fuentes</h2>
+          <ul>
+            {p.sources.map((s) => <li><a href={s.url} rel="noopener">{s.name}</a></li>)}
+            <li><a href={p.toxicity.aspcaUrl} rel="noopener">ASPCA: Toxic and Non-Toxic Plants, «{p.toxicity.aspcaName}»</a></li>
+          </ul>
+          <p>Ficha revisada el {reviewed}. Origen: {p.origin}</p>
+        </section>
+      </div>
+
+      <nav class="toc" aria-label="En esta ficha">
+        <span class="eyebrow">En esta ficha</span>
+        <ol>{toc.map(([id, label]) => <li><a href={`#${id}`}>{label}</a></li>)}</ol>
+      </nav>
     </div>
-    <p class="muted small">Contra plagas, usa primero métodos suaves (limpiar, aislar, retirar a mano) y cualquier producto solo según las instrucciones de su etiqueta.</p>
-
-    {guides.length > 0 && (
-      <section class="card" aria-labelledby="guias">
-        <h2 id="guias" class="h-card">Guías relacionadas</h2>
-        <ul class="related">
-          {guides.map((g) => <li><a href={guidePath(g.data.kind, g.id)}><Icon name={g.data.kind === 'plaga' ? 'bug' : 'layers'} size={18} /> {g.data.name}</a></li>)}
-        </ul>
-      </section>
-    )}
-
-    {p.faq.length > 0 && (
-      <>
-        <h2 id="preguntas"><Icon name="info" /> Preguntas frecuentes</h2>
-        {p.faq.map((item) => (
-          <details class="faq">
-            <summary>{item.q}</summary>
-            <p>{item.a}</p>
-          </details>
-        ))}
-      </>
-    )}
-
-    <section class="sources" aria-labelledby="fuentes">
-      <h2 id="fuentes"><Icon name="book-open" /> Fuentes</h2>
-      <ul>
-        {p.sources.map((s) => <li><a href={s.url} rel="noopener">{s.name}</a></li>)}
-        <li><a href={p.toxicity.aspcaUrl} rel="noopener">ASPCA: Toxic and Non-Toxic Plants, «{p.toxicity.aspcaName}»</a></li>
-      </ul>
-      <p>Ficha revisada el {reviewed}. Origen: {p.origin}</p>
-    </section>
   </article>
 </Base>
 
 <style>
-  .plant-head .names { margin: 0 0 0.6rem; color: var(--muted); }
-  .tags { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.8rem; }
+  .plant-head { display: flex; gap: 1.1rem; align-items: center; margin-top: 0.75rem; }
+  .plant-head h1 { margin: 0.15rem 0 0.25rem; }
+  .names { margin: 0; color: var(--muted); font-size: 0.95rem; }
+  .plant-head + .lead { margin-top: 1.25rem; max-width: 46rem; }
+  .tags { display: flex; flex-wrap: wrap; gap: 0.4rem; }
   .tags a.pill { text-decoration: none; }
-  .h-card { margin-top: 0; font-size: 1.2rem; }
-  .quick { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 0.6rem 1.25rem; margin: 0; }
-  .quick div { border-bottom: 1px dashed var(--line); padding-bottom: 0.5rem; }
-  .quick dt { font-weight: 700; color: var(--leaf-dark); font-size: 0.9rem; }
-  .quick dd { margin: 0.1rem 0 0; }
-  .quick dd a { color: var(--ink); text-decoration: none; }
-  .quick dd a:hover { text-decoration: underline; }
-  h2 .icon { color: var(--leaf); }
-  .small { font-size: 0.9rem; }
-  .pets { border-radius: var(--radius); padding: 1rem 1.15rem; }
+  .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+  .quick { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.5rem; list-style: none; padding: 0; margin: 1.5rem 0 0; }
+  @media (min-width: 52rem) { .quick { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.6rem; } }
+  .quick-tile { display: grid; grid-template-columns: auto 1fr; grid-template-rows: auto auto; column-gap: 0.75rem; align-items: center; height: 100%; padding: 0.9rem 1rem; border-radius: 16px; color: var(--ink); text-decoration: none; }
+  .quick-tile:hover .quick-value { text-decoration: underline; }
+  .quick-icon { grid-row: span 2; display: inline-grid; place-items: center; width: 2.4rem; height: 2.4rem; border-radius: 50%; background: rgb(255 255 255 / 70%); }
+  .quick-label { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; }
+  .quick-value { font-weight: 600; line-height: 1.3; }
+  .t-sun { background: var(--sun-soft); } .t-sun .quick-icon, .t-sun .quick-label { color: var(--sun); }
+  .t-water { background: var(--water-soft); } .t-water .quick-icon, .t-water .quick-label { color: var(--water); }
+  .t-rose { background: var(--rose-soft); } .t-rose .quick-icon, .t-rose .quick-label { color: var(--rose); }
+  .t-soil { background: var(--soil-soft); } .t-soil .quick-icon, .t-soil .quick-label { color: var(--soil); }
+  .t-leaf { background: var(--leaf-soft); } .t-leaf .quick-icon, .t-leaf .quick-label { color: var(--leaf); }
+  @media (max-width: 40rem) {
+    .quick-tile { grid-template-columns: 1fr; padding: 0.75rem 0.8rem; row-gap: 0.15rem; }
+    .quick-icon { grid-row: auto; width: 2rem; height: 2rem; }
+    .quick-value { font-size: 0.95rem; }
+  }
+
+  .layout { display: grid; grid-template-columns: minmax(0, 1fr); gap: 3rem; }
+  @media (min-width: 64rem) { .layout { grid-template-columns: minmax(0, 44rem) 13rem; justify-content: space-between; } }
+  .toc { display: none; }
+  @media (min-width: 64rem) {
+    .toc { display: block; position: sticky; top: 5.5rem; align-self: start; margin-top: 2.75rem; font-size: 0.925rem; }
+    .toc ol { list-style: none; padding: 0; margin: 0.5rem 0 0; border-left: 2px solid var(--line); }
+    .toc a { display: block; padding: 0.3rem 0 0.3rem 0.9rem; color: var(--muted); text-decoration: none; }
+    .toc a:hover { color: var(--leaf-dark); }
+  }
+
+  .pets { border-radius: var(--radius); padding: 1.1rem 1.25rem; }
   .pets.ok { background: var(--ok-soft); }
   .pets.bad { background: var(--bad-soft); }
   .pets p { margin: 0.4rem 0; }
   .pets ul { list-style: none; padding: 0; margin: 0.4rem 0; display: flex; flex-wrap: wrap; gap: 0.3rem 1.5rem; }
-  .pets-verdict { font-weight: 800; font-size: 1.2rem; }
+  .pets-verdict { font-family: var(--serif); font-weight: 650; font-size: 1.3rem; }
   .pets.ok .pets-verdict { color: var(--ok); }
   .pets.bad .pets-verdict { color: var(--bad); }
-  .steps { margin: 0.5rem 0 0; padding-left: 1.3rem; display: grid; gap: 0.35rem; }
-  .faq { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 0.75rem 1rem; margin-block: 0.5rem; }
-  .faq summary { font-weight: 700; cursor: pointer; }
-  .faq p { margin: 0.5rem 0 0; }
-  tbody th { font-weight: 650; }
-  .related { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.5rem 1.25rem; }
+
+  .method { border-left: 3px solid var(--leaf-soft); padding-left: 1rem; margin-block: 1rem; }
+  .method h3 { margin-top: 0; }
+  .method .muted { margin-bottom: 0.4rem; }
+  .steps { margin: 0; padding-left: 1.3rem; display: grid; gap: 0.35rem; }
+
+  .problems { display: grid; gap: 0.5rem; }
+  .problem { background: var(--surface); border-radius: 14px; padding: 0.85rem 1.1rem; }
+  .problem summary { font-weight: 650; cursor: pointer; }
+  .problem p { margin: 0.5rem 0 0; }
+
+  .related { background: var(--leaf-soft); border-radius: var(--radius); padding: 1rem 1.25rem; margin-top: 2rem; }
+  .related ul { list-style: none; padding: 0; margin: 0.4rem 0 0; display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; }
   .related a { font-weight: 650; }
+
   @media (max-width: 40rem) {
+    .plant-head { align-items: flex-start; }
     .stack thead { position: absolute; left: -999px; }
     .stack tr, .stack th, .stack td { display: block; }
     .stack tr { border-bottom: 1px solid var(--line); padding-block: 0.4rem; }

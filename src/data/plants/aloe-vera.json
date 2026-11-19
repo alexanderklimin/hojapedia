@@ -22,7 +22,8 @@
     "place": [
       "interior",
       "exterior"
-    ]
+    ],
+    "group": "suculenta"
   },
   "care": {
     "light": {

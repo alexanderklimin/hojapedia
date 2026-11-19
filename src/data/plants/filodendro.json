@@ -1,6 +1,10 @@
 {
   "name": "Filodendro",
-  "synonyms": ["filodendro trepador", "philodendron", "Philodendron hederaceum"],
+  "synonyms": [
+    "filodendro trepador",
+    "philodendron",
+    "Philodendron hederaceum"
+  ],
   "scientific": "Philodendron hederaceum",
   "family": "Araceae",
   "origin": "De México a la América tropical.",
@@ -9,7 +13,16 @@
   "summary": "El filodendro trepador, de hojas en forma de corazón, es una de las plantas colgantes más fáciles. Aguanta largas temporadas con muy poca luz y la humedad normal de una casa, y se multiplica fácilmente por esquejes en agua.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
-  "traits": { "light": ["semisombra", "sombra"], "place": ["interior"] },
+  "traits": {
+    "light": [
+      "semisombra",
+      "sombra"
+    ],
+    "place": [
+      "interior"
+    ],
+    "group": "follaje"
+  },
   "care": {
     "light": {
       "short": "Luz media o indirecta; tolera muy poca luz",
@@ -95,7 +108,13 @@
     }
   ],
   "sources": [
-    { "name": "RHS: How to grow philodendrons", "url": "https://www.rhs.org.uk/plants/philodendron/growing-guide" },
-    { "name": "NC State Extension: Philodendron hederaceum", "url": "https://plants.ces.ncsu.edu/plants/philodendron-hederaceum/" }
+    {
+      "name": "RHS: How to grow philodendrons",
+      "url": "https://www.rhs.org.uk/plants/philodendron/growing-guide"
+    },
+    {
+      "name": "NC State Extension: Philodendron hederaceum",
+      "url": "https://plants.ces.ncsu.edu/plants/philodendron-hederaceum/"
+    }
   ]
 }

@@ -29,6 +29,7 @@ const plants = defineCollection({
     traits: z.object({
       light: z.array(z.enum(['sol', 'semisombra', 'sombra'])).min(1),
       place: z.array(z.enum(['interior', 'exterior'])).min(1),
+      group: z.enum(['flor', 'follaje', 'suculenta', 'aromatica']),
     }),
     care: z.object({
       light: z.object({ short: z.string(), text: z.string() }),

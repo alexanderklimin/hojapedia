@@ -19,7 +19,8 @@
     "place": [
       "interior",
       "exterior"
-    ]
+    ],
+    "group": "flor"
   },
   "care": {
     "light": {

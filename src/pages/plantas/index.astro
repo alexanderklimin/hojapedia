@@ -1,9 +1,13 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import { petVerdict } from '../../lib/format.js';
+import PlantTile from '../../components/PlantTile.astro';
+import { GROUPS } from '../../data/groups.js';
 
 const plants = (await getCollection('plants')).sort((a, b) => a.data.name.localeCompare(b.data.name, 'es'));
+const byGroup = Object.entries(GROUPS)
+  .map(([key, group]) => ({ key, ...group, plants: plants.filter((p) => p.data.traits.group === key) }))
+  .filter((g) => g.plants.length > 0);
 const crumbs = [{ name: 'Inicio', path: '/' }, { name: 'Plantas', path: '/plantas/' }];
 ---
 <Base
@@ -12,20 +16,16 @@ const crumbs = [{ name: 'Inicio', path: '/' }, { name: 'Plantas', path: '/planta
   crumbs={crumbs}
 >
   <h1>Fichas de plantas</h1>
-  <p class="lead">Cada ficha reúne luz, riego, temperatura, sustrato, reproducción y problemas frecuentes, con fuentes citadas y la toxicidad para mascotas comprobada en la ASPCA.</p>
-  <ul class="plant-grid">
-    {plants.map((plant) => {
-      const pets = petVerdict(plant.data.toxicity);
-      return (
-        <li>
-          <a class="plant-link" href={`/plantas/${plant.id}/`}>
-            <strong>{plant.data.name}</strong>
-            <em>{plant.data.scientific}</em>
-            {plant.data.synonyms.length > 0 && <span class="muted">{plant.data.synonyms.slice(0, 2).join(', ')}</span>}
-            <span class:list={['pill', pets.tone]}>{pets.text}</span>
-          </a>
-        </li>
-      );
-    })}
-  </ul>
+  <p class="lead">Luz, riego, temperatura, sustrato, reproducción y problemas frecuentes de cada planta, con fuentes citadas y la toxicidad para mascotas comprobada en la ASPCA.</p>
+  <p><a href="/herramientas/buscador-de-plantas/">Filtrar por luz, lugar y mascotas</a></p>
+  {byGroup.map((g) => (
+    <section>
+      <h2>{g.label} <span class="muted count">{g.plants.length}</span></h2>
+      <ul class="tile-grid">{g.plants.map((p) => <li><PlantTile plant={p} meta="scientific" /></li>)}</ul>
+    </section>
+  ))}
 </Base>
+
+<style>
+  .count { font-family: system-ui, sans-serif; font-size: 1rem; font-weight: 600; }
+</style>

@@ -1,0 +1,19 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import Icon from './Icon.astro';
+import { GROUPS } from '../data/groups.js';
+import { isPetSafe } from '../lib/finder.js';
+
+interface Props { plant: CollectionEntry<'plants'>; meta?: 'light' | 'scientific' }
+const { plant, meta = 'light' } = Astro.props;
+const d = plant.data;
+const group = GROUPS[d.traits.group];
+---
+<a class="tile" href={`/plantas/${plant.id}/`}>
+  <span class:list={['avatar', `g-${d.traits.group}`]} title={group.label}><Icon name={group.icon as never} size={22} /></span>
+  <span class="tile-body">
+    <strong>{d.name}</strong>
+    <span class="tile-meta">{meta === 'light' ? d.care.light.short : d.scientific}</span>
+    {isPetSafe(d) && <span class="tile-safe"><Icon name="paw-print" size={14} /> Segura para mascotas</span>}
+  </span>
+</a>
