@@ -1,0 +1,105 @@
+{
+  "name": "Cinta",
+  "synonyms": [
+    "malamadre",
+    "mala madre",
+    "planta araña",
+    "Chlorophytum comosum"
+  ],
+  "scientific": "Chlorophytum comosum",
+  "family": "Asparagaceae",
+  "origin": "África tropical y del sur, desde África occidental y Etiopía hasta Sudáfrica.",
+  "title": "Cinta (malamadre): cuidados, riego y cómo reproducirla",
+  "description": "Cuidados de la cinta o malamadre (Chlorophytum comosum): luz, riego, puntas marrones, cómo reproducirla por hijuelos y si es segura para gatos y perros.",
+  "summary": "La cinta, malamadre o planta araña es una colgante muy fácil que tolera la sombra y la sequía y no es tóxica para gatos ni perros. Saca hijuelos colgando de largos tallos, que se pueden plantar para tener plantas nuevas.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra",
+      "sombra"
+    ],
+    "place": [
+      "interior"
+    ]
+  },
+  "care": {
+    "light": {
+      "short": "Luz media; tolera sombra",
+      "text": "Prefiere luz media pero tolera la sombra profunda. No soporta el sol directo."
+    },
+    "water": {
+      "short": "Húmedo; menos en invierno",
+      "text": "Crece mejor con el sustrato húmedo, aunque tolera la sequía. Riega menos en invierno. El cloro y el flúor del agua del grifo pueden quemar las puntas: usa agua de lluvia o filtrada si puedes.",
+      "growing": "Mantener húmedo.",
+      "rest": "Reducir el riego."
+    },
+    "temperature": {
+      "minC": 7,
+      "idealMinC": null,
+      "idealMaxC": null,
+      "short": "Por encima de 7 °C",
+      "text": "Mantenla por encima de 7 °C."
+    },
+    "humidity": {
+      "short": "Media",
+      "text": "Le basta una humedad media; puedes subirla con un humidificador o un plato con guijarros húmedos."
+    },
+    "substrate": {
+      "short": "Drenante, pH neutro",
+      "text": "Necesita un sustrato con buen drenaje y pH neutro. Crece bien en maceta y en cestas colgantes.",
+      "pot": "Con drenaje; ideal colgante para que caigan los hijuelos."
+    },
+    "fertilizer": {
+      "short": "Poco",
+      "text": "No la abones en exceso: reduce la formación de hijuelos. Si abonas, hazlo de forma ligera en primavera y verano según la etiqueta."
+    }
+  },
+  "toxicity": {
+    "cats": "no-toxica",
+    "dogs": "no-toxica",
+    "aspcaName": "Spider Plant",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/spider-plant",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por hijuelos",
+      "when": "Cuando los hijuelos tengan raíces",
+      "steps": [
+        "Elige un hijuelo de los que cuelgan de los tallos largos.",
+        "Apóyalo sobre una maceta con sustrato húmedo, todavía unido a la madre, o córtalo y plántalo directamente.",
+        "Mantén el sustrato húmedo hasta que crezca. La planta forma más hijuelos tras al menos tres semanas con menos de 12 horas de luz al día."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Puntas marrones",
+      "cause": "Cloro y flúor del agua del grifo.",
+      "fix": "Riega con agua de lluvia, filtrada o destilada."
+    },
+    {
+      "symptom": "No saca hijuelos",
+      "cause": "Exceso de abono, o días demasiado largos.",
+      "fix": "Abona menos; la planta forma hijuelos con días de menos de 12 horas de luz."
+    },
+    {
+      "symptom": "Hojas quemadas o descoloridas",
+      "cause": "Sol directo.",
+      "fix": "Muévela a luz media o indirecta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿La cinta es tóxica para gatos y perros?",
+      "a": "No. Según la ASPCA, la cinta o planta araña no es tóxica para perros ni gatos."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NC State Extension: Chlorophytum comosum",
+      "url": "https://plants.ces.ncsu.edu/plants/chlorophytum-comosum/"
+    }
+  ]
+}

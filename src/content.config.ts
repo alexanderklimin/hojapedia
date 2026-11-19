@@ -23,6 +23,13 @@ const plants = defineCollection({
     summary: z.string().min(80),
     difficulty: z.enum(['fácil', 'media', 'exigente']),
     reviewed: isoDate,
+    // Structured traits for the plant finder and lists; must follow the sourced care text.
+    // sol = tolera varias horas de sol directo; semisombra = luz brillante indirecta o sombra ligera;
+    // sombra = tolera poca luz o sombra profunda.
+    traits: z.object({
+      light: z.array(z.enum(['sol', 'semisombra', 'sombra'])).min(1),
+      place: z.array(z.enum(['interior', 'exterior'])).min(1),
+    }),
     care: z.object({
       light: z.object({ short: z.string(), text: z.string() }),
       water: z.object({ short: z.string(), text: z.string(), growing: z.string(), rest: z.string() }),

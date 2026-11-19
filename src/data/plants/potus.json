@@ -13,6 +13,15 @@
   "summary": "El potus, también llamado poto o pothos, es una trepadora o colgante muy fácil de cuidar. Tolera poca luz, aunque entonces pierde el jaspeado y saca hojas más pequeñas. Se reproduce con facilidad por esquejes en agua o en tierra.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra",
+      "sombra"
+    ],
+    "place": [
+      "interior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Luz brillante indirecta; tolera poca luz",

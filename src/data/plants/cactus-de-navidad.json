@@ -12,6 +12,14 @@
   "summary": "El cactus de Navidad no es un cactus del desierto: quiere luz indirecta, humedad y un sustrato aireado. Florece cuando las noches se alargan y refrescan, por eso en el hemisferio norte florece hacia Navidad y en el sur, hacia mayo, de ahí su nombre de flor de mayo.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra"
+    ],
+    "place": [
+      "interior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Luz brillante indirecta",

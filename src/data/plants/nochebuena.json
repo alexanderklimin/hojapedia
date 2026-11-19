@@ -14,6 +14,14 @@
   "summary": "La flor de Pascua, nochebuena, pascuero o estrella federal es la planta típica de Navidad en el hemisferio norte. Lo que parecen pétalos rojos son brácteas, hojas que se colorean con noches largas. Con oscuridad controlada desde el otoño, vuelve a colorearse.",
   "difficulty": "media",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra"
+    ],
+    "place": [
+      "interior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Luz brillante, semisombra",

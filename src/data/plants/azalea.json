@@ -12,6 +12,14 @@
   "summary": "Las azaleas son arbustos de floración espectacular que necesitan suelo ácido, semisombra y humedad constante. Si el suelo es calizo o el agua es dura, se ponen amarillas: en ese caso es mejor cultivarlas en maceta con sustrato para plantas ácidas y regarlas con agua de lluvia.",
   "difficulty": "media",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra"
+    ],
+    "place": [
+      "exterior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Sombra ligera",

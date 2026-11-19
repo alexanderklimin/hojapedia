@@ -14,6 +14,15 @@
   "summary": "La sansevieria, también llamada lengua de suegra o espada de San Jorge, es una de las plantas de interior más resistentes. Aguanta poca luz y el aire seco de las casas. Su principal enemigo es el exceso de agua: el riego excesivo es una causa frecuente de pudrición de raíces.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra",
+      "sombra"
+    ],
+    "place": [
+      "interior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Luz brillante; tolera poca luz",

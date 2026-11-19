@@ -1,6 +1,9 @@
 {
   "name": "Romero",
-  "synonyms": ["Salvia rosmarinus", "Rosmarinus officinalis"],
+  "synonyms": [
+    "Salvia rosmarinus",
+    "Rosmarinus officinalis"
+  ],
   "scientific": "Salvia rosmarinus (antes Rosmarinus officinalis)",
   "family": "Lamiaceae",
   "origin": "Mediterráneo, Europa, Asia occidental y África, en zonas secas y pedregosas.",
@@ -9,6 +12,14 @@
   "summary": "El romero es un arbusto mediterráneo de hoja perenne, muy resistente a la sequía. Lo que más lo mata es el exceso de agua. Necesita sol, un suelo que drene bien y una poda ligera cada año tras la floración, sin cortar la madera vieja.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "sol"
+    ],
+    "place": [
+      "exterior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Sol pleno",
@@ -105,7 +116,13 @@
     }
   ],
   "sources": [
-    { "name": "RHS: How to grow rosemary", "url": "https://www.rhs.org.uk/herbs/rosemary" },
-    { "name": "NC State Extension: Salvia rosmarinus", "url": "https://plants.ces.ncsu.edu/plants/salvia-rosmarinus/" }
+    {
+      "name": "RHS: How to grow rosemary",
+      "url": "https://www.rhs.org.uk/herbs/rosemary"
+    },
+    {
+      "name": "NC State Extension: Salvia rosmarinus",
+      "url": "https://plants.ces.ncsu.edu/plants/salvia-rosmarinus/"
+    }
   ]
 }

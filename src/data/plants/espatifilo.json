@@ -1,6 +1,10 @@
 {
   "name": "Espatifilo",
-  "synonyms": ["cuna de Moisés", "lirio de la paz", "Spathiphyllum"],
+  "synonyms": [
+    "cuna de Moisés",
+    "lirio de la paz",
+    "Spathiphyllum"
+  ],
   "scientific": "Spathiphyllum spp.",
   "family": "Araceae",
   "origin": "Género de unas 60 especies de México, América tropical, Malesia y el Pacífico occidental.",
@@ -9,6 +13,15 @@
   "summary": "El espatifilo, cuna de Moisés o lirio de la paz es una de las plantas de interior que mejor toleran la poca luz. Avisa cuando tiene sed porque sus hojas se caen, y florece con facilidad si recibe luz brillante indirecta.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra",
+      "sombra"
+    ],
+    "place": [
+      "interior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Luz indirecta; tolera poca luz",
@@ -98,7 +111,13 @@
     }
   ],
   "sources": [
-    { "name": "NC State Extension: Spathiphyllum", "url": "https://plants.ces.ncsu.edu/plants/spathiphyllum/" },
-    { "name": "Clemson HGIC: Peace lily", "url": "https://hgic.clemson.edu/factsheet/peace-lily/" }
+    {
+      "name": "NC State Extension: Spathiphyllum",
+      "url": "https://plants.ces.ncsu.edu/plants/spathiphyllum/"
+    },
+    {
+      "name": "Clemson HGIC: Peace lily",
+      "url": "https://hgic.clemson.edu/factsheet/peace-lily/"
+    }
   ]
 }

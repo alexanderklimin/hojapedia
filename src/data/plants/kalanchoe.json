@@ -13,6 +13,15 @@
   "summary": "El kalanchoe de flor es una suculenta compacta con ramilletes de flores rojas, rosas, naranjas o amarillas. Se riega poco y aguanta bien, pero para volver a florecer necesita noches largas y oscuras durante varias semanas.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra"
+    ],
+    "place": [
+      "interior",
+      "exterior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Luz brillante, sombra por la tarde",

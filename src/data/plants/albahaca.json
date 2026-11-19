@@ -1,6 +1,8 @@
 {
   "name": "Albahaca",
-  "synonyms": ["Ocimum basilicum"],
+  "synonyms": [
+    "Ocimum basilicum"
+  ],
   "scientific": "Ocimum basilicum",
   "family": "Lamiaceae",
   "origin": "Regiones tropicales de África y Asia.",
@@ -9,6 +11,14 @@
   "summary": "La albahaca es una aromática de clima cálido que no soporta el frío. Necesita sol, riego regular por la mañana y pinzar las puntas y las flores para que siga dando hojas. Se siembra cuando las noches pasan de 10 °C, y se multiplica también por esquejes en agua.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "sol"
+    ],
+    "place": [
+      "exterior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Sol pleno: 6 horas o más",
@@ -101,7 +111,13 @@
     }
   ],
   "sources": [
-    { "name": "RHS: How to grow basil", "url": "https://www.rhs.org.uk/herbs/basil" },
-    { "name": "NC State Extension: Ocimum basilicum", "url": "https://plants.ces.ncsu.edu/plants/ocimum-basilicum/" }
+    {
+      "name": "RHS: How to grow basil",
+      "url": "https://www.rhs.org.uk/herbs/basil"
+    },
+    {
+      "name": "NC State Extension: Ocimum basilicum",
+      "url": "https://plants.ces.ncsu.edu/plants/ocimum-basilicum/"
+    }
   ]
 }

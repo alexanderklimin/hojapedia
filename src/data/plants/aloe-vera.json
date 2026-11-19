@@ -14,6 +14,16 @@
   "summary": "El aloe vera o sábila es una suculenta muy resistente que almacena agua en sus hojas carnosas. Necesita mucha luz, riegos espaciados y un sustrato que drene muy bien. Se multiplica fácilmente separando los hijuelos que salen alrededor de la planta.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "sol",
+      "semisombra"
+    ],
+    "place": [
+      "interior",
+      "exterior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Sol o semisombra",

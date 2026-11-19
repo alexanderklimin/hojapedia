@@ -14,6 +14,14 @@
   "summary": "El palo de Brasil, palo de agua o tronco de Brasil es una dracena de tronco grueso y penacho de hojas largas. Es resistente y se adapta a interiores con luz filtrada. Sus problemas típicos son las puntas marrones, casi siempre por aire seco o por el flúor y las sales del agua.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra"
+    ],
+    "place": [
+      "interior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Luz filtrada, de media a brillante",

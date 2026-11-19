@@ -14,6 +14,14 @@
   "summary": "La lavanda o espliego es un arbusto mediterráneo de flores perfumadas que necesita sol pleno y un suelo que drene muy bien. Una vez establecida casi no necesita riego ni abono. La clave para que no se vuelva leñosa es podarla cada año después de la floración.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "sol"
+    ],
+    "place": [
+      "exterior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Sol pleno: 6 horas o más",

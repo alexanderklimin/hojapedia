@@ -1,0 +1,64 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import { listsToPublish, isPetSafe } from '../../lib/finder.js';
+import { petVerdict, formatDate } from '../../lib/format.js';
+
+export async function getStaticPaths() {
+  const plants = (await getCollection('plants')).sort((a, b) => a.data.name.localeCompare(b.data.name, 'es'));
+  return listsToPublish(plants).map((list) => ({ params: { slug: list.slug }, props: { list } }));
+}
+
+const { list } = Astro.props;
+const plants = list.plants;
+const safeCount = plants.filter((p) => isPetSafe(p.data)).length;
+const reviewed = formatDate(plants.map((p) => p.data.reviewed).sort().at(-1));
+const description = `${plants.length} ${list.h1.charAt(0).toLowerCase() + list.h1.slice(1)} con luz, riego y toxicidad para mascotas de cada una; ${safeCount} son seguras para gatos y perros según la ASPCA.`.slice(0, 160);
+const crumbs = [{ name: 'Inicio', path: '/' }, { name: list.h1, path: Astro.url.pathname }];
+const jsonLd = [{
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: list.h1,
+  numberOfItems: plants.length,
+  itemListElement: plants.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(`/plantas/${p.id}/`, Astro.site).href, name: p.data.name })),
+}];
+---
+<Base title={list.title} description={description} crumbs={crumbs} jsonLd={jsonLd}>
+  <h1>{list.h1}</h1>
+  <p class="lead">{list.lead}</p>
+  <p class="muted">{plants.length} plantas · {safeCount} seguras para gatos y perros · revisado el {reviewed}</p>
+
+  <ol class="list-cards">
+    {plants.map((p) => {
+      const d = p.data;
+      const pets = petVerdict(d.toxicity);
+      return (
+        <li class="card">
+          <h2><a href={`/plantas/${p.id}/`}>{d.name}</a></h2>
+          <p class="muted"><em>{d.scientific}</em>{d.synonyms.length > 0 && <> · {d.synonyms.filter((s) => s !== d.scientific).slice(0, 3).join(', ')}</>}</p>
+          <p>{d.summary}</p>
+          <dl class="mini">
+            <div><dt><Icon name="sun" size={16} /> Luz</dt><dd>{d.care.light.short}</dd></div>
+            <div><dt><Icon name="droplet" size={16} /> Riego</dt><dd>{d.care.water.short}</dd></div>
+            <div><dt><Icon name="cat" size={16} /> Mascotas</dt><dd><span class:list={['pill', pets.tone]}>{pets.text}</span></dd></div>
+            <div><dt><Icon name="sprout" size={16} /> Dificultad</dt><dd>{d.difficulty}</dd></div>
+          </dl>
+          <p><a href={`/plantas/${p.id}/`}>Ver cuidados de {d.name.toLowerCase()} <Icon name="chevron-right" size={16} /></a></p>
+        </li>
+      );
+    })}
+  </ol>
+
+  <p class="card"><Icon name="search" size={18} /> ¿Buscas por otras condiciones? Prueba el <a href="/herramientas/buscador-de-plantas/">buscador de plantas</a> por luz, lugar y mascotas.</p>
+  <p class="sources">La toxicidad de cada planta procede de la base de datos de la ASPCA; los cuidados, de las fuentes citadas en cada ficha.</p>
+</Base>
+
+<style>
+  .list-cards { list-style: none; padding: 0; margin: 1rem 0; }
+  .list-cards h2 { margin: 0 0 0.2rem; font-size: 1.3rem; }
+  .list-cards h2 a { color: var(--leaf-dark); }
+  .mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.4rem 1rem; margin: 0.6rem 0; }
+  .mini dt { font-weight: 700; color: var(--leaf-dark); font-size: 0.85rem; }
+  .mini dd { margin: 0; }
+</style>

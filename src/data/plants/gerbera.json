@@ -1,6 +1,9 @@
 {
   "name": "Gerbera",
-  "synonyms": ["margarita del Transvaal", "Gerbera jamesonii"],
+  "synonyms": [
+    "margarita del Transvaal",
+    "Gerbera jamesonii"
+  ],
   "scientific": "Gerbera jamesonii",
   "family": "Asteraceae",
   "origin": "Sudeste de África.",
@@ -9,6 +12,15 @@
   "summary": "La gerbera da grandes flores tipo margarita en colores vivos. Florece mejor con mucha luz y temperaturas suaves, y su punto débil es la pudrición del cuello: hay que plantarla con la corona algo elevada y regar sin encharcar.",
   "difficulty": "media",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "sol"
+    ],
+    "place": [
+      "interior",
+      "exterior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Mucha luz, sin sol fuerte de verano",
@@ -98,7 +110,13 @@
     }
   ],
   "sources": [
-    { "name": "RHS: How to grow gerberas", "url": "https://www.rhs.org.uk/plants/gerbera/growing-guide" },
-    { "name": "NC State Extension: Gerbera jamesonii", "url": "https://plants.ces.ncsu.edu/plants/gerbera-jamesonii/" }
+    {
+      "name": "RHS: How to grow gerberas",
+      "url": "https://www.rhs.org.uk/plants/gerbera/growing-guide"
+    },
+    {
+      "name": "NC State Extension: Gerbera jamesonii",
+      "url": "https://plants.ces.ncsu.edu/plants/gerbera-jamesonii/"
+    }
   ]
 }

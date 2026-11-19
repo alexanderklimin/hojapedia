@@ -1,0 +1,88 @@
+{
+  "name": "Peperomia",
+  "synonyms": ["peperomia obtusifolia", "planta de goma enana", "Peperomia obtusifolia"],
+  "scientific": "Peperomia obtusifolia",
+  "family": "Piperaceae",
+  "origin": "América tropical.",
+  "title": "Peperomia: cuidados, riego, luz y esquejes",
+  "description": "Cuidados de la peperomia (Peperomia obtusifolia): luz, riego sin encharcar, hojas amarillas, cómo reproducirla por esquejes y si es segura para gatos y perros.",
+  "summary": "La peperomia obtusifolia es una planta compacta de hojas gruesas y brillantes, ideal para mesas y estanterías. Tolera meses de poca luz, sobre todo las variedades verdes, y su mayor enemigo es el exceso de riego. No es tóxica para gatos ni perros.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "traits": { "light": ["semisombra", "sombra"], "place": ["interior"] },
+  "care": {
+    "light": {
+      "short": "Luz brillante indirecta; tolera poca luz",
+      "text": "Prefiere luz brillante indirecta y tolera poca luz durante meses sin sufrir, sobre todo las variedades de hoja verde. El sol fuerte o directo quema las hojas."
+    },
+    "water": {
+      "short": "Moderado; nunca encharcar",
+      "text": "No tolera ni el sustrato empapado ni la sequía extrema. Riega cuando la capa superior esté seca: el exceso de agua amarillea las hojas y pudre las raíces.",
+      "growing": "Cuando la capa superior esté seca.",
+      "rest": "Con menos frecuencia."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": null,
+      "idealMaxC": null,
+      "short": "Temperatura de casa, sin corrientes",
+      "text": "La fuente no da cifras; evita los lugares con muchas corrientes de aire."
+    },
+    "humidity": {
+      "short": "Media o baja",
+      "text": "Se conforma con una humedad media o baja."
+    },
+    "substrate": {
+      "short": "Muy drenante",
+      "text": "Necesita un sustrato con buen drenaje.",
+      "pot": "Con agujeros de drenaje."
+    },
+    "fertilizer": {
+      "short": "Poco, según etiqueta",
+      "text": "La fuente consultada no indica una frecuencia. Si abonas, hazlo de forma ligera en primavera y verano según la etiqueta."
+    }
+  },
+  "toxicity": {
+    "cats": "no-toxica",
+    "dogs": "no-toxica",
+    "aspcaName": "Baby Rubber Plant (Peperomia obtusifolia)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/baby-rubber-plant",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes de tallo o de hoja",
+      "when": "En primavera o verano",
+      "steps": [
+        "Corta la punta de un tallo con algunas hojas, o una hoja con su pecíolo.",
+        "Plántala en sustrato drenante apenas húmedo y mantenla con luz indirecta hasta que enraíce."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Hojas amarillas y tallos blandos",
+      "cause": "Exceso de riego: puede acabar en pudrición de raíz.",
+      "fix": "Deja secar la capa superior entre riegos y comprueba el drenaje."
+    },
+    {
+      "symptom": "Manchas quemadas en las hojas",
+      "cause": "Sol directo o demasiado fuerte.",
+      "fix": "Muévela a luz brillante indirecta."
+    },
+    {
+      "symptom": "Bolitas algodonosas, telarañas o mosquitas blancas",
+      "cause": "Cochinilla algodonosa, araña roja o mosca blanca.",
+      "fix": "Limpia las hojas, aísla la planta y trata según la etiqueta si hace falta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿La peperomia es tóxica para gatos y perros?",
+      "a": "No. Según la ASPCA, la Peperomia obtusifolia («Baby Rubber Plant») no es tóxica para perros ni gatos."
+    }
+  ],
+  "sources": [
+    { "name": "NC State Extension: Peperomia obtusifolia", "url": "https://plants.ces.ncsu.edu/plants/peperomia-obtusifolia/" }
+  ]
+}

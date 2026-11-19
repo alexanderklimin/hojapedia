@@ -1,0 +1,101 @@
+{
+  "name": "Filodendro",
+  "synonyms": ["filodendro trepador", "philodendron", "Philodendron hederaceum"],
+  "scientific": "Philodendron hederaceum",
+  "family": "Araceae",
+  "origin": "De México a la América tropical.",
+  "title": "Filodendro trepador: cuidados, luz, riego y esquejes",
+  "description": "Cuidados del filodendro trepador (Philodendron hederaceum): luz, riego, sustrato, cómo hacer esquejes en agua, problemas y si es tóxico para gatos y perros.",
+  "summary": "El filodendro trepador, de hojas en forma de corazón, es una de las plantas colgantes más fáciles. Aguanta largas temporadas con muy poca luz y la humedad normal de una casa, y se multiplica fácilmente por esquejes en agua.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "traits": { "light": ["semisombra", "sombra"], "place": ["interior"] },
+  "care": {
+    "light": {
+      "short": "Luz media o indirecta; tolera muy poca luz",
+      "text": "Crece mejor con luz brillante indirecta o media, aunque puede sobrevivir mucho tiempo con muy poca luz; entonces se alarga y crece ralo. Protégelo del sol directo de verano, que quema las hojas."
+    },
+    "water": {
+      "short": "Cuando se seque la superficie",
+      "text": "Riega cuando la superficie del sustrato se haya secado, y riega menos en invierno. Nunca lo dejes con agua en el plato.",
+      "growing": "Cuando se seque la superficie.",
+      "rest": "Reducir el riego."
+    },
+    "temperature": {
+      "minC": 15,
+      "idealMinC": null,
+      "idealMaxC": null,
+      "short": "Por encima de 15 °C",
+      "text": "Mantenlo por encima de 15 °C, lejos de radiadores y corrientes de aire frío."
+    },
+    "humidity": {
+      "short": "Humedad normal de casa",
+      "text": "Se adapta a la humedad baja de la mayoría de las casas; agradece una humedad media."
+    },
+    "substrate": {
+      "short": "Suelto, drenante, algo ácido",
+      "text": "Usa un sustrato suelto y drenante, ligeramente ácido (pH 5–6,5). Trasplanta en primavera cada dos años o cuando las raíces llenen la maceta.",
+      "pot": "Solo unos centímetros más grande que el cepellón."
+    },
+    "fertilizer": {
+      "short": "En primavera y verano",
+      "text": "Abona durante la época de crecimiento con un fertilizante para plantas de interior, según la etiqueta."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "oxalatos de calcio insolubles",
+    "signs": "irritación, dolor e hinchazón de boca, lengua y labios, babeo excesivo, vómitos y dificultad para tragar",
+    "aspcaName": "Heartleaf Philodendron",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/heartleaf-philodendron",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes de tallo en agua",
+      "when": "De primavera a finales de verano",
+      "steps": [
+        "Corta un trozo de tallo de unos 10 cm justo por debajo de un nudo (donde nace la hoja).",
+        "Quita las hojas de la parte baja y pon el esqueje en un vaso con agua.",
+        "En un par de semanas echa raíces: entonces plántalo en sustrato drenante."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Raíces podridas y hojas amarillas",
+      "cause": "Exceso de riego o mal drenaje.",
+      "fix": "Deja secar la superficie entre riegos y no lo dejes sobre agua."
+    },
+    {
+      "symptom": "Tallos largos con pocas hojas",
+      "cause": "Muy poca luz.",
+      "fix": "Acércalo a una ventana luminosa sin sol directo y recorta los tallos ralos."
+    },
+    {
+      "symptom": "Hojas quemadas",
+      "cause": "Sol directo de verano.",
+      "fix": "Muévelo a luz indirecta."
+    },
+    {
+      "symptom": "Bolitas algodonosas, costras o telarañas",
+      "cause": "Cochinilla algodonosa, escamas o araña roja.",
+      "fix": "Limpia las hojas, aísla la planta y trata según la etiqueta si hace falta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿El filodendro es tóxico para gatos y perros?",
+      "a": "Sí. Según la ASPCA es tóxico para perros y gatos por sus oxalatos de calcio insolubles: irrita la boca y causa babeo, vómitos y dificultad para tragar."
+    },
+    {
+      "q": "¿Filodendro y potus son la misma planta?",
+      "a": "No, aunque se parecen y se cuidan de forma similar. El filodendro trepador es Philodendron hederaceum y el potus es Epipremnum aureum; los dos son de la familia Araceae."
+    }
+  ],
+  "sources": [
+    { "name": "RHS: How to grow philodendrons", "url": "https://www.rhs.org.uk/plants/philodendron/growing-guide" },
+    { "name": "NC State Extension: Philodendron hederaceum", "url": "https://plants.ces.ncsu.edu/plants/philodendron-hederaceum/" }
+  ]
+}

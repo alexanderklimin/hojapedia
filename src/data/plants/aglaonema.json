@@ -1,0 +1,94 @@
+{
+  "name": "Aglaonema",
+  "synonyms": ["siempreverde chino", "aglonema", "Aglaonema modestum"],
+  "scientific": "Aglaonema spp.",
+  "family": "Araceae",
+  "origin": "Zonas tropicales y subtropicales del Sudeste asiático y Nueva Guinea.",
+  "title": "Aglaonema: cuidados, luz, riego y hojas marrones",
+  "description": "Cuidados de la aglaonema o siempreverde chino: una de las mejores plantas para poca luz. Riego, temperatura, humedad, problemas y toxicidad para mascotas.",
+  "summary": "La aglaonema, o siempreverde chino, es una de las plantas de interior que mejor aguantan la poca luz, con hojas verdes, plateadas o rosadas según la variedad. Quiere calor, riego regular sin encharcar y protección frente al frío y las corrientes de aire.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "traits": { "light": ["semisombra", "sombra"], "place": ["interior"] },
+  "care": {
+    "light": {
+      "short": "Luz indirecta; tolera poca luz",
+      "text": "Crece bien con luz difusa o buena luz indirecta, y es una planta excelente para rincones de interior con poca luz."
+    },
+    "water": {
+      "short": "Húmedo de primavera a otoño, menos en invierno",
+      "text": "Mantén el sustrato húmedo de primavera a otoño, dejando que se seque un poco entre riegos, y riega menos en invierno. No uses agua fría.",
+      "growing": "Mantener húmedo, dejando secar un poco entre riegos.",
+      "rest": "Reducir el riego."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": 21,
+      "idealMaxC": 27,
+      "text": "Prefiere temperaturas diurnas de 21–27 °C y no tolera el frío. Aléjala de las corrientes de aire."
+    },
+    "humidity": {
+      "short": "Alta, tolera aire más seco",
+      "text": "Prefiere humedad alta, pero tolera un aire más seco. El aire muy seco puede dorar las hojas."
+    },
+    "substrate": {
+      "short": "Sustrato drenante para interior",
+      "text": "La fuente consultada no detalla el sustrato. Usa uno para plantas de interior que drene bien, para que pueda secarse un poco entre riegos.",
+      "pot": "Con agujeros de drenaje."
+    },
+    "fertilizer": {
+      "short": "En crecimiento, según etiqueta",
+      "text": "La fuente consultada no indica una frecuencia. Si abonas, hazlo en primavera y verano con un fertilizante para plantas de interior, según la etiqueta."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "oxalatos de calcio insolubles",
+    "signs": "irritación, dolor e hinchazón de boca, lengua y labios, babeo excesivo, vómitos y dificultad para tragar",
+    "aspcaName": "Chinese Evergreen (Aglaonema modestum)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chinese-evergreen",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por división o esquejes de tallo",
+      "when": "En primavera o verano",
+      "steps": [
+        "Divide la mata al trasplantar, con hojas y raíces en cada parte, o corta un tallo con varias hojas.",
+        "Planta cada parte o esqueje en sustrato drenante y mantenlo con calor y luz indirecta."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Raíces podridas y planta mustia",
+      "cause": "Exceso de riego o agua fría.",
+      "fix": "Deja que el sustrato se seque un poco entre riegos y usa agua a temperatura ambiente."
+    },
+    {
+      "symptom": "Hojas marrones",
+      "cause": "Aire muy seco o lugar con corrientes.",
+      "fix": "Apártala de corrientes y fuentes de calor y aumenta la humedad."
+    },
+    {
+      "symptom": "Pulgones, cochinilla, telarañas o costras",
+      "cause": "Pulgones, cochinilla algodonosa, araña roja o escamas.",
+      "fix": "Limpia las hojas, aísla la planta y trata según la etiqueta si hace falta."
+    },
+    {
+      "symptom": "Flores que restan vigor",
+      "cause": "La floración y los frutos consumen energía.",
+      "fix": "Quita las flores y los frutos para que la planta dedique su energía a las hojas."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿La aglaonema es tóxica para gatos y perros?",
+      "a": "Sí. Según la ASPCA es tóxica para perros y gatos por sus oxalatos de calcio insolubles: irrita la boca y causa babeo, vómitos y dificultad para tragar."
+    }
+  ],
+  "sources": [
+    { "name": "NC State Extension: Aglaonema", "url": "https://plants.ces.ncsu.edu/plants/aglaonema/" }
+  ]
+}

@@ -13,6 +13,15 @@
   "summary": "Los geranios de balcón, malvones en el Río de la Plata, son perennes que aguantan muy bien la sequía pero no las heladas. Con sol, riego moderado y abono rico en potasio durante la floración, florecen sin parar de primavera a otoño.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "sol",
+      "semisombra"
+    ],
+    "place": [
+      "exterior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Sol pleno",

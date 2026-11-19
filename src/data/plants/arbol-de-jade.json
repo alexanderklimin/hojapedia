@@ -13,6 +13,16 @@
   "summary": "El árbol de jade es una suculenta de tronco grueso y hojas carnosas que vive décadas en maceta. Le gusta mucho la luz, se riega poco y se multiplica con facilidad por esquejes. Su peor enemigo es el exceso de agua.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "sol",
+      "semisombra"
+    ],
+    "place": [
+      "interior",
+      "exterior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Mucha luz, algo de sol directo",

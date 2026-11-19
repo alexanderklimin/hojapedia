@@ -12,6 +12,14 @@
   "summary": "Las calatheas tienen algunas de las hojas más decorativas de interior, pero son exigentes: quieren sustrato siempre algo húmedo, humedad alta, temperatura estable y nada de sol directo. Si fallan la humedad o el agua, avisan rápido con hojas enrolladas o bordes marrones.",
   "difficulty": "exigente",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra"
+    ],
+    "place": [
+      "interior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Luz brillante sin sol directo",

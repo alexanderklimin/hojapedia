@@ -13,6 +13,14 @@
   "summary": "El ciclamen florece en los meses frescos y descansa en verano. Le gustan la luz brillante indirecta y el fresco, y hay que regarlo sin mojar el tubérculo. Cuando en verano amarillea y pierde las hojas, no se está muriendo: entra en reposo y puede volver a florecer.",
   "difficulty": "media",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra"
+    ],
+    "place": [
+      "interior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Luz brillante indirecta",

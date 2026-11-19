@@ -1,6 +1,10 @@
 {
   "name": "Orquídea",
-  "synonyms": ["orquídea mariposa", "falenopsis", "Phalaenopsis"],
+  "synonyms": [
+    "orquídea mariposa",
+    "falenopsis",
+    "Phalaenopsis"
+  ],
   "scientific": "Phalaenopsis spp.",
   "family": "Orchidaceae",
   "origin": "Epífita tropical: en la naturaleza crece sobre ramas de árboles, no en tierra.",
@@ -9,6 +13,14 @@
   "summary": "La orquídea mariposa (Phalaenopsis) es la orquídea más vendida para interior. No vive en tierra sino en corteza: sus raíces necesitan aire, luz y agua sin encharcamiento. Con luz brillante sin sol directo de verano y un descenso de temperatura nocturna en otoño, vuelve a florecer cada año.",
   "difficulty": "media",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra"
+    ],
+    "place": [
+      "interior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Mucha luz, sin sol directo de verano",
@@ -110,7 +122,13 @@
     }
   ],
   "sources": [
-    { "name": "RHS: How to grow Phalaenopsis (moth orchids)", "url": "https://www.rhs.org.uk/plants/phalaenopsis/growing-guide" },
-    { "name": "American Orchid Society: Phalaenopsis culture sheet", "url": "https://www.aos.org/orchid-care/care-sheets/phalaenopsis-culture-sheet" }
+    {
+      "name": "RHS: How to grow Phalaenopsis (moth orchids)",
+      "url": "https://www.rhs.org.uk/plants/phalaenopsis/growing-guide"
+    },
+    {
+      "name": "American Orchid Society: Phalaenopsis culture sheet",
+      "url": "https://www.aos.org/orchid-care/care-sheets/phalaenopsis-culture-sheet"
+    }
   ]
 }

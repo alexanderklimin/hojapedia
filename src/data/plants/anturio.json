@@ -1,6 +1,9 @@
 {
   "name": "Anturio",
-  "synonyms": ["anthurium", "flor de flamenco"],
+  "synonyms": [
+    "anthurium",
+    "flor de flamenco"
+  ],
   "scientific": "Anthurium andraeanum",
   "family": "Araceae",
   "origin": "Selvas de Colombia y Ecuador, donde crece como epífita bajo el dosel.",
@@ -9,6 +12,14 @@
   "summary": "El anturio es una planta tropical de hojas brillantes y espatas rojas, rosas o blancas que duran semanas. Con luz brillante sin sol directo, humedad alta y abono en temporada, florece varias veces al año.",
   "difficulty": "media",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra"
+    ],
+    "place": [
+      "interior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Luz brillante indirecta",
@@ -105,6 +116,9 @@
     }
   ],
   "sources": [
-    { "name": "NC State Extension: Anthurium andraeanum", "url": "https://plants.ces.ncsu.edu/plants/anthurium-andraeanum/" }
+    {
+      "name": "NC State Extension: Anthurium andraeanum",
+      "url": "https://plants.ces.ncsu.edu/plants/anthurium-andraeanum/"
+    }
   ]
 }

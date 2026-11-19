@@ -1,0 +1,113 @@
+{
+  "name": "Maranta",
+  "synonyms": [
+    "planta de la oración",
+    "maranta tricolor",
+    "Maranta leuconeura"
+  ],
+  "scientific": "Maranta leuconeura",
+  "family": "Marantaceae",
+  "origin": "Brasil.",
+  "title": "Maranta: cuidados, riego, humedad y hojas sin color",
+  "description": "Cuidados de la maranta o planta de la oración: luz, riego en verano e invierno, humedad, por qué pierde el color y si es segura para gatos y perros.",
+  "summary": "La maranta, o planta de la oración, tiene hojas con dibujos de colores muy decorativos. Tolera poca luz pero no el sol directo, y necesita humedad alta y sustrato húmedo durante la época de crecimiento.",
+  "difficulty": "media",
+  "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra",
+      "sombra"
+    ],
+    "place": [
+      "interior"
+    ]
+  },
+  "care": {
+    "light": {
+      "short": "Luz indirecta; tolera poca luz",
+      "text": "Prefiere luz brillante indirecta y tolera luz baja o media. No soporta el sol directo, que destiñe el color de las hojas."
+    },
+    "water": {
+      "short": "Húmedo en crecimiento; dejar secar en invierno",
+      "text": "Mantén el sustrato uniformemente húmedo durante la época de crecimiento. En invierno, riega menos y deja que se seque entre riegos. Un sustrato que drene mal pudre las raíces.",
+      "growing": "Mantener uniformemente húmedo.",
+      "rest": "Dejar secar entre riegos."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": null,
+      "idealMaxC": null,
+      "short": "Cálida; nada de frío ni corrientes",
+      "text": "No tolera las temperaturas bajas ni las corrientes de aire frío. La fuente no indica cifras."
+    },
+    "humidity": {
+      "short": "Alta",
+      "text": "Necesita humedad alta: ponla en una habitación con humidificador o sobre un plato con guijarros húmedos."
+    },
+    "substrate": {
+      "short": "Bien drenado",
+      "text": "La fuente consultada no detalla el sustrato. Usa uno para plantas de interior que drene bien, porque el encharcamiento pudre las raíces.",
+      "pot": "Con agujeros de drenaje."
+    },
+    "fertilizer": {
+      "short": "Poco y diluido",
+      "text": "El exceso de abono quema las hojas. Si abonas, hazlo en primavera y verano con poca dosis, según la etiqueta."
+    }
+  },
+  "toxicity": {
+    "cats": "no-toxica",
+    "dogs": "no-toxica",
+    "aspcaName": "Prayer Plant / Maranta (la ficha de la ASPCA cita Calathea insignis)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/prayer-plant",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por división del rizoma",
+      "when": "En primavera, al trasplantar",
+      "steps": [
+        "Saca la planta y separa la mata por el rizoma, con hojas y raíces en cada trozo.",
+        "Planta cada trozo en sustrato drenante y mantén humedad alta hasta que se recupere."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Hojas descoloridas",
+      "cause": "Sol directo, poca luz o falta de nutrientes.",
+      "fix": "Dale luz brillante indirecta y abona ligeramente en temporada."
+    },
+    {
+      "symptom": "Hojas quemadas en los bordes",
+      "cause": "Flúor del agua o exceso de abono.",
+      "fix": "Usa agua de lluvia o filtrada y reduce el abono."
+    },
+    {
+      "symptom": "Raíces podridas",
+      "cause": "Sustrato que drena mal.",
+      "fix": "Trasplanta a sustrato drenante y riega menos en invierno."
+    },
+    {
+      "symptom": "Hojas enrolladas o secas",
+      "cause": "Humedad baja o corrientes frías.",
+      "fix": "Aumenta la humedad y apártala de puertas y ventanas con corriente."
+    },
+    {
+      "symptom": "Telarañas o bolitas blancas",
+      "cause": "Araña roja o cochinilla algodonosa.",
+      "fix": "Sube la humedad, limpia las hojas y aísla la planta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿La maranta es tóxica para gatos y perros?",
+      "a": "La ASPCA clasifica las entradas «Prayer Plant» y «Maranta» como no tóxicas para perros, gatos y caballos. Ojo: esas fichas citan la especie Calathea insignis, no Maranta leuconeura, así que no está confirmado para esta especie concreta."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NC State Extension: Maranta leuconeura",
+      "url": "https://plants.ces.ncsu.edu/plants/maranta-leuconeura/"
+    }
+  ]
+}

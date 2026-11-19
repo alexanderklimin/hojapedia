@@ -1,6 +1,10 @@
 {
   "name": "Cheflera",
-  "synonyms": ["schefflera", "árbol paraguas", "Schefflera arboricola"],
+  "synonyms": [
+    "schefflera",
+    "árbol paraguas",
+    "Schefflera arboricola"
+  ],
   "scientific": "Heptapleurum arboricola (antes Schefflera arboricola)",
   "family": "Araliaceae",
   "origin": "Taiwán y el sur de China.",
@@ -9,6 +13,14 @@
   "summary": "La cheflera o árbol paraguas es una planta de interior de hojas palmeadas, resistente y fácil de mantener compacta. Pide luz filtrada, riegos a fondo dejando secar entre medias y humedad alta. Su punto débil son las plagas como la araña roja y la cochinilla.",
   "difficulty": "fácil",
   "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "semisombra"
+    ],
+    "place": [
+      "interior"
+    ]
+  },
   "care": {
     "light": {
       "short": "Luz filtrada; nada de sol fuerte",
@@ -90,6 +102,9 @@
     }
   ],
   "sources": [
-    { "name": "NC State Extension: Heptapleurum arboricola", "url": "https://plants.ces.ncsu.edu/plants/schefflera-arboricola/" }
+    {
+      "name": "NC State Extension: Heptapleurum arboricola",
+      "url": "https://plants.ces.ncsu.edu/plants/schefflera-arboricola/"
+    }
   ]
 }
