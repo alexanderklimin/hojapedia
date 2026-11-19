@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import photos from '../data/photos.json';
+
+const plants = await getCollection('plants');
+const guides = await getCollection('guides');
+const names = Object.fromEntries([...plants, ...guides].map((e) => [e.id, e.data.name]));
+const rows = Object.entries(photos as Record<string, { author: string; license: string; licenseUrl?: string; source: string; title: string }>)
+  .sort(([a], [b]) => (names[a] ?? a).localeCompare(names[b] ?? b, 'es'));
+const crumbs = [{ name: 'Inicio', path: '/' }, { name: 'Créditos de fotos', path: '/creditos-de-fotos/' }];
+---
+<Base title="Créditos de las fotos" description="Autores y licencias de las fotografías de Hojapedia, procedentes de Wikimedia Commons con licencias libres (CC BY, CC BY-SA, CC0 y dominio público)." crumbs={crumbs}>
+  <h1>Créditos de las fotos</h1>
+  <p class="lead">Las fotografías proceden de Wikimedia Commons y se usan según sus licencias libres. Gracias a sus autores.</p>
+  <div class="table-scroll">
+    <table>
+      <thead><tr><th scope="col">Página</th><th scope="col">Archivo</th><th scope="col">Autor</th><th scope="col">Licencia</th></tr></thead>
+      <tbody>
+        {rows.map(([slug, p]) => (
+          <tr>
+            <th scope="row">{names[slug] ?? slug}</th>
+            <td><a href={p.source} rel="noopener">{p.title.replace(/^File:/, '')}</a></td>
+            <td>{p.author}</td>
+            <td>{p.licenseUrl ? <a href={p.licenseUrl} rel="noopener license">{p.license}</a> : p.license}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="muted small">Las imágenes se han redimensionado y comprimido para la web. Si eres autor de alguna y ves un error en el crédito, escríbenos y lo corregimos.</p>
+</Base>

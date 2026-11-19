@@ -7,6 +7,8 @@ import { formatDate, petLabel, petVerdict, temperatureLine } from '../../lib/for
 import { SITE_NAME } from '../../data/site.js';
 import { guidesForPlant, guidePath } from '../../lib/related.js';
 import { GROUPS } from '../../data/groups.js';
+import PlantPhoto from '../../components/PlantPhoto.astro';
+import photos from '../../data/photos.json';
 
 export async function getStaticPaths() {
   const plants = await getCollection('plants');
@@ -25,6 +27,7 @@ const checked = formatDate(p.toxicity.checked);
 const guides = (await getCollection('guides')).filter((g) => guidesForPlant(p, [g.data]).length > 0);
 
 const group = GROUPS[p.traits.group];
+const hasPhoto = plant.id in photos;
 const quick = [
   { icon: 'sun', label: 'Luz', value: p.care.light.short, href: '#luz', tone: 'sun' },
   { icon: 'droplet', label: 'Riego', value: p.care.water.short, href: '#riego', tone: 'water' },
@@ -79,19 +82,24 @@ const crumbs = [
 ---
 <Base title={p.title} description={p.description} crumbs={crumbs} jsonLd={jsonLd} ogType="article">
   <article>
-    <header class="plant-head">
-      <span class:list={['avatar', 'lg', `g-${p.traits.group}`]} title={group.label}><Icon name={group.icon as never} size={34} /></span>
+    <div class:list={['intro', hasPhoto && 'with-photo']}>
       <div>
-        <span class="eyebrow">Ficha de cuidados</span>
-        <h1>{p.name}: cuidados</h1>
-        <p class="names"><em>{p.scientific}</em> · {p.family}{p.synonyms.length > 0 && <> · también {p.synonyms.filter((s) => s !== p.scientific).slice(0, 3).join(', ')}</>}</p>
+        <header class="plant-head">
+          {!hasPhoto && <span class:list={['avatar', 'lg', `g-${p.traits.group}`]} title={group.label}><Icon name={group.icon as never} size={34} /></span>}
+          <div>
+            <span class="eyebrow">Ficha de cuidados</span>
+            <h1>{p.name}: cuidados</h1>
+            <p class="names"><em>{p.scientific}</em> · {p.family}{p.synonyms.length > 0 && <> · también {p.synonyms.filter((s) => s !== p.scientific).slice(0, 3).join(', ')}</>}</p>
+          </div>
+        </header>
+        <p class="lead">{p.summary}</p>
+        <p class="tags">
+          <span class="pill">Dificultad: {p.difficulty}</span>
+          <a class:list={['pill', pets.tone]} href="#mascotas"><Icon name={pets.tone === 'ok' ? 'paw-print' : 'triangle-alert'} size={15} /> {pets.text}</a>
+        </p>
       </div>
-    </header>
-    <p class="lead">{p.summary}</p>
-    <p class="tags">
-      <span class="pill">Dificultad: {p.difficulty}</span>
-      <a class:list={['pill', pets.tone]} href="#mascotas"><Icon name={pets.tone === 'ok' ? 'paw-print' : 'triangle-alert'} size={15} /> {pets.text}</a>
-    </p>
+      {hasPhoto && <PlantPhoto slug={plant.id} alt={`${p.name} (${p.scientific})`} eager />}
+    </div>
 
     <section aria-labelledby="resumen">
       <h2 id="resumen" class="visually-hidden">Resumen de cuidados</h2>
@@ -138,10 +146,22 @@ const crumbs = [
         <h2 id="mascotas">¿Es tóxica para gatos y perros?</h2>
         <div class:list={['pets', pets.tone]}>
           <p class="pets-verdict"><Icon name={pets.tone === 'ok' ? 'paw-print' : 'triangle-alert'} /> {pets.text}</p>
-          <ul>
+          {pets.tone === 'mixed' && <p>Unas especies son tóxicas y otras no. Comprueba la tuya en la lista:</p>}
+          <ul class:list={[p.toxicity.species && 'visually-hidden']}>
             <li><Icon name="cat" size={18} /> Gatos: <strong>{petLabel(p.toxicity.cats)}</strong></li>
             <li><Icon name="dog" size={18} /> Perros: <strong>{petLabel(p.toxicity.dogs)}</strong></li>
           </ul>
+          {p.toxicity.species && (
+            <ul class="species">
+              {p.toxicity.species.map((sp) => (
+                <li>
+                  <span>{sp.plant ? <a href={`/plantas/${sp.plant}/`}>{sp.name}</a> : sp.name} <em class="muted">({sp.scientific})</em></span>
+                  <span class:list={['pill', sp.cats === 'no-toxica' && sp.dogs === 'no-toxica' ? 'ok' : 'bad']}>{sp.cats === 'no-toxica' && sp.dogs === 'no-toxica' ? 'No tóxica' : 'Tóxica'}</span>
+                  <a class="small" href={sp.aspcaUrl} rel="noopener">ASPCA</a>
+                </li>
+              ))}
+            </ul>
+          )}
           {p.toxicity.principles && <p><strong>Sustancia tóxica:</strong> {p.toxicity.principles}.</p>}
           {p.toxicity.signs && <p><strong>Síntomas posibles:</strong> {p.toxicity.signs}.</p>}
           {pets.tone === 'bad' && <p>Si tu mascota ha mordido o comido la planta, llama a tu veterinario.</p>}
@@ -208,6 +228,8 @@ const crumbs = [
   .plant-head h1 { margin: 0.15rem 0 0.25rem; }
   .names { margin: 0; color: var(--muted); font-size: 0.95rem; }
   .plant-head + .lead { margin-top: 1.25rem; max-width: 46rem; }
+  .intro.with-photo { display: grid; gap: 1.5rem; align-items: center; }
+  @media (min-width: 52rem) { .intro.with-photo { grid-template-columns: minmax(0, 1fr) minmax(0, 26rem); gap: 2.5rem; } }
   .tags { display: flex; flex-wrap: wrap; gap: 0.4rem; }
   .tags a.pill { text-decoration: none; }
   .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
@@ -243,6 +265,11 @@ const crumbs = [
   .pets { border-radius: var(--radius); padding: 1.1rem 1.25rem; }
   .pets.ok { background: var(--ok-soft); }
   .pets.bad { background: var(--bad-soft); }
+  .pets.mixed { background: var(--sun-soft); }
+  .pets.mixed .pets-verdict { color: var(--sun); }
+  .species { list-style: none; padding: 0; margin: 0.6rem 0; display: grid !important; gap: 0.4rem; }
+  .species li { display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem 0.6rem; padding: 0.45rem 0; border-bottom: 1px solid rgb(0 0 0 / 7%); }
+  .species li > span:first-child { flex: 1 1 14rem; }
   .pets p { margin: 0.4rem 0; }
   .pets ul { list-style: none; padding: 0; margin: 0.4rem 0; display: flex; flex-wrap: wrap; gap: 0.3rem 1.5rem; }
   .pets-verdict { font-family: var(--serif); font-weight: 650; font-size: 1.3rem; }

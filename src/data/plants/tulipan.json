@@ -1,0 +1,132 @@
+{
+  "name": "Tulipán",
+  "synonyms": [
+    "tulipanes",
+    "Tulipa"
+  ],
+  "scientific": "Tulipa spp.",
+  "family": "Liliaceae",
+  "origin": "Del sur de Europa a Asia central. Prefiere inviernos frescos y húmedos y veranos cálidos y secos.",
+  "title": "Tulipanes: cuándo plantarlos, cuidados y qué hacer tras florecer",
+  "description": "Cómo cuidar tulipanes: cuándo y a qué profundidad plantar los bulbos en cada hemisferio, riego, abono, qué hacer después de la floración y si son tóxicos.",
+  "summary": "Los tulipanes se plantan como bulbos en otoño y florecen en primavera. Necesitan sol, un suelo que drene bien y el frío del invierno. Tras la floración hay que dejar que las hojas se sequen solas: así el bulbo recupera fuerzas. Todas sus partes, y sobre todo el bulbo, son tóxicas para gatos y perros.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "sol"
+    ],
+    "place": [
+      "exterior"
+    ],
+    "group": "flor"
+  },
+  "care": {
+    "light": {
+      "short": "Sol pleno: 6 horas o más",
+      "text": "Necesitan sol pleno, al menos seis horas de sol directo; algunos toleran algo de sombra ligera. Los tulipanes botánicos prefieren semisombra y suelo húmedo."
+    },
+    "water": {
+      "short": "Solo en rachas secas; en maceta, sin encharcar",
+      "text": "En el jardín no suelen necesitar riego si el suelo se mantiene húmedo: riega solo si pasan más de dos o tres semanas sin llover, sin encharcar. Desde que asoman las hojas hasta el final de la floración, riega en tiempo seco: la falta de agua acorta la floración. Si las macetas se empapan con lluvias antes de brotar, ponlas a cubierto hasta que se sequen.",
+      "growing": "Desde que salen las hojas: regar en tiempo seco.",
+      "rest": "Tras la floración, cuando las hojas amarillean, dejar de regar."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": null,
+      "idealMaxC": null,
+      "short": "Necesita invierno fresco; teme el calor",
+      "text": "Necesitan inviernos fríos: florecen peor cuando el suelo supera unos 21 °C, por eso en climas cálidos rinden poco. En inviernos muy fríos, plántalos más hondos. Los bulbos que se sacan de la tierra se guardan a 18–20 °C."
+    },
+    "humidity": {
+      "short": "Sin requisitos especiales",
+      "text": "Las fuentes no indican requisitos de humedad ambiental; lo importante es que el suelo no se encharque."
+    },
+    "substrate": {
+      "short": "Fértil y muy drenante",
+      "text": "Prefieren suelo fértil y bien drenado, de neutro a alcalino; si el pH es inferior a 6, añade cal. En macetas, mezcla tres partes de sustrato universal con una de grava; si van a durar más de una temporada, mejor sustrato con tierra y grava.",
+      "pot": "Con drenaje; en una maceta de 45 cm caben unos 12 bulbos, o hasta 20 para una floración más densa."
+    },
+    "fertilizer": {
+      "short": "Potasio desde que brotan",
+      "text": "Si quieres que vuelvan a florecer, abona cada semana desde que crecen las hojas con un abono líquido rico en potasio (como el de tomates), según la etiqueta, hasta que las hojas amarilleen. Los tulipanes de temporada que se desechan tras florecer no necesitan abono."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "tulipalina A y B (más concentradas en el bulbo)",
+    "signs": "vómitos, decaimiento, diarrea y salivación excesiva",
+    "aspcaName": "Tulip",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tulip",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por bulbillos (hijuelos)",
+      "when": "Al sacar los bulbos en verano; se replantan en otoño",
+      "steps": [
+        "Cuando las hojas amarilleen, unas seis semanas después de florecer, saca los bulbos.",
+        "Separa los bulbillos pequeños y guárdalos secos durante el verano.",
+        "En otoño, plántalos a 20 cm de profundidad como mínimo. Los más pequeños pueden tardar tres o cuatro años en florecer."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "No florecen al año siguiente",
+      "cause": "El bulbo no recuperó reservas: faltó abono o se cortaron las hojas antes de tiempo. Muchos tulipanes de jardín no repiten bien.",
+      "fix": "Abona con potasio mientras crecen y deja que las hojas se sequen solas. Para que repitan, elige híbridos Darwin o tulipanes Kaufmanniana."
+    },
+    {
+      "symptom": "Bulbos pequeños que no florecen",
+      "cause": "Plantación demasiado superficial.",
+      "fix": "Replanta a una profundidad de al menos tres veces la altura del bulbo."
+    },
+    {
+      "symptom": "Tallos cortos",
+      "cause": "Plantación tardía o inviernos suaves.",
+      "fix": "Planta los bulbos a tiempo, en otoño."
+    },
+    {
+      "symptom": "Bulbos podridos",
+      "cause": "Suelo encharcado o mal drenado.",
+      "fix": "Planta en suelo o sustrato bien drenado, con grava. Si aparece podredumbre, retira las plantas afectadas y no plantes tulipanes en ese sitio en cinco años."
+    },
+    {
+      "symptom": "Pétalos y hojas con rayas o manchas",
+      "cause": "Virus del tulipán, fuego del tulipán o moho gris.",
+      "fix": "Retira y desecha las plantas afectadas."
+    },
+    {
+      "symptom": "Bulbos desenterrados u hojas comidas",
+      "cause": "Ardillas, ratones o babosas.",
+      "fix": "Protege los bulbos con malla metálica al plantarlos."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cuándo se plantan los tulipanes?",
+      "a": "En otoño, con el bulbo seco: de septiembre a noviembre en el hemisferio norte y de marzo a mayo en el hemisferio sur. Plántalos con la punta hacia arriba, a una profundidad de dos a tres veces su altura y separados al menos el doble de su anchura."
+    },
+    {
+      "q": "¿Qué hago con los tulipanes cuando se secan las flores?",
+      "a": "Corta la flor seca por encima de las hojas y deja las hojas hasta que amarilleen y se sequen. Después puedes sacar los bulbos, secarlos hasta que la piel parezca papel y guardarlos en un lugar seco, oscuro y ventilado, a 18–20 °C, hasta replantarlos en otoño."
+    },
+    {
+      "q": "¿Los tulipanes son tóxicos para gatos y perros?",
+      "a": "Sí. Según la ASPCA son tóxicos para perros y gatos por la tulipalina A y B, sobre todo el bulbo: pueden causar vómitos, diarrea, decaimiento y salivación. Guarda los bulbos fuera de su alcance. También pueden irritar la piel: usa guantes al manipularlos."
+    }
+  ],
+  "sources": [
+    {
+      "name": "RHS: How to grow tulips",
+      "url": "https://www.rhs.org.uk/plants/tulip/growing-guide"
+    },
+    {
+      "name": "NC State Extension: Tulipa",
+      "url": "https://plants.ces.ncsu.edu/plants/tulipa/"
+    }
+  ]
+}

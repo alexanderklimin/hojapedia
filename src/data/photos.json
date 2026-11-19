@@ -1,0 +1,38 @@
+{
+  "orquidea": {
+    "file": "orquidea.jpg",
+    "title": "File:Phalaenopsis Cultivar White 01.jpg",
+    "author": "Uoaei1",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_Cultivar_White_01.jpg",
+    "alt": "Orquídea Phalaenopsis de flores blancas"
+  },
+  "sansevieria": {
+    "file": "sansevieria.jpg",
+    "title": "File:Snake plant.jpg",
+    "author": "Martin Olsson (mnemo on wikipedia and commons, martin@minimum.se)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Snake_plant.jpg",
+    "alt": "Sansevieria de hojas con borde amarillo junto a una ventana"
+  },
+  "potus": {
+    "file": "potus.jpg",
+    "title": "File:Epipremnum aureum 31082012.jpg",
+    "author": "Joydeep",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Epipremnum_aureum_31082012.jpg",
+    "alt": "Hojas de potus verdes con jaspeado amarillo"
+  },
+  "dracaena": {
+    "file": "dracaena.jpg",
+    "title": "File:Dracaena fragrans a1.jpg",
+    "author": "Jerzy Opioła",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dracaena_fragrans_a1.jpg",
+    "alt": "Dracena de hojas largas con bordes amarillos en maceta"
+  }
+}

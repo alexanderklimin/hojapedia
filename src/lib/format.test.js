@@ -15,6 +15,8 @@ test('pet labels and verdicts', () => {
   assert.equal(petVerdict({ cats: 'toxica', dogs: 'toxica' }).text, 'Tóxica para gatos y perros');
   assert.equal(petVerdict({ cats: 'toxica', dogs: 'no-toxica' }).text, 'Tóxica para gatos');
   assert.equal(petVerdict({ cats: 'no-toxica', dogs: 'toxica' }).tone, 'bad');
+  assert.deepEqual(petVerdict({ cats: 'variable', dogs: 'variable' }), { tone: 'mixed', text: 'Depende de la especie' });
+  assert.equal(petLabel('variable'), 'Depende de la especie');
 });
 
 test('temperature never shows an invented minimum', () => {

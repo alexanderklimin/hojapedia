@@ -9,6 +9,8 @@ import { z } from 'astro/zod';
 const source = z.object({ name: z.string().min(3), url: z.url() });
 const isoDate = z.string().regex(/^\d{4}-\d{2}-\d{2}$/);
 const petStatus = z.enum(['toxica', 'no-toxica']);
+// Group pages (succulents, cacti, bonsai…): toxicity depends on the species.
+const groupStatus = z.enum(['toxica', 'no-toxica', 'variable']);
 
 const plants = defineCollection({
   loader: glob({ pattern: '*.json', base: './src/data/plants' }),
@@ -47,14 +49,24 @@ const plants = defineCollection({
       fertilizer: z.object({ short: z.string(), text: z.string() }),
     }),
     toxicity: z.object({
-      cats: petStatus,
-      dogs: petStatus,
+      cats: groupStatus,
+      dogs: groupStatus,
       principles: z.string().optional(),
       signs: z.string().optional(),
       aspcaName: z.string(),
       aspcaUrl: z.url().startsWith('https://www.aspca.org/'),
       checked: isoDate,
-    }),
+      // Required when cats or dogs is 'variable': one ASPCA entry per common species.
+      species: z.array(z.object({
+        name: z.string(),
+        scientific: z.string(),
+        cats: petStatus,
+        dogs: petStatus,
+        aspcaName: z.string(),
+        aspcaUrl: z.url().startsWith('https://www.aspca.org/'),
+        plant: z.string().optional(),
+      })).optional(),
+    }).refine((t) => (t.cats !== 'variable' && t.dogs !== 'variable') || (t.species?.length ?? 0) >= 3, 'Grupo: faltan especies con su ficha ASPCA'),
     propagation: z.array(z.object({
       method: z.string(),
       when: z.string(),

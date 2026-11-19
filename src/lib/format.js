@@ -10,11 +10,13 @@ export function formatDate(iso) {
 export function petLabel(status) {
   if (status === 'toxica') return 'Tóxica';
   if (status === 'no-toxica') return 'No tóxica';
+  if (status === 'variable') return 'Depende de la especie';
   throw new RangeError(`Estado desconocido: ${status}`);
 }
 
 // One-line verdict for cats and dogs together.
 export function petVerdict({ cats, dogs }) {
+  if (cats === 'variable' || dogs === 'variable') return { tone: 'mixed', text: 'Depende de la especie' };
   if (cats === 'no-toxica' && dogs === 'no-toxica') return { tone: 'ok', text: 'No tóxica para gatos ni perros' };
   if (cats === 'toxica' && dogs === 'toxica') return { tone: 'bad', text: 'Tóxica para gatos y perros' };
   return { tone: 'bad', text: cats === 'toxica' ? 'Tóxica para gatos' : 'Tóxica para perros' };

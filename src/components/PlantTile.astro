@@ -3,14 +3,19 @@ import type { CollectionEntry } from 'astro:content';
 import Icon from './Icon.astro';
 import { GROUPS } from '../data/groups.js';
 import { isPetSafe } from '../lib/finder.js';
+import PlantPhoto from './PlantPhoto.astro';
+import photos from '../data/photos.json';
 
 interface Props { plant: CollectionEntry<'plants'>; meta?: 'light' | 'scientific' }
 const { plant, meta = 'light' } = Astro.props;
 const d = plant.data;
 const group = GROUPS[d.traits.group];
+const hasPhoto = plant.id in photos;
 ---
 <a class="tile" href={`/plantas/${plant.id}/`}>
-  <span class:list={['avatar', `g-${d.traits.group}`]} title={group.label}><Icon name={group.icon as never} size={22} /></span>
+  <span class:list={['avatar', `g-${d.traits.group}`, hasPhoto && 'has-photo']} title={group.label}>
+    {hasPhoto ? <PlantPhoto slug={plant.id} alt={d.name} variant="thumb" /> : <Icon name={group.icon as never} size={22} />}
+  </span>
   <span class="tile-body">
     <strong>{d.name}</strong>
     <span class="tile-meta">{meta === 'light' ? d.care.light.short : d.scientific}</span>

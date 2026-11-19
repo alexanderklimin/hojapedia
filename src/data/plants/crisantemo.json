@@ -1,0 +1,139 @@
+{
+  "name": "Crisantemo",
+  "synonyms": [
+    "crisantemos",
+    "Chrysanthemum × morifolium"
+  ],
+  "scientific": "Chrysanthemum × morifolium",
+  "family": "Asteraceae",
+  "origin": "Asia: híbrido de varias especies chinas.",
+  "title": "Crisantemos: cuidados, riego, poda y por qué no florecen",
+  "description": "Cuidados del crisantemo en maceta y en el jardín: luz, riego, cuándo despuntarlo, por qué no florece (necesita noches largas) y si es tóxico para mascotas.",
+  "summary": "El crisantemo florece cuando las noches se alargan, en otoño. Necesita sol, riego regular y un despunte en primavera para formar una mata compacta. Ojo: los crisantemos de floristería en maceta no suelen aguantar el invierno a la intemperie, a diferencia de los de jardín.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "sol"
+    ],
+    "place": [
+      "exterior",
+      "interior"
+    ],
+    "group": "flor"
+  },
+  "care": {
+    "light": {
+      "short": "Sol: 6 horas o más",
+      "text": "Necesita al menos seis horas de sol directo; con demasiada sombra la planta se abre y se tumba. Evita los lugares iluminados por farolas o luces de la casa por la noche: la luz nocturna retrasa o impide la floración."
+    },
+    "water": {
+      "short": "Regular; en maceta, cuando se seque la superficie",
+      "text": "En el jardín, mantén el suelo con humedad constante y un acolchado de unos 5 cm; en épocas secas, riega cada 7–10 días. En maceta, riega cuando la superficie esté seca al tacto hasta que el agua salga por abajo; si viene envuelto en papel decorativo, levántalo para regar y que no quede agua dentro.",
+      "growing": "Humedad constante; regar a fondo en épocas secas.",
+      "rest": "Menos riego en invierno."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": 16,
+      "idealMaxC": 21,
+      "text": "Los crisantemos de floristería están mejor en interior a 16–21 °C y no son resistentes al invierno al aire libre en climas fríos. Los de jardín aguantan mucho más frío."
+    },
+    "humidity": {
+      "short": "Sin requisitos especiales",
+      "text": "Las fuentes no indican requisitos de humedad ambiental."
+    },
+    "substrate": {
+      "short": "Húmedo y bien drenado",
+      "text": "Necesita suelo húmedo pero bien drenado, enriquecido con materia orgánica, de pH 6 a 8. Evita los lugares encharcados; en suelos duros, añade 5–7 cm de materia orgánica.",
+      "pot": "Con agujeros de drenaje."
+    },
+    "fertilizer": {
+      "short": "Liberación lenta en primavera",
+      "text": "En el jardín, usa un abono de liberación lenta cuando empiece el crecimiento en primavera, según la etiqueta. No te pases: el exceso de abono da plantas largas que se tumban. Si quieres que pase el invierno, no abones en verano."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "lactonas sesquiterpénicas, piretrinas y otras sustancias irritantes",
+    "signs": "vómitos, diarrea, salivación excesiva, falta de coordinación y dermatitis",
+    "aspcaName": "Chrysanthemum",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chrysanthemum",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes",
+      "when": "En primavera o principios de verano",
+      "steps": [
+        "Corta los 8–10 cm superiores de un brote sin flor.",
+        "Quita las hojas de abajo y moja la base en hormona de enraizamiento, según la etiqueta.",
+        "Clávalo en arena gruesa o perlita y mantenlo húmedo: enraíza en 4–5 semanas."
+      ]
+    },
+    {
+      "method": "Por división",
+      "when": "A principios de primavera, cada 2–3 años",
+      "steps": [
+        "Saca la mata y divídela en trozos con varios brotes y raíces.",
+        "Replanta los trozos a la misma profundidad, separados 45–60 cm."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "No florece o florece tarde",
+      "cause": "Luz artificial por la noche: necesita noches largas y oscuras para formar flores.",
+      "fix": "Aléjalo de farolas y luces exteriores o interiores encendidas de noche."
+    },
+    {
+      "symptom": "Planta alta, floja y que se tumba",
+      "cause": "Exceso de abono o demasiada sombra.",
+      "fix": "Usa solo abono de liberación lenta, dale más sol y despúntalo en primavera."
+    },
+    {
+      "symptom": "El crisantemo de jardín no sobrevive al invierno",
+      "cause": "Abono en verano, poda en otoño o raíces levantadas por las heladas.",
+      "fix": "No abones en verano, deja los tallos viejos en pie durante el invierno y acolcha con paja o pinocha."
+    },
+    {
+      "symptom": "El crisantemo de maceta muere fuera en invierno",
+      "cause": "Los de floristería no son resistentes al frío.",
+      "fix": "Disfrútalo en interior o como planta de temporada."
+    },
+    {
+      "symptom": "Pulgones, trips o telarañas",
+      "cause": "Plagas frecuentes del crisantemo.",
+      "fix": "Revisa el envés de las hojas y empieza por chorros de agua; consulta la guía de pulgones."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cuándo se despunta el crisantemo?",
+      "a": "Despunta los brotes dos o tres veces en primavera y principios de verano, cuando midan unos 15 cm, para que la mata salga compacta y con más flores. Deja de despuntar a principios de julio en el hemisferio norte (principios de enero en el sur) para no retrasar la floración."
+    },
+    {
+      "q": "¿El crisantemo es tóxico para gatos y perros?",
+      "a": "Sí. Según la ASPCA es tóxico para perros y gatos: puede causar vómitos, diarrea, salivación, falta de coordinación y dermatitis."
+    },
+    {
+      "q": "¿Por qué el crisantemo florece en otoño?",
+      "a": "Porque es una planta de día corto: forma los botones cuando las noches se alargan a finales de verano. Por eso cualquier luz nocturna puede retrasar o impedir la floración."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Iowa State University Extension: Growing chrysanthemums",
+      "url": "https://yardandgarden.extension.iastate.edu/how-to/growing-chrysanthemums-iowa"
+    },
+    {
+      "name": "UF/IFAS Gardening Solutions: Chrysanthemums",
+      "url": "https://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/chrysanthemums/"
+    },
+    {
+      "name": "NC State Extension: Chrysanthemum × morifolium",
+      "url": "https://plants.ces.ncsu.edu/plants/chrysanthemum-x-morifolium/"
+    }
+  ]
+}

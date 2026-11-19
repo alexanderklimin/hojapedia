@@ -109,9 +109,13 @@ if (crumbs.length > 1) {
           <a href="/plagas/">Plagas</a>
           <a href="/sustratos-y-macetas/">Sustratos</a>
           <a href="/abonos/">Abonos</a>
+          <a href="/creditos-de-fotos/">Créditos de fotos</a>
+          <a href="/contacto/">Contacto</a>
+          <a href="/privacidad/">Privacidad</a>
+          <a href="/aviso-legal/">Aviso legal</a>
         </nav>
       </div>
-      <p class="wrap credits">Iconos: <a href="https://lucide.dev" rel="noopener">Lucide</a>. Tipografía: Fraunces (SIL OFL).</p>
+      <p class="wrap credits">Fotos de Wikimedia Commons con licencias libres (<a href="/creditos-de-fotos/">autores y licencias</a>). Iconos: <a href="https://lucide.dev" rel="noopener">Lucide</a>. Tipografía: Fraunces (SIL OFL).</p>
     </footer>
   </body>
 </html>
@@ -196,6 +200,7 @@ if (crumbs.length > 1) {
   .pill { display: inline-flex; align-items: center; gap: 0.3rem; padding: 0.2rem 0.7rem; border-radius: 999px; font-size: 0.85rem; font-weight: 650; white-space: nowrap; background: var(--leaf-soft); color: var(--leaf-dark); }
   .pill.ok { background: var(--ok-soft); color: var(--ok); }
   .pill.bad { background: var(--bad-soft); color: var(--bad); }
+  .pill.mixed { background: var(--sun-soft); color: var(--sun); }
   .button { display: inline-flex; align-items: center; gap: 0.45rem; min-height: 3rem; padding: 0.55rem 1.25rem; border-radius: 999px; background: var(--leaf); color: #fff; font-weight: 700; text-decoration: none; }
   .button:hover { background: var(--leaf-dark); }
   .button.ghost { background: transparent; color: var(--leaf-dark); box-shadow: inset 0 0 0 1.5px var(--leaf); }
@@ -217,6 +222,8 @@ if (crumbs.length > 1) {
   .tile-safe { display: inline-flex; align-items: center; gap: 0.25rem; margin-top: 0.2rem; color: var(--ok); font-size: 0.8rem; font-weight: 700; }
   .avatar { display: inline-grid; place-items: center; flex: none; width: 3rem; height: 3rem; border-radius: 50% 50% 50% 14px; }
   .avatar.lg { width: 4.5rem; height: 4.5rem; }
+  .avatar.has-photo { overflow: hidden; width: 3.5rem; height: 3.5rem; }
+  .avatar.has-photo picture, .avatar.has-photo img { display: block; width: 100%; height: 100%; object-fit: cover; }
   .g-flor { background: var(--rose-soft); color: var(--rose); }
   .g-follaje { background: var(--leaf-soft); color: var(--leaf); }
   .g-suculenta { background: var(--sage-soft); color: var(--sage); }
@@ -249,5 +256,9 @@ if (crumbs.length > 1) {
   .footer-links a { color: #fff; min-height: 2.25rem; display: inline-flex; align-items: center; }
   .credits { font-size: 0.8rem; color: #b6cdb9; margin-top: 1.25rem; }
   .credits a { color: inherit; }
+  .photo { margin: 0; }
+  .photo img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius); background: var(--leaf-soft); }
+  .photo figcaption { margin-top: 0.35rem; font-size: 0.75rem; color: var(--muted); line-height: 1.4; }
+  .photo figcaption a { color: inherit; }
   @media (prefers-reduced-motion: reduce) { .tile { transition: none; } .tile:hover { transform: none; } }
 </style>

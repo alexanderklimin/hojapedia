@@ -1,0 +1,24 @@
+---
+// Responsive photo with mandatory credit line (Wikimedia Commons licenses require attribution).
+import { Picture } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+import photos from '../data/photos.json';
+
+interface Props { slug: string; alt: string; variant?: 'hero' | 'thumb'; eager?: boolean }
+const { slug, alt, variant = 'hero', eager = false } = Astro.props;
+const photo = (photos as Record<string, { file: string; author: string; license: string; licenseUrl?: string; source: string; alt?: string }>)[slug];
+const files = import.meta.glob<{ default: ImageMetadata }>('../assets/photos/*.{jpg,jpeg}', { eager: true });
+const image = photo ? files[`../assets/photos/${photo.file}`]?.default : undefined;
+const widths = variant === 'hero' ? [480, 800, 1200] : [96, 192];
+const sizes = variant === 'hero' ? '(min-width: 64rem) 30rem, 100vw' : '4rem';
+---
+{image && (variant === 'hero' ? (
+  <figure class="photo">
+    <Picture src={image} alt={photo!.alt ?? alt} widths={widths} sizes={sizes} formats={['avif', 'webp']} quality={70} loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} />
+    <figcaption>
+      Foto: {photo!.author} · {photo!.licenseUrl ? <a href={photo!.licenseUrl} rel="noopener license">{photo!.license}</a> : photo!.license} · <a href={photo!.source} rel="noopener">Wikimedia Commons</a>
+    </figcaption>
+  </figure>
+) : (
+  <Picture src={image} alt="" widths={widths} sizes={sizes} formats={['avif', 'webp']} quality={65} loading="lazy" class="thumb-img" />
+))}

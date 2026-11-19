@@ -1,0 +1,131 @@
+{
+  "name": "Jazmín",
+  "synonyms": [
+    "jazmín común",
+    "jazmín de invierno",
+    "Jasminum"
+  ],
+  "scientific": "Jasminum spp. (J. officinale, J. polyanthum)",
+  "family": "Oleaceae",
+  "origin": "El jazmín común (Jasminum officinale) es originario de Turquía a Irán, el norte de la India y el centro de China.",
+  "title": "Jazmín: cuidados, riego, poda y cómo hacer esquejes",
+  "description": "Cuidados del jazmín (Jasminum): luz, riego, temperatura, cuándo podarlo, esquejes y si es tóxico. Jazmín común, de interior y falso jazmín.",
+  "summary": "El jazmín es una trepadora de flores blancas muy perfumadas. El jazmín común (Jasminum officinale) aguanta el frío una vez establecido, mientras que el jazmín de interior (Jasminum polyanthum) necesita calor todo el año. Ambos piden sol o semisombra, riego regular en temporada y una poda anual tras la floración.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "traits": {
+    "light": [
+      "sol",
+      "semisombra"
+    ],
+    "place": [
+      "exterior",
+      "interior"
+    ],
+    "group": "flor"
+  },
+  "care": {
+    "light": {
+      "short": "Sol o semisombra",
+      "text": "Crece al sol o en semisombra. Los jazmines de verano florecen mejor en un rincón cálido, soleado y protegido. El jazmín de interior (J. polyanthum) necesita un lugar cálido y luminoso; una galería o invernadero es ideal, y en verano puede salir a un patio soleado con sombra al mediodía."
+    },
+    "water": {
+      "short": "Regular en temporada; poco en invierno",
+      "text": "Riega con regularidad al menos durante el primer año. Después, en el suelo solo necesita agua extra en las rachas secas de verano. En maceta, riega con regularidad durante la temporada de crecimiento. En interior, riego regular mientras crece y muy ligero en invierno.",
+      "growing": "Regular en maceta; en el suelo, en rachas secas.",
+      "rest": "Muy ligero en interior."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": null,
+      "idealMaxC": null,
+      "short": "Interior: por encima de 13 °C",
+      "text": "El jazmín de interior (J. polyanthum) debe estar siempre por encima de 13 °C: entra la planta antes de que las noches bajen de 13–15 °C. El jazmín común (J. officinale) y el de invierno (J. nudiflorum) son resistentes al frío una vez establecidos, aunque el común no tolera bien los climas más fríos."
+    },
+    "humidity": {
+      "short": "Sin requisitos especiales",
+      "text": "Las fuentes no indican requisitos de humedad; en interior, vigila las plagas de ambiente seco como la araña roja."
+    },
+    "substrate": {
+      "short": "Fértil, ligero y drenante",
+      "text": "Prefiere suelo fértil, ligero y bien drenado, con materia orgánica. Tolera la sequía y la contaminación una vez establecido. Los jazmines delicados se cultivan en maceta para poder resguardarlos.",
+      "pot": "Con drenaje y un enrejado o tutor por el que trepar."
+    },
+    "fertilizer": {
+      "short": "En maceta, abono con potasio",
+      "text": "En maceta, usa un abono líquido rico en potasio (como el de tomates) para estimular la floración, según la etiqueta. En el suelo no necesita abono: basta un acolchado cada otoño, separado unos 7,5 cm de los tallos para que no se pudran."
+    }
+  },
+  "toxicity": {
+    "cats": "no-toxica",
+    "dogs": "no-toxica",
+    "aspcaName": "Jasmine (Jasminum species)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jasmine",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes",
+      "when": "Leñosos en invierno (jazmines de exterior); tiernos o semileñosos en primavera y verano (jazmines delicados)",
+      "steps": [
+        "Corta un trozo de tallo sano del tipo adecuado a la época.",
+        "Quita las hojas de la parte baja y plántalo en sustrato para esquejes.",
+        "Mantenlo húmedo y protegido hasta que enraíce."
+      ]
+    },
+    {
+      "method": "Por acodo",
+      "when": "En temporada de crecimiento",
+      "steps": [
+        "Dobla un tallo flexible hasta el suelo y entierra un tramo, sujeto.",
+        "Sepáralo de la planta madre cuando haya echado raíces."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Mata enredada y con pocas flores",
+      "cause": "Falta de poda anual.",
+      "fix": "Pódalo cada año tras la floración, cortando los tallos que han florecido hasta un brote lateral fuerte. Si está muy descontrolado, córtalo a 60 cm del suelo: tardará dos o tres años en volver a florecer bien."
+    },
+    {
+      "symptom": "Hojas y brotes dañados tras el invierno",
+      "cause": "Heladas o invierno húmedo en jazmines delicados.",
+      "fix": "Ponlos en un lugar resguardado, acolcha la base y entra los de interior antes del frío."
+    },
+    {
+      "symptom": "Pulgones en los brotes tiernos",
+      "cause": "Pulgones.",
+      "fix": "En exterior, normalmente no hace falta tratar: los controlan sus enemigos naturales."
+    },
+    {
+      "symptom": "Bolitas algodonosas, telarañas, costras o mosquitas blancas en interior",
+      "cause": "Cochinilla algodonosa, araña roja, escamas o mosca blanca.",
+      "fix": "Revisa la planta a menudo y actúa pronto: retira a mano y aísla la planta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cuándo se poda el jazmín?",
+      "a": "Justo después de la floración: los jazmines de verano, a finales de verano o principios de otoño, y el jazmín de invierno, en primavera. Antes de podar trepadoras, comprueba que no haya nidos."
+    },
+    {
+      "q": "¿El jazmín es tóxico para gatos y perros?",
+      "a": "Según la ASPCA, los jazmines verdaderos (género Jasminum) no son tóxicos para perros, gatos ni caballos. Ojo: el «falso jazmín» o jazmín estrella (Trachelospermum jasminoides) y el «jazmín del cabo» (gardenia) son otras plantas, con fichas distintas."
+    },
+    {
+      "q": "¿Jazmín y falso jazmín son lo mismo?",
+      "a": "No. El falso jazmín (Trachelospermum jasminoides) se parece y también huele, pero es otra planta y a menudo se confunde con el jazmín común."
+    }
+  ],
+  "sources": [
+    {
+      "name": "RHS: How to grow jasmine",
+      "url": "https://www.rhs.org.uk/plants/jasmine/growing-guide"
+    },
+    {
+      "name": "NC State Extension: Jasminum officinale",
+      "url": "https://plants.ces.ncsu.edu/plants/jasminum-officinale/"
+    }
+  ]
+}

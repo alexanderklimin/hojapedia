@@ -20,6 +20,7 @@ test('filters combine', () => {
   assert.ok(!matches(p, { difficulty: 'exigente' }));
   assert.ok(isPetSafe(p));
   assert.ok(!isPetSafe({ toxicity: { cats: 'no-toxica', dogs: 'toxica' } }));
+  assert.ok(!isPetSafe({ toxicity: { cats: 'variable', dogs: 'variable' } }));
 });
 
 test('lists below the minimum are not published', () => {
