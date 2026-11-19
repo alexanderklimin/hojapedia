@@ -82,12 +82,12 @@
   },
   "lavanda": {
     "file": "lavanda.jpg",
-    "title": "File:Vanessa cardui on Lavandula angustifolia-2459.jpg",
-    "author": "Isiwal",
+    "title": "File:Lavandula angustifolia Hidcote 2020-07-30 1486.jpg",
+    "author": "Salicyna",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Vanessa_cardui_on_Lavandula_angustifolia-2459.jpg",
-    "alt": "Mariposa sobre flores de lavanda"
+    "source": "https://commons.wikimedia.org/wiki/File:Lavandula_angustifolia_Hidcote_2020-07-30_1486.jpg",
+    "alt": "Espigas de flores de lavanda"
   },
   "geranio": {
     "file": "geranio.jpg",
@@ -268,5 +268,40 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Vermicompostagem.JPG",
     "alt": "Lombrices en vermicompost"
+  },
+  "tulipan": {
+    "file": "tulipan.jpg",
+    "title": "File:Tulipa suaveolens floriade to Canberra.jpg",
+    "author": "John O'Neill",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Tulipa_suaveolens_floriade_to_Canberra.jpg",
+    "alt": "Tulipanes rosas en flor"
+  },
+  "crisantemo": {
+    "file": "crisantemo.jpg",
+    "title": "File:Chrysanthemum morifolium 08NOV.jpg",
+    "author": "池田正樹 (talk)masaki ikeda",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Chrysanthemum_morifolium_08NOV.jpg",
+    "alt": "Flor rosa de crisantemo"
+  },
+  "jazmin": {
+    "file": "jazmin.jpg",
+    "title": "File:Jasminum officinale-IMG 3470.jpg",
+    "author": "C T Johansson",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jasminum_officinale-IMG_3470.jpg",
+    "alt": "Flores blancas de jazmín común"
+  },
+  "suculentas": {
+    "file": "suculentas.jpg",
+    "title": "File:Rosa de alabastro (Echeveria elegans), jardín del molino, Sierra de San Felipe, Setúbal, Portugal, 2012-05-11, DD 01.JPG",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rosa_de_alabastro_(Echeveria_elegans),_jard%C3%ADn_del_molino,_Sierra_de_San_Felipe,_Set%C3%BAbal,_Portugal,_2012-05-11,_DD_01.JPG",
+    "alt": "Roseta de echeveria"
   }
 }
