@@ -1,0 +1,110 @@
+{
+  "name": "Kalanchoe",
+  "synonyms": [
+    "calanchoe",
+    "kalanchoe de flor",
+    "Kalanchoe blossfeldiana"
+  ],
+  "scientific": "Kalanchoe blossfeldiana",
+  "family": "Crassulaceae",
+  "origin": "Noreste de Madagascar.",
+  "title": "Kalanchoe: cuidados, riego y cómo hacer que vuelva a florecer",
+  "description": "Cuidados del kalanchoe de flor: luz, riego, temperatura, cómo hacer que vuelva a florecer con días cortos y si es tóxico para gatos y perros.",
+  "summary": "El kalanchoe de flor es una suculenta compacta con ramilletes de flores rojas, rosas, naranjas o amarillas. Se riega poco y aguanta bien, pero para volver a florecer necesita noches largas y oscuras durante varias semanas.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Luz brillante, sombra por la tarde",
+      "text": "Prefiere luz brillante indirecta o semisombra. El sol directo prolongado quema las hojas, así que conviene sombra por la tarde. Para florecer necesita 6–8 horas de luz brillante al día."
+    },
+    "water": {
+      "short": "Dejar secar entre riegos",
+      "text": "Deja que el sustrato se seque entre riegos y entonces riega a fondo. El exceso de agua pudre raíces y tallos.",
+      "growing": "Cuando el sustrato esté seco.",
+      "rest": "Cuando el sustrato esté seco; con frío, se seca más despacio."
+    },
+    "temperature": {
+      "minC": 7,
+      "idealMinC": 16,
+      "idealMaxC": 21,
+      "text": "Lo ideal es unos 16 °C de noche y 21 °C de día. No tolera las heladas: si está fuera, entrala antes de que la temperatura baje a 7 °C."
+    },
+    "humidity": {
+      "short": "Sin requisitos especiales",
+      "text": "La fuente consultada no indica requisitos de humedad. Necesita buena circulación de aire para evitar el oídio."
+    },
+    "substrate": {
+      "short": "Sustrato para cactus y suculentas",
+      "text": "Usa un sustrato bien drenado para cactus y suculentas.",
+      "pot": "Con agujeros de drenaje."
+    },
+    "fertilizer": {
+      "short": "Poco, en crecimiento",
+      "text": "La fuente consultada no indica una frecuencia. Si abonas, usa un fertilizante para suculentas en primavera y verano según la etiqueta."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "bufadienólidos",
+    "signs": "vómitos, diarrea y, rara vez, alteraciones del ritmo cardiaco",
+    "aspcaName": "Kalanchoe (Kalanchoe spp.)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/kalanchoe",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes de tallo o de hoja",
+      "when": "En primavera o verano",
+      "steps": [
+        "Corta un tallo sano de unos centímetros o una hoja entera.",
+        "Deja secar el corte en un lugar seco hasta que cicatrice.",
+        "Plántalo en sustrato para suculentas y riega poco hasta que enraíce."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "No vuelve a florecer",
+      "cause": "No recibe la oscuridad nocturna que necesita para formar flores.",
+      "fix": "En otoño e invierno, dale 14 horas diarias de oscuridad total durante al menos 6 semanas (en un armario o cubierta), y luz brillante el resto del día."
+    },
+    {
+      "symptom": "Tallos blandos y base podrida",
+      "cause": "Exceso de riego.",
+      "fix": "Deja secar el sustrato y salva esquejes sanos si la base está perdida."
+    },
+    {
+      "symptom": "Polvo blanco en las hojas",
+      "cause": "Oídio, favorecido por la falta de ventilación.",
+      "fix": "Mejora la circulación de aire y retira las hojas más afectadas."
+    },
+    {
+      "symptom": "Hojas quemadas",
+      "cause": "Sol directo prolongado.",
+      "fix": "Dale sombra por la tarde."
+    },
+    {
+      "symptom": "Pulgones, cochinilla o telarañas",
+      "cause": "Plagas habituales de interior.",
+      "fix": "Retira a mano, aísla la planta y usa un producto adecuado según la etiqueta si sigue."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿El kalanchoe es tóxico para gatos y perros?",
+      "a": "Sí. Según la ASPCA, el género Kalanchoe es tóxico para perros y gatos: contiene bufadienólidos y puede causar vómitos, diarrea y, rara vez, alteraciones del ritmo cardiaco."
+    },
+    {
+      "q": "¿Cuándo florece el kalanchoe?",
+      "a": "Forma flores tras varias semanas de noches largas. Después de los días cortos de otoño e invierno florece en primavera y las flores duran varias semanas. Quita las flores secas para alargar la floración."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NC State Extension: Kalanchoe blossfeldiana",
+      "url": "https://plants.ces.ncsu.edu/plants/kalanchoe-blossfeldiana/"
+    }
+  ]
+}

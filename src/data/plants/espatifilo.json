@@ -1,0 +1,104 @@
+{
+  "name": "Espatifilo",
+  "synonyms": ["cuna de Moisés", "lirio de la paz", "Spathiphyllum"],
+  "scientific": "Spathiphyllum spp.",
+  "family": "Araceae",
+  "origin": "Género de unas 60 especies de México, América tropical, Malesia y el Pacífico occidental.",
+  "title": "Espatifilo (cuna de Moisés): cuidados, riego y por qué no florece",
+  "description": "Cuidados del espatifilo o cuna de Moisés: luz, riego, temperatura, puntas marrones, por qué no florece, cómo dividirlo y si es tóxico para gatos y perros.",
+  "summary": "El espatifilo, cuna de Moisés o lirio de la paz es una de las plantas de interior que mejor toleran la poca luz. Avisa cuando tiene sed porque sus hojas se caen, y florece con facilidad si recibe luz brillante indirecta.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Luz indirecta; tolera poca luz",
+      "text": "Tolera poca luz, pero crece y florece mejor con luz brillante indirecta. No lo pongas al sol directo."
+    },
+    "water": {
+      "short": "Húmedo, nunca encharcado",
+      "text": "Mantén el sustrato húmedo pero no empapado, dejando que se seque ligeramente entre riegos. El riego por abajo funciona bien. No dejes la maceta sobre agua estancada.",
+      "growing": "Cuando la capa superior empiece a secarse.",
+      "rest": "Con el mismo criterio; con frío, el sustrato tarda más en secarse."
+    },
+    "temperature": {
+      "minC": 16,
+      "idealMinC": 20,
+      "idealMaxC": 29,
+      "text": "De día, 20–29 °C; de noche, unos 5 °C menos. Evita temperaturas por debajo de 16 °C: entre 4 y 16 °C su crecimiento se frena, y por debajo de 4 °C se dañan hojas, tallos y raíces."
+    },
+    "humidity": {
+      "short": "Evitar aire muy seco",
+      "text": "Las fuentes no dan una cifra, pero la humedad baja es una de las causas de las puntas marrones."
+    },
+    "substrate": {
+      "short": "Sustrato drenante rico en materia orgánica",
+      "text": "Sirve casi cualquier sustrato para interior bien drenado, mejor con materia orgánica. Trasplanta preferiblemente al final del invierno o en la época de crecimiento.",
+      "pot": "Con drenaje; las fuentes difieren sobre el tamaño: una recomienda maceta amplia y otra solo 2–5 cm más ancha que la anterior."
+    },
+    "fertilizer": {
+      "short": "Diluido, cada 6–8 semanas",
+      "text": "En primavera y verano, abona cada 6–8 semanas con un fertilizante líquido equilibrado a un cuarto de la dosis. El exceso de abono y de sales quema puntas y raíces."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "oxalatos de calcio insolubles",
+    "signs": "irritación y ardor intenso en boca, lengua y labios, babeo excesivo, vómitos y dificultad para tragar",
+    "aspcaName": "Peace Lily",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/peace-lily",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por división",
+      "when": "Al trasplantar",
+      "steps": [
+        "Saca la planta de la maceta y separa la mata en trozos, cada uno con hojas y raíces.",
+        "Planta cada trozo en su maceta con sustrato drenante.",
+        "Mantenlo con luz indirecta y el sustrato húmedo hasta que se asiente."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Puntas marrones",
+      "cause": "Sol directo, falta de riego, aire seco o exceso de abono y sales.",
+      "fix": "Apártalo del sol, riega con regularidad, abona diluido y riega a fondo de vez en cuando para lavar sales."
+    },
+    {
+      "symptom": "No florece",
+      "cause": "Planta de menos de un año o poca luz.",
+      "fix": "Dale luz brillante indirecta y paciencia."
+    },
+    {
+      "symptom": "Tallos o raíces podridos",
+      "cause": "Exceso de riego.",
+      "fix": "Deja secar ligeramente entre riegos y no dejes agua en el plato."
+    },
+    {
+      "symptom": "Hojas amarillas entre los nervios",
+      "cause": "Falta de magnesio.",
+      "fix": "Usa un abono completo con micronutrientes, según la etiqueta."
+    },
+    {
+      "symptom": "Bolitas algodonosas, mosquitas o telarañas",
+      "cause": "Cochinilla, mosquitas del sustrato, araña roja o escamas.",
+      "fix": "Limpia y aísla la planta; deja secar la capa superior contra las mosquitas."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿La cuna de Moisés es tóxica para gatos y perros?",
+      "a": "Sí. Según la ASPCA es tóxica para perros y gatos por sus oxalatos de calcio insolubles: irrita mucho la boca y causa babeo, vómitos y dificultad para tragar."
+    },
+    {
+      "q": "¿Cuándo florece el espatifilo?",
+      "a": "No tiene una época fija: florece con facilidad durante el año si recibe suficiente luz indirecta."
+    }
+  ],
+  "sources": [
+    { "name": "NC State Extension: Spathiphyllum", "url": "https://plants.ces.ncsu.edu/plants/spathiphyllum/" },
+    { "name": "Clemson HGIC: Peace lily", "url": "https://hgic.clemson.edu/factsheet/peace-lily/" }
+  ]
+}

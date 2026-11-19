@@ -1,0 +1,117 @@
+{
+  "name": "Árbol de jade",
+  "synonyms": [
+    "planta de jade",
+    "crásula",
+    "Crassula ovata"
+  ],
+  "scientific": "Crassula ovata (antes Crassula argentea)",
+  "family": "Crassulaceae",
+  "origin": "Sudáfrica.",
+  "title": "Árbol de jade: cuidados, luz, riego y cómo hacer esquejes",
+  "description": "Cuidados del árbol de jade (Crassula ovata): cuánto sol necesita, riego en verano e invierno, sustrato, esquejes y si es tóxico para mascotas.",
+  "summary": "El árbol de jade es una suculenta de tronco grueso y hojas carnosas que vive décadas en maceta. Le gusta mucho la luz, se riega poco y se multiplica con facilidad por esquejes. Su peor enemigo es el exceso de agua.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Mucha luz, algo de sol directo",
+      "text": "Necesita al menos 4 horas de sol directo o luz filtrada brillante; en interior, una ventana soleada con algo de sombra por la tarde. Con sol, los bordes de las hojas se ponen rojizos: es normal."
+    },
+    "water": {
+      "short": "Moderado; dejar secar en invierno",
+      "text": "Riega con moderación cuando el sustrato esté seco. Riega menos desde el otoño hasta el final del invierno. Las raíces se pudren con riegos frecuentes o mal drenaje.",
+      "growing": "Húmedo pero nunca empapado; riega cuando la capa superior esté seca.",
+      "rest": "Deja secar el sustrato entre riegos."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": 10,
+      "idealMaxC": 24,
+      "text": "De día, 18–24 °C; de noche, 10–13 °C. En invierno, protégelo de las corrientes de aire."
+    },
+    "humidity": {
+      "short": "Sin requisitos especiales",
+      "text": "Las fuentes consultadas no indican requisitos de humedad."
+    },
+    "substrate": {
+      "short": "Sustrato para cactus con algo de materia orgánica",
+      "text": "Usa sustrato para cactus con algo de materia orgánica, o mezcla 1 parte de tierra, 1 de turba y 3 de arena gruesa. Trasplanta cuando empiece el crecimiento nuevo.",
+      "pot": "Pesada y con drenaje: los ejemplares grandes tienden a volcar."
+    },
+    "fertilizer": {
+      "short": "Cada 3–4 meses",
+      "text": "Abona con fertilizante líquido para plantas de interior cada 3–4 meses, según la etiqueta. Después de un trasplante, espera cuatro meses."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "desconocido",
+    "signs": "vómitos, decaimiento y falta de coordinación",
+    "aspcaName": "Jade Plant (Crassula argentea)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes de tallo",
+      "when": "En primavera o verano",
+      "steps": [
+        "Corta un tallo sano con varias hojas.",
+        "Deja secar el corte unos días hasta que cicatrice.",
+        "Plántalo en sustrato para cactus y riega poco hasta que enraíce."
+      ]
+    },
+    {
+      "method": "Por esquejes de hoja",
+      "when": "En primavera o verano",
+      "steps": [
+        "Arranca una hoja entera y sana, con su base.",
+        "Déjala secar y apóyala sobre sustrato para cactus, apenas húmedo, hasta que salgan raíces y una plantita."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Tallo blando y base podrida",
+      "cause": "Pudrición de raíz por riego frecuente o mal drenaje.",
+      "fix": "Deja secar, trasplanta a sustrato para cactus y salva esquejes sanos."
+    },
+    {
+      "symptom": "Se le caen las hojas",
+      "cause": "Sequedad extrema.",
+      "fix": "Riega a fondo cuando el sustrato esté seco, sin esperar semanas."
+    },
+    {
+      "symptom": "Bolitas blancas algodonosas en las axilas",
+      "cause": "Cochinilla algodonosa.",
+      "fix": "Retírala con un bastoncillo con alcohol. No uses jabón insecticida: daña esta planta."
+    },
+    {
+      "symptom": "Bordes rojos en las hojas",
+      "cause": "Sol directo; no es un problema.",
+      "fix": "Nada: es una reacción normal a la luz intensa."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿El árbol de jade es tóxico para gatos y perros?",
+      "a": "Sí. Según la ASPCA es tóxico para perros y gatos (sustancia tóxica desconocida): puede causar vómitos, decaimiento y falta de coordinación."
+    },
+    {
+      "q": "¿Florece el árbol de jade?",
+      "a": "Los ejemplares adultos pueden dar flores blancas en invierno, aunque en casa no es habitual: las fuentes no coinciden en lo frecuente que es."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Clemson HGIC: Jade plant",
+      "url": "https://hgic.clemson.edu/factsheet/jade-plant/"
+    },
+    {
+      "name": "NC State Extension: Crassula ovata",
+      "url": "https://plants.ces.ncsu.edu/plants/crassula-ovata/"
+    }
+  ]
+}

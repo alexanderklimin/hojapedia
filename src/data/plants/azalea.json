@@ -1,0 +1,118 @@
+{
+  "name": "Azalea",
+  "synonyms": [
+    "rododendro",
+    "Rhododendron"
+  ],
+  "scientific": "Rhododendron spp. (azaleas)",
+  "family": "Ericaceae",
+  "origin": "Las azaleas forman parte del género Rhododendron; pueden ser de hoja perenne o caduca.",
+  "title": "Azalea: cuidados, suelo ácido, riego y poda",
+  "description": "Cuidados de la azalea en jardín y maceta: semisombra, suelo ácido (pH 5–6), agua de lluvia, abono, poda, esquejes y por qué es tóxica para gatos y perros.",
+  "summary": "Las azaleas son arbustos de floración espectacular que necesitan suelo ácido, semisombra y humedad constante. Si el suelo es calizo o el agua es dura, se ponen amarillas: en ese caso es mejor cultivarlas en maceta con sustrato para plantas ácidas y regarlas con agua de lluvia.",
+  "difficulty": "media",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Sombra ligera",
+      "text": "Prefieren sombra ligera y moteada. Evita la sombra densa bajo otros árboles y el sol directo de primera hora de la mañana."
+    },
+    "water": {
+      "short": "Húmedo; mejor agua de lluvia",
+      "text": "Necesitan humedad constante. Usa agua de lluvia: el agua del grifo sirve solo uno o dos meses en verano, porque el agua dura aporta calcio y sube el pH. Riega en las rachas secas a partir de mediados del verano, cuando se forman los botones del año siguiente.",
+      "growing": "Mantener húmedo; regar en rachas secas.",
+      "rest": "Sin dejar que se seque del todo ni encharcar."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": null,
+      "idealMaxC": null,
+      "text": "La mayoría de las azaleas de jardín son resistentes al frío. Las fuentes no dan un mínimo en grados. Protégelas de los vientos secos, que queman las hojas.",
+      "short": "Resistente al frío en el jardín"
+    },
+    "humidity": {
+      "short": "Ambiente húmedo",
+      "text": "Crecen mejor en zonas de lluvias abundantes; la sequía hace caer hojas y botones."
+    },
+    "substrate": {
+      "short": "Ácido, pH 5–6",
+      "text": "Necesitan suelo húmedo pero bien drenado, ácido (pH entre 5,0 y 6,0) y rico en materia orgánica. En suelo calizo, cultívalas en maceta con sustrato para plantas ácidas (ericáceas). Trasplanta cada dos años a principios de primavera y, entre medias, renueva los 5 cm superiores.",
+      "pot": "Con drenaje y sustrato para plantas ácidas."
+    },
+    "fertilizer": {
+      "short": "Solo en maceta, sin pasarse",
+      "text": "En suelo ácido rara vez necesitan abono. En maceta, usa en primavera un abono de liberación lenta o un abono líquido para plantas ácidas, según la etiqueta. El exceso quema raíces y hojas."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "grayanotoxinas",
+    "signs": "vómitos, diarrea, debilidad e insuficiencia cardiaca",
+    "aspcaName": "Azalea (Rhododendron spp.)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/azalea",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes semileñosos",
+      "when": "De mediados a finales del verano (azaleas perennes)",
+      "steps": [
+        "Corta brotes del año con un trocito de la rama madre (talón).",
+        "Haz una pequeña herida en la base y plántalos en sustrato para esquejes ácido.",
+        "Mantén humedad y temperatura suaves hasta que enraícen. Las azaleas de hoja caduca enraízan con más dificultad."
+      ]
+    },
+    {
+      "method": "Por acodo",
+      "when": "En primavera",
+      "steps": [
+        "Dobla una rama baja hasta el suelo y entiérrala parcialmente, sujeta.",
+        "Sepárala de la madre cuando tenga raíces propias: puede tardar de 15 meses a 2 años."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Hojas amarillas con nervios verdes",
+      "cause": "Clorosis por suelo o agua calizos (pH alto).",
+      "fix": "Riega con agua de lluvia, baja el pH o pásala a maceta con sustrato ácido, y abona con un producto para plantas ácidas."
+    },
+    {
+      "symptom": "Los botones no abren o caen",
+      "cause": "Sequía a finales del verano, cuando se forman los botones.",
+      "fix": "Riega en las rachas secas a partir de mediados del verano."
+    },
+    {
+      "symptom": "Se caen las hojas",
+      "cause": "Sequía o encharcamiento.",
+      "fix": "Mantén el suelo húmedo pero drenado."
+    },
+    {
+      "symptom": "Hojas quemadas por los bordes",
+      "cause": "Viento seco.",
+      "fix": "Plántala en un lugar resguardado."
+    },
+    {
+      "symptom": "Muescas en el borde de las hojas y planta que se marchita en maceta",
+      "cause": "Otiorrinco (adultos y larvas en las raíces).",
+      "fix": "Revisa las raíces al trasplantar y retira las larvas."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿La azalea es tóxica para gatos y perros?",
+      "a": "Sí, y es de las peligrosas. Según la ASPCA, sus grayanotoxinas pueden causar vómitos, diarrea, debilidad e insuficiencia cardiaca. Si tu mascota la ha mordido, llama al veterinario."
+    },
+    {
+      "q": "¿Cuándo se poda la azalea?",
+      "a": "Necesita poca poda: quita la madera muerta y las flores secas. La poda fuerte funciona mejor en las azaleas de hoja caduca; después, acolcha y abona."
+    }
+  ],
+  "sources": [
+    {
+      "name": "RHS: How to grow rhododendrons and azaleas",
+      "url": "https://www.rhs.org.uk/plants/rhododendron/growing-guide"
+    }
+  ]
+}

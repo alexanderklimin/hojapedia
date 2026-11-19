@@ -1,0 +1,111 @@
+{
+  "name": "Geranio",
+  "synonyms": [
+    "malvón",
+    "pelargonio",
+    "Pelargonium"
+  ],
+  "scientific": "Pelargonium spp. (geranio zonal: Pelargonium × hortorum)",
+  "family": "Geraniaceae",
+  "origin": "Género de plantas perennes semirrústicas; los geranios de balcón son híbridos de jardinería.",
+  "title": "Geranios: cuidados, riego, abono, poda y esquejes",
+  "description": "Cuidados del geranio o malvón (Pelargonium): sol, riego, abono para que florezca, poda, cómo hacer esquejes y pasar el invierno, y si es tóxico para mascotas.",
+  "summary": "Los geranios de balcón, malvones en el Río de la Plata, son perennes que aguantan muy bien la sequía pero no las heladas. Con sol, riego moderado y abono rico en potasio durante la floración, florecen sin parar de primavera a otoño.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Sol pleno",
+      "text": "La mayoría florece mejor a pleno sol. Los zonales toleran algo de sombra; los geranios de pensamiento (regal) prefieren semisombra."
+    },
+    "water": {
+      "short": "Moderado; poco en invierno",
+      "text": "Riega con moderación de primavera a verano, sin que el sustrato quede empapado. Aguantan bien la sequía. En invierno, riega solo de vez en cuando.",
+      "growing": "Moderado, sin encharcar.",
+      "rest": "Solo de vez en cuando."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": 7,
+      "idealMaxC": 21,
+      "text": "Son semirrústicos: no soportan las heladas. Si en invierno los mantienes a 7–10 °C con luz, siguen floreciendo. Las plantas jóvenes crecen bien entre 7 y 21 °C."
+    },
+    "humidity": {
+      "short": "Ambiente ventilado",
+      "text": "La humedad y la mala ventilación favorecen la podredumbre gris y la roya; mantenlos bien aireados."
+    },
+    "substrate": {
+      "short": "Sustrato universal o con tierra",
+      "text": "En maceta, usa sustrato universal o sustrato con tierra. En el jardín prefieren suelo fértil, de neutro a alcalino. Trasplanta en primavera las plantas que han pasado el invierno en maceta.",
+      "pot": "Con agujeros de drenaje."
+    },
+    "fertilizer": {
+      "short": "Cada 10–15 días; potasio al florecer",
+      "text": "En primavera, abono líquido equilibrado cada 10–14 días. Cuando aparezcan las flores, cambia a un abono rico en potasio (como el de tomates) cada dos semanas durante el verano. En otoño e invierno, una vez al mes, o nada si están en reposo seco. Sigue siempre la dosis de la etiqueta."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "geraniol y linalool",
+    "signs": "vómitos, falta de apetito, decaimiento y dermatitis",
+    "aspcaName": "Geranium (Pelargonium)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/geranium",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes",
+      "when": "De primavera a otoño; los de finales de verano sirven para pasar el invierno",
+      "steps": [
+        "Corta la punta de un tallo sano sin flor.",
+        "Quita las hojas bajas y plántalo en sustrato para esquejes.",
+        "Una vez enraizado, mantenlo en invierno en una ventana luminosa con poco riego.",
+        "A finales del invierno, despúntalo, y a mediados de primavera pásalo a una maceta de 9 cm."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Moho gris en flores y hojas",
+      "cause": "Podredumbre gris por humedad y poca ventilación.",
+      "fix": "Retira las partes afectadas y las flores secas y mejora la ventilación."
+    },
+    {
+      "symptom": "Pústulas marrones en el envés",
+      "cause": "Roya.",
+      "fix": "Quita las hojas afectadas, ventila y evita mojar las hojas."
+    },
+    {
+      "symptom": "Pocas flores y planta alargada",
+      "cause": "Poca luz o falta de despunte.",
+      "fix": "Dale más sol, despunta los tallos en primavera y quita las flores secas."
+    },
+    {
+      "symptom": "La planta se marchita en maceta con raíces comidas",
+      "cause": "Larvas de otiorrinco.",
+      "fix": "Revisa las raíces al trasplantar y retira las larvas."
+    },
+    {
+      "symptom": "Mosquitas blancas o insectos saltarines",
+      "cause": "Mosca blanca o cigarrillas.",
+      "fix": "Revisa el envés de las hojas y trata solo si es necesario, según la etiqueta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cuándo se podan los geranios?",
+      "a": "Despunta los tallos en primavera o principios de verano y quita las flores secas con regularidad. La poda fuerte se hace en otoño, si los vas a guardar, o en primavera."
+    },
+    {
+      "q": "¿El geranio es tóxico para gatos y perros?",
+      "a": "Sí. La ASPCA clasifica los Pelargonium («Geranium») como tóxicos para perros y gatos por el geraniol y el linalool: pueden causar vómitos, falta de apetito, decaimiento y dermatitis."
+    }
+  ],
+  "sources": [
+    {
+      "name": "RHS: How to grow pelargoniums",
+      "url": "https://www.rhs.org.uk/plants/pelargonium/growing-guide"
+    }
+  ]
+}

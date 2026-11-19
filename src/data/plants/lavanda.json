@@ -1,0 +1,123 @@
+{
+  "name": "Lavanda",
+  "synonyms": [
+    "espliego",
+    "alhucema",
+    "lavanda inglesa",
+    "Lavandula angustifolia"
+  ],
+  "scientific": "Lavandula angustifolia",
+  "family": "Lamiaceae",
+  "origin": "Región mediterránea (Francia, Italia, España).",
+  "title": "Lavanda: cuidados, riego, poda y cómo plantarla en maceta",
+  "description": "Cuidados de la lavanda o espliego: sol, riego en tierra y en maceta, suelo, cuándo y cómo podarla, esquejes y si es tóxica para gatos y perros.",
+  "summary": "La lavanda o espliego es un arbusto mediterráneo de flores perfumadas que necesita sol pleno y un suelo que drene muy bien. Una vez establecida casi no necesita riego ni abono. La clave para que no se vuelva leñosa es podarla cada año después de la floración.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Sol pleno: 6 horas o más",
+      "text": "Necesita sol pleno, al menos 6 horas de sol directo al día. En interior no prospera."
+    },
+    "water": {
+      "short": "Poco; en maceta, 1–2 veces por semana con calor",
+      "text": "En el suelo, riega con regularidad el primer verano; después es resistente a la sequía y casi no necesita riego. En maceta necesita riego regular en verano, una o dos veces por semana con calor, y mantenerla bastante seca en invierno. No soporta el encharcamiento.",
+      "growing": "En maceta, 1–2 veces por semana con calor; en el suelo, solo el primer verano.",
+      "rest": "Mantener bastante seca."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": null,
+      "idealMaxC": null,
+      "text": "La lavanda inglesa suele ser resistente al frío en climas templados. Lo que la mata no es el frío sino el suelo húmedo en invierno. Las fuentes no dan un mínimo exacto en grados.",
+      "short": "Resistente al frío; teme el suelo húmedo"
+    },
+    "humidity": {
+      "short": "Ambiente seco",
+      "text": "Prefiere un ambiente seco y ventilado; la humedad alta y la mala ventilación favorecen las manchas en las hojas."
+    },
+    "substrate": {
+      "short": "Pobre, muy drenante, neutro o calizo",
+      "text": "Prefiere suelos pobres o moderadamente fértiles, secos y perfectamente drenados, de neutros a alcalinos (tolera los calizos). En maceta, usa sustrato universal o con tierra y añade hasta un 25 % de grava gruesa.",
+      "pot": "De 30–40 cm de diámetro, con agujeros de drenaje grandes."
+    },
+    "fertilizer": {
+      "short": "Casi nunca",
+      "text": "Le gustan los suelos pobres en nutrientes y en general no necesita abono."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "linalool y acetato de linalilo",
+    "signs": "náuseas, vómitos y falta de apetito",
+    "aspcaName": "Lavender",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lavender",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes",
+      "when": "De principios a mediados del verano (semileñosos o tiernos); leñosos a finales de otoño",
+      "steps": [
+        "Corta brotes sanos sin flor de la temporada.",
+        "Quita las hojas de la parte baja y entierra la base en una mezcla de sustrato y grava.",
+        "Mantén el sustrato apenas húmedo y en un lugar luminoso sin sol fuerte hasta que enraícen."
+      ]
+    },
+    {
+      "method": "Por semillas",
+      "when": "En primavera",
+      "steps": [
+        "Recoge semillas de las espigas secas.",
+        "Siémbralas en primavera en sustrato para semilleros y mantenlo apenas húmedo."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "La planta se seca de golpe desde la base",
+      "cause": "Pudrición de raíz por exceso de riego o suelo pesado y húmedo.",
+      "fix": "Plántala en un bancal elevado o en maceta con grava, y riega menos."
+    },
+    {
+      "symptom": "Manchas en las hojas",
+      "cause": "Hongos favorecidos por la poca ventilación.",
+      "fix": "Mejora la circulación de aire y deja espacio entre plantas."
+    },
+    {
+      "symptom": "Se vuelve leñosa y se abre por el centro",
+      "cause": "Falta de poda anual.",
+      "fix": "Pódala cada año tras la floración, sin cortar la madera vieja sin hojas."
+    },
+    {
+      "symptom": "Espuma blanca en los tallos o pequeños insectos saltarines",
+      "cause": "Cigarrillas y salivazo; suelen ser solo estéticos.",
+      "fix": "Retira la espuma con agua; normalmente no hace falta tratar."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cuándo se poda la lavanda?",
+      "a": "Cada año a finales del verano, justo después de la floración: quita las espigas secas y unos 2,5 cm de las hojas, sin cortar los tallos leñosos. Si el frío daña las puntas, recórtalas en primavera."
+    },
+    {
+      "q": "¿La lavanda es tóxica para gatos y perros?",
+      "a": "Sí. Según la ASPCA es tóxica para perros y gatos por el linalool y el acetato de linalilo: puede causar náuseas, vómitos y falta de apetito."
+    },
+    {
+      "q": "¿Se puede tener lavanda dentro de casa?",
+      "a": "No es buena idea: necesita al menos 6 horas de sol directo. Mejor en un balcón o terraza soleados."
+    }
+  ],
+  "sources": [
+    {
+      "name": "RHS: How to grow lavender",
+      "url": "https://www.rhs.org.uk/plants/lavender/growing-guide"
+    },
+    {
+      "name": "NC State Extension: Lavandula angustifolia",
+      "url": "https://plants.ces.ncsu.edu/plants/lavandula-angustifolia/"
+    }
+  ]
+}

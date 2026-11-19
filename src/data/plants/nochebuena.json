@@ -1,0 +1,110 @@
+{
+  "name": "Flor de Pascua",
+  "synonyms": [
+    "nochebuena",
+    "poinsettia",
+    "pascuero",
+    "estrella federal"
+  ],
+  "scientific": "Euphorbia pulcherrima",
+  "family": "Euphorbiaceae",
+  "origin": "México y Guatemala.",
+  "title": "Flor de Pascua (nochebuena): cuidados y cómo hacer que enrojezca",
+  "description": "Cuidados de la flor de Pascua o nochebuena: luz, riego, temperatura y cómo lograr que sus brácteas vuelvan a ponerse rojas con noches largas de 16 horas.",
+  "summary": "La flor de Pascua, nochebuena, pascuero o estrella federal es la planta típica de Navidad en el hemisferio norte. Lo que parecen pétalos rojos son brácteas, hojas que se colorean con noches largas. Con oscuridad controlada desde el otoño, vuelve a colorearse.",
+  "difficulty": "media",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Luz brillante, semisombra",
+      "text": "En interior, colócala junto a una ventana luminosa. Crece mejor en semisombra; al aire libre necesita 4–5 horas de sol al día."
+    },
+    "water": {
+      "short": "Cuando la superficie esté seca",
+      "text": "Riega cuando la superficie del sustrato esté seca al tacto y no te pases: el exceso de agua pudre raíces y tallos. Vacía el agua que quede en el cubremacetas.",
+      "growing": "Cuando la superficie esté seca.",
+      "rest": "Igual criterio, sin dejar agua estancada."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": 18,
+      "idealMaxC": 21,
+      "text": "Está mejor a 18–21 °C. Aléjala de radiadores, chimeneas y corrientes de aire frío."
+    },
+    "humidity": {
+      "short": "Sin requisitos especiales",
+      "text": "La fuente consultada no indica requisitos de humedad. Lo importante es evitar el aire caliente directo de la calefacción."
+    },
+    "substrate": {
+      "short": "Drenante, con materia orgánica",
+      "text": "Usa un sustrato bien drenado con materia orgánica y turba o fibra de coco.",
+      "pot": "Con agujeros de drenaje; si viene envuelta en papel de regalo, ábrelo por debajo para que escurra."
+    },
+    "fertilizer": {
+      "short": "Desde la primavera",
+      "text": "La fuente consultada solo indica empezar a abonar en primavera. Usa un fertilizante para plantas de interior según la etiqueta durante la época de crecimiento."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "savia irritante",
+    "signs": "irritación de boca y estómago, a veces vómitos; la ASPCA indica que su toxicidad suele exagerarse",
+    "aspcaName": "Poinsettia",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/poinsettia",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes de tallo",
+      "when": "A principios del verano",
+      "steps": [
+        "Corta la punta de un tallo sano. Usa guantes: la savia es irritante.",
+        "Aplica hormona de enraizamiento en la base, siguiendo la etiqueta.",
+        "Plántalo en una mezcla de turba o fibra de coco, perlita y vermiculita, y mantenlo húmedo y con calor hasta que enraíce."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Las brácteas no se ponen rojas",
+      "cause": "Recibe luz por la noche: necesita noches largas y totalmente oscuras.",
+      "fix": "Desde finales de septiembre (hemisferio norte; finales de marzo en el sur), dale cada día 16 horas de oscuridad total y 8 de luz brillante, con noches de unos 16–17 °C, hasta que se coloree."
+    },
+    {
+      "symptom": "Hojas que se caen y tallos blandos",
+      "cause": "Exceso de riego: pudrición de raíces y tallos.",
+      "fix": "Riega solo cuando la superficie esté seca y no dejes agua en el cubremacetas."
+    },
+    {
+      "symptom": "Mosquitas blancas, telarañas o bolitas algodonosas",
+      "cause": "Mosca blanca, araña roja o cochinilla algodonosa.",
+      "fix": "Aísla la planta, revisa el envés de las hojas y usa un producto para interior según la etiqueta."
+    },
+    {
+      "symptom": "Tallos rotos",
+      "cause": "Sus tallos son quebradizos.",
+      "fix": "Manipúlala con cuidado y protégela al transportarla."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿La flor de Pascua es tóxica para gatos y perros?",
+      "a": "Según la ASPCA es tóxica para perros y gatos: su savia irrita la boca y el estómago y a veces provoca vómitos, aunque la propia ASPCA indica que su toxicidad suele exagerarse. Mejor fuera de su alcance."
+    },
+    {
+      "q": "¿Puede causar alergia la savia?",
+      "a": "Sí: las personas con alergia al látex pueden reaccionar a su savia. Usa guantes al podarla o hacer esquejes."
+    },
+    {
+      "q": "¿Y en el hemisferio sur?",
+      "a": "Allí la Navidad cae en verano, con días largos. La flor de Pascua se colorea de forma natural con las noches largas del otoño e invierno austral, o con oscuridad controlada desde finales de marzo."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NC State Extension: Euphorbia pulcherrima",
+      "url": "https://plants.ces.ncsu.edu/plants/euphorbia-pulcherrima/"
+    }
+  ]
+}

@@ -27,7 +27,13 @@ const plants = defineCollection({
       light: z.object({ short: z.string(), text: z.string() }),
       water: z.object({ short: z.string(), text: z.string(), growing: z.string(), rest: z.string() }),
       // minC stays null when no source gives a minimum: never invent numbers.
-      temperature: z.object({ minC: z.number().nullable(), idealMinC: z.number(), idealMaxC: z.number(), text: z.string() }),
+      temperature: z.object({
+        minC: z.number().nullable(),
+        idealMinC: z.number().nullable(),
+        idealMaxC: z.number().nullable(),
+        short: z.string().optional(),
+        text: z.string(),
+      }).refine((t) => (t.idealMinC === null) === (t.idealMaxC === null) && (t.idealMinC !== null || t.short), 'Sin rango ideal hace falta short'),
       humidity: z.object({ short: z.string(), text: z.string() }),
       substrate: z.object({ short: z.string(), text: z.string(), pot: z.string() }),
       fertilizer: z.object({ short: z.string(), text: z.string() }),

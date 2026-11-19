@@ -1,0 +1,107 @@
+{
+  "name": "Albahaca",
+  "synonyms": ["Ocimum basilicum"],
+  "scientific": "Ocimum basilicum",
+  "family": "Lamiaceae",
+  "origin": "Regiones tropicales de África y Asia.",
+  "title": "Albahaca: cuidados en maceta, riego, poda y siembra",
+  "description": "Cuidados de la albahaca en maceta y huerto: sol, riego, cómo pinzarla para que no florezca, cuándo sembrarla según el hemisferio y problemas frecuentes.",
+  "summary": "La albahaca es una aromática de clima cálido que no soporta el frío. Necesita sol, riego regular por la mañana y pinzar las puntas y las flores para que siga dando hojas. Se siembra cuando las noches pasan de 10 °C, y se multiplica también por esquejes en agua.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Sol pleno: 6 horas o más",
+      "text": "Necesita sol pleno, al menos 6 horas de sol directo al día; tolera algo de semisombra."
+    },
+    "water": {
+      "short": "Regular, por la mañana",
+      "text": "En maceta necesita riego regular; en el suelo, solo en rachas secas una vez establecida. Riega por la mañana: a la albahaca no le gusta tener las raíces mojadas durante la noche.",
+      "growing": "Regular en maceta; en rachas secas en el suelo.",
+      "rest": "Es anual en climas fríos: no pasa el invierno al aire libre."
+    },
+    "temperature": {
+      "minC": 10,
+      "idealMinC": null,
+      "idealMaxC": null,
+      "short": "Cálida; noches por encima de 10 °C",
+      "text": "No resiste el frío. Siémbrala o sácala al exterior cuando las noches se mantengan por encima de 10 °C y haya pasado el riesgo de heladas."
+    },
+    "humidity": {
+      "short": "Ventilada",
+      "text": "En invernadero o interior, ventila bien para evitar hongos."
+    },
+    "substrate": {
+      "short": "Sustrato universal, húmedo y drenante",
+      "text": "Usa sustrato universal húmedo y con buen drenaje. Deja unos 10 cm entre plantas.",
+      "pot": "De al menos 20 cm de ancho y de profundidad, con drenaje."
+    },
+    "fertilizer": {
+      "short": "En maceta, abono equilibrado",
+      "text": "En el suelo no suele necesitar abono. En maceta puede quedarse sin nutrientes: usa un abono líquido equilibrado según la etiqueta y evita los ricos en potasio como el de tomates."
+    }
+  },
+  "toxicity": {
+    "cats": "no-toxica",
+    "dogs": "no-toxica",
+    "aspcaName": "Basil",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/basil",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por semillas",
+      "when": "De marzo a julio en el hemisferio norte (de septiembre a enero en el sur)",
+      "steps": [
+        "Esparce las semillas sobre sustrato para semilleros, sin enterrarlas apenas.",
+        "Mantenlas a unos 20 °C y con el sustrato húmedo hasta que germinen.",
+        "Cuando tengan varias hojas, pásalas a macetas de 7–8 cm.",
+        "Llévalas al exterior cuando las noches superen los 10 °C."
+      ]
+    },
+    {
+      "method": "Por esquejes en agua",
+      "when": "De primavera a principios de verano",
+      "steps": [
+        "Corta un tallo tierno, quita las hojas bajas y despunta la punta.",
+        "Ponlo en un vaso con agua y pásalo a maceta cuando tenga raíces, a las pocas semanas."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Florece pronto y da pocas hojas",
+      "cause": "Sequía o plantas demasiado juntas.",
+      "fix": "Riega con regularidad, aclara a 10–20 cm entre plantas y quita los tallos florales en cuanto aparezcan."
+    },
+    {
+      "symptom": "Plántulas que se doblan y mueren por la base",
+      "cause": "Damping-off (hongos del semillero) por exceso de riego.",
+      "fix": "Riega con cuidado y no encharques el semillero."
+    },
+    {
+      "symptom": "Hojas amarillas con pelusa gris o violeta en el envés",
+      "cause": "Mildiu de la albahaca.",
+      "fix": "Ventila, riega por la mañana sin mojar las hojas y elige variedades resistentes."
+    },
+    {
+      "symptom": "Hojas agujereadas o con pulgones",
+      "cause": "Babosas, caracoles o pulgones.",
+      "fix": "Cultívala en maceta para protegerla de las babosas y retira los pulgones a mano o con agua."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cómo se poda la albahaca para que no florezca?",
+      "a": "Pinza con los dedos las puntas de los tallos largos y cualquier botón floral en cuanto aparezca. Cosecha las puntas con frecuencia: así se ramifica y da más hojas."
+    },
+    {
+      "q": "¿La albahaca es tóxica para gatos y perros?",
+      "a": "No. Según la ASPCA, la albahaca no es tóxica para perros ni gatos."
+    }
+  ],
+  "sources": [
+    { "name": "RHS: How to grow basil", "url": "https://www.rhs.org.uk/herbs/basil" },
+    { "name": "NC State Extension: Ocimum basilicum", "url": "https://plants.ces.ncsu.edu/plants/ocimum-basilicum/" }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Palo de Brasil",
+  "synonyms": [
+    "palo de agua",
+    "tronco de Brasil",
+    "dracena",
+    "Dracaena fragrans 'Massangeana'"
+  ],
+  "scientific": "Dracaena fragrans",
+  "family": "Asparagaceae",
+  "origin": "África tropical. La variedad más vendida, 'Massangeana', tiene una franja central amarillo verdosa en cada hoja.",
+  "title": "Palo de Brasil (palo de agua): cuidados, luz, riego y problemas",
+  "description": "Cuidados del palo de Brasil o palo de agua (Dracaena fragrans): luz, riego, temperatura, puntas marrones, esquejes y si es tóxico para mascotas.",
+  "summary": "El palo de Brasil, palo de agua o tronco de Brasil es una dracena de tronco grueso y penacho de hojas largas. Es resistente y se adapta a interiores con luz filtrada. Sus problemas típicos son las puntas marrones, casi siempre por aire seco o por el flúor y las sales del agua.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Luz filtrada, de media a brillante",
+      "text": "Crece bien con luz filtrada, de moderada a brillante. El sol directo puede quemar las hojas, y con muy poca luz las hojas nuevas salen más estrechas."
+    },
+    "water": {
+      "short": "Sustrato húmedo en crecimiento, menos en invierno",
+      "text": "Mantén el sustrato ligeramente húmedo durante la época de crecimiento, sin encharcar, y riega menos en invierno. Si puedes, usa agua sin flúor (de lluvia o filtrada) y riega a fondo una vez al mes para arrastrar las sales acumuladas.",
+      "growing": "Mantener el sustrato ligeramente húmedo.",
+      "rest": "Reducir el riego."
+    },
+    "temperature": {
+      "minC": 10,
+      "idealMinC": 21,
+      "idealMaxC": 27,
+      "text": "Crece mejor a 21–27 °C. Si es posible, mantenla por encima de 10 °C."
+    },
+    "humidity": {
+      "short": "Evitar el aire muy seco",
+      "text": "La humedad baja de las casas, sobre todo con calefacción en invierno, seca las puntas de las hojas. Un humidificador puede ayudar."
+    },
+    "substrate": {
+      "short": "Sustrato universal para interior",
+      "text": "Sirve un sustrato comercial para plantas de interior. Trasplanta cuando la planta se levante de la maceta o las raíces salgan por los agujeros de drenaje.",
+      "pot": "Con agujeros de drenaje."
+    },
+    "fertilizer": {
+      "short": "Moderado, en crecimiento",
+      "text": "La fuente consultada no indica una frecuencia. Si abonas, hazlo solo en primavera y verano con un fertilizante para plantas de interior, según la etiqueta: el exceso de sales también quema las puntas."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "saponinas",
+    "signs": "vómitos (a veces con sangre), decaimiento, falta de apetito, salivación excesiva y pupilas dilatadas (en gatos)",
+    "aspcaName": "Corn Plant",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/corn-plant",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes de tallo",
+      "when": "En primavera o verano",
+      "steps": [
+        "Corta un trozo de tronco o la punta con hojas con una herramienta limpia.",
+        "Plántalo en sustrato húmedo para esquejes, respetando la orientación (la parte de arriba hacia arriba).",
+        "Mantenlo con luz filtrada y calor, con el sustrato apenas húmedo, hasta que brote."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Puntas marrones y secas",
+      "cause": "Aire seco o sensibilidad al flúor y a las sales del agua o del abono.",
+      "fix": "Usa agua sin flúor, riega a fondo una vez al mes para lavar sales y aumenta la humedad en invierno."
+    },
+    {
+      "symptom": "Hojas quemadas o con manchas claras",
+      "cause": "Sol directo.",
+      "fix": "Muévela a luz filtrada."
+    },
+    {
+      "symptom": "Hojas nuevas estrechas y débiles",
+      "cause": "Poca luz.",
+      "fix": "Acércala a una ventana luminosa sin sol directo."
+    },
+    {
+      "symptom": "Bolitas algodonosas o hojas plateadas con puntitos",
+      "cause": "Cochinilla algodonosa o trips.",
+      "fix": "Limpia las hojas, aísla la planta y, si sigue, usa un producto para plantas de interior según la etiqueta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿El palo de Brasil es tóxico para gatos y perros?",
+      "a": "Sí. Según la ASPCA es tóxico para perros y gatos por sus saponinas: puede causar vómitos, decaimiento, falta de apetito y salivación; en gatos, también pupilas dilatadas."
+    },
+    {
+      "q": "¿Florece el palo de agua en casa?",
+      "a": "Rara vez. En interior sus flores perfumadas aparecen muy de vez en cuando."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NC State Extension: Dracaena fragrans",
+      "url": "https://plants.ces.ncsu.edu/plants/dracaena-fragrans/"
+    }
+  ]
+}

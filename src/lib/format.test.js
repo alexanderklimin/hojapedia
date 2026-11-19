@@ -20,4 +20,5 @@ test('pet labels and verdicts', () => {
 test('temperature never shows an invented minimum', () => {
   assert.equal(temperatureLine({ minC: null, idealMinC: 15, idealMaxC: 24 }), '15–24 °C');
   assert.equal(temperatureLine({ minC: 16, idealMinC: 16, idealMaxC: 30 }), '16–30 °C (mínimo 16 °C)');
+  assert.equal(temperatureLine({ minC: null, idealMinC: null, idealMaxC: null, short: 'Resistente al frío' }), 'Resistente al frío');
 });

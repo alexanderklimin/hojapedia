@@ -1,0 +1,106 @@
+{
+  "name": "Ciclamen",
+  "synonyms": [
+    "violeta de los Alpes",
+    "ciclamino",
+    "Cyclamen persicum"
+  ],
+  "scientific": "Cyclamen persicum",
+  "family": "Primulaceae",
+  "origin": "Del este del Mediterráneo hasta Argelia (Turquía, Chipre, Grecia, Israel y otros).",
+  "title": "Ciclamen: cuidados, riego, reposo de verano y nueva floración",
+  "description": "Cuidados del ciclamen: luz, riego sin mojar el tubérculo, temperatura fresca, reposo en verano, cómo hacer que vuelva a florecer y toxicidad.",
+  "summary": "El ciclamen florece en los meses frescos y descansa en verano. Le gustan la luz brillante indirecta y el fresco, y hay que regarlo sin mojar el tubérculo. Cuando en verano amarillea y pierde las hojas, no se está muriendo: entra en reposo y puede volver a florecer.",
+  "difficulty": "media",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Luz brillante indirecta",
+      "text": "Necesita luz brillante indirecta. Con poca luz da flores más pequeñas y hojas más pálidas."
+    },
+    "water": {
+      "short": "Cuando el sustrato esté seco, sin mojar el tubérculo",
+      "text": "Riega solo cuando el sustrato esté seco al tacto, por el borde de la maceta o por abajo, sin mojar el centro: el agua en la corona pudre el tubérculo.",
+      "growing": "En otoño e invierno (época de flor): cuando el sustrato esté seco.",
+      "rest": "En verano, durante el reposo: muy poco, y retomar el riego al llegar el otoño."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": null,
+      "idealMaxC": null,
+      "short": "Fresco: unos 18 °C",
+      "text": "Prefiere un ambiente fresco, de unos 18 °C, con humedad moderada. El calor de la calefacción acorta la floración."
+    },
+    "humidity": {
+      "short": "Moderada",
+      "text": "Humedad moderada."
+    },
+    "substrate": {
+      "short": "Drenante",
+      "text": "La fuente consultada no detalla el sustrato. Usa uno para plantas de interior bien drenado.",
+      "pot": "Con agujeros de drenaje, para poder regar por abajo."
+    },
+    "fertilizer": {
+      "short": "En floración, según etiqueta",
+      "text": "La fuente consultada no indica una frecuencia. Si abonas, hazlo durante el crecimiento y la floración con un fertilizante para plantas con flor, según la etiqueta, y nunca en reposo."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "saponinas terpenoides",
+    "signs": "salivación, vómitos y diarrea; si comen gran cantidad de tubérculo, alteraciones del ritmo cardiaco, convulsiones y muerte",
+    "aspcaName": "Cyclamen (Cyclamen spp.)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cyclamen",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por semillas",
+      "when": "Con semilla fresca",
+      "steps": [
+        "Siembra la semilla fresca en sustrato para semilleros, apenas cubierta.",
+        "Mantén el sustrato húmedo: germina en 20–30 días.",
+        "Trasplanta las plántulas cuando tengan varias hojas. La división del tubérculo es difícil y suele pudrirse."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Hojas amarillas que se caen en verano",
+      "cause": "Reposo estival normal.",
+      "fix": "Reduce mucho el riego, déjalo en un lugar fresco y retoma el riego en otoño."
+    },
+    {
+      "symptom": "Tubérculo blando y planta que se derrumba",
+      "cause": "Pudrición por exceso de riego o agua en la corona.",
+      "fix": "Riega por el borde o por abajo y solo cuando el sustrato esté seco."
+    },
+    {
+      "symptom": "Flores pequeñas y hojas pálidas",
+      "cause": "Poca luz.",
+      "fix": "Dale luz brillante indirecta y quita las flores secas para que salgan más."
+    },
+    {
+      "symptom": "Pulgones, telarañas o hojas deformadas",
+      "cause": "Pulgones, cochinilla, araña roja o trips.",
+      "fix": "Revisa el envés y los botones, aísla la planta y trata según la etiqueta si hace falta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿El ciclamen es tóxico para gatos y perros?",
+      "a": "Sí, y el tubérculo es la parte más peligrosa. Según la ASPCA causa salivación, vómitos y diarrea, y en grandes cantidades alteraciones del ritmo cardiaco y convulsiones. Si lo han comido, ve al veterinario."
+    },
+    {
+      "q": "¿Cómo hago que el ciclamen vuelva a florecer?",
+      "a": "Respeta el reposo de verano con poco riego y, en otoño, vuelve a regar con normalidad. Con luz, humedad y temperaturas frescas debería florecer de nuevo en invierno."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NC State Extension: Cyclamen persicum",
+      "url": "https://plants.ces.ncsu.edu/plants/cyclamen-persicum/"
+    }
+  ]
+}

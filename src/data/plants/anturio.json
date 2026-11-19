@@ -1,0 +1,110 @@
+{
+  "name": "Anturio",
+  "synonyms": ["anthurium", "flor de flamenco"],
+  "scientific": "Anthurium andraeanum",
+  "family": "Araceae",
+  "origin": "Selvas de Colombia y Ecuador, donde crece como epífita bajo el dosel.",
+  "title": "Anturio: cuidados, luz, riego y por qué no florece",
+  "description": "Cuidados del anturio (Anthurium andraeanum): luz, riego, humedad, temperatura, abono, hojas amarillas, por qué no florece y si es tóxico para mascotas.",
+  "summary": "El anturio es una planta tropical de hojas brillantes y espatas rojas, rosas o blancas que duran semanas. Con luz brillante sin sol directo, humedad alta y abono en temporada, florece varias veces al año.",
+  "difficulty": "media",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Luz brillante indirecta",
+      "text": "Necesita luz brillante pero indirecta. El sol directo quema las hojas, y con poca luz florece menos."
+    },
+    "water": {
+      "short": "Cuando los 2–3 cm de arriba estén secos",
+      "text": "Riega cuando los 2–3 cm superiores del sustrato estén secos al tacto. El exceso de agua y el mal drenaje pudren las raíces y amarillean las hojas.",
+      "growing": "Cuando se seque la capa superior.",
+      "rest": "Igual criterio: comprueba la capa superior antes de regar."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": 18,
+      "idealMaxC": 27,
+      "text": "Lo ideal son 18–27 °C. Evita las corrientes frías y los cambios bruscos de temperatura."
+    },
+    "humidity": {
+      "short": "Alta: 60–80 %",
+      "text": "Prefiere una humedad del 60 al 80 %. Agrupa plantas o usa un plato con grava húmeda; evita mojar las hojas si la ventilación es mala."
+    },
+    "substrate": {
+      "short": "Húmedo y bien drenado",
+      "text": "Necesita un sustrato que retenga algo de humedad pero drene bien. Trasplanta en primavera cada 2–3 años o cuando las raíces llenen la maceta.",
+      "pot": "Con buen drenaje, solo un poco más grande que la anterior."
+    },
+    "fertilizer": {
+      "short": "Abono líquido en crecimiento",
+      "text": "Durante la época de crecimiento, abona con fertilizante líquido con frecuencia, a la dosis de la etiqueta (la fuente indica cada semana, con abono diluido). La falta de nutrientes reduce la floración."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "oxalatos de calcio insolubles",
+    "signs": "irritación, dolor e hinchazón de boca, lengua y labios, babeo excesivo, vómitos y dificultad para tragar",
+    "aspcaName": "Flamingo Flower (Anthurium)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/flamingo-flower",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por división",
+      "when": "En primavera, al trasplantar",
+      "steps": [
+        "Saca la planta y separa los hijuelos o divide la mata con raíces propias.",
+        "Planta cada parte en sustrato drenante y mantén humedad alta."
+      ]
+    },
+    {
+      "method": "Por esquejes de tallo",
+      "when": "En primavera o verano",
+      "steps": [
+        "Corta un trozo de tallo con al menos un nudo y, si es posible, raíces aéreas.",
+        "Plántalo en sustrato húmedo y mantenlo con calor y humedad alta hasta que enraíce."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Exceso de riego, mal drenaje o falta de nutrientes.",
+      "fix": "Deja secar la capa superior antes de regar, revisa el drenaje y abona en temporada."
+    },
+    {
+      "symptom": "No florece",
+      "cause": "Poca luz o pocos nutrientes.",
+      "fix": "Dale más luz indirecta y abona durante la época de crecimiento."
+    },
+    {
+      "symptom": "Manchas en las hojas",
+      "cause": "Hojas mojadas y poca ventilación.",
+      "fix": "Riega al sustrato, no a las hojas, y mejora la circulación de aire."
+    },
+    {
+      "symptom": "Raíces blandas y planta mustia",
+      "cause": "Pudrición de raíz por exceso de agua.",
+      "fix": "Corta las raíces podridas y trasplanta a sustrato drenante."
+    },
+    {
+      "symptom": "Telarañas, bolitas blancas o costras",
+      "cause": "Araña roja, cochinilla, pulgones.",
+      "fix": "Limpia las hojas, aísla la planta y usa un producto para interior según la etiqueta si sigue."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿El anturio es tóxico para gatos y perros?",
+      "a": "Sí. La ASPCA clasifica el anturio («Flamingo Flower») como tóxico para perros y gatos por sus oxalatos de calcio insolubles: irrita la boca y causa babeo, vómitos y dificultad para tragar."
+    },
+    {
+      "q": "¿Cuántas veces al año florece el anturio?",
+      "a": "En buenas condiciones de luz, humedad y abono puede florecer varias veces al año."
+    }
+  ],
+  "sources": [
+    { "name": "NC State Extension: Anthurium andraeanum", "url": "https://plants.ces.ncsu.edu/plants/anthurium-andraeanum/" }
+  ]
+}

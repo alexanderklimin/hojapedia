@@ -1,0 +1,111 @@
+{
+  "name": "Calathea",
+  "synonyms": [
+    "calatea",
+    "Goeppertia"
+  ],
+  "scientific": "Goeppertia spp. (antes Calathea)",
+  "family": "Marantaceae",
+  "origin": "Selvas tropicales de América; la calathea pavo real (Goeppertia makoyana) es del sureste de Brasil.",
+  "title": "Calathea: cuidados, riego, humedad y puntas marrones",
+  "description": "Cuidados de la calathea: luz, riego, qué agua usar, humedad, temperatura, por qué se enrollan o se secan las hojas y cómo dividirla. No es tóxica para mascotas.",
+  "summary": "Las calatheas tienen algunas de las hojas más decorativas de interior, pero son exigentes: quieren sustrato siempre algo húmedo, humedad alta, temperatura estable y nada de sol directo. Si fallan la humedad o el agua, avisan rápido con hojas enrolladas o bordes marrones.",
+  "difficulty": "exigente",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Luz brillante sin sol directo",
+      "text": "Colócala en un lugar luminoso protegido del sol directo, que quema las hojas. Con poca luz, los dibujos de las hojas pierden color."
+    },
+    "water": {
+      "short": "Siempre algo húmedo; agua reposada",
+      "text": "En primavera y verano, mantén el sustrato uniformemente húmedo, nunca empapado. En otoño e invierno, deja que se seque la superficie entre riegos, pero nunca el sustrato entero. El flúor del agua del grifo puede dorar las hojas: usa agua de lluvia o destilada, o al menos agua del grifo reposada 24 horas.",
+      "growing": "Mantener uniformemente húmedo.",
+      "rest": "Dejar secar solo la superficie."
+    },
+    "temperature": {
+      "minC": 16,
+      "idealMinC": 16,
+      "idealMaxC": 24,
+      "text": "Lo ideal son 16–24 °C, sin cambios bruscos. Las dos fuentes difieren un poco: una indica 16–21 °C y otra 18–24 °C."
+    },
+    "humidity": {
+      "short": "Alta: 60 %",
+      "text": "Necesita humedad alta, alrededor del 60 %. Con aire seco, las hojas se enrollan y los bordes se ponen marrones."
+    },
+    "substrate": {
+      "short": "Rico en materia orgánica, con perlita",
+      "text": "Usa un sustrato húmedo pero drenante, rico en materia orgánica y con perlita. Trasplanta cada pocos años en primavera o verano, a una maceta una o dos tallas más grande.",
+      "pot": "Una o dos tallas más grande que el cepellón, con drenaje."
+    },
+    "fertilizer": {
+      "short": "Mensual de primavera a verano",
+      "text": "Abona una vez al mes con un fertilizante equilibrado durante la época de crecimiento, según la etiqueta, y deja de abonar en invierno."
+    }
+  },
+  "toxicity": {
+    "cats": "no-toxica",
+    "dogs": "no-toxica",
+    "aspcaName": "Calathea (Calathea spp.)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/calathea",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por división",
+      "when": "A finales de primavera, al trasplantar",
+      "steps": [
+        "Saca la planta y separa la mata por los rizomas, con hojas y raíces en cada trozo.",
+        "Planta cada trozo en sustrato húmedo con perlita.",
+        "Mantenlo con humedad alta y calor estable hasta que se recupere."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Hojas enrolladas o bordes marrones",
+      "cause": "Humedad ambiental baja.",
+      "fix": "Sube la humedad (agrupa plantas, usa humidificador o plato con grava húmeda) y apártala de la calefacción."
+    },
+    {
+      "symptom": "Hojas doradas o quemadas en los bordes",
+      "cause": "Flúor del agua del grifo o sol directo.",
+      "fix": "Riega con agua de lluvia, destilada o reposada, y apártala del sol."
+    },
+    {
+      "symptom": "Raíces podridas y planta mustia",
+      "cause": "Exceso de riego.",
+      "fix": "Deja secar la superficie y revisa el drenaje."
+    },
+    {
+      "symptom": "Bultos acuosos o corchosos en el envés",
+      "cause": "Edema: demasiada agua en invierno.",
+      "fix": "Riega menos en otoño e invierno."
+    },
+    {
+      "symptom": "Telarañas finas, bolitas blancas o mosquitas",
+      "cause": "Araña roja, cochinilla o mosquitas del sustrato.",
+      "fix": "Aumenta la humedad, limpia las hojas y aísla la planta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿La calathea es tóxica para gatos y perros?",
+      "a": "No. Según la ASPCA, las calatheas no son tóxicas para perros, gatos ni caballos."
+    },
+    {
+      "q": "¿Puedo regar la calathea con agua del grifo?",
+      "a": "Mejor agua de lluvia o destilada: el flúor del agua del grifo puede dorar las hojas. Si usas agua del grifo, déjala reposar al menos 24 horas."
+    }
+  ],
+  "sources": [
+    {
+      "name": "RHS: How to grow calatheas",
+      "url": "https://www.rhs.org.uk/plants/calathea/growing-guide"
+    },
+    {
+      "name": "NC State Extension: Goeppertia makoyana",
+      "url": "https://plants.ces.ncsu.edu/plants/goeppertia-makoyana/"
+    }
+  ]
+}

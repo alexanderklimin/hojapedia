@@ -1,0 +1,95 @@
+{
+  "name": "Cheflera",
+  "synonyms": ["schefflera", "árbol paraguas", "Schefflera arboricola"],
+  "scientific": "Heptapleurum arboricola (antes Schefflera arboricola)",
+  "family": "Araliaceae",
+  "origin": "Taiwán y el sur de China.",
+  "title": "Cheflera (schefflera): cuidados, luz, riego y caída de hojas",
+  "description": "Cuidados de la cheflera o schefflera: luz, riego, humedad, por qué se le caen las hojas, plagas, esquejes y si es tóxica para gatos y perros.",
+  "summary": "La cheflera o árbol paraguas es una planta de interior de hojas palmeadas, resistente y fácil de mantener compacta. Pide luz filtrada, riegos a fondo dejando secar entre medias y humedad alta. Su punto débil son las plagas como la araña roja y la cochinilla.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Luz filtrada; nada de sol fuerte",
+      "text": "Colócala junto a una ventana con luz filtrada (por ejemplo, tras una cortina fina) durante 3–4 horas al día. La luz directa intensa quema las hojas."
+    },
+    "water": {
+      "short": "Dejar secar y regar a fondo",
+      "text": "Deja que el sustrato se seque y entonces riega a fondo. Tanto el exceso como la falta de agua hacen que pierda hojas.",
+      "growing": "Cuando el sustrato se haya secado.",
+      "rest": "Con el mismo criterio; con frío tarda más en secarse."
+    },
+    "temperature": {
+      "minC": 16,
+      "idealMinC": null,
+      "idealMaxC": null,
+      "short": "No por debajo de 16 °C",
+      "text": "La fuente consultada solo indica que no debe bajar de unos 16 °C si la sacas al exterior en verano."
+    },
+    "humidity": {
+      "short": "Alta",
+      "text": "Le gusta la humedad alta: usa un plato con grava húmeda bajo la maceta. El aire seco favorece la araña roja."
+    },
+    "substrate": {
+      "short": "Drenante, rico en materia orgánica",
+      "text": "Usa un sustrato bien drenado y rico en materia orgánica.",
+      "pot": "Con agujeros de drenaje."
+    },
+    "fertilizer": {
+      "short": "En crecimiento, según etiqueta",
+      "text": "La fuente consultada no indica una frecuencia. Si abonas, usa un fertilizante para plantas de interior en primavera y verano según la etiqueta."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "cristales de oxalato de calcio",
+    "signs": "irritación y ardor intenso en boca, labios y lengua, babeo excesivo, vómitos y dificultad para tragar",
+    "aspcaName": "Schefflera",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/schefflera",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes de tallo",
+      "when": "En primavera o verano",
+      "steps": [
+        "Corta la punta de un tallo sano con varias hojas.",
+        "Quita las hojas bajas y planta el esqueje en sustrato húmedo para esquejes.",
+        "Mantenlo con luz filtrada y humedad alta hasta que enraíce."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Se le caen las hojas",
+      "cause": "Sustrato demasiado húmedo o demasiado seco.",
+      "fix": "Riega a fondo solo cuando el sustrato se haya secado, y vacía el plato."
+    },
+    {
+      "symptom": "Hojas con puntitos claros y telarañas finas",
+      "cause": "Araña roja, favorecida por el aire seco.",
+      "fix": "Aumenta la humedad, ducha las hojas y aísla la planta; si sigue, usa un acaricida para interior según la etiqueta."
+    },
+    {
+      "symptom": "Bolitas algodonosas o costras marrones en tallos",
+      "cause": "Cochinilla algodonosa o escamas; pueden ser un problema serio.",
+      "fix": "Retíralas a mano con un bastoncillo y revisa la planta cada semana."
+    },
+    {
+      "symptom": "Hojas con manchas quemadas",
+      "cause": "Sol directo intenso.",
+      "fix": "Muévela a luz filtrada."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿La cheflera es tóxica para gatos y perros?",
+      "a": "Sí. Según la ASPCA, las Schefflera son tóxicas para perros y gatos por sus cristales de oxalato de calcio: irritan mucho la boca y causan babeo, vómitos y dificultad para tragar."
+    }
+  ],
+  "sources": [
+    { "name": "NC State Extension: Heptapleurum arboricola", "url": "https://plants.ces.ncsu.edu/plants/schefflera-arboricola/" }
+  ]
+}

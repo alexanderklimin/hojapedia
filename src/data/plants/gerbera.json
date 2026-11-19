@@ -1,0 +1,104 @@
+{
+  "name": "Gerbera",
+  "synonyms": ["margarita del Transvaal", "Gerbera jamesonii"],
+  "scientific": "Gerbera jamesonii",
+  "family": "Asteraceae",
+  "origin": "Sudeste de África.",
+  "title": "Gerbera: cuidados en maceta, riego, temperatura y floración",
+  "description": "Cuidados de la gerbera en maceta y jardín: luz, riego por abajo, temperatura para que florezca, abono, cómo dividirla y si es tóxica para gatos y perros.",
+  "summary": "La gerbera da grandes flores tipo margarita en colores vivos. Florece mejor con mucha luz y temperaturas suaves, y su punto débil es la pudrición del cuello: hay que plantarla con la corona algo elevada y regar sin encharcar.",
+  "difficulty": "media",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Mucha luz, sin sol fuerte de verano",
+      "text": "Necesita mucha luz o sol pleno, pero el sol directo del verano y de la tarde en climas cálidos puede quemarla: dale sombra en las horas de más calor."
+    },
+    "water": {
+      "short": "Dejar secar un poco; regar por abajo",
+      "text": "En maceta, deja que el sustrato se seque un poco entre riegos y riega por abajo para no mojar la corona. Nunca la dejes sobre agua. En invierno, mantenla casi seca.",
+      "growing": "Cuando la capa superior se seque un poco.",
+      "rest": "Casi seca."
+    },
+    "temperature": {
+      "minC": 5,
+      "idealMinC": 10,
+      "idealMaxC": 20,
+      "text": "En interior florece mejor entre 10 y 20 °C: por debajo de 10 °C o por encima de 20 °C deja de florecer. Mantenla siempre por encima de 5 °C."
+    },
+    "humidity": {
+      "short": "Ventilada, hojas secas",
+      "text": "Ventila bien y mantén las hojas secas para evitar moho gris y oídio."
+    },
+    "substrate": {
+      "short": "Drenante con grava; corona elevada",
+      "text": "En maceta, usa sustrato universal o con tierra con grava añadida. Planta la corona ligeramente por encima del nivel del sustrato para evitar que se pudra.",
+      "pot": "Profunda: tiene raíces largas."
+    },
+    "fertilizer": {
+      "short": "Primavera-verano; potasio en flor",
+      "text": "En primavera y verano usa un abono líquido de uso general según la etiqueta; en verano, uno rico en potasio (como el de tomates) estimula la floración."
+    }
+  },
+  "toxicity": {
+    "cats": "no-toxica",
+    "dogs": "no-toxica",
+    "aspcaName": "Gerber Daisy",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/gerber-daisy",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por división",
+      "when": "En marzo o abril en el hemisferio norte (septiembre u octubre en el sur)",
+      "steps": [
+        "Saca la planta y separa la mata en trozos con hojas y raíces.",
+        "Replántalos con la corona algo elevada, en sustrato con grava."
+      ]
+    },
+    {
+      "method": "Por semillas",
+      "when": "A finales del invierno, con calor",
+      "steps": [
+        "Siembra en sustrato para semilleros a 20–25 °C.",
+        "Germinan en 2–3 semanas; las plantas florecen a los 4–6 meses."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "La base se pudre y la planta se derrumba",
+      "cause": "Pudrición del cuello o de raíz: corona enterrada o sustrato encharcado.",
+      "fix": "Replanta con la corona elevada, riega por abajo y no dejes agua en el plato."
+    },
+    {
+      "symptom": "Moho gris o polvo blanco en hojas y flores",
+      "cause": "Moho gris u oídio por humedad y poca ventilación.",
+      "fix": "Ventila, mantén las hojas secas y retira las partes afectadas."
+    },
+    {
+      "symptom": "Deja de florecer",
+      "cause": "Temperatura fuera de 10–20 °C, poca luz o mata demasiado densa.",
+      "fix": "Busca un lugar luminoso y templado, quita las flores secas por la base y divídela cada pocos años."
+    },
+    {
+      "symptom": "Hojas con galerías, puntitos o insectos",
+      "cause": "Minadores, trips, araña roja, pulgones o mosca blanca.",
+      "fix": "Retira las hojas afectadas, aísla la planta y trata según la etiqueta si hace falta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿La gerbera es tóxica para gatos y perros?",
+      "a": "No. Según la ASPCA, la gerbera no es tóxica para perros, gatos ni caballos."
+    },
+    {
+      "q": "¿Cómo se quitan las flores secas de la gerbera?",
+      "a": "Retira el tallo floral entero desde la base, no solo la flor. Quita también las hojas dañadas o marchitas."
+    }
+  ],
+  "sources": [
+    { "name": "RHS: How to grow gerberas", "url": "https://www.rhs.org.uk/plants/gerbera/growing-guide" },
+    { "name": "NC State Extension: Gerbera jamesonii", "url": "https://plants.ces.ncsu.edu/plants/gerbera-jamesonii/" }
+  ]
+}

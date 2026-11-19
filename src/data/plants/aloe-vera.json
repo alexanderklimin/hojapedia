@@ -1,0 +1,107 @@
+{
+  "name": "Aloe vera",
+  "synonyms": [
+    "sábila",
+    "zábila",
+    "aloe",
+    "Aloe barbadensis"
+  ],
+  "scientific": "Aloe vera (antes Aloe barbadensis)",
+  "family": "Asphodelaceae",
+  "origin": "Península arábiga; hoy está extendida por muchas regiones cálidas.",
+  "title": "Aloe vera (sábila): cuidados, riego, sustrato e hijuelos",
+  "description": "Cuidados del aloe vera o sábila en maceta: sol, riego, sustrato para suculentas, cómo separar los hijuelos, plagas y si es tóxico para gatos y perros.",
+  "summary": "El aloe vera o sábila es una suculenta muy resistente que almacena agua en sus hojas carnosas. Necesita mucha luz, riegos espaciados y un sustrato que drene muy bien. Se multiplica fácilmente separando los hijuelos que salen alrededor de la planta.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Sol o semisombra",
+      "text": "Crece a pleno sol o en semisombra. En interior, colócalo junto a la ventana más luminosa."
+    },
+    "water": {
+      "short": "Dejar secar por completo",
+      "text": "Deja que el sustrato se seque por completo entre riegos y riega menos en invierno. El exceso de agua pudre las raíces.",
+      "growing": "Cuando el sustrato esté completamente seco.",
+      "rest": "Con menos frecuencia todavía."
+    },
+    "temperature": {
+      "minC": null,
+      "idealMinC": null,
+      "idealMaxC": null,
+      "text": "Las fuentes consultadas no dan un rango de temperatura. Es una planta de clima cálido: protégela de las heladas.",
+      "short": "Cálida; protegerlo de heladas"
+    },
+    "humidity": {
+      "short": "Sin requisitos especiales",
+      "text": "Las fuentes consultadas no indican requisitos de humedad."
+    },
+    "substrate": {
+      "short": "Sustrato para suculentas",
+      "text": "Usa un sustrato muy drenante para suculentas y cactus.",
+      "pot": "Con varios agujeros de drenaje; mejor de barro."
+    },
+    "fertilizer": {
+      "short": "Poco o nada",
+      "text": "Las fuentes consultadas no indican abono. Si lo usas, que sea un fertilizante para suculentas en primavera y verano, según la etiqueta."
+    }
+  },
+  "toxicity": {
+    "cats": "toxica",
+    "dogs": "toxica",
+    "principles": "saponinas y antraquinonas",
+    "signs": "vómitos, decaimiento y diarrea",
+    "aspcaName": "Aloe (Aloe vera)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/aloe",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por hijuelos",
+      "when": "En primavera o verano",
+      "steps": [
+        "Saca la planta de la maceta y localiza los hijuelos que salen junto a la madre.",
+        "Sepáralos con sus raíces, cortando con una herramienta limpia si hace falta.",
+        "Plántalos en sustrato para suculentas y espera unos días antes de regar poco."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Base blanda y hojas que se caen",
+      "cause": "Pudrición de raíz por exceso de riego.",
+      "fix": "Deja secar el sustrato, trasplanta a sustrato para suculentas en maceta de barro y salva hijuelos sanos."
+    },
+    {
+      "symptom": "Bolitas algodonosas o costras en las hojas",
+      "cause": "Cochinilla algodonosa o escamas.",
+      "fix": "Retíralas con un bastoncillo y aísla la planta; si siguen, usa un producto adecuado según la etiqueta."
+    },
+    {
+      "symptom": "Manchas en las hojas o pústulas",
+      "cause": "Manchas foliares o roya del aloe.",
+      "fix": "Retira las hojas afectadas y evita mojar las hojas al regar."
+    },
+    {
+      "symptom": "Capa negra sobre las hojas",
+      "cause": "Negrilla, hongo que crece sobre la melaza de pulgones o cochinillas.",
+      "fix": "Elimina primero la plaga y limpia las hojas con un paño húmedo."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿El aloe vera es tóxico para gatos y perros?",
+      "a": "Sí. Según la ASPCA, el aloe es tóxico para perros y gatos por sus saponinas y antraquinonas: puede causar vómitos, decaimiento y diarrea."
+    },
+    {
+      "q": "¿Cada cuánto se riega el aloe vera?",
+      "a": "Solo cuando el sustrato esté completamente seco, y aún menos en invierno. Es mejor quedarse corto que pasarse."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NC State Extension: Aloe vera",
+      "url": "https://plants.ces.ncsu.edu/plants/aloe-vera/"
+    }
+  ]
+}

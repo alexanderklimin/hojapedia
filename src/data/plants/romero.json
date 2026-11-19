@@ -1,0 +1,111 @@
+{
+  "name": "Romero",
+  "synonyms": ["Salvia rosmarinus", "Rosmarinus officinalis"],
+  "scientific": "Salvia rosmarinus (antes Rosmarinus officinalis)",
+  "family": "Lamiaceae",
+  "origin": "Mediterráneo, Europa, Asia occidental y África, en zonas secas y pedregosas.",
+  "title": "Romero: cuidados en maceta y jardín, riego y poda",
+  "description": "Cuidados del romero en maceta y en el jardín: sol, riego sin encharcar, suelo, cuánto frío aguanta, cómo podarlo sin dañarlo y cómo hacer esquejes.",
+  "summary": "El romero es un arbusto mediterráneo de hoja perenne, muy resistente a la sequía. Lo que más lo mata es el exceso de agua. Necesita sol, un suelo que drene bien y una poda ligera cada año tras la floración, sin cortar la madera vieja.",
+  "difficulty": "fácil",
+  "reviewed": "2026-11-19",
+  "care": {
+    "light": {
+      "short": "Sol pleno",
+      "text": "Es un arbusto de sol: dale el lugar más soleado posible. Tolera algo de semisombra."
+    },
+    "water": {
+      "short": "Poco; nunca encharcar",
+      "text": "Es bastante resistente a la sequía. En el suelo, riega solo en rachas secas el primer año. En maceta necesita más riego en épocas secas, pero el sustrato nunca debe encharcarse: el exceso de agua es la causa más común de que el romero decaiga o muera.",
+      "growing": "En maceta, en rachas secas; en el suelo, solo el primer año.",
+      "rest": "Muy poco."
+    },
+    "temperature": {
+      "minC": -8,
+      "idealMinC": null,
+      "idealMaxC": null,
+      "short": "Aguanta hasta −8 °C establecido",
+      "text": "Los ejemplares establecidos en el suelo soportan hasta unos −8 °C, aunque las heladas fuertes pueden dañarlos. En maceta es más vulnerable porque las raíces pueden congelarse."
+    },
+    "humidity": {
+      "short": "Seco y ventilado",
+      "text": "Tolera mal los ambientes húmedos; la humedad alta y la mala ventilación favorecen el oídio."
+    },
+    "substrate": {
+      "short": "Ligero, muy drenante",
+      "text": "Prefiere suelos ligeros, de secos a frescos, bien drenados y ligeramente ácidos. En maceta, usa sustrato con tierra y hasta un 25 % de grava.",
+      "pot": "De al menos 30 cm de ancho y de profundidad, con agujeros de drenaje."
+    },
+    "fertilizer": {
+      "short": "Casi nunca",
+      "text": "En el suelo no necesita abono. En maceta, si lleva más de un año, esparce un poco de abono granulado de uso general a finales de primavera o principios de verano."
+    }
+  },
+  "toxicity": {
+    "cats": "no-toxica",
+    "dogs": "no-toxica",
+    "aspcaName": "Rosemary (Rosmarinus officinalis)",
+    "aspcaUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rosemary",
+    "checked": "2026-11-19"
+  },
+  "propagation": [
+    {
+      "method": "Por esquejes",
+      "when": "Tiernos a finales de primavera o en verano; semileñosos en verano",
+      "steps": [
+        "Corta brotes sanos de la temporada sin flor.",
+        "Quita las hojas de la parte baja y entierra la base en una mezcla de sustrato y grava.",
+        "Mantén el sustrato apenas húmedo hasta que enraícen."
+      ]
+    },
+    {
+      "method": "Por acodo",
+      "when": "En primavera u otoño",
+      "steps": [
+        "Dobla una rama baja hasta el suelo y entierra un tramo, sujeto.",
+        "Sepárala de la madre cuando haya echado raíces."
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "symptom": "Se seca desde la base aunque se riegue",
+      "cause": "Pudrición de raíz por suelo o sustrato encharcado.",
+      "fix": "Mejora el drenaje: bancal elevado o maceta con grava, y riega menos."
+    },
+    {
+      "symptom": "Polvo blanco en las hojas",
+      "cause": "Oídio, por humedad alta y poca ventilación.",
+      "fix": "Colócalo en un lugar soleado y aireado."
+    },
+    {
+      "symptom": "Puntas negras o secas tras el invierno",
+      "cause": "Heladas fuertes o raíces congeladas en maceta.",
+      "fix": "Protégelo con manta térmica; agrupa y envuelve las macetas o llévalas a un lugar resguardado."
+    },
+    {
+      "symptom": "Base pelada y ramas largas",
+      "cause": "Falta de poda.",
+      "fix": "Recórtalo ligeramente cada año tras la floración."
+    },
+    {
+      "symptom": "Pulgones, mosca blanca o escarabajos metálicos",
+      "cause": "Plagas habituales, sobre todo en interior; el escarabajo del romero en exterior.",
+      "fix": "Retíralos a mano y vigila; trata solo si es necesario, según la etiqueta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cómo se poda el romero?",
+      "a": "Recórtalo ligeramente cada año después de la floración y no cortes la madera vieja sin hojas: el romero casi nunca rebrota de ella. Las fuentes no coinciden sobre la poda fuerte, así que mejor evitarla."
+    },
+    {
+      "q": "¿El romero es tóxico para gatos y perros?",
+      "a": "No. Según la ASPCA, el romero no es tóxico para perros, gatos ni caballos."
+    }
+  ],
+  "sources": [
+    { "name": "RHS: How to grow rosemary", "url": "https://www.rhs.org.uk/herbs/rosemary" },
+    { "name": "NC State Extension: Salvia rosmarinus", "url": "https://plants.ces.ncsu.edu/plants/salvia-rosmarinus/" }
+  ]
+}

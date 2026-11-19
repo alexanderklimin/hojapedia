@@ -20,7 +20,8 @@ export function petVerdict({ cats, dogs }) {
   return { tone: 'bad', text: cats === 'toxica' ? 'Tóxica para gatos' : 'Tóxica para perros' };
 }
 
-export function temperatureLine({ minC, idealMinC, idealMaxC }) {
+export function temperatureLine({ minC, idealMinC, idealMaxC, short }) {
+  if (idealMinC === null || idealMaxC === null) return short ?? 'Ver detalles';
   const ideal = `${idealMinC}–${idealMaxC} °C`;
   return minC === null ? ideal : `${ideal} (mínimo ${minC} °C)`;
 }

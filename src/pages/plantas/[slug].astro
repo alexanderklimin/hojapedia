@@ -102,12 +102,12 @@ const crumbs = [
 
     <h2 id="riego"><Icon name="droplet" /> Riego</h2>
     <p>{p.care.water.text}</p>
-    <div class="table-scroll">
+    <div class="table-scroll stack">
       <table>
         <thead><tr><th scope="col">Época</th><th scope="col">Hemisferio norte</th><th scope="col">Hemisferio sur</th><th scope="col">Riego</th></tr></thead>
         <tbody>
-          <tr><th scope="row">Crecimiento (primavera y verano)</th><td>{season.norte}</td><td>{season.sur}</td><td>{p.care.water.growing}</td></tr>
-          <tr><th scope="row">Reposo (otoño e invierno)</th><td>{rest.norte}</td><td>{rest.sur}</td><td>{p.care.water.rest}</td></tr>
+          <tr><th scope="row">Crecimiento (primavera y verano)</th><td data-label="Hemisferio norte">{season.norte}</td><td data-label="Hemisferio sur">{season.sur}</td><td data-label="Riego">{p.care.water.growing}</td></tr>
+          <tr><th scope="row">Reposo (otoño e invierno)</th><td data-label="Hemisferio norte">{rest.norte}</td><td data-label="Hemisferio sur">{rest.sur}</td><td data-label="Riego">{p.care.water.rest}</td></tr>
         </tbody>
       </table>
     </div>
